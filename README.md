@@ -20,8 +20,8 @@ The most relevant prior work is **LanCE** ([Zeng et al., CVPR 2025](https://arxi
 
 **Pillar 1 (primary): does LanCE have any mechanism to survive domains arriving over time?**
 - ✅ **Phase 0 — baseline reproduction (CUB → CUB-Painting):** PASS. See [`results/phase0_cub_reproduction.md`](results/phase0_cub_reproduction.md). Our reproduction (baseline 50.64%, +DDO 57.04%) lands within tolerance of the paper's own Table 1 numbers (50.54% → 55.53%), confirming the codebase — after fixing five plumbing bugs in the released code — is trustworthy for everything built on top of it.
-- ⏳ **Phase A — closed-world descriptor assumption test:** next up.
-- ⏳ **Phase B — Domain-IL sequential protocol (PACS):** the core forgetting experiment.
+- ✅ **Phase A — closed-world descriptor assumption test:** done, but the predicted dose-response didn't materialize — see [`results/phase_a_descriptor_coverage.md`](results/phase_a_descriptor_coverage.md) for the honest null result and what it means for the rest of the plan (short version: it makes Pillar 2 more important, not less).
+- ⏳ **Phase B — Domain-IL sequential protocol (PACS):** the core forgetting experiment, up next.
 - ⏳ **Phase C — remediation attempts:** does a textbook continual-learning fix (replay, EWC) already solve it?
 
 **Pillar 2 (secondary): does the frozen CLIP backbone itself have a shelf life, independent of the forgetting problem?**

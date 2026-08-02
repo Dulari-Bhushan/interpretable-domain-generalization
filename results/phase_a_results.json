@@ -1,0 +1,85 @@
+{
+  "true_domain_prompt": "a painting of a {}.",
+  "ranked_top5": [
+    [
+      "a painting of a {}.",
+      0.9999999403953552
+    ],
+    [
+      "an oil painting of a {}.",
+      0.8880251049995422
+    ],
+    [
+      "an acrylic painting of a {}.",
+      0.8436430096626282
+    ],
+    [
+      "a photorealistic painting of a {}.",
+      0.8247261047363281
+    ],
+    [
+      "a gouache painting of a {}.",
+      0.7429212331771851
+    ]
+  ],
+  "ranked_bottom5": [
+    [
+      "an aerial view photo of a {}.",
+      0.13822397589683533
+    ],
+    [
+      "a vintage photo of a {}.",
+      0.1309773474931717
+    ],
+    [
+      "a flower arrangement resembling a {}.",
+      0.12770432233810425
+    ],
+    [
+      "an ASCII art of a {}.",
+      0.12219363451004028
+    ],
+    [
+      "a street photography shot of a {}.",
+      0.07236038148403168
+    ]
+  ],
+  "conditions": [
+    {
+      "exclude_top_k": 0,
+      "pool_size": 204,
+      "mean_similarity": 0.36994365113330824,
+      "target_acc": 56.547423695438134
+    },
+    {
+      "exclude_top_k": 20,
+      "pool_size": 184,
+      "mean_similarity": 0.3348959181457758,
+      "target_acc": 57.03971119133574
+    },
+    {
+      "exclude_top_k": 50,
+      "pool_size": 154,
+      "mean_similarity": 0.30057898483106066,
+      "target_acc": 56.58024286183131
+    },
+    {
+      "exclude_top_k": 100,
+      "pool_size": 104,
+      "mean_similarity": 0.25431677656104934,
+      "target_acc": 57.072530357728915
+    },
+    {
+      "exclude_top_k": 150,
+      "pool_size": 54,
+      "mean_similarity": 0.20733578034021236,
+      "target_acc": 55.989497866754185
+    },
+    {
+      "exclude_top_k": 180,
+      "pool_size": 24,
+      "mean_similarity": 0.16048578483362994,
+      "target_acc": 55.85822120118149
+    }
+  ]
+}

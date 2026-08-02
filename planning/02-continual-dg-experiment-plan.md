@@ -88,3 +88,11 @@ Fold every measured result (both pillars) into `docs/lance_continual_dg_failure_
 - Everything reuses LanCE's existing model/DDO-loss code rather than reimplementing it.
 
 **Nothing runs until you say start.**
+
+---
+
+## Post-execution update: Phase 0 and Phase A results (see `results/`)
+
+- **Phase 0: PASS.** Baseline 50.64% / +DDO 57.04% target accuracy on CUB→CUB-Painting, matching the paper's Table 1 CLIP-CBM/human row (50.54%/55.53%) within tolerance. Five plumbing bugs found and fixed in LanCE's released code along the way — none touching the method itself. Full detail: `results/phase0_cub_reproduction.md`.
+- **Phase A: unexpected null result, reported honestly.** The predicted dose-response (accuracy degrading as the descriptor pool contains less-similar matches to the true domain) did not materialize — accuracy stayed flat (55.9%–57.1%) whether the pool contained 204 descriptors including a near-exact match, or only the 24 *least* similar ones with the exact match and its close variants entirely excluded. Likely explanation: DDO's regularizer operates in concept-activation space, not raw embedding space, which may equalize descriptors that look different as text but similar once projected through the shared concept vocabulary. **This reprioritizes Pillar 2 (EuroSAT)** — the closed-world assumption probably doesn't bite at the "wrong specific style" level (this experiment), but likely does at the "wrong modality entirely" level, which Phase A never tested. Full detail: `results/phase_a_descriptor_coverage.md`.
+- Also built `train_cached.py` (caches CLIP embeddings once instead of recomputing every epoch) — cuts epoch time from ~7–14 minutes to ~3 seconds, validated numerically identical to the original pipeline. Used for all experiments from Phase A onward.
