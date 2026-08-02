@@ -1,0 +1,18 @@
+# Raw downloaded datasets (large, publicly redistributable from their original sources —
+# see external/LanCE/README.md and planning/ for exact download links/sizes)
+external/LanCE/data/CUB/CUB_200_2011.tgz
+external/LanCE/data/CUB/CUB_200_2011/
+external/LanCE/data/CUB/CUB-200-Painting.zip
+external/LanCE/data/CUB/CUB-200-Painting/
+
+# Model checkpoints (large, regenerable by rerunning training — see logs for the numbers they produced)
+external/LanCE/*.pth
+external/LanCE/best_*.pth
+
+# Python artifacts
+__pycache__/
+*.pyc
+.DS_Store
+
+# wandb local run cache (we run with WANDB_MODE=offline / no --wandb flag)
+external/LanCE/wandb/

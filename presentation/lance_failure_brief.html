@@ -1,0 +1,563 @@
+<title>Why LanCE Won't Survive Continual DG</title>
+<style>
+  :root{
+    --bg:#F2F0E9;
+    --surface:#FFFFFF;
+    --surface-2:#EAE7DD;
+    --ink:#201D1A;
+    --ink-soft:#655C4E;
+    --ink-faint:#8C8371;
+    --line:rgba(32,29,26,0.14);
+    --line-strong:rgba(32,29,26,0.28);
+    --accent:#33499B;
+    --accent-soft:#33499B14;
+    --warm:#AE5325;
+    --warm-soft:#AE532517;
+    --strong:#8B2E1F;
+    --strong-soft:#8B2E1F12;
+    --moderate:#7A6A2E;
+    --moderate-soft:#7A6A2E12;
+  }
+  :root[data-theme="dark"]{
+    --bg:#15171B;
+    --surface:#1D2025;
+    --surface-2:#23262C;
+    --ink:#EBE8E1;
+    --ink-soft:#ACA595;
+    --ink-faint:#7C7669;
+    --line:rgba(235,232,225,0.14);
+    --line-strong:rgba(235,232,225,0.26);
+    --accent:#8CA0EE;
+    --accent-soft:#8CA0EE1c;
+    --warm:#E4926A;
+    --warm-soft:#E4926A1c;
+    --strong:#E38670;
+    --strong-soft:#E3867018;
+    --moderate:#D2BE6E;
+    --moderate-soft:#D2BE6E18;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#15171B;
+      --surface:#1D2025;
+      --surface-2:#23262C;
+      --ink:#EBE8E1;
+      --ink-soft:#ACA595;
+      --ink-faint:#7C7669;
+      --line:rgba(235,232,225,0.14);
+      --line-strong:rgba(235,232,225,0.26);
+      --accent:#8CA0EE;
+      --accent-soft:#8CA0EE1c;
+      --warm:#E4926A;
+      --warm-soft:#E4926A1c;
+      --strong:#E38670;
+      --strong-soft:#E3867018;
+      --moderate:#D2BE6E;
+      --moderate-soft:#D2BE6E18;
+    }
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  .mono{
+    font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;
+  }
+  .serif{
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,"Times New Roman",serif;
+  }
+
+  .page{
+    max-width:1180px;
+    margin:0 auto;
+    padding:56px 32px 96px;
+    display:flex;
+    flex-direction:column;
+    gap:52px;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    display:flex;
+    flex-direction:column;
+    gap:18px;
+    padding-bottom:36px;
+    border-bottom:1px solid var(--line-strong);
+  }
+  .eyebrow{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:12.5px;
+    letter-spacing:0.11em;
+    text-transform:uppercase;
+    color:var(--accent);
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+  .eyebrow::before{
+    content:"";
+    width:7px;height:7px;
+    background:var(--accent);
+    display:inline-block;
+    border-radius:1px;
+    transform:rotate(45deg);
+  }
+  h1{
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    font-weight:600;
+    font-size:clamp(30px,4vw,44px);
+    line-height:1.08;
+    margin:0;
+    text-wrap:balance;
+    letter-spacing:-0.01em;
+  }
+  h1 em{
+    font-style:italic;
+    color:var(--accent);
+  }
+  .subtitle{
+    font-size:15.5px;
+    color:var(--ink-soft);
+    max-width:640px;
+    margin:0;
+  }
+  .subtitle a{color:var(--ink-soft);text-decoration-color:var(--line-strong);}
+  .subtitle a:hover{color:var(--accent);}
+  .thesis{
+    margin-top:6px;
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    font-size:19px;
+    line-height:1.5;
+    max-width:760px;
+    color:var(--ink);
+  }
+  .thesis .hl{
+    background:linear-gradient(transparent 62%, var(--accent-soft) 62%);
+    padding:0 1px;
+  }
+
+  /* ---------- section labels ---------- */
+  .section-head{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:16px;
+    flex-wrap:wrap;
+    margin-bottom:22px;
+  }
+  .section-title{
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    font-size:24px;
+    font-weight:600;
+    margin:0;
+    letter-spacing:-0.005em;
+  }
+  .section-note{
+    font-size:13px;
+    color:var(--ink-faint);
+    max-width:380px;
+    text-align:right;
+  }
+
+  /* ---------- failure mode cards ---------- */
+  .fm-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:16px;
+  }
+  @media (max-width:820px){
+    .fm-grid{grid-template-columns:1fr;}
+  }
+  .fm-card{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:3px;
+    padding:22px 24px 24px;
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    position:relative;
+  }
+  .fm-card.wide{grid-column:1 / -1;}
+  .fm-top{
+    display:flex;
+    align-items:flex-start;
+    justify-content:space-between;
+    gap:12px;
+  }
+  .fm-tag{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:12px;
+    color:var(--ink-faint);
+    letter-spacing:0.04em;
+  }
+  .fm-name{
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    font-size:18.5px;
+    font-weight:600;
+    line-height:1.28;
+    margin:2px 0 0;
+    text-wrap:balance;
+  }
+  .badge{
+    flex:none;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:10.5px;
+    letter-spacing:0.06em;
+    text-transform:uppercase;
+    padding:4px 8px 3px;
+    border-radius:20px;
+    white-space:nowrap;
+    line-height:1;
+  }
+  .badge.strong{color:var(--strong);background:var(--strong-soft);border:1px solid color-mix(in srgb, var(--strong) 35%, transparent);}
+  .badge.moderate{color:var(--moderate);background:var(--moderate-soft);border:1px solid color-mix(in srgb, var(--moderate) 35%, transparent);}
+
+  .fm-row{
+    display:flex;
+    flex-direction:column;
+    gap:3px;
+  }
+  .fm-label{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:10.5px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+  }
+  .fm-text{
+    font-size:14px;
+    color:var(--ink-soft);
+    line-height:1.55;
+  }
+  .fm-evidence{
+    font-size:13.5px;
+    color:var(--ink);
+    background:var(--surface-2);
+    border-left:2.5px solid var(--accent);
+    padding:9px 13px;
+    border-radius:2px;
+    line-height:1.5;
+  }
+  .fm-evidence .num{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-variant-numeric:tabular-nums;
+    color:var(--accent);
+  }
+
+  /* ---------- lit table ---------- */
+  .table-wrap{
+    overflow-x:auto;
+    border:1px solid var(--line);
+    border-radius:3px;
+    background:var(--surface);
+  }
+  table{
+    width:100%;
+    border-collapse:collapse;
+    min-width:760px;
+    font-size:13.5px;
+  }
+  thead th{
+    text-align:left;
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:10.5px;
+    letter-spacing:0.07em;
+    text-transform:uppercase;
+    color:var(--ink-faint);
+    font-weight:500;
+    padding:13px 16px;
+    border-bottom:1px solid var(--line-strong);
+    background:var(--surface-2);
+  }
+  tbody td{
+    padding:14px 16px;
+    border-bottom:1px solid var(--line);
+    color:var(--ink-soft);
+    vertical-align:top;
+    line-height:1.5;
+  }
+  tbody tr:last-child td{border-bottom:none;}
+  tbody td.cluster{
+    color:var(--ink);
+    font-weight:600;
+    width:15%;
+  }
+  tbody td.gap{
+    color:var(--warm);
+    width:26%;
+  }
+  td a{color:var(--accent);}
+
+  .white-space-note{
+    margin-top:16px;
+    font-family:Iowan Old Style,"Palatino Linotype","Book Antiqua",Georgia,serif;
+    font-size:16.5px;
+    line-height:1.6;
+    color:var(--ink);
+    max-width:820px;
+  }
+
+  /* ---------- next steps ---------- */
+  .steps{
+    display:flex;
+    flex-direction:column;
+    gap:0;
+    border:1px solid var(--line);
+    border-radius:3px;
+    background:var(--surface);
+    overflow:hidden;
+  }
+  .step{
+    display:grid;
+    grid-template-columns:52px 1fr;
+    gap:18px;
+    padding:18px 22px;
+    border-bottom:1px solid var(--line);
+  }
+  .step:last-child{border-bottom:none;}
+  .step-num{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-size:13px;
+    color:var(--ink-faint);
+    padding-top:2px;
+  }
+  .step-body strong{
+    font-size:14.5px;
+    color:var(--ink);
+  }
+  .step-body p{
+    margin:4px 0 0;
+    font-size:13.5px;
+    color:var(--ink-soft);
+    line-height:1.55;
+  }
+
+  footer{
+    padding-top:28px;
+    border-top:1px solid var(--line);
+    font-size:12.5px;
+    color:var(--ink-faint);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+</style>
+
+<div class="page">
+
+  <header>
+    <div class="eyebrow">Failure-mode brief · CBMs for Continual DG</div>
+    <h1>Why LanCE won't survive <em>continual</em> domain generalization</h1>
+    <p class="subtitle">Zeng et al., <em>"Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification"</em> (LanCE), CVPR 2025 — <a href="https://arxiv.org/abs/2503.18483" target="_blank" rel="noopener">arXiv:2503.18483</a></p>
+    <p class="thesis">LanCE erases domain-specific concepts using a domain-descriptor set the LLM writes <span class="hl">exactly once, before training</span>. Every mechanism that makes it work in single-shot domain generalization is the same mechanism that makes it structurally unable to handle domains arriving over time.</p>
+  </header>
+
+  <section>
+    <div class="section-head">
+      <h2 class="section-title">Five failure modes</h2>
+      <p class="section-note">Strong = grounded directly in the paper's own numbers or admissions. Moderate = architecturally clear, not yet paper-tested — priority targets for empirical verification.</p>
+    </div>
+
+    <div class="fm-grid">
+
+      <div class="fm-card">
+        <div class="fm-top">
+          <div>
+            <div class="fm-tag">FM·1 — §4.3, Eq. 13</div>
+            <h3 class="fm-name">Closed-world domain-descriptor set</h3>
+          </div>
+          <span class="badge strong">Strong</span>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Mechanism</span>
+          <p class="fm-text">200 domain descriptors, generated by one GPT-3.5 prompt before training, never revisited. DDO loss only erases influence from domains representable in this fixed set.</p>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Continual consequence</span>
+          <p class="fm-text">Any domain arriving after t=0 that wasn't anticipated gets zero orthogonality protection — no discovery or update mechanism exists.</p>
+        </div>
+        <div class="fm-evidence">Own ablation, Table 2/8: domain-<em>irrelevant</em> descriptors underperform relevant ones — LADV-3D OOD <span class="num">65.46</span> (irrelevant) vs <span class="num">68.01</span> (relevant). Benefit is coverage-dependent, not general.</div>
+      </div>
+
+      <div class="fm-card">
+        <div class="fm-top">
+          <div>
+            <div class="fm-tag">FM·2 — §4.1, Eq. 14</div>
+            <h3 class="fm-name">No incremental update path</h3>
+          </div>
+          <span class="badge moderate">Moderate</span>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Mechanism</span>
+          <p class="fm-text">L = L_CE + λ·L_DDO is solved once, jointly, over D_train. No update rule is defined for after deployment.</p>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Continual consequence</span>
+          <p class="fm-text">Adding a domain needs D_train again to retrain from scratch — often unavailable under continual-learning constraints. Fine-tuning W_F instead risks catastrophic forgetting of earlier domains.</p>
+        </div>
+        <div class="fm-evidence">Corroborated by the literature: CONCIL and CI-CBM had to build dedicated anti-forgetting machinery (recursive regression updates, pseudo-concepts) for exactly this failure in the same model family — LanCE has no analog.</div>
+      </div>
+
+      <div class="fm-card wide">
+        <div class="fm-top">
+          <div>
+            <div class="fm-tag">FM·3 — §3, App. G</div>
+            <h3 class="fm-name">Frozen CLIP breaks the core premise outside its pretraining distribution</h3>
+          </div>
+          <span class="badge strong">Strong</span>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Mechanism</span>
+          <p class="fm-text">The whole method rests on CLIP aligning visual and textual domain shifts — validated only on domains dense in CLIP's web-scraped pretraining data (sketch, painting, sculpture, clipart, 3D-render). All 200 stock descriptors are conventional art/media styles; zero scientific or industrial modalities appear.</p>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Continual consequence</span>
+          <p class="fm-text">Continual DG must eventually meet domains the frozen backbone predates (post-2021 diffusion-art styles) or domains scarce in web image-text pairs (medical, remote-sensing, thermal). This isn't fixable by adding descriptors — the shared embedding space itself is the weak point.</p>
+        </div>
+        <div class="fm-evidence">The authors admit it directly — Appendix G, verbatim: <span class="num">"</span>these models are limited in application to some professional fields like medical treatments<span class="num">."</span> Their proposed fix is one-off fine-tuning, not a continual mechanism.</div>
+      </div>
+
+      <div class="fm-card">
+        <div class="fm-top">
+          <div>
+            <div class="fm-tag">FM·4 — §4.1</div>
+            <h3 class="fm-name">Static concept bank, fixed output layer</h3>
+          </div>
+          <span class="badge moderate">Moderate</span>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Mechanism</span>
+          <p class="fm-text">Concept set C and the M → N_y linear layer W_F are both fixed size, chosen once before training.</p>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Continual consequence</span>
+          <p class="fm-text">New concepts or classes arriving with new domains can't be absorbed without architecture surgery — which reopens FM·2's forgetting problem.</p>
+        </div>
+        <div class="fm-evidence">CI-CBM frames "concept-incremental and class-incremental learning" as its own dedicated research task specifically <em>because</em> "existing CBMs typically assume static datasets."</div>
+      </div>
+
+      <div class="fm-card">
+        <div class="fm-top">
+          <div>
+            <div class="fm-tag">FM·5 — §5.3</div>
+            <h3 class="fm-name">Structural gaps persist even at full coverage</h3>
+          </div>
+          <span class="badge strong">Strong</span>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Mechanism</span>
+          <p class="fm-text">2D→3D shift is explicitly in the descriptor list ("3D model," "CGI render," "low-poly") — LanCE's best case, not an uncovered domain.</p>
+        </div>
+        <div class="fm-row">
+          <span class="fm-label">Continual consequence</span>
+          <p class="fm-text">If a fully-anticipated shift still leaves a wide gap, expect degradation to compound for domains with zero descriptor coverage and zero CLIP exposure — this corroborates FM·1 and FM·3, not a standalone claim.</p>
+        </div>
+        <div class="fm-evidence">Paper's own numbers, LADV-3D: <span class="num">99.93%</span> ID vs <span class="num">68.01%</span> OOD, even with DDO applied. Authors: "generalization from 2D to 3D remains challenging."</div>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2 class="section-title">Literature gap map</h2>
+      <p class="section-note">Checked against 6 papers spanning the adjacent clusters — none occupy the intersection this research targets.</p>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Cluster</th>
+            <th>Representative work</th>
+            <th>What it solves</th>
+            <th>Why it's not this</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="cluster">CBM + continual learning</td>
+            <td>Lang.-Guided CBM for CL (CVPR'25) · CONCIL · CI-CBM</td>
+            <td>New classes/concepts over time, <strong>within one domain</strong></td>
+            <td class="gap">No domain shift at all</td>
+          </tr>
+          <tr>
+            <td class="cluster">CBM + domain generalization</td>
+            <td>LanCE (this paper) · PCBM · LaBO</td>
+            <td>Unseen domains, <strong>single-shot</strong> train-once</td>
+            <td class="gap">No streaming / sequential aspect</td>
+          </tr>
+          <tr>
+            <td class="cluster">CBM + temporal drift</td>
+            <td>Tree of Concepts</td>
+            <td>Non-stationary <strong>tabular clinical</strong> data over time</td>
+            <td class="gap">Not visual; one drifting distribution, not discrete domains</td>
+          </tr>
+          <tr>
+            <td class="cluster">Continual domain-incremental</td>
+            <td>DGCL (Oct 2025)</td>
+            <td>Sequential domains, generalize across all encountered</td>
+            <td class="gap">Black-box — no interpretability, no language-guided descriptors</td>
+          </tr>
+          <tr>
+            <td class="cluster">Concept-based adaptation</td>
+            <td>CUDA (ICML'25)</td>
+            <td>Aligning concepts using <strong>target-domain data</strong></td>
+            <td class="gap">Adaptation, not generalizing to future unseen domains</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="white-space-note">The intersection of concept-based interpretability, generalization to <em>unseen future</em> domains, continual arrival without forgetting, and dynamic descriptor updating is unclaimed — a defensible white space, not an assumed one.</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2 class="section-title">Next: verify, don't assert</h2>
+      <p class="section-note">Predictions to test once LanCE's code is running — ranked by how directly they extend the paper's own evidence.</p>
+    </div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num mono">01</div>
+        <div class="step-body">
+          <strong>Coverage-gap test</strong>
+          <p>Extends Table 2 directly — test a domain with zero overlap to any of the 200 stock descriptors. Predict: gains collapse further than their own domain-irrelevant numbers.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num mono">02</div>
+        <div class="step-body">
+          <strong>Out-of-CLIP-distribution test</strong>
+          <p>Run on a domain scarce in CLIP's pretraining (medical / remote-sensing style). Predict: both baseline and DDO accuracy drop, and DDO's relative benefit shrinks.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num mono">03</div>
+        <div class="step-body">
+          <strong>Sequential-domain forgetting test</strong>
+          <p>Train on domain A, fine-tune W_F on domain B without replay. Predict: domain-A OOD accuracy drops significantly — catastrophic forgetting LanCE was never built to resist.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num mono">04</div>
+        <div class="step-body">
+          <strong>Descriptor-set staleness test</strong>
+          <p>Freeze P at GPT-3.5-era knowledge; test against a domain a newer LLM would name but GPT-3.5 wouldn't. Predict: a_sp simulation fails since the descriptor was never in the pool.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span>LanCE — CVPR 2025 — arXiv:2503.18483</span>
+    <span>Every claim traced to a cited section, equation, table, or verified external abstract</span>
+  </footer>
+
+</div>
