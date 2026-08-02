@@ -238,7 +238,9 @@ class TrainingSession:
                     })
                     # self._save_concept_logs()
                     if self.args.save_model:
-                        torch.save(self.model.state_dict(), f"best_{self.args.dataset}.pth")
+                        os.makedirs("checkpoints", exist_ok=True)
+                        run_tag = f"{self.args.dataset}_{self.args.CBM_type}_alpha{self.args.alpha}"
+                        torch.save(self.model.state_dict(), f"checkpoints/best_{run_tag}.pth")
 
                 epoch_time = time.time() - epoch_start
                 log_data = {

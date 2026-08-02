@@ -204,6 +204,19 @@ class clip_cbm_orth(nn.Module):
         regularizer = self.classifier[1:](self.diffs @ self.concept_embeddings.T)
         return concept_activations, self.classifier(concept_activations), regularizer
 
+    def forward_cached(self, visual_features):
+        """Same as forward(), but skips the CLIP image-encode step.
+
+        visual_features must already be L2-normalized CLIP image embeddings
+        (i.e. what forward() would have produced before the @ concept_embeddings.T
+        step). CLIP is frozen, so these are identical every epoch - precomputing
+        them once (see cache_utils.py) avoids redundant forward passes through
+        the ~427M-parameter frozen backbone on every single epoch.
+        """
+        concept_activations = visual_features @ self.concept_embeddings.T
+        regularizer = self.classifier[1:](self.diffs @ self.concept_embeddings.T)
+        return concept_activations, self.classifier(concept_activations), regularizer
+
     def extract_cls_concept(self):
         asso_mat_last = self.classifier[2].weight
         topk_res_last = {}

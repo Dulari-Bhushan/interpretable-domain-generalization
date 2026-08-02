@@ -8,6 +8,15 @@ external/LanCE/data/CUB/CUB-200-Painting/
 # Model checkpoints (large, regenerable by rerunning training — see logs for the numbers they produced)
 external/LanCE/*.pth
 external/LanCE/best_*.pth
+external/LanCE/checkpoints/
+
+# Cached CLIP embeddings (large, trivially regenerable via cache_utils.py)
+external/LanCE/embeddings_cache/
+
+# Generic/overwritten-per-run log files - we redirect real run output to
+# distinctly-named logs_*.log files instead, which ARE committed
+external/LanCE/training.log
+external/LanCE/training_cached.log
 
 # Python artifacts
 __pycache__/
