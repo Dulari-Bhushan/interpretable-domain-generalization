@@ -218,6 +218,21 @@
   }
   .badge.strong{color:var(--strong);background:var(--strong-soft);border:1px solid color-mix(in srgb, var(--strong) 35%, transparent);}
   .badge.moderate{color:var(--moderate);background:var(--moderate-soft);border:1px solid color-mix(in srgb, var(--moderate) 35%, transparent);}
+  .badge.confirmed{color:var(--accent);background:var(--accent-soft);border:1px solid color-mix(in srgb, var(--accent) 35%, transparent);}
+  .fm-refine{
+    font-size:13.5px;
+    color:var(--ink);
+    background:var(--accent-soft);
+    border-left:2.5px solid var(--accent);
+    padding:9px 13px;
+    border-radius:2px;
+    line-height:1.5;
+  }
+  .fm-refine .num{
+    font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+    font-variant-numeric:tabular-nums;
+    color:var(--accent);
+  }
 
   .fm-row{
     display:flex;
@@ -357,13 +372,13 @@
     <div class="eyebrow">Failure-mode brief · CBMs for Continual DG</div>
     <h1>Why LanCE won't survive <em>continual</em> domain generalization</h1>
     <p class="subtitle">Zeng et al., <em>"Explaining Domain Shifts in Language: Concept Erasing for Interpretable Image Classification"</em> (LanCE), CVPR 2025 — <a href="https://arxiv.org/abs/2503.18483" target="_blank" rel="noopener">arXiv:2503.18483</a></p>
-    <p class="thesis">LanCE erases domain-specific concepts using a domain-descriptor set the LLM writes <span class="hl">exactly once, before training</span>. Every mechanism that makes it work in single-shot domain generalization is the same mechanism that makes it structurally unable to handle domains arriving over time.</p>
+    <p class="thesis">LanCE erases domain-specific concepts using a domain-descriptor set the LLM writes <span class="hl">exactly once, before training</span>. Every mechanism that makes it work in single-shot domain generalization is the same mechanism that makes it structurally unable to handle domains arriving over time — <span class="hl">now measured, not just argued</span>: 8 experiment phases across two testbeds (PACS, Office-Home) and one out-of-distribution modality (EuroSAT).</p>
   </header>
 
   <section>
     <div class="section-head">
       <h2 class="section-title">Five failure modes</h2>
-      <p class="section-note">Strong = grounded directly in the paper's own numbers or admissions. Moderate = architecturally clear, not yet paper-tested — priority targets for empirical verification.</p>
+      <p class="section-note">Strong = grounded in the paper's own numbers/admissions. Confirmed = we ran the experiment ourselves. Moderate = architecturally clear, not paper-tested and not run this round.</p>
     </div>
 
     <div class="fm-grid">
@@ -385,6 +400,7 @@
           <p class="fm-text">Any domain arriving after t=0 that wasn't anticipated gets zero orthogonality protection — no discovery or update mechanism exists.</p>
         </div>
         <div class="fm-evidence">Own ablation, Table 2/8: domain-<em>irrelevant</em> descriptors underperform relevant ones — LADV-3D OOD <span class="num">65.46</span> (irrelevant) vs <span class="num">68.01</span> (relevant). Benefit is coverage-dependent, not general.</div>
+        <div class="fm-refine">Our extension (Phase A) came back <span class="num">null</span>: accuracy stayed flat (<span class="num">55.9–57.1%</span>) even stripping the descriptor pool to the 24 least-similar entries. Doesn't disprove closed-world — relocates it to FM·3's "wrong modality" level instead of "wrong style within a covered family."</div>
       </div>
 
       <div class="fm-card">
@@ -393,7 +409,7 @@
             <div class="fm-tag">FM·2 — §4.1, Eq. 14</div>
             <h3 class="fm-name">No incremental update path</h3>
           </div>
-          <span class="badge moderate">Moderate</span>
+          <span class="badge confirmed">Confirmed</span>
         </div>
         <div class="fm-row">
           <span class="fm-label">Mechanism</span>
@@ -404,6 +420,7 @@
           <p class="fm-text">Adding a domain needs D_train again to retrain from scratch — often unavailable under continual-learning constraints. Fine-tuning W_F instead risks catastrophic forgetting of earlier domains.</p>
         </div>
         <div class="fm-evidence">Corroborated by the literature: CONCIL and CI-CBM had to build dedicated anti-forgetting machinery (recursive regression updates, pseudo-concepts) for exactly this failure in the same model family — LanCE has no analog.</div>
+        <div class="fm-refine">Phases B–D (PACS → Office-Home): weak/order-dependent on PACS (BWT <span class="num">−8.3</span> in 1 of 3 orderings, ceiling-masked); real and consistent on Office-Home (BWT <span class="num">−0.7</span> to <span class="num">−4.7</span> in <strong>all 3</strong> orderings). Cheap fixes (cumulative DDO, replay) nearly solved PACS's forgetting but only partly close Office-Home's — the best-evidenced result in the whole project.</div>
       </div>
 
       <div class="fm-card wide">
@@ -423,6 +440,7 @@
           <p class="fm-text">Continual DG must eventually meet domains the frozen backbone predates (post-2021 diffusion-art styles) or domains scarce in web image-text pairs (medical, remote-sensing, thermal). This isn't fixable by adding descriptors — the shared embedding space itself is the weak point.</p>
         </div>
         <div class="fm-evidence">The authors admit it directly — Appendix G, verbatim: <span class="num">"</span>these models are limited in application to some professional fields like medical treatments<span class="num">."</span> Their proposed fix is one-off fine-tuning, not a continual mechanism.</div>
+        <div class="fm-refine">Phase F1 (EuroSAT): photo→satellite alignment scores <span class="num">0.32</span> — vs. the paper's own <span class="num">0.90–0.99</span> range, no overlap. Phase F2 refines <em>why</em>: a trained CBM reaches <span class="num">90.9%</span> (near the 98.1% linear-probe ceiling, not the ~60% zero-shot ceiling we predicted) — the visual representation is fine, it's specifically zero-shot alignment that's broken, and DDO's text-only mechanism has no way around that.</div>
       </div>
 
       <div class="fm-card">
@@ -442,6 +460,7 @@
           <p class="fm-text">New concepts or classes arriving with new domains can't be absorbed without architecture surgery — which reopens FM·2's forgetting problem.</p>
         </div>
         <div class="fm-evidence">CI-CBM frames "concept-incremental and class-incremental learning" as its own dedicated research task specifically <em>because</em> "existing CBMs typically assume static datasets."</div>
+        <div class="fm-refine" style="border-left-color:var(--moderate);background:var(--moderate-soft);"><span class="num" style="color:var(--moderate);">Not tested this round</span> — deliberately deferred (mixing class-arrival with domain-arrival would blur which axis causes what in Phases B–D's forgetting numbers). Still architectural, not empirical.</div>
       </div>
 
       <div class="fm-card">
@@ -461,6 +480,7 @@
           <p class="fm-text">If a fully-anticipated shift still leaves a wide gap, expect degradation to compound for domains with zero descriptor coverage and zero CLIP exposure — this corroborates FM·1 and FM·3, not a standalone claim.</p>
         </div>
         <div class="fm-evidence">Paper's own numbers, LADV-3D: <span class="num">99.93%</span> ID vs <span class="num">68.01%</span> OOD, even with DDO applied. Authors: "generalization from 2D to 3D remains challenging."</div>
+        <div class="fm-refine">Not independently re-tested, but corroborated in spirit: Phase D showed a harder benchmark reveals gaps PACS's easier task hid, and Phase F1's <span class="num">0.32</span> alignment gap is far larger than anything the paper reports even for its own worst case.</div>
       </div>
 
     </div>
@@ -520,36 +540,36 @@
 
   <section>
     <div class="section-head">
-      <h2 class="section-title">Next: verify, don't assert</h2>
-      <p class="section-note">Predictions to test once LanCE's code is running — ranked by how directly they extend the paper's own evidence.</p>
+      <h2 class="section-title">What we verified</h2>
+      <p class="section-note">The four predictions above, now run — 8 experiment phases, PACS + Office-Home + EuroSAT, traced to <span class="mono">results/</span>.</p>
     </div>
     <div class="steps">
       <div class="step">
         <div class="step-num mono">01</div>
         <div class="step-body">
-          <strong>Coverage-gap test</strong>
-          <p>Extends Table 2 directly — test a domain with zero overlap to any of the 200 stock descriptors. Predict: gains collapse further than their own domain-irrelevant numbers.</p>
+          <strong>Coverage-gap test — null result</strong>
+          <p>Phase A: predicted accuracy would collapse as the descriptor pool got less similar to the true domain. It stayed flat (55.9–57.1%) even stripped to the 24 least-similar descriptors. Reprioritized the closed-world critique toward FM·3, not confirmed at this level.</p>
         </div>
       </div>
       <div class="step">
         <div class="step-num mono">02</div>
         <div class="step-body">
-          <strong>Out-of-CLIP-distribution test</strong>
-          <p>Run on a domain scarce in CLIP's pretraining (medical / remote-sensing style). Predict: both baseline and DDO accuracy drop, and DDO's relative benefit shrinks.</p>
+          <strong>Out-of-CLIP-distribution test — confirmed, with a refinement</strong>
+          <p>Phase F1: photo→satellite alignment scored 0.32 vs. the paper's 0.90–0.99 range — large-margin confirmation. Phase F2: a trained CBM hit 90.9%, not the ~60% we predicted — it's zero-shot alignment specifically that's broken, not the visual backbone, and DDO inherits exactly that weakness by design.</p>
         </div>
       </div>
       <div class="step">
         <div class="step-num mono">03</div>
         <div class="step-body">
-          <strong>Sequential-domain forgetting test</strong>
-          <p>Train on domain A, fine-tune W_F on domain B without replay. Predict: domain-A OOD accuracy drops significantly — catastrophic forgetting LanCE was never built to resist.</p>
+          <strong>Sequential-domain forgetting test — confirmed, scaling with difficulty</strong>
+          <p>Phases B–D: weak and order-dependent on PACS (1 of 3 orderings), real and consistent on Office-Home (3 of 3, BWT −0.7 to −4.7). The clearest, best-evidenced result of the project — real forgetting, moderate not catastrophic, and only partly fixed by textbook remediations on the harder benchmark.</p>
         </div>
       </div>
       <div class="step">
         <div class="step-num mono">04</div>
         <div class="step-body">
-          <strong>Descriptor-set staleness test</strong>
-          <p>Freeze P at GPT-3.5-era knowledge; test against a domain a newer LLM would name but GPT-3.5 wouldn't. Predict: a_sp simulation fails since the descriptor was never in the pool.</p>
+          <strong>Descriptor-set staleness test — not run</strong>
+          <p>Freeze P at GPT-3.5-era knowledge; test against a domain a newer LLM would name but GPT-3.5 wouldn't. Out of scope for this round — still an open prediction, flagged honestly rather than dropped silently.</p>
         </div>
       </div>
     </div>
@@ -557,7 +577,7 @@
 
   <footer>
     <span>LanCE — CVPR 2025 — arXiv:2503.18483</span>
-    <span>Every claim traced to a cited section, equation, table, or verified external abstract</span>
+    <span>Paper claims traced to section/equation/table; our own claims traced to results/*.md and a specific run</span>
   </footer>
 
 </div>

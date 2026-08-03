@@ -1,0 +1,659 @@
+{
+  "dataset": "OfficeHome",
+  "domains": [
+    "art",
+    "clipart",
+    "product",
+    "real_world"
+  ],
+  "config": {
+    "alpha": 1.0,
+    "beta": 0.0,
+    "stage_epochs": 50,
+    "batch_size": 64,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "seed": 0,
+    "replay_buffer_size_per_domain": 100,
+    "ewc_lambda": 1000.0,
+    "ewc_fisher_samples": 200
+  },
+  "remediations": {
+    "cumulative_ddo": [
+      {
+        "order_id": "art_clipart_product_realworld",
+        "domain_order": [
+          "art",
+          "clipart",
+          "product",
+          "real_world"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 85.77319979667664,
+              "clipart": 65.98173379898071,
+              "product": 73.34083318710327,
+              "real_world": 76.86139941215515
+            },
+            "ddo_erosion": 0.5098075866699219
+          },
+          {
+            "stage": 1,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 85.77319979667664,
+              "clipart": 81.50684833526611,
+              "product": 88.63892555236816,
+              "real_world": 85.10882258415222
+            },
+            "ddo_erosion": 0.5625786781311035
+          },
+          {
+            "stage": 2,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 86.80412769317627,
+              "clipart": 79.2237401008606,
+              "product": 96.62542343139648,
+              "real_world": 90.37801027297974
+            },
+            "ddo_erosion": 0.5211714506149292
+          },
+          {
+            "stage": 3,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 89.2783522605896,
+              "clipart": 78.88127565383911,
+              "product": 96.7379093170166,
+              "real_world": 94.04353499412537
+            },
+            "ddo_erosion": 0.5000722408294678
+          }
+        ],
+        "R_diagonal": {
+          "art": 85.77319979667664,
+          "clipart": 81.50684833526611,
+          "product": 96.62542343139648,
+          "real_world": 94.04353499412537
+        },
+        "R_final": {
+          "art": 89.2783522605896,
+          "clipart": 78.88127565383911,
+          "product": 96.7379093170166,
+          "real_world": 94.04353499412537
+        },
+        "ACC_final": 89.73526805639267,
+        "BWT": 0.3306885560353597
+      },
+      {
+        "order_id": "realworld_product_clipart_art",
+        "domain_order": [
+          "real_world",
+          "product",
+          "clipart",
+          "art"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 84.12371277809143,
+              "clipart": 74.42921996116638,
+              "product": 93.58830451965332,
+              "real_world": 92.21076965332031
+            },
+            "ddo_erosion": 0.5496545433998108
+          },
+          {
+            "stage": 1,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 83.29896926879883,
+              "clipart": 74.65752959251404,
+              "product": 97.07536697387695,
+              "real_world": 90.83620309829712
+            },
+            "ddo_erosion": 0.5171077847480774
+          },
+          {
+            "stage": 2,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 86.39175295829773,
+              "clipart": 82.6483964920044,
+              "product": 94.60067749023438,
+              "real_world": 90.49255847930908
+            },
+            "ddo_erosion": 0.529263436794281
+          },
+          {
+            "stage": 3,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 92.98969507217407,
+              "clipart": 79.10958528518677,
+              "product": 94.37570571899414,
+              "real_world": 91.52348637580872
+            },
+            "ddo_erosion": 0.5183091759681702
+          }
+        ],
+        "R_diagonal": {
+          "real_world": 92.21076965332031,
+          "product": 97.07536697387695,
+          "clipart": 82.6483964920044,
+          "art": 92.98969507217407
+        },
+        "R_final": {
+          "art": 92.98969507217407,
+          "clipart": 79.10958528518677,
+          "product": 94.37570571899414,
+          "real_world": 91.52348637580872
+        },
+        "ACC_final": 89.49961811304092,
+        "BWT": -2.308585246404012
+      },
+      {
+        "order_id": "clipart_realworld_art_product",
+        "domain_order": [
+          "clipart",
+          "real_world",
+          "art",
+          "product"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 80.61856031417847,
+              "clipart": 81.50684833526611,
+              "product": 85.82677245140076,
+              "real_world": 83.39061141014099
+            },
+            "ddo_erosion": 0.5507521033287048
+          },
+          {
+            "stage": 1,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 86.1855685710907,
+              "clipart": 79.79452013969421,
+              "product": 94.48819160461426,
+              "real_world": 93.01260709762573
+            },
+            "ddo_erosion": 0.5408278703689575
+          },
+          {
+            "stage": 2,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 92.98969507217407,
+              "clipart": 79.45204973220825,
+              "product": 93.70079040527344,
+              "real_world": 91.29438996315002
+            },
+            "ddo_erosion": 0.5319574475288391
+          },
+          {
+            "stage": 3,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 88.24742436408997,
+              "clipart": 78.4246563911438,
+              "product": 97.18785285949707,
+              "real_world": 90.95075130462646
+            },
+            "ddo_erosion": 0.4920864403247833
+          }
+        ],
+        "R_diagonal": {
+          "clipart": 81.50684833526611,
+          "real_world": 93.01260709762573,
+          "art": 92.98969507217407,
+          "product": 97.18785285949707
+        },
+        "R_final": {
+          "art": 88.24742436408997,
+          "clipart": 78.4246563911438,
+          "product": 97.18785285949707,
+          "real_world": 90.95075130462646
+        },
+        "ACC_final": 88.70267122983932,
+        "BWT": -3.2954394817352295
+      }
+    ],
+    "replay": [
+      {
+        "order_id": "art_clipart_product_realworld",
+        "domain_order": [
+          "art",
+          "clipart",
+          "product",
+          "real_world"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 85.77319979667664,
+              "clipart": 65.98173379898071,
+              "product": 73.34083318710327,
+              "real_world": 76.86139941215515
+            },
+            "ddo_erosion": 0.5098075866699219
+          },
+          {
+            "stage": 1,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 85.5670154094696,
+              "clipart": 82.76255130767822,
+              "product": 89.08886909484863,
+              "real_world": 86.82703971862793
+            },
+            "ddo_erosion": 0.5380771160125732
+          },
+          {
+            "stage": 2,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 86.1855685710907,
+              "clipart": 78.53881120681763,
+              "product": 97.4128246307373,
+              "real_world": 89.69072699546814
+            },
+            "ddo_erosion": 0.46375805139541626
+          },
+          {
+            "stage": 3,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 88.86598348617554,
+              "clipart": 79.2237401008606,
+              "product": 96.7379093170166,
+              "real_world": 94.27262544631958
+            },
+            "ddo_erosion": 0.4481809139251709
+          }
+        ],
+        "R_diagonal": {
+          "art": 85.77319979667664,
+          "clipart": 82.76255130767822,
+          "product": 97.4128246307373,
+          "real_world": 94.27262544631958
+        },
+        "R_final": {
+          "art": 88.86598348617554,
+          "clipart": 79.2237401008606,
+          "product": 96.7379093170166,
+          "real_world": 94.27262544631958
+        },
+        "ACC_final": 89.77506458759308,
+        "BWT": -0.37364761034647626
+      },
+      {
+        "order_id": "realworld_product_clipart_art",
+        "domain_order": [
+          "real_world",
+          "product",
+          "clipart",
+          "art"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 84.12371277809143,
+              "clipart": 74.42921996116638,
+              "product": 93.58830451965332,
+              "real_world": 92.21076965332031
+            },
+            "ddo_erosion": 0.5496545433998108
+          },
+          {
+            "stage": 1,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 82.4742317199707,
+              "clipart": 74.20091032981873,
+              "product": 97.52531051635742,
+              "real_world": 90.49255847930908
+            },
+            "ddo_erosion": 0.4659948945045471
+          },
+          {
+            "stage": 2,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 84.742271900177,
+              "clipart": 83.33333134651184,
+              "product": 94.26321983337402,
+              "real_world": 90.14891386032104
+            },
+            "ddo_erosion": 0.49559083580970764
+          },
+          {
+            "stage": 3,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 92.57732033729553,
+              "clipart": 80.47944903373718,
+              "product": 95.61305046081543,
+              "real_world": 92.09622144699097
+            },
+            "ddo_erosion": 0.48345884680747986
+          }
+        ],
+        "R_diagonal": {
+          "real_world": 92.21076965332031,
+          "product": 97.52531051635742,
+          "clipart": 83.33333134651184,
+          "art": 92.57732033729553
+        },
+        "R_final": {
+          "art": 92.57732033729553,
+          "clipart": 80.47944903373718,
+          "product": 95.61305046081543,
+          "real_world": 92.09622144699097
+        },
+        "ACC_final": 90.19151031970978,
+        "BWT": -1.626896858215332
+      },
+      {
+        "order_id": "clipart_realworld_art_product",
+        "domain_order": [
+          "clipart",
+          "real_world",
+          "art",
+          "product"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 80.61856031417847,
+              "clipart": 81.50684833526611,
+              "product": 85.82677245140076,
+              "real_world": 83.39061141014099
+            },
+            "ddo_erosion": 0.5507521033287048
+          },
+          {
+            "stage": 1,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 87.21649646759033,
+              "clipart": 79.56620454788208,
+              "product": 94.1507339477539,
+              "real_world": 93.81443858146667
+            },
+            "ddo_erosion": 0.49726569652557373
+          },
+          {
+            "stage": 2,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 91.95876717567444,
+              "clipart": 78.88127565383911,
+              "product": 94.48819160461426,
+              "real_world": 91.75258278846741
+            },
+            "ddo_erosion": 0.4937293827533722
+          },
+          {
+            "stage": 3,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 88.04123997688293,
+              "clipart": 78.76712083816528,
+              "product": 97.30033874511719,
+              "real_world": 91.29438996315002
+            },
+            "ddo_erosion": 0.4363636076450348
+          }
+        ],
+        "R_diagonal": {
+          "clipart": 81.50684833526611,
+          "real_world": 93.81443858146667,
+          "art": 91.95876717567444,
+          "product": 97.30033874511719
+        },
+        "R_final": {
+          "art": 88.04123997688293,
+          "clipart": 78.76712083816528,
+          "product": 97.30033874511719,
+          "real_world": 91.29438996315002
+        },
+        "ACC_final": 88.85077238082886,
+        "BWT": -3.059101104736328
+      }
+    ],
+    "ewc": [
+      {
+        "order_id": "art_clipart_product_realworld",
+        "domain_order": [
+          "art",
+          "clipart",
+          "product",
+          "real_world"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 85.77319979667664,
+              "clipart": 65.98173379898071,
+              "product": 73.34083318710327,
+              "real_world": 76.86139941215515
+            },
+            "ddo_erosion": 0.5098075866699219
+          },
+          {
+            "stage": 1,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 87.0103120803833,
+              "clipart": 71.34702801704407,
+              "product": 78.62767577171326,
+              "real_world": 81.21420741081238
+            },
+            "ddo_erosion": 0.5202469825744629
+          },
+          {
+            "stage": 2,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 86.80412769317627,
+              "clipart": 71.11871838569641,
+              "product": 81.21485114097595,
+              "real_world": 81.90149068832397
+            },
+            "ddo_erosion": 0.5222248435020447
+          },
+          {
+            "stage": 3,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 87.0103120803833,
+              "clipart": 70.89040875434875,
+              "product": 80.8773934841156,
+              "real_world": 81.90149068832397
+            },
+            "ddo_erosion": 0.5216657519340515
+          }
+        ],
+        "R_diagonal": {
+          "art": 85.77319979667664,
+          "clipart": 71.34702801704407,
+          "product": 81.21485114097595,
+          "real_world": 81.90149068832397
+        },
+        "R_final": {
+          "art": 87.0103120803833,
+          "clipart": 70.89040875434875,
+          "product": 80.8773934841156,
+          "real_world": 81.90149068832397
+        },
+        "ACC_final": 80.16990125179291,
+        "BWT": 0.14767845471700033
+      },
+      {
+        "order_id": "realworld_product_clipart_art",
+        "domain_order": [
+          "real_world",
+          "product",
+          "clipart",
+          "art"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 84.12371277809143,
+              "clipart": 74.42921996116638,
+              "product": 93.58830451965332,
+              "real_world": 92.21076965332031
+            },
+            "ddo_erosion": 0.5496545433998108
+          },
+          {
+            "stage": 1,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 84.742271900177,
+              "clipart": 74.31506514549255,
+              "product": 94.93813514709473,
+              "real_world": 92.21076965332031
+            },
+            "ddo_erosion": 0.5508624911308289
+          },
+          {
+            "stage": 2,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 85.15464067459106,
+              "clipart": 74.65752959251404,
+              "product": 94.93813514709473,
+              "real_world": 92.55441427230835
+            },
+            "ddo_erosion": 0.5504869222640991
+          },
+          {
+            "stage": 3,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 85.5670154094696,
+              "clipart": 74.65752959251404,
+              "product": 94.93813514709473,
+              "real_world": 92.439866065979
+            },
+            "ddo_erosion": 0.5512086153030396
+          }
+        ],
+        "R_diagonal": {
+          "real_world": 92.21076965332031,
+          "product": 94.93813514709473,
+          "clipart": 74.65752959251404,
+          "art": 85.5670154094696
+        },
+        "R_final": {
+          "art": 85.5670154094696,
+          "clipart": 74.65752959251404,
+          "product": 94.93813514709473,
+          "real_world": 92.439866065979
+        },
+        "ACC_final": 86.90063655376434,
+        "BWT": 0.07636547088623047
+      },
+      {
+        "order_id": "clipart_realworld_art_product",
+        "domain_order": [
+          "clipart",
+          "real_world",
+          "art",
+          "product"
+        ],
+        "pre_training_ddo_erosion": 0.45671936869621277,
+        "stages": [
+          {
+            "stage": 0,
+            "trained_domain": "clipart",
+            "per_domain_test_acc": {
+              "art": 80.61856031417847,
+              "clipart": 81.50684833526611,
+              "product": 85.82677245140076,
+              "real_world": 83.39061141014099
+            },
+            "ddo_erosion": 0.5507521033287048
+          },
+          {
+            "stage": 1,
+            "trained_domain": "real_world",
+            "per_domain_test_acc": {
+              "art": 82.68041610717773,
+              "clipart": 81.8493127822876,
+              "product": 88.30146789550781,
+              "real_world": 86.2542986869812
+            },
+            "ddo_erosion": 0.5538901686668396
+          },
+          {
+            "stage": 2,
+            "trained_domain": "art",
+            "per_domain_test_acc": {
+              "art": 83.29896926879883,
+              "clipart": 81.50684833526611,
+              "product": 87.85152435302734,
+              "real_world": 85.91066002845764
+            },
+            "ddo_erosion": 0.5536374449729919
+          },
+          {
+            "stage": 3,
+            "trained_domain": "product",
+            "per_domain_test_acc": {
+              "art": 83.71134400367737,
+              "clipart": 81.62100315093994,
+              "product": 88.41395378112793,
+              "real_world": 86.13975048065186
+            },
+            "ddo_erosion": 0.554155170917511
+          }
+        ],
+        "R_diagonal": {
+          "clipart": 81.50684833526611,
+          "real_world": 86.2542986869812,
+          "art": 83.29896926879883,
+          "product": 88.41395378112793
+        },
+        "R_final": {
+          "art": 83.71134400367737,
+          "clipart": 81.62100315093994,
+          "product": 88.41395378112793,
+          "real_world": 86.13975048065186
+        },
+        "ACC_final": 84.97151285409927,
+        "BWT": 0.13732711474100748
+      }
+    ]
+  }
+}

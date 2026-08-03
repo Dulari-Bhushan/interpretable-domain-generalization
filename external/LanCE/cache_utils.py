@@ -19,7 +19,15 @@ def get_or_build_feature_cache(name, dataset, clip_model, device, cache_dir="emb
         cached = torch.load(cache_path)
         return cached["features"], cached["labels"], cached["attr_labels"]
 
-    loader = DataLoader(dataset, batch_size=batch_size, shuffle=False, num_workers=8)
+    # num_workers=0: on this environment, num_workers>0 here silently produced
+    # duplicated/identical rows once a dataset needed more than a few worker-
+    # dispatched batches (reproduced deterministically on PACS's 1337-image
+    # photo/train split, 11 batches @128 - the corruption vanished with
+    # num_workers=0.  Likely a Windows spawn-multiprocessing DataLoader issue
+    # specific to this setup; single-process loading is slower but correct,
+    # and this loop only ever runs once per dataset split (cached to disk
+    # after) so the cost is one-time.
+    loader = DataLoader(dataset, batch_size=batch_size, shuffle=False, num_workers=0)
     all_feats, all_labels, all_attrs = [], [], []
     clip_model.eval()
     with torch.no_grad():

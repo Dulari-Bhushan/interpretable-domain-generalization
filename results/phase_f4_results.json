@@ -1,0 +1,788 @@
+{
+  "clip_type": "ViT-L/14",
+  "n_classes": 155,
+  "per_class_alignment": {
+    "hen": {
+      "class_idx": 8,
+      "n_images": 6,
+      "alignment": 0.25787702202796936
+    },
+    "ostrich": {
+      "class_idx": 9,
+      "n_images": 6,
+      "alignment": 0.26284515857696533
+    },
+    "partridge": {
+      "class_idx": 86,
+      "n_images": 6,
+      "alignment": 0.24315272271633148
+    },
+    "African grey": {
+      "class_idx": 87,
+      "n_images": 6,
+      "alignment": 0.23558136820793152
+    },
+    "macaw": {
+      "class_idx": 88,
+      "n_images": 6,
+      "alignment": 0.252946674823761
+    },
+    "sulphur-crested cockatoo": {
+      "class_idx": 89,
+      "n_images": 6,
+      "alignment": 0.24075445532798767
+    },
+    "lorikeet": {
+      "class_idx": 90,
+      "n_images": 6,
+      "alignment": 0.26186221837997437
+    },
+    "coucal": {
+      "class_idx": 91,
+      "n_images": 6,
+      "alignment": 0.2438688576221466
+    },
+    "bee eater": {
+      "class_idx": 92,
+      "n_images": 6,
+      "alignment": 0.27452126145362854
+    },
+    "hornbill": {
+      "class_idx": 93,
+      "n_images": 6,
+      "alignment": 0.25757643580436707
+    },
+    "hummingbird": {
+      "class_idx": 94,
+      "n_images": 6,
+      "alignment": 0.24275819957256317
+    },
+    "jacamar": {
+      "class_idx": 95,
+      "n_images": 6,
+      "alignment": 0.24810509383678436
+    },
+    "toucan": {
+      "class_idx": 96,
+      "n_images": 6,
+      "alignment": 0.24444372951984406
+    },
+    "drake": {
+      "class_idx": 97,
+      "n_images": 6,
+      "alignment": 0.2880116105079651
+    },
+    "red-breasted merganser": {
+      "class_idx": 98,
+      "n_images": 6,
+      "alignment": 0.21551266312599182
+    },
+    "goose": {
+      "class_idx": 99,
+      "n_images": 6,
+      "alignment": 0.2490130364894867
+    },
+    "toilet seat": {
+      "class_idx": 861,
+      "n_images": 4,
+      "alignment": 0.23541316390037537
+    },
+    "torch": {
+      "class_idx": 862,
+      "n_images": 6,
+      "alignment": 0.2090912163257599
+    },
+    "totem pole": {
+      "class_idx": 863,
+      "n_images": 6,
+      "alignment": 0.20288459956645966
+    },
+    "tow truck": {
+      "class_idx": 864,
+      "n_images": 6,
+      "alignment": 0.22874125838279724
+    },
+    "toyshop": {
+      "class_idx": 865,
+      "n_images": 6,
+      "alignment": 0.22770874202251434
+    },
+    "tractor": {
+      "class_idx": 866,
+      "n_images": 6,
+      "alignment": 0.2521117031574249
+    },
+    "trailer truck": {
+      "class_idx": 867,
+      "n_images": 6,
+      "alignment": 0.24424788355827332
+    },
+    "tray": {
+      "class_idx": 868,
+      "n_images": 6,
+      "alignment": 0.22193196415901184
+    },
+    "trench coat": {
+      "class_idx": 869,
+      "n_images": 6,
+      "alignment": 0.25426924228668213
+    },
+    "tricycle": {
+      "class_idx": 870,
+      "n_images": 6,
+      "alignment": 0.22889049351215363
+    },
+    "trimaran": {
+      "class_idx": 871,
+      "n_images": 6,
+      "alignment": 0.2378649264574051
+    },
+    "tripod": {
+      "class_idx": 872,
+      "n_images": 6,
+      "alignment": 0.24187195301055908
+    },
+    "triumphal arch": {
+      "class_idx": 873,
+      "n_images": 6,
+      "alignment": 0.22724062204360962
+    },
+    "trolleybus": {
+      "class_idx": 874,
+      "n_images": 6,
+      "alignment": 0.20168545842170715
+    },
+    "trombone": {
+      "class_idx": 875,
+      "n_images": 6,
+      "alignment": 0.19734270870685577
+    },
+    "tub": {
+      "class_idx": 876,
+      "n_images": 6,
+      "alignment": 0.21567833423614502
+    },
+    "turnstile": {
+      "class_idx": 877,
+      "n_images": 6,
+      "alignment": 0.2090625762939453
+    },
+    "typewriter keyboard": {
+      "class_idx": 878,
+      "n_images": 6,
+      "alignment": 0.18966400623321533
+    },
+    "umbrella": {
+      "class_idx": 879,
+      "n_images": 6,
+      "alignment": 0.23280978202819824
+    },
+    "unicycle": {
+      "class_idx": 880,
+      "n_images": 6,
+      "alignment": 0.20481756329536438
+    },
+    "upright": {
+      "class_idx": 881,
+      "n_images": 6,
+      "alignment": 0.2431645542383194
+    },
+    "vacuum": {
+      "class_idx": 882,
+      "n_images": 6,
+      "alignment": 0.24764874577522278
+    },
+    "vase": {
+      "class_idx": 883,
+      "n_images": 6,
+      "alignment": 0.2518278956413269
+    },
+    "vault": {
+      "class_idx": 884,
+      "n_images": 6,
+      "alignment": 0.18806514143943787
+    },
+    "velvet": {
+      "class_idx": 885,
+      "n_images": 6,
+      "alignment": 0.22758987545967102
+    },
+    "vending machine": {
+      "class_idx": 886,
+      "n_images": 6,
+      "alignment": 0.21450835466384888
+    },
+    "vestment": {
+      "class_idx": 887,
+      "n_images": 6,
+      "alignment": 0.19979798793792725
+    },
+    "viaduct": {
+      "class_idx": 888,
+      "n_images": 6,
+      "alignment": 0.24469029903411865
+    },
+    "violin": {
+      "class_idx": 889,
+      "n_images": 6,
+      "alignment": 0.22412189841270447
+    },
+    "volleyball": {
+      "class_idx": 890,
+      "n_images": 6,
+      "alignment": 0.24285215139389038
+    },
+    "waffle iron": {
+      "class_idx": 891,
+      "n_images": 6,
+      "alignment": 0.23887839913368225
+    },
+    "wall clock": {
+      "class_idx": 892,
+      "n_images": 6,
+      "alignment": 0.21093374490737915
+    },
+    "wallet": {
+      "class_idx": 893,
+      "n_images": 6,
+      "alignment": 0.22346000373363495
+    },
+    "wardrobe": {
+      "class_idx": 894,
+      "n_images": 6,
+      "alignment": 0.22914095222949982
+    },
+    "warplane": {
+      "class_idx": 895,
+      "n_images": 6,
+      "alignment": 0.21872369945049286
+    },
+    "washbasin": {
+      "class_idx": 896,
+      "n_images": 6,
+      "alignment": 0.26394492387771606
+    },
+    "washer": {
+      "class_idx": 897,
+      "n_images": 6,
+      "alignment": 0.22935324907302856
+    },
+    "water bottle": {
+      "class_idx": 898,
+      "n_images": 6,
+      "alignment": 0.23824022710323334
+    },
+    "water jug": {
+      "class_idx": 899,
+      "n_images": 6,
+      "alignment": 0.24846982955932617
+    },
+    "water tower": {
+      "class_idx": 900,
+      "n_images": 6,
+      "alignment": 0.24162310361862183
+    },
+    "whiskey jug": {
+      "class_idx": 901,
+      "n_images": 6,
+      "alignment": 0.23972217738628387
+    },
+    "whistle": {
+      "class_idx": 902,
+      "n_images": 6,
+      "alignment": 0.25244462490081787
+    },
+    "wig": {
+      "class_idx": 903,
+      "n_images": 6,
+      "alignment": 0.21611180901527405
+    },
+    "window screen": {
+      "class_idx": 904,
+      "n_images": 6,
+      "alignment": 0.20269504189491272
+    },
+    "window shade": {
+      "class_idx": 905,
+      "n_images": 6,
+      "alignment": 0.19541561603546143
+    },
+    "Windsor tie": {
+      "class_idx": 906,
+      "n_images": 6,
+      "alignment": 0.23705196380615234
+    },
+    "wine bottle": {
+      "class_idx": 907,
+      "n_images": 6,
+      "alignment": 0.23839539289474487
+    },
+    "wing": {
+      "class_idx": 908,
+      "n_images": 6,
+      "alignment": 0.26122692227363586
+    },
+    "wok": {
+      "class_idx": 909,
+      "n_images": 6,
+      "alignment": 0.22539401054382324
+    },
+    "wooden spoon": {
+      "class_idx": 910,
+      "n_images": 6,
+      "alignment": 0.2422754019498825
+    },
+    "wool": {
+      "class_idx": 911,
+      "n_images": 6,
+      "alignment": 0.22560805082321167
+    },
+    "worm fence": {
+      "class_idx": 912,
+      "n_images": 6,
+      "alignment": 0.16808035969734192
+    },
+    "wreck": {
+      "class_idx": 913,
+      "n_images": 6,
+      "alignment": 0.21192964911460876
+    },
+    "yawl": {
+      "class_idx": 914,
+      "n_images": 6,
+      "alignment": 0.27221614122390747
+    },
+    "yurt": {
+      "class_idx": 915,
+      "n_images": 6,
+      "alignment": 0.22777028381824493
+    },
+    "web site": {
+      "class_idx": 916,
+      "n_images": 6,
+      "alignment": 0.16077443957328796
+    },
+    "comic book": {
+      "class_idx": 917,
+      "n_images": 6,
+      "alignment": 0.19192689657211304
+    },
+    "crossword puzzle": {
+      "class_idx": 918,
+      "n_images": 6,
+      "alignment": 0.16548481583595276
+    },
+    "street sign": {
+      "class_idx": 919,
+      "n_images": 6,
+      "alignment": 0.21286161243915558
+    },
+    "traffic light": {
+      "class_idx": 920,
+      "n_images": 6,
+      "alignment": 0.23306864500045776
+    },
+    "book jacket": {
+      "class_idx": 921,
+      "n_images": 6,
+      "alignment": 0.1596709042787552
+    },
+    "menu": {
+      "class_idx": 922,
+      "n_images": 6,
+      "alignment": 0.13800781965255737
+    },
+    "plate": {
+      "class_idx": 923,
+      "n_images": 6,
+      "alignment": 0.1882002055644989
+    },
+    "guacamole": {
+      "class_idx": 924,
+      "n_images": 6,
+      "alignment": 0.27063512802124023
+    },
+    "consomme": {
+      "class_idx": 925,
+      "n_images": 6,
+      "alignment": 0.1960928738117218
+    },
+    "hot pot": {
+      "class_idx": 926,
+      "n_images": 6,
+      "alignment": 0.2520183026790619
+    },
+    "trifle": {
+      "class_idx": 927,
+      "n_images": 6,
+      "alignment": 0.27300500869750977
+    },
+    "ice cream": {
+      "class_idx": 928,
+      "n_images": 6,
+      "alignment": 0.24644960463047028
+    },
+    "ice lolly": {
+      "class_idx": 929,
+      "n_images": 6,
+      "alignment": 0.24150978028774261
+    },
+    "French loaf": {
+      "class_idx": 930,
+      "n_images": 6,
+      "alignment": 0.256678968667984
+    },
+    "bagel": {
+      "class_idx": 931,
+      "n_images": 6,
+      "alignment": 0.22864407300949097
+    },
+    "pretzel": {
+      "class_idx": 932,
+      "n_images": 6,
+      "alignment": 0.25794655084609985
+    },
+    "cheeseburger": {
+      "class_idx": 933,
+      "n_images": 6,
+      "alignment": 0.2811984419822693
+    },
+    "hotdog": {
+      "class_idx": 934,
+      "n_images": 6,
+      "alignment": 0.256480872631073
+    },
+    "mashed potato": {
+      "class_idx": 935,
+      "n_images": 6,
+      "alignment": 0.2252802848815918
+    },
+    "head cabbage": {
+      "class_idx": 936,
+      "n_images": 6,
+      "alignment": 0.2305353879928589
+    },
+    "broccoli": {
+      "class_idx": 937,
+      "n_images": 6,
+      "alignment": 0.26185107231140137
+    },
+    "cauliflower": {
+      "class_idx": 938,
+      "n_images": 6,
+      "alignment": 0.21404746174812317
+    },
+    "zucchini": {
+      "class_idx": 939,
+      "n_images": 6,
+      "alignment": 0.25029343366622925
+    },
+    "spaghetti squash": {
+      "class_idx": 940,
+      "n_images": 6,
+      "alignment": 0.22581276297569275
+    },
+    "acorn squash": {
+      "class_idx": 941,
+      "n_images": 6,
+      "alignment": 0.21628379821777344
+    },
+    "butternut squash": {
+      "class_idx": 942,
+      "n_images": 6,
+      "alignment": 0.23194675147533417
+    },
+    "cucumber": {
+      "class_idx": 943,
+      "n_images": 6,
+      "alignment": 0.24237138032913208
+    },
+    "artichoke": {
+      "class_idx": 944,
+      "n_images": 6,
+      "alignment": 0.23705284297466278
+    },
+    "bell pepper": {
+      "class_idx": 945,
+      "n_images": 6,
+      "alignment": 0.22499603033065796
+    },
+    "cardoon": {
+      "class_idx": 946,
+      "n_images": 6,
+      "alignment": 0.1838787943124771
+    },
+    "mushroom": {
+      "class_idx": 947,
+      "n_images": 6,
+      "alignment": 0.21744662523269653
+    },
+    "Granny Smith": {
+      "class_idx": 948,
+      "n_images": 6,
+      "alignment": 0.24335841834545135
+    },
+    "strawberry": {
+      "class_idx": 949,
+      "n_images": 6,
+      "alignment": 0.23125676810741425
+    },
+    "orange": {
+      "class_idx": 950,
+      "n_images": 6,
+      "alignment": 0.21823787689208984
+    },
+    "lemon": {
+      "class_idx": 951,
+      "n_images": 6,
+      "alignment": 0.2282571643590927
+    },
+    "fig": {
+      "class_idx": 952,
+      "n_images": 6,
+      "alignment": 0.24415695667266846
+    },
+    "pineapple": {
+      "class_idx": 953,
+      "n_images": 6,
+      "alignment": 0.25801169872283936
+    },
+    "banana": {
+      "class_idx": 954,
+      "n_images": 6,
+      "alignment": 0.21454834938049316
+    },
+    "jackfruit": {
+      "class_idx": 955,
+      "n_images": 6,
+      "alignment": 0.2386549711227417
+    },
+    "custard apple": {
+      "class_idx": 956,
+      "n_images": 6,
+      "alignment": 0.259902685880661
+    },
+    "pomegranate": {
+      "class_idx": 957,
+      "n_images": 6,
+      "alignment": 0.23993994295597076
+    },
+    "hay": {
+      "class_idx": 958,
+      "n_images": 6,
+      "alignment": 0.2345711588859558
+    },
+    "carbonara": {
+      "class_idx": 959,
+      "n_images": 6,
+      "alignment": 0.21767303347587585
+    },
+    "chocolate sauce": {
+      "class_idx": 960,
+      "n_images": 6,
+      "alignment": 0.23883754014968872
+    },
+    "dough": {
+      "class_idx": 961,
+      "n_images": 6,
+      "alignment": 0.2414519041776657
+    },
+    "meat loaf": {
+      "class_idx": 962,
+      "n_images": 6,
+      "alignment": 0.2567281126976013
+    },
+    "pizza": {
+      "class_idx": 963,
+      "n_images": 6,
+      "alignment": 0.24960431456565857
+    },
+    "potpie": {
+      "class_idx": 964,
+      "n_images": 6,
+      "alignment": 0.23710262775421143
+    },
+    "burrito": {
+      "class_idx": 965,
+      "n_images": 6,
+      "alignment": 0.2631433606147766
+    },
+    "red wine": {
+      "class_idx": 966,
+      "n_images": 6,
+      "alignment": 0.22253626585006714
+    },
+    "espresso": {
+      "class_idx": 967,
+      "n_images": 6,
+      "alignment": 0.22701755166053772
+    },
+    "cup": {
+      "class_idx": 968,
+      "n_images": 6,
+      "alignment": 0.2243620604276657
+    },
+    "eggnog": {
+      "class_idx": 969,
+      "n_images": 6,
+      "alignment": 0.24096164107322693
+    },
+    "alp": {
+      "class_idx": 970,
+      "n_images": 6,
+      "alignment": 0.25851213932037354
+    },
+    "bubble": {
+      "class_idx": 971,
+      "n_images": 6,
+      "alignment": 0.235368549823761
+    },
+    "cliff": {
+      "class_idx": 972,
+      "n_images": 6,
+      "alignment": 0.22095328569412231
+    },
+    "coral reef": {
+      "class_idx": 973,
+      "n_images": 6,
+      "alignment": 0.21644087135791779
+    },
+    "geyser": {
+      "class_idx": 974,
+      "n_images": 6,
+      "alignment": 0.2265096753835678
+    },
+    "lakeside": {
+      "class_idx": 975,
+      "n_images": 6,
+      "alignment": 0.21874818205833435
+    },
+    "promontory": {
+      "class_idx": 976,
+      "n_images": 6,
+      "alignment": 0.205735445022583
+    },
+    "sandbar": {
+      "class_idx": 977,
+      "n_images": 6,
+      "alignment": 0.19900208711624146
+    },
+    "seashore": {
+      "class_idx": 978,
+      "n_images": 6,
+      "alignment": 0.23865468800067902
+    },
+    "valley": {
+      "class_idx": 979,
+      "n_images": 6,
+      "alignment": 0.18827062845230103
+    },
+    "volcano": {
+      "class_idx": 980,
+      "n_images": 6,
+      "alignment": 0.2390497624874115
+    },
+    "ballplayer": {
+      "class_idx": 981,
+      "n_images": 6,
+      "alignment": 0.2748008072376251
+    },
+    "groom": {
+      "class_idx": 982,
+      "n_images": 6,
+      "alignment": 0.24811910092830658
+    },
+    "scuba diver": {
+      "class_idx": 983,
+      "n_images": 6,
+      "alignment": 0.2859322428703308
+    },
+    "rapeseed": {
+      "class_idx": 984,
+      "n_images": 6,
+      "alignment": 0.24253393709659576
+    },
+    "daisy": {
+      "class_idx": 985,
+      "n_images": 6,
+      "alignment": 0.2859925627708435
+    },
+    "yellow lady's slipper": {
+      "class_idx": 986,
+      "n_images": 6,
+      "alignment": 0.2485302984714508
+    },
+    "corn": {
+      "class_idx": 987,
+      "n_images": 6,
+      "alignment": 0.22875499725341797
+    },
+    "acorn": {
+      "class_idx": 988,
+      "n_images": 6,
+      "alignment": 0.24142467975616455
+    },
+    "hip": {
+      "class_idx": 989,
+      "n_images": 6,
+      "alignment": 0.22267289459705353
+    },
+    "buckeye": {
+      "class_idx": 990,
+      "n_images": 6,
+      "alignment": 0.25999635457992554
+    },
+    "coral fungus": {
+      "class_idx": 991,
+      "n_images": 6,
+      "alignment": 0.21508273482322693
+    },
+    "agaric": {
+      "class_idx": 992,
+      "n_images": 6,
+      "alignment": 0.21139806509017944
+    },
+    "gyromitra": {
+      "class_idx": 993,
+      "n_images": 6,
+      "alignment": 0.2257174253463745
+    },
+    "stinkhorn": {
+      "class_idx": 994,
+      "n_images": 6,
+      "alignment": 0.23573610186576843
+    },
+    "earthstar": {
+      "class_idx": 995,
+      "n_images": 6,
+      "alignment": 0.23280124366283417
+    },
+    "hen-of-the-woods": {
+      "class_idx": 996,
+      "n_images": 6,
+      "alignment": 0.2466936856508255
+    },
+    "bolete": {
+      "class_idx": 997,
+      "n_images": 6,
+      "alignment": 0.23252937197685242
+    },
+    "ear": {
+      "class_idx": 998,
+      "n_images": 6,
+      "alignment": 0.21105952560901642
+    },
+    "toilet tissue": {
+      "class_idx": 999,
+      "n_images": 6,
+      "alignment": 0.21412214636802673
+    }
+  },
+  "mean_alignment": 0.23186735904985858,
+  "paper_alignment_range": [
+    0.9,
+    0.99
+  ],
+  "eurosat_f1_mean_alignment": 0.324,
+  "defactify_f3_mean_alignment": 0.037
+}

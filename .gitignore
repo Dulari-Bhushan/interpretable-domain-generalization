@@ -17,6 +17,29 @@ external/LanCE/embeddings_cache/
 # distinctly-named logs_*.log files instead, which ARE committed
 external/LanCE/training.log
 external/LanCE/training_cached.log
+external/LanCE/domain_il.log
+
+# Raw downloaded PACS dataset (large, manually obtained - see planning/ for source).
+# The generated split manifests (pacs_classes.txt, pacs_<domain>_{train,test}.txt)
+# are small path+label text files, kept and committed like CUB's cub_train.txt/cub_test.txt.
+external/LanCE/data/PACS/pacs_raw/
+
+# Raw downloaded Office-Home dataset (large, manually obtained - see planning/ for
+# source). Generated split manifests (office_home_*.txt) are small and committed,
+# same convention as PACS above.
+external/LanCE/data/OfficeHome/office_home_raw/
+
+# Raw EuroSAT dataset (large, auto-downloaded via torchvision.datasets.EuroSAT -
+# no manual step needed, unlike PACS/Office-Home, but still large/regenerable).
+external/LanCE/data/EuroSAT_raw/
+
+# Generic log files for the Office-Home / EuroSAT scripts (same convention as above)
+external/LanCE/domain_il_officehome.log
+
+# Raw GenImage/Midjourney images (large, manually obtained - see planning/ and
+# results/phase_f4_genimage_alignment.md for source and download caveats).
+# imagenet_class_index.json is small reference data and is committed.
+external/LanCE/data/GenImage/genimage_raw/
 
 # Python artifacts
 __pycache__/

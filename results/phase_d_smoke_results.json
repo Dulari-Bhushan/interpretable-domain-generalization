@@ -1,0 +1,169 @@
+{
+  "dataset": "OfficeHome",
+  "domains": [
+    "art",
+    "clipart",
+    "product",
+    "real_world"
+  ],
+  "classes": [
+    "alarm clock",
+    "backpack",
+    "batteries",
+    "bed",
+    "bike",
+    "bottle",
+    "bucket",
+    "calculator",
+    "calendar",
+    "candles",
+    "chair",
+    "clipboards",
+    "computer",
+    "couch",
+    "curtains",
+    "desk lamp",
+    "drill",
+    "eraser",
+    "exit sign",
+    "fan",
+    "file cabinet",
+    "flipflops",
+    "flowers",
+    "folder",
+    "fork",
+    "glasses",
+    "hammer",
+    "helmet",
+    "kettle",
+    "keyboard",
+    "knives",
+    "lamp shade",
+    "laptop",
+    "marker",
+    "monitor",
+    "mop",
+    "mouse",
+    "mug",
+    "notebook",
+    "oven",
+    "pan",
+    "paper clip",
+    "pen",
+    "pencil",
+    "postit notes",
+    "printer",
+    "push pin",
+    "radio",
+    "refrigerator",
+    "ruler",
+    "scissors",
+    "screwdriver",
+    "shelf",
+    "sink",
+    "sneakers",
+    "soda",
+    "speaker",
+    "spoon",
+    "tv",
+    "table",
+    "telephone",
+    "toothbrush",
+    "toys",
+    "trash can",
+    "webcam"
+  ],
+  "config": {
+    "alpha": 1.0,
+    "beta": 0.0,
+    "CBM_type": "clip_cbm",
+    "CLIP_type": "ViT-L/14",
+    "stage_epochs": 2,
+    "joint_epochs": 2,
+    "batch_size": 64,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "seed": 0
+  },
+  "joint_oracle": {
+    "per_domain_test_acc": {
+      "art": 56.70103430747986,
+      "clipart": 59.4748854637146,
+      "product": 68.278968334198,
+      "real_world": 62.88660168647766
+    },
+    "ACC": 61.83537244796753
+  },
+  "sequential_runs": [
+    {
+      "order_id": "art_clipart_product_realworld",
+      "domain_order": [
+        "art",
+        "clipart",
+        "product",
+        "real_world"
+      ],
+      "pre_training_ddo_erosion": 0.45671936869621277,
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "art",
+          "per_domain_test_acc": {
+            "art": 11.958763003349304,
+            "clipart": 7.534246146678925,
+            "product": 5.061867460608482,
+            "real_world": 6.529209762811661
+          },
+          "ddo_erosion": 0.33566009998321533
+        },
+        {
+          "stage": 1,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "art": 24.32989776134491,
+            "clipart": 25.456619262695312,
+            "product": 18.110236525535583,
+            "real_world": 18.21305900812149
+          },
+          "ddo_erosion": 0.2975263297557831
+        },
+        {
+          "stage": 2,
+          "trained_domain": "product",
+          "per_domain_test_acc": {
+            "art": 40.82474410533905,
+            "clipart": 47.031962871551514,
+            "product": 58.042746782302856,
+            "real_world": 46.849945187568665
+          },
+          "ddo_erosion": 0.3158591091632843
+        },
+        {
+          "stage": 3,
+          "trained_domain": "real_world",
+          "per_domain_test_acc": {
+            "art": 56.90721869468689,
+            "clipart": 58.105021715164185,
+            "product": 69.96625661849976,
+            "real_world": 67.35395789146423
+          },
+          "ddo_erosion": 0.3462010324001312
+        }
+      ],
+      "R_diagonal": {
+        "art": 11.958763003349304,
+        "clipart": 25.456619262695312,
+        "product": 58.042746782302856,
+        "real_world": 67.35395789146423
+      },
+      "R_final": {
+        "art": 56.90721869468689,
+        "clipart": 58.105021715164185,
+        "product": 69.96625661849976,
+        "real_world": 67.35395789146423
+      },
+      "ACC_final": 63.083113729953766,
+      "BWT": 29.840122660001118
+    }
+  ]
+}

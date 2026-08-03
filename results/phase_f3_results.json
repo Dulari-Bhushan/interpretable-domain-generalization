@@ -1,0 +1,205 @@
+{
+  "clip_type": "ViT-L/14",
+  "global": {
+    "samples_per_source": 300,
+    "per_generator": {
+      "Stable Diffusion 2.1 generated image": {
+        "label_b": 1,
+        "release_date": "Dec 2022",
+        "alignment": 0.04410029947757721
+      },
+      "Stable Diffusion XL generated image": {
+        "label_b": 2,
+        "release_date": "Jul 2023",
+        "alignment": 0.04890494793653488
+      },
+      "Stable Diffusion 3 generated image": {
+        "label_b": 3,
+        "release_date": "2024",
+        "alignment": 0.05018807575106621
+      },
+      "DALL-E 3 generated image": {
+        "label_b": 4,
+        "release_date": "Oct 2023",
+        "alignment": 0.017395518720149994
+      },
+      "Midjourney v6 generated image": {
+        "label_b": 5,
+        "release_date": "Dec 2023",
+        "alignment": 0.09621445834636688
+      }
+    },
+    "mean_alignment": 0.05136066004633903
+  },
+  "per_class_controlled": {
+    "min_per_class": 8,
+    "per_generator": {
+      "Stable Diffusion 2.1 generated image": {
+        "label_b": 1,
+        "release_date": "Dec 2022",
+        "n_categories_used": 24,
+        "per_category_alignment": {
+          "fire hydrant": 0.05939173325896263,
+          "bus": 0.033035241067409515,
+          "bird": 0.0780339166522026,
+          "motorcycle": 0.006197297014296055,
+          "giraffe": 0.0422586128115654,
+          "person": 0.057750601321458817,
+          "bench": -3.104656934738159e-05,
+          "car": 0.06074221804738045,
+          "train": 0.09473564475774765,
+          "umbrella": -0.020278863608837128,
+          "oven": 0.012550974264740944,
+          "cat": 0.0014948248863220215,
+          "toilet": 0.06757079064846039,
+          "sheep": 0.0134110227227211,
+          "zebra": 0.02058534324169159,
+          "bicycle": -0.014301648363471031,
+          "traffic light": 0.07845575362443924,
+          "sink": 0.04477525129914284,
+          "clock": -0.013503480702638626,
+          "chair": 0.05876084044575691,
+          "airplane": 0.02790399082005024,
+          "dog": 0.02175149694085121,
+          "stop sign": 0.05693229287862778,
+          "bowl": -0.0011375248432159424
+        },
+        "mean_alignment": 0.03279522010901322
+      },
+      "Stable Diffusion XL generated image": {
+        "label_b": 2,
+        "release_date": "Jul 2023",
+        "n_categories_used": 24,
+        "per_category_alignment": {
+          "fire hydrant": 0.07771356403827667,
+          "bus": 0.058914411813020706,
+          "bird": 0.05930465832352638,
+          "motorcycle": 0.019858650863170624,
+          "giraffe": 0.02765987068414688,
+          "person": 0.031118635088205338,
+          "bench": 0.03241385146975517,
+          "car": 0.050586700439453125,
+          "train": 0.07526528090238571,
+          "umbrella": 0.014411691576242447,
+          "oven": 0.0358952172100544,
+          "cat": 0.0011331774294376373,
+          "toilet": 0.09921655058860779,
+          "sheep": 0.040157146751880646,
+          "zebra": 0.023478403687477112,
+          "bicycle": 0.010526234284043312,
+          "traffic light": 0.07893937826156616,
+          "sink": 0.046653591096401215,
+          "clock": 0.02589261531829834,
+          "chair": 0.05929713696241379,
+          "airplane": 0.07672511041164398,
+          "dog": 0.011750576086342335,
+          "stop sign": 0.1176312044262886,
+          "bowl": 0.0070037879049777985
+        },
+        "mean_alignment": 0.04506447690073401
+      },
+      "Stable Diffusion 3 generated image": {
+        "label_b": 3,
+        "release_date": "2024",
+        "n_categories_used": 24,
+        "per_category_alignment": {
+          "fire hydrant": 0.061672039330005646,
+          "bus": 0.07080505788326263,
+          "bird": 0.07589660584926605,
+          "motorcycle": 0.02288484200835228,
+          "giraffe": 0.030842555686831474,
+          "person": 0.03910597413778305,
+          "bench": 0.01257370412349701,
+          "car": 0.05148708075284958,
+          "train": 0.07869670540094376,
+          "umbrella": 0.037421874701976776,
+          "oven": 0.04920617863535881,
+          "cat": 0.02290363982319832,
+          "toilet": 0.07467353343963623,
+          "sheep": 0.05289989709854126,
+          "zebra": 0.039969511330127716,
+          "bicycle": 0.040612027049064636,
+          "traffic light": 0.09705425053834915,
+          "sink": 0.05059543251991272,
+          "clock": 0.022845208644866943,
+          "chair": 0.03693617880344391,
+          "airplane": 0.022196562960743904,
+          "dog": 0.026108240708708763,
+          "stop sign": 0.1302686333656311,
+          "bowl": 0.004639882594347
+        },
+        "mean_alignment": 0.04801231739111245
+      },
+      "DALL-E 3 generated image": {
+        "label_b": 4,
+        "release_date": "Oct 2023",
+        "n_categories_used": 24,
+        "per_category_alignment": {
+          "fire hydrant": 0.028819097205996513,
+          "bus": 0.04136563464999199,
+          "bird": -0.0040720077231526375,
+          "motorcycle": 0.02370312251150608,
+          "giraffe": -0.0040601687505841255,
+          "person": 0.04360662400722504,
+          "bench": 0.011749858036637306,
+          "car": 0.0572306364774704,
+          "train": 0.03506604582071304,
+          "umbrella": 0.019447823986411095,
+          "oven": 0.04293948411941528,
+          "cat": 0.00888785533607006,
+          "toilet": 0.09743325412273407,
+          "sheep": 0.014662185683846474,
+          "zebra": 0.03690379485487938,
+          "bicycle": 0.016584035009145737,
+          "traffic light": -0.0013597914949059486,
+          "sink": 0.03176472336053848,
+          "clock": -0.010743474587798119,
+          "chair": 0.04996012523770332,
+          "airplane": 0.0050440020859241486,
+          "dog": 0.03381884843111038,
+          "stop sign": 0.008762842044234276,
+          "bowl": -0.043779969215393066
+        },
+        "mean_alignment": 0.022655607550404966
+      },
+      "Midjourney v6 generated image": {
+        "label_b": 5,
+        "release_date": "Dec 2023",
+        "n_categories_used": 24,
+        "per_category_alignment": {
+          "fire hydrant": 0.04866405948996544,
+          "bus": -0.015563193708658218,
+          "bird": 0.0731353759765625,
+          "motorcycle": 0.06520633399486542,
+          "giraffe": 0.07163174450397491,
+          "person": 0.041231606155633926,
+          "bench": 0.06717688590288162,
+          "car": 0.05255132168531418,
+          "train": 0.025411522015929222,
+          "umbrella": 0.012710297480225563,
+          "oven": 0.021792594343423843,
+          "cat": -0.011150967329740524,
+          "toilet": 0.021230021491646767,
+          "sheep": 0.029049742966890335,
+          "zebra": 0.07049539685249329,
+          "bicycle": -0.020051874220371246,
+          "traffic light": 0.04655231535434723,
+          "sink": 0.02266714535653591,
+          "clock": 0.03494131937623024,
+          "chair": 0.031190359964966774,
+          "airplane": 0.06357485055923462,
+          "dog": 0.0196649432182312,
+          "stop sign": 0.07407308369874954,
+          "bowl": -0.02555346116423607
+        },
+        "mean_alignment": 0.034192975998545684
+      }
+    },
+    "mean_alignment": 0.036544119589962065
+  },
+  "paper_alignment_range": [
+    0.9,
+    0.99
+  ],
+  "eurosat_f1_mean_alignment": 0.324
+}

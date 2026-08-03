@@ -1,0 +1,251 @@
+{
+  "dataset": "PACS",
+  "domains": [
+    "photo",
+    "art_painting",
+    "cartoon",
+    "sketch"
+  ],
+  "classes": [
+    "dog",
+    "elephant",
+    "giraffe",
+    "guitar",
+    "horse",
+    "house",
+    "person"
+  ],
+  "config": {
+    "alpha": 1.0,
+    "beta": 0.0,
+    "CBM_type": "clip_cbm",
+    "CLIP_type": "ViT-L/14",
+    "stage_epochs": 50,
+    "joint_epochs": 50,
+    "batch_size": 64,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "seed": 0
+  },
+  "joint_oracle": {
+    "per_domain_test_acc": {
+      "photo": 100.0,
+      "art_painting": 99.0243911743164,
+      "cartoon": 98.72068166732788,
+      "sketch": 95.41984796524048
+    },
+    "ACC": 98.29123020172119
+  },
+  "sequential_runs": [
+    {
+      "order_id": "photo_art_cartoon_sketch",
+      "domain_order": [
+        "photo",
+        "art_painting",
+        "cartoon",
+        "sketch"
+      ],
+      "pre_training_ddo_erosion": 0.41211646795272827,
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 99.39939975738525,
+            "art_painting": 88.78048658370972,
+            "cartoon": 93.39019656181335,
+            "sketch": 84.98727679252625
+          },
+          "ddo_erosion": 0.3210800886154175
+        },
+        {
+          "stage": 1,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 99.39939975738525,
+            "art_painting": 98.78048896789551,
+            "cartoon": 98.50746393203735,
+            "sketch": 95.03816962242126
+          },
+          "ddo_erosion": 0.3646230101585388
+        },
+        {
+          "stage": 2,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.53658676147461,
+            "cartoon": 99.57356452941895,
+            "sketch": 93.89312863349915
+          },
+          "ddo_erosion": 0.3267267942428589
+        },
+        {
+          "stage": 3,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 87.38738894462585,
+            "art_painting": 91.21951460838318,
+            "cartoon": 94.24307346343994,
+            "sketch": 95.80152630805969
+          },
+          "ddo_erosion": 0.31473541259765625
+        }
+      ],
+      "R_diagonal": {
+        "photo": 99.39939975738525,
+        "art_painting": 98.78048896789551,
+        "cartoon": 99.57356452941895,
+        "sketch": 95.80152630805969
+      },
+      "R_final": {
+        "photo": 87.38738894462585,
+        "art_painting": 91.21951460838318,
+        "cartoon": 94.24307346343994,
+        "sketch": 95.80152630805969
+      },
+      "ACC_final": 92.16287583112717,
+      "BWT": -8.301158746083578
+    },
+    {
+      "order_id": "sketch_cartoon_art_photo",
+      "domain_order": [
+        "sketch",
+        "cartoon",
+        "art_painting",
+        "photo"
+      ],
+      "pre_training_ddo_erosion": 0.4733796715736389,
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 73.57357740402222,
+            "art_painting": 79.5121967792511,
+            "cartoon": 91.25799536705017,
+            "sketch": 95.16539573669434
+          },
+          "ddo_erosion": 0.350685179233551
+        },
+        {
+          "stage": 1,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.78048896789551,
+            "cartoon": 98.93390536308289,
+            "sketch": 94.02035474777222
+          },
+          "ddo_erosion": 0.33352407813072205
+        },
+        {
+          "stage": 2,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.78048896789551,
+            "cartoon": 98.72068166732788,
+            "sketch": 95.67430019378662
+          },
+          "ddo_erosion": 0.3364730477333069
+        },
+        {
+          "stage": 3,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 97.44136929512024,
+            "sketch": 94.78371739387512
+          },
+          "ddo_erosion": 0.31601911783218384
+        }
+      ],
+      "R_diagonal": {
+        "sketch": 95.16539573669434,
+        "cartoon": 98.93390536308289,
+        "art_painting": 98.78048896789551,
+        "photo": 100.0
+      },
+      "R_final": {
+        "photo": 100.0,
+        "art_painting": 99.0243911743164,
+        "cartoon": 97.44136929512024,
+        "sketch": 94.78371739387512
+      },
+      "ACC_final": 97.81236946582794,
+      "BWT": -0.5434374014536539
+    },
+    {
+      "order_id": "art_sketch_photo_cartoon",
+      "domain_order": [
+        "art_painting",
+        "sketch",
+        "photo",
+        "cartoon"
+      ],
+      "pre_training_ddo_erosion": 0.47366929054260254,
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 99.09909963607788,
+            "art_painting": 98.04878234863281,
+            "cartoon": 95.09595036506653,
+            "sketch": 91.73027873039246
+          },
+          "ddo_erosion": 0.32595011591911316
+        },
+        {
+          "stage": 1,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 79.2792797088623,
+            "art_painting": 87.07317113876343,
+            "cartoon": 93.17697286605835,
+            "sketch": 95.41984796524048
+          },
+          "ddo_erosion": 0.3275708556175232
+        },
+        {
+          "stage": 2,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.29268455505371,
+            "cartoon": 97.65458703041077,
+            "sketch": 95.03816962242126
+          },
+          "ddo_erosion": 0.3419475555419922
+        },
+        {
+          "stage": 3,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.53658676147461,
+            "cartoon": 99.14712309837341,
+            "sketch": 94.14758086204529
+          },
+          "ddo_erosion": 0.3131408989429474
+        }
+      ],
+      "R_diagonal": {
+        "art_painting": 98.04878234863281,
+        "sketch": 95.41984796524048,
+        "photo": 100.0,
+        "cartoon": 99.14712309837341
+      },
+      "R_final": {
+        "photo": 100.0,
+        "art_painting": 98.53658676147461,
+        "cartoon": 99.14712309837341,
+        "sketch": 94.14758086204529
+      },
+      "ACC_final": 97.95782268047333,
+      "BWT": -0.26148756345113117
+    }
+  ]
+}
