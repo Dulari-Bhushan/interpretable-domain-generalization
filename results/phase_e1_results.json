@@ -1,0 +1,67 @@
+{
+  "pool_size": 204,
+  "source_text_prompts": [
+    "a photo of a {}."
+  ],
+  "gpt35_training_cutoff_approx": "~Sept 2021",
+  "direct_ai_term_matches": {},
+  "n_direct_ai_term_matches": 0,
+  "adjacent_term_matches": {
+    "digital art": [
+      "a digital art of a {}."
+    ],
+    "cgi render": [
+      "a CGI render of a {}."
+    ],
+    "vector graphic": [
+      "a vector graphic of a {}."
+    ],
+    "vr model": [
+      "a VR model of a {}."
+    ],
+    "hologram": [
+      "a hologram of a {}.",
+      "a 3D hologram of a {}."
+    ],
+    "sci-fi": [
+      "a sci-fi style of a {}."
+    ],
+    "futuristic concept art": [
+      "a futuristic concept art of a {}."
+    ],
+    "cyberpunk": [
+      "a cyberpunk illustration of a {}."
+    ],
+    "3d hologram": [
+      "a 3D hologram of a {}."
+    ],
+    "augmented reality": [
+      "an augmented reality filter of a {}."
+    ]
+  },
+  "n_adjacent_term_matches": 10,
+  "generator_specific_check": {
+    "Stable Diffusion 2.1": {
+      "released": "Dec 2022",
+      "named_in_pool": false
+    },
+    "Stable Diffusion XL": {
+      "released": "Jul 2023",
+      "named_in_pool": false
+    },
+    "Stable Diffusion 3": {
+      "released": "2024",
+      "named_in_pool": false
+    },
+    "DALL-E 3": {
+      "released": "Oct 2023",
+      "named_in_pool": false
+    },
+    "Midjourney v6": {
+      "released": "Dec 2023",
+      "named_in_pool": false
+    }
+  },
+  "n_generators_named": 0,
+  "n_generators_checked": 5
+}
