@@ -16,6 +16,16 @@ The most relevant prior work is **LanCE** ([Zeng et al., CVPR 2025](https://arxi
 | [`results/`](results) | Write-up (`.md`), raw numbers (`.json`), and figures (`figures/*.png`) for every completed phase |
 | [`presentation/`](presentation) | Rendered HTML artifact summarizing the failure-mode analysis for slide-building — also updated with real numbers |
 
+## New methodology: fixing what Pillars 1 & 2 found (in progress)
+
+Everything above (Phases 0–D, F1–F4, E1–E2) is the **diagnosis**: it establishes that LanCE forgets earlier domains once a harder benchmark is used, and that its frozen CLIP backbone + frozen descriptor list both have real, measured coverage gaps. The project's second half is the **treatment**: an actual proposed method — not a patch list — with each piece addressing one measured failure. Full plan, reasoning, and status: [`docs/new_methodology_report.md`](docs/new_methodology_report.md) (start there for the self-contained "what we did, why, did it work" narrative).
+
+Status so far:
+- ✅ **Component 1 — exact, no-forgetting classifier update:** implemented and validated on both PACS and Office-Home using the existing cached embeddings. Result: **max difference from the joint/oracle fit = 0.0000** on every domain ordering tested, on both datasets — including Office-Home, the benchmark where the original SGD-trained baseline showed real forgetting (BWT −0.68 to −4.68) that the standard remediations only partially fixed. See `results/component1_pacs_results.json`, `results/component1_officehome_results.json`, and the full writeup in `docs/new_methodology_report.md`.
+- ⏳ Components 2–5 (self-diagnosing domain grounding, self-growing/pruning vocabulary, no-raw-image domain memory, confidence-gated fallback): not started — waiting on the medical dataset and a DomainNet loader.
+- **New datasets:** AWA2 (13GB) and DomainNet (6 domains, 345 classes, ~18GB) are downloaded and, for AWA2, verified working end-to-end. Camelyon17-WILDS (the planned medical dataset — 5 real hospitals, histopathology, no registration needed) is blocked by a server-side outage on its host (`worksheets.codalab.org` returning HTTP 500); LADA-Sculpture, CheXpert, and MIMIC-CXR all need registration under your own identity and can't be automated. Full breakdown in `docs/new_methodology_report.md`.
+- **Literature check:** the mechanism behind each component already exists in some form in published work — most notably [CONCIL](https://arxiv.org/abs/2411.17471), which already applies closed-form/analytic continual learning to concept bottleneck models, just for concept/class-incremental learning rather than domain-incremental. See `docs/new_methodology_report.md` §6 for the full breakdown of what's already published versus what (narrowly) isn't confirmed anywhere yet.
+
 ## Current status
 
 **Pillar 1 (primary): does LanCE have any mechanism to survive domains arriving over time?**
@@ -49,6 +59,10 @@ Full detail on why the plan is shaped this way — including datasets that were 
 | **EuroSAT** | Phase F1, F2 | 27,000 imgs, 10 classes | 2017–2019 | OpenAI's own CLIP paper already publishes an anchor number for it (59.6% zero-shot vs. 98.1% linear probe) — an independently-sourced ceiling to compare against. **Note**: predates CLIP, so this tests modality scarcity, not temporal novelty |
 | **Defactify/MS-COCO-AI** | Phase F3 | 96,000 imgs (real COCO + 5 generators) | Generators: Dec 2022–2024 | All 5 generators postdate both CLIP's (~2020/21) and GPT-3.5's (~Sept 2021) training cutoffs by 15+ months — a genuine temporal-novelty test, with real matched photo images (not a text stand-in) |
 | **GenImage/Midjourney** | Phase F4 | 928 imgs, 155 ImageNet classes (partial — see below) | Midjourney images: 2023 | The dataset originally identified as the ideal temporal-novelty test, dropped early on for access reasons, revisited once a Midjourney subset was located and downloaded directly |
+| **AWA2** | Component 1 (planned) | 37,322 imgs, 50 classes | 2017 (v2) | A loader already existed in the vendored codebase from before this project (unused); downloaded now that dataset scale isn't a constraint — a third, ~free confirmation of Component 1 beyond PACS/Office-Home |
+| **DomainNet** | Component 1 (planned) | ~0.6M imgs, 6 domains, 345 classes | 2019 | Downloaded (all 6 domain zips, ~18GB); a data loader (prep script + `*_data.py` + concept bank, following the existing per-dataset pattern) is still needed before it can be used in an experiment — the standard hard benchmark this subfield expects to see Component 1 tested against |
+| **Camelyon17-WILDS** | Component 2 (planned) | ~10GB, 5 hospitals, 2 classes | 2019 | Multi-hospital histopathology domain-shift benchmark, purpose-built for exactly this kind of study, no registration required (`pip install wilds`) — currently blocked by a server-side outage on its host, not yet downloaded |
+| **LADA-Sculpture, CheXpert, MIMIC-CXR** | Component 5 / Component 2 (planned) | — | — | Not downloaded — each requires registration/credentialing under the project owner's own identity (Google Drive/Baidu access, a Stanford AIMI account, and PhysioNet CITI training + a signed data-use agreement respectively); can't be automated |
 
 Datasets are gitignored (large, and either publicly redistributable or regenerable). PACS/Office-Home/GenImage needed manual download (Google Drive); EuroSAT and Defactify download directly via `torchvision`/`datasets` with no manual step. See each phase's `results/phase_*.md` for exact download sources and any access complications encountered (GenImage's download in particular was a partial multi-part archive — documented in full in `results/phase_f4_genimage_alignment.md`).
 
@@ -76,12 +90,19 @@ All new code lives under `external/LanCE/`, reusing LanCE's own model/DDO-loss/t
 - `phase_e1_descriptor_staleness_check.py` — scans LanCE's shipped 204-descriptor pool for AI-generation terms (Phase E1)
 - `phase_e2_defactify_ddo_training.py` — real baseline-vs-+DDO training run, real photos → Midjourney v6, using the unmodified descriptor pool (Phase E2, this one *does* train a model)
 
+**New methodology** (`model/`, `experiments/`), built after Pillars 1 & 2's diagnosis was complete:
+- `model/analytic_classifier.py` — Component 1: `AnalyticDomainIncrementalClassifier`, the exact incremental replacement for `clip_cbm_orth`'s trained classifier. Full derivation (why LayerNorm+Linear collapses to one linear map, why DDO's L1 penalty is substituted with an L2 surrogate to keep the update closed-form) is in the module's own docstring.
+- `experiments/component1_analytic_domain_il.py`, `experiments/component1_analytic_domain_il_officehome.py` — validation harnesses reusing `DomainILSession`'s existing cached embeddings; compare the analytic classifier's sequential fit against a joint/oracle fit on the same data, per domain ordering.
+
 **Shared infrastructure fix**: `external/LanCE/cache_utils.py` — found and fixed a real bug (`num_workers=8` in the caching `DataLoader` silently produced identical cached embeddings for every image once a split needed enough worker-dispatched batches on this environment; fixed to `num_workers=0`). Affected every phase from B onward until caught — full incident writeup in `results/phase_b_domain_il.md`.
 
 **Every phase's own write-up** (`results/phase_*.md`) states its hypothesis, exact method, dataset, numbers, an honest interpretation (including when the literal hypothesis was wrong), and explicit limitations — read those directly for full methodological detail rather than relying on this summary.
 
 ## Further plans (genuinely open, not yet done)
 
+- **A DomainNet data loader.** Data is downloaded (§ Datasets above); still needs a `prepare_domainnet_dataset.py`, `domainnet_data.py`, and a hand-written concept bank following the existing PACS/Office-Home pattern before Component 1 can be run against it.
+- **Camelyon17 download**, once its host recovers (or via manual download from `wilds.stanford.edu/downloads`) — the planned dataset for Components 2–4.
+- **Components 2–5** of the new methodology (self-diagnosing domain grounding, self-growing/pruning descriptor vocabulary, no-raw-image domain memory, confidence-gated fallback) — not started; see `docs/new_methodology_report.md` for the full design and what each one needs.
 - **A complete GenImage download.** Phase F4 only recovered 155/1,000 ImageNet classes and no real labeled training photos (partial multi-part archive — see `results/phase_f4_genimage_alignment.md`). Phase E2 ran the real baseline-vs-+DDO training test on Defactify instead (real photos → Midjourney v6); a full GenImage download would still be useful as a second, independent dataset for the same comparison.
 - ~~Descriptor-set staleness test (originally planned item 4, never run)~~ — **done**, as Phase E1 (pool inspection: 0/20 AI-generation terms found in LanCE's shipped descriptor list) and Phase E2 (the real training-accuracy cost: DDO's gain shrinks from +6.40 to +0.68 points on a domain the list doesn't cover). Remaining open extension: test generators beyond Midjourney v6, and re-verify E1 against a fresh GPT-3.5 API call rather than the checked-in pool alone.
 - **Failure Mode 4 (static concept bank / fixed output layer)**: deliberately deferred throughout — mixing class-incremental with domain-incremental forgetting would have blurred Phase B–D's results. A natural next experiment once the domain-only case is fully closed out.

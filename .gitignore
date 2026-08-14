@@ -41,6 +41,22 @@ external/LanCE/domain_il_officehome.log
 # imagenet_class_index.json is small reference data and is committed.
 external/LanCE/data/GenImage/genimage_raw/
 
+# Raw downloaded AWA2 dataset (large, publicly redistributable - see
+# docs/new_methodology_report.md for source). awa2_*.txt annotation files and
+# the loader code stay committed, same convention as PACS/Office-Home above.
+external/LanCE/data/awa2/raw/
+external/LanCE/data/awa2/JPEGImages/
+
+# Raw downloaded DomainNet dataset (large, publicly redistributable - see
+# docs/new_methodology_report.md for source and sizes). No loader/manifests
+# committed yet - the whole folder is regenerable from the public zips.
+external/LanCE/data/DomainNet/
+
+# Camelyon17-WILDS (medical dataset, download currently blocked - see
+# docs/new_methodology_report.md). Ignored regardless of download state so a
+# future completed download doesn't need a gitignore change.
+external/LanCE/data/Camelyon17/
+
 # Python artifacts
 __pycache__/
 *.pyc

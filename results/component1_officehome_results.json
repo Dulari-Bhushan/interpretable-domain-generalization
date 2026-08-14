@@ -1,0 +1,218 @@
+{
+  "dataset": "OfficeHome",
+  "component": "1 - analytic domain-incremental classifier",
+  "config": {
+    "ridge_lambda": 1.0,
+    "ddo_lambda": 1.0,
+    "seed": 0
+  },
+  "joint_oracle": {
+    "per_domain_test_acc": {
+      "art": 87.8350555896759,
+      "clipart": 80.1369845867157,
+      "product": 96.17547988891602,
+      "real_world": 91.9816792011261
+    },
+    "ACC": 89.03229981660843
+  },
+  "sequential_runs": [
+    {
+      "order_id": "art_clipart_product_realworld",
+      "domain_order": [
+        "art",
+        "clipart",
+        "product",
+        "real_world"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "art",
+          "per_domain_test_acc": {
+            "art": 87.8350555896759,
+            "clipart": 71.91780805587769,
+            "product": 85.71428656578064,
+            "real_world": 83.61970782279968
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "art": 87.62887120246887,
+            "clipart": 81.50684833526611,
+            "product": 92.57593154907227,
+            "real_world": 88.43070268630981
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "product",
+          "per_domain_test_acc": {
+            "art": 89.07216787338257,
+            "clipart": 80.1369845867157,
+            "product": 96.28796577453613,
+            "real_world": 90.26346206665039
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "real_world",
+          "per_domain_test_acc": {
+            "art": 87.8350555896759,
+            "clipart": 80.1369845867157,
+            "product": 96.17547988891602,
+            "real_world": 91.9816792011261
+          }
+        }
+      ],
+      "R_diagonal": {
+        "art": 87.8350555896759,
+        "clipart": 81.50684833526611,
+        "product": 96.28796577453613,
+        "real_world": 91.9816792011261
+      },
+      "R_final": {
+        "art": 87.8350555896759,
+        "clipart": 80.1369845867157,
+        "product": 96.17547988891602,
+        "real_world": 91.9816792011261
+      },
+      "ACC_final": 89.03229981660843,
+      "BWT": -0.49411654472351074,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "realworld_product_clipart_art",
+      "domain_order": [
+        "real_world",
+        "product",
+        "clipart",
+        "art"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "real_world",
+          "per_domain_test_acc": {
+            "art": 83.71134400367737,
+            "clipart": 76.5981674194336,
+            "product": 92.57593154907227,
+            "real_world": 93.1271493434906
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "product",
+          "per_domain_test_acc": {
+            "art": 83.9175283908844,
+            "clipart": 76.94063782691956,
+            "product": 96.51293754577637,
+            "real_world": 92.78351068496704
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "art": 84.742271900177,
+            "clipart": 79.68035936355591,
+            "product": 96.28796577453613,
+            "real_world": 91.9816792011261
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "art",
+          "per_domain_test_acc": {
+            "art": 87.8350555896759,
+            "clipart": 80.1369845867157,
+            "product": 96.17547988891602,
+            "real_world": 91.9816792011261
+          }
+        }
+      ],
+      "R_diagonal": {
+        "real_world": 93.1271493434906,
+        "product": 96.51293754577637,
+        "clipart": 79.68035936355591,
+        "art": 87.8350555896759
+      },
+      "R_final": {
+        "art": 87.8350555896759,
+        "clipart": 80.1369845867157,
+        "product": 96.17547988891602,
+        "real_world": 91.9816792011261
+      },
+      "ACC_final": 89.03229981660843,
+      "BWT": -0.3421008586883545,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "clipart_realworld_art_product",
+      "domain_order": [
+        "clipart",
+        "real_world",
+        "art",
+        "product"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "art": 78.5567045211792,
+            "clipart": 82.99086689949036,
+            "product": 90.77615737915039,
+            "real_world": 86.59794330596924
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "real_world",
+          "per_domain_test_acc": {
+            "art": 84.53608751296997,
+            "clipart": 81.73515796661377,
+            "product": 93.81327629089355,
+            "real_world": 92.439866065979
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "art",
+          "per_domain_test_acc": {
+            "art": 88.86598348617554,
+            "clipart": 80.9360682964325,
+            "product": 93.92576217651367,
+            "real_world": 92.09622144699097
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "product",
+          "per_domain_test_acc": {
+            "art": 87.8350555896759,
+            "clipart": 80.1369845867157,
+            "product": 96.17547988891602,
+            "real_world": 91.9816792011261
+          }
+        }
+      ],
+      "R_diagonal": {
+        "clipart": 82.99086689949036,
+        "real_world": 92.439866065979,
+        "art": 88.86598348617554,
+        "product": 96.17547988891602
+      },
+      "R_final": {
+        "art": 87.8350555896759,
+        "clipart": 80.1369845867157,
+        "product": 96.17547988891602,
+        "real_world": 91.9816792011261
+      },
+      "ACC_final": 89.03229981660843,
+      "BWT": -1.4476656913757324,
+      "max_abs_diff_from_joint_acc": 0.0
+    }
+  ]
+}

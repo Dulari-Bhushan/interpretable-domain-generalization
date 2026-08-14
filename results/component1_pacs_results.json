@@ -1,0 +1,218 @@
+{
+  "dataset": "PACS",
+  "component": "1 - analytic domain-incremental classifier",
+  "config": {
+    "ridge_lambda": 1.0,
+    "ddo_lambda": 1.0,
+    "seed": 0
+  },
+  "joint_oracle": {
+    "per_domain_test_acc": {
+      "photo": 100.0,
+      "art_painting": 99.0243911743164,
+      "cartoon": 99.36034083366394,
+      "sketch": 95.67430019378662
+    },
+    "ACC": 98.51475805044174
+  },
+  "sequential_runs": [
+    {
+      "order_id": "photo_art_cartoon_sketch",
+      "domain_order": [
+        "photo",
+        "art_painting",
+        "cartoon",
+        "sketch"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 93.90243887901306,
+            "cartoon": 97.44136929512024,
+            "sketch": 94.14758086204529
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.2682933807373,
+            "cartoon": 99.57356452941895,
+            "sketch": 95.54707407951355
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.2682933807373,
+            "cartoon": 99.57356452941895,
+            "sketch": 95.41984796524048
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.36034083366394,
+            "sketch": 95.67430019378662
+          }
+        }
+      ],
+      "R_diagonal": {
+        "photo": 100.0,
+        "art_painting": 99.2682933807373,
+        "cartoon": 99.57356452941895,
+        "sketch": 95.67430019378662
+      },
+      "R_final": {
+        "photo": 100.0,
+        "art_painting": 99.0243911743164,
+        "cartoon": 99.36034083366394,
+        "sketch": 95.67430019378662
+      },
+      "ACC_final": 98.51475805044174,
+      "BWT": -0.15237530072530112,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "sketch_cartoon_art_photo",
+      "domain_order": [
+        "sketch",
+        "cartoon",
+        "art_painting",
+        "photo"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 99.69969987869263,
+            "art_painting": 94.87804770469666,
+            "cartoon": 98.93390536308289,
+            "sketch": 96.43765687942505
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 98.78048896789551,
+            "cartoon": 99.14712309837341,
+            "sketch": 96.05597853660583
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.57356452941895,
+            "sketch": 95.92875242233276
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.36034083366394,
+            "sketch": 95.67430019378662
+          }
+        }
+      ],
+      "R_diagonal": {
+        "sketch": 96.43765687942505,
+        "cartoon": 99.14712309837341,
+        "art_painting": 99.0243911743164,
+        "photo": 100.0
+      },
+      "R_final": {
+        "photo": 100.0,
+        "art_painting": 99.0243911743164,
+        "cartoon": 99.36034083366394,
+        "sketch": 95.67430019378662
+      },
+      "ACC_final": 98.51475805044174,
+      "BWT": -0.1833796501159668,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "art_sketch_photo_cartoon",
+      "domain_order": [
+        "art_painting",
+        "sketch",
+        "photo",
+        "cartoon"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "art_painting",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.57356452941895,
+            "sketch": 95.80152630805969
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.57356452941895,
+            "sketch": 96.05597853660583
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "photo",
+          "per_domain_test_acc": {
+            "photo": 99.69969987869263,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.57356452941895,
+            "sketch": 95.92875242233276
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "cartoon",
+          "per_domain_test_acc": {
+            "photo": 100.0,
+            "art_painting": 99.0243911743164,
+            "cartoon": 99.36034083366394,
+            "sketch": 95.67430019378662
+          }
+        }
+      ],
+      "R_diagonal": {
+        "art_painting": 99.0243911743164,
+        "sketch": 96.05597853660583,
+        "photo": 99.69969987869263,
+        "cartoon": 99.36034083366394
+      },
+      "R_final": {
+        "photo": 100.0,
+        "art_painting": 99.0243911743164,
+        "cartoon": 99.36034083366394,
+        "sketch": 95.67430019378662
+      },
+      "ACC_final": 98.51475805044174,
+      "BWT": -0.027126073837280273,
+      "max_abs_diff_from_joint_acc": 0.0
+    }
+  ]
+}
