@@ -1,0 +1,240 @@
+{
+  "clip_type": "ViT-L/14",
+  "target_generator": "DALL-E 3",
+  "target_label_b": 4,
+  "n_classes": 23,
+  "classes": [
+    "bus",
+    "train",
+    "toilet",
+    "giraffe",
+    "car",
+    "motorcycle",
+    "bench",
+    "bird",
+    "sink",
+    "airplane",
+    "person",
+    "cat",
+    "sheep",
+    "fire hydrant",
+    "dog",
+    "stop sign",
+    "traffic light",
+    "bicycle",
+    "bowl",
+    "truck",
+    "clock",
+    "oven",
+    "chair"
+  ],
+  "n_concepts": 76,
+  "probe_size": 20,
+  "n_train": 3303,
+  "n_source_test": 826,
+  "n_target_test": 3669,
+  "per_class_summary": {
+    "bus": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "train": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "toilet": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "giraffe": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "car": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "motorcycle": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "bench": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "bird": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "sink": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "airplane": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "person": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "cat": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "sheep": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "fire hydrant": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "dog": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "stop sign": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "traffic light": {
+      "n_source_train": 160,
+      "n_source_test": 40,
+      "n_target_probe": 20,
+      "n_target_test": 180
+    },
+    "bicycle": {
+      "n_source_train": 149,
+      "n_source_test": 37,
+      "n_target_probe": 20,
+      "n_target_test": 166
+    },
+    "bowl": {
+      "n_source_train": 101,
+      "n_source_test": 25,
+      "n_target_probe": 20,
+      "n_target_test": 106
+    },
+    "truck": {
+      "n_source_train": 91,
+      "n_source_test": 23,
+      "n_target_probe": 20,
+      "n_target_test": 94
+    },
+    "clock": {
+      "n_source_train": 91,
+      "n_source_test": 23,
+      "n_target_probe": 20,
+      "n_target_test": 94
+    },
+    "oven": {
+      "n_source_train": 78,
+      "n_source_test": 20,
+      "n_target_probe": 20,
+      "n_target_test": 78
+    },
+    "chair": {
+      "n_source_train": 73,
+      "n_source_test": 18,
+      "n_target_probe": 20,
+      "n_target_test": 71
+    }
+  },
+  "threshold": 0.14313794151941936,
+  "diagnosis": {
+    "per_class_alignment": {
+      "bus": -0.01417810283601284,
+      "train": 0.017930807545781136,
+      "toilet": 0.0876048356294632,
+      "giraffe": 0.034248918294906616,
+      "car": 0.014931757003068924,
+      "motorcycle": 0.07976427674293518,
+      "bench": -0.025690268725156784,
+      "bird": 0.03543565794825554,
+      "sink": 0.04868198186159134,
+      "airplane": 0.025104638189077377,
+      "person": 0.07206471264362335,
+      "cat": -0.022251196205615997,
+      "sheep": 0.016041014343500137,
+      "fire hydrant": 0.038842782378196716,
+      "dog": -0.04804598540067673,
+      "stop sign": 0.010035119950771332,
+      "traffic light": -0.014701827429234982,
+      "bicycle": 0.001522545237094164,
+      "bowl": 0.0008664745837450027,
+      "truck": 0.04470665007829666,
+      "clock": 0.004344731569290161,
+      "oven": 0.07156882435083389,
+      "chair": 0.017530936747789383
+    },
+    "mean_alignment": 0.021580838456587946,
+    "trusted": false
+  },
+  "training_seed": 0,
+  "epochs": 50,
+  "batch_size": 64,
+  "results_by_condition": {
+    "baseline": {
+      "best_source_acc": 73.00242130750605,
+      "best_target_acc": 71.00027255382938,
+      "best_epoch": 49
+    },
+    "ddo_text": {
+      "best_source_acc": 72.76029055690073,
+      "best_target_acc": 72.25402016898337,
+      "best_epoch": 49
+    },
+    "ddo_grounded_mean": {
+      "best_source_acc": 71.91283292978208,
+      "best_target_acc": 71.32733714908694,
+      "best_epoch": 49
+    },
+    "ddo_grounded_persample": {
+      "best_source_acc": 72.27602905569007,
+      "best_target_acc": 73.07168165712729,
+      "best_epoch": 49
+    },
+    "ddo_grounded_blend": {
+      "best_source_acc": 72.76029055690073,
+      "best_target_acc": 72.28127555192151,
+      "best_epoch": 49
+    }
+  },
+  "phase_f3_reference_alignment": {
+    "global": 0.017,
+    "per_class": 0.023
+  }
+}
