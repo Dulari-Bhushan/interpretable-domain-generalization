@@ -57,6 +57,9 @@ external/LanCE/data/DomainNet/
 # future completed download doesn't need a gitignore change.
 external/LanCE/data/Camelyon17/
 
+# Local Claude Code tool settings (machine-specific, not project content)
+.claude/
+
 # Python artifacts
 __pycache__/
 *.pyc
