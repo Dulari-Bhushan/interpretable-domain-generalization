@@ -1,0 +1,1380 @@
+the overall shape of a aircraft carrier
+the typical color of a aircraft carrier
+a distinctive part of a aircraft carrier
+the texture or surface of a aircraft carrier
+the overall shape of a airplane
+the typical color of a airplane
+a distinctive part of a airplane
+the texture or surface of a airplane
+the overall shape of a alarm clock
+the typical color of a alarm clock
+a distinctive part of a alarm clock
+the texture or surface of a alarm clock
+the overall shape of a ambulance
+the typical color of a ambulance
+a distinctive part of a ambulance
+the texture or surface of a ambulance
+the overall shape of a angel
+the typical color of a angel
+a distinctive part of a angel
+the texture or surface of a angel
+the overall shape of a animal migration
+the typical color of a animal migration
+a distinctive part of a animal migration
+the texture or surface of a animal migration
+the overall shape of a ant
+the typical color of a ant
+a distinctive part of a ant
+the texture or surface of a ant
+the overall shape of a anvil
+the typical color of a anvil
+a distinctive part of a anvil
+the texture or surface of a anvil
+the overall shape of a apple
+the typical color of a apple
+a distinctive part of a apple
+the texture or surface of a apple
+the overall shape of a arm
+the typical color of a arm
+a distinctive part of a arm
+the texture or surface of a arm
+the overall shape of a asparagus
+the typical color of a asparagus
+a distinctive part of a asparagus
+the texture or surface of a asparagus
+the overall shape of a axe
+the typical color of a axe
+a distinctive part of a axe
+the texture or surface of a axe
+the overall shape of a backpack
+the typical color of a backpack
+a distinctive part of a backpack
+the texture or surface of a backpack
+the overall shape of a banana
+the typical color of a banana
+a distinctive part of a banana
+the texture or surface of a banana
+the overall shape of a bandage
+the typical color of a bandage
+a distinctive part of a bandage
+the texture or surface of a bandage
+the overall shape of a barn
+the typical color of a barn
+a distinctive part of a barn
+the texture or surface of a barn
+the overall shape of a baseball
+the typical color of a baseball
+a distinctive part of a baseball
+the texture or surface of a baseball
+the overall shape of a baseball bat
+the typical color of a baseball bat
+a distinctive part of a baseball bat
+the texture or surface of a baseball bat
+the overall shape of a basket
+the typical color of a basket
+a distinctive part of a basket
+the texture or surface of a basket
+the overall shape of a basketball
+the typical color of a basketball
+a distinctive part of a basketball
+the texture or surface of a basketball
+the overall shape of a bat
+the typical color of a bat
+a distinctive part of a bat
+the texture or surface of a bat
+the overall shape of a bathtub
+the typical color of a bathtub
+a distinctive part of a bathtub
+the texture or surface of a bathtub
+the overall shape of a beach
+the typical color of a beach
+a distinctive part of a beach
+the texture or surface of a beach
+the overall shape of a bear
+the typical color of a bear
+a distinctive part of a bear
+the texture or surface of a bear
+the overall shape of a beard
+the typical color of a beard
+a distinctive part of a beard
+the texture or surface of a beard
+the overall shape of a bed
+the typical color of a bed
+a distinctive part of a bed
+the texture or surface of a bed
+the overall shape of a bee
+the typical color of a bee
+a distinctive part of a bee
+the texture or surface of a bee
+the overall shape of a belt
+the typical color of a belt
+a distinctive part of a belt
+the texture or surface of a belt
+the overall shape of a bench
+the typical color of a bench
+a distinctive part of a bench
+the texture or surface of a bench
+the overall shape of a bicycle
+the typical color of a bicycle
+a distinctive part of a bicycle
+the texture or surface of a bicycle
+the overall shape of a binoculars
+the typical color of a binoculars
+a distinctive part of a binoculars
+the texture or surface of a binoculars
+the overall shape of a bird
+the typical color of a bird
+a distinctive part of a bird
+the texture or surface of a bird
+the overall shape of a birthday cake
+the typical color of a birthday cake
+a distinctive part of a birthday cake
+the texture or surface of a birthday cake
+the overall shape of a blackberry
+the typical color of a blackberry
+a distinctive part of a blackberry
+the texture or surface of a blackberry
+the overall shape of a blueberry
+the typical color of a blueberry
+a distinctive part of a blueberry
+the texture or surface of a blueberry
+the overall shape of a book
+the typical color of a book
+a distinctive part of a book
+the texture or surface of a book
+the overall shape of a boomerang
+the typical color of a boomerang
+a distinctive part of a boomerang
+the texture or surface of a boomerang
+the overall shape of a bottlecap
+the typical color of a bottlecap
+a distinctive part of a bottlecap
+the texture or surface of a bottlecap
+the overall shape of a bowtie
+the typical color of a bowtie
+a distinctive part of a bowtie
+the texture or surface of a bowtie
+the overall shape of a bracelet
+the typical color of a bracelet
+a distinctive part of a bracelet
+the texture or surface of a bracelet
+the overall shape of a brain
+the typical color of a brain
+a distinctive part of a brain
+the texture or surface of a brain
+the overall shape of a bread
+the typical color of a bread
+a distinctive part of a bread
+the texture or surface of a bread
+the overall shape of a bridge
+the typical color of a bridge
+a distinctive part of a bridge
+the texture or surface of a bridge
+the overall shape of a broccoli
+the typical color of a broccoli
+a distinctive part of a broccoli
+the texture or surface of a broccoli
+the overall shape of a broom
+the typical color of a broom
+a distinctive part of a broom
+the texture or surface of a broom
+the overall shape of a bucket
+the typical color of a bucket
+a distinctive part of a bucket
+the texture or surface of a bucket
+the overall shape of a bulldozer
+the typical color of a bulldozer
+a distinctive part of a bulldozer
+the texture or surface of a bulldozer
+the overall shape of a bus
+the typical color of a bus
+a distinctive part of a bus
+the texture or surface of a bus
+the overall shape of a bush
+the typical color of a bush
+a distinctive part of a bush
+the texture or surface of a bush
+the overall shape of a butterfly
+the typical color of a butterfly
+a distinctive part of a butterfly
+the texture or surface of a butterfly
+the overall shape of a cactus
+the typical color of a cactus
+a distinctive part of a cactus
+the texture or surface of a cactus
+the overall shape of a cake
+the typical color of a cake
+a distinctive part of a cake
+the texture or surface of a cake
+the overall shape of a calculator
+the typical color of a calculator
+a distinctive part of a calculator
+the texture or surface of a calculator
+the overall shape of a calendar
+the typical color of a calendar
+a distinctive part of a calendar
+the texture or surface of a calendar
+the overall shape of a camel
+the typical color of a camel
+a distinctive part of a camel
+the texture or surface of a camel
+the overall shape of a camera
+the typical color of a camera
+a distinctive part of a camera
+the texture or surface of a camera
+the overall shape of a camouflage
+the typical color of a camouflage
+a distinctive part of a camouflage
+the texture or surface of a camouflage
+the overall shape of a campfire
+the typical color of a campfire
+a distinctive part of a campfire
+the texture or surface of a campfire
+the overall shape of a candle
+the typical color of a candle
+a distinctive part of a candle
+the texture or surface of a candle
+the overall shape of a cannon
+the typical color of a cannon
+a distinctive part of a cannon
+the texture or surface of a cannon
+the overall shape of a canoe
+the typical color of a canoe
+a distinctive part of a canoe
+the texture or surface of a canoe
+the overall shape of a car
+the typical color of a car
+a distinctive part of a car
+the texture or surface of a car
+the overall shape of a carrot
+the typical color of a carrot
+a distinctive part of a carrot
+the texture or surface of a carrot
+the overall shape of a castle
+the typical color of a castle
+a distinctive part of a castle
+the texture or surface of a castle
+the overall shape of a cat
+the typical color of a cat
+a distinctive part of a cat
+the texture or surface of a cat
+the overall shape of a ceiling fan
+the typical color of a ceiling fan
+a distinctive part of a ceiling fan
+the texture or surface of a ceiling fan
+the overall shape of a cello
+the typical color of a cello
+a distinctive part of a cello
+the texture or surface of a cello
+the overall shape of a cell phone
+the typical color of a cell phone
+a distinctive part of a cell phone
+the texture or surface of a cell phone
+the overall shape of a chair
+the typical color of a chair
+a distinctive part of a chair
+the texture or surface of a chair
+the overall shape of a chandelier
+the typical color of a chandelier
+a distinctive part of a chandelier
+the texture or surface of a chandelier
+the overall shape of a church
+the typical color of a church
+a distinctive part of a church
+the texture or surface of a church
+the overall shape of a circle
+the typical color of a circle
+a distinctive part of a circle
+the texture or surface of a circle
+the overall shape of a clarinet
+the typical color of a clarinet
+a distinctive part of a clarinet
+the texture or surface of a clarinet
+the overall shape of a clock
+the typical color of a clock
+a distinctive part of a clock
+the texture or surface of a clock
+the overall shape of a cloud
+the typical color of a cloud
+a distinctive part of a cloud
+the texture or surface of a cloud
+the overall shape of a coffee cup
+the typical color of a coffee cup
+a distinctive part of a coffee cup
+the texture or surface of a coffee cup
+the overall shape of a compass
+the typical color of a compass
+a distinctive part of a compass
+the texture or surface of a compass
+the overall shape of a computer
+the typical color of a computer
+a distinctive part of a computer
+the texture or surface of a computer
+the overall shape of a cookie
+the typical color of a cookie
+a distinctive part of a cookie
+the texture or surface of a cookie
+the overall shape of a cooler
+the typical color of a cooler
+a distinctive part of a cooler
+the texture or surface of a cooler
+the overall shape of a couch
+the typical color of a couch
+a distinctive part of a couch
+the texture or surface of a couch
+the overall shape of a cow
+the typical color of a cow
+a distinctive part of a cow
+the texture or surface of a cow
+the overall shape of a crab
+the typical color of a crab
+a distinctive part of a crab
+the texture or surface of a crab
+the overall shape of a crayon
+the typical color of a crayon
+a distinctive part of a crayon
+the texture or surface of a crayon
+the overall shape of a crocodile
+the typical color of a crocodile
+a distinctive part of a crocodile
+the texture or surface of a crocodile
+the overall shape of a crown
+the typical color of a crown
+a distinctive part of a crown
+the texture or surface of a crown
+the overall shape of a cruise ship
+the typical color of a cruise ship
+a distinctive part of a cruise ship
+the texture or surface of a cruise ship
+the overall shape of a cup
+the typical color of a cup
+a distinctive part of a cup
+the texture or surface of a cup
+the overall shape of a diamond
+the typical color of a diamond
+a distinctive part of a diamond
+the texture or surface of a diamond
+the overall shape of a dishwasher
+the typical color of a dishwasher
+a distinctive part of a dishwasher
+the texture or surface of a dishwasher
+the overall shape of a diving board
+the typical color of a diving board
+a distinctive part of a diving board
+the texture or surface of a diving board
+the overall shape of a dog
+the typical color of a dog
+a distinctive part of a dog
+the texture or surface of a dog
+the overall shape of a dolphin
+the typical color of a dolphin
+a distinctive part of a dolphin
+the texture or surface of a dolphin
+the overall shape of a donut
+the typical color of a donut
+a distinctive part of a donut
+the texture or surface of a donut
+the overall shape of a door
+the typical color of a door
+a distinctive part of a door
+the texture or surface of a door
+the overall shape of a dragon
+the typical color of a dragon
+a distinctive part of a dragon
+the texture or surface of a dragon
+the overall shape of a dresser
+the typical color of a dresser
+a distinctive part of a dresser
+the texture or surface of a dresser
+the overall shape of a drill
+the typical color of a drill
+a distinctive part of a drill
+the texture or surface of a drill
+the overall shape of a drums
+the typical color of a drums
+a distinctive part of a drums
+the texture or surface of a drums
+the overall shape of a duck
+the typical color of a duck
+a distinctive part of a duck
+the texture or surface of a duck
+the overall shape of a dumbbell
+the typical color of a dumbbell
+a distinctive part of a dumbbell
+the texture or surface of a dumbbell
+the overall shape of a ear
+the typical color of a ear
+a distinctive part of a ear
+the texture or surface of a ear
+the overall shape of a elbow
+the typical color of a elbow
+a distinctive part of a elbow
+the texture or surface of a elbow
+the overall shape of a elephant
+the typical color of a elephant
+a distinctive part of a elephant
+the texture or surface of a elephant
+the overall shape of a envelope
+the typical color of a envelope
+a distinctive part of a envelope
+the texture or surface of a envelope
+the overall shape of a eraser
+the typical color of a eraser
+a distinctive part of a eraser
+the texture or surface of a eraser
+the overall shape of a eye
+the typical color of a eye
+a distinctive part of a eye
+the texture or surface of a eye
+the overall shape of a eyeglasses
+the typical color of a eyeglasses
+a distinctive part of a eyeglasses
+the texture or surface of a eyeglasses
+the overall shape of a face
+the typical color of a face
+a distinctive part of a face
+the texture or surface of a face
+the overall shape of a fan
+the typical color of a fan
+a distinctive part of a fan
+the texture or surface of a fan
+the overall shape of a feather
+the typical color of a feather
+a distinctive part of a feather
+the texture or surface of a feather
+the overall shape of a fence
+the typical color of a fence
+a distinctive part of a fence
+the texture or surface of a fence
+the overall shape of a finger
+the typical color of a finger
+a distinctive part of a finger
+the texture or surface of a finger
+the overall shape of a fire hydrant
+the typical color of a fire hydrant
+a distinctive part of a fire hydrant
+the texture or surface of a fire hydrant
+the overall shape of a fireplace
+the typical color of a fireplace
+a distinctive part of a fireplace
+the texture or surface of a fireplace
+the overall shape of a firetruck
+the typical color of a firetruck
+a distinctive part of a firetruck
+the texture or surface of a firetruck
+the overall shape of a fish
+the typical color of a fish
+a distinctive part of a fish
+the texture or surface of a fish
+the overall shape of a flamingo
+the typical color of a flamingo
+a distinctive part of a flamingo
+the texture or surface of a flamingo
+the overall shape of a flashlight
+the typical color of a flashlight
+a distinctive part of a flashlight
+the texture or surface of a flashlight
+the overall shape of a flip flops
+the typical color of a flip flops
+a distinctive part of a flip flops
+the texture or surface of a flip flops
+the overall shape of a floor lamp
+the typical color of a floor lamp
+a distinctive part of a floor lamp
+the texture or surface of a floor lamp
+the overall shape of a flower
+the typical color of a flower
+a distinctive part of a flower
+the texture or surface of a flower
+the overall shape of a flying saucer
+the typical color of a flying saucer
+a distinctive part of a flying saucer
+the texture or surface of a flying saucer
+the overall shape of a foot
+the typical color of a foot
+a distinctive part of a foot
+the texture or surface of a foot
+the overall shape of a fork
+the typical color of a fork
+a distinctive part of a fork
+the texture or surface of a fork
+the overall shape of a frog
+the typical color of a frog
+a distinctive part of a frog
+the texture or surface of a frog
+the overall shape of a frying pan
+the typical color of a frying pan
+a distinctive part of a frying pan
+the texture or surface of a frying pan
+the overall shape of a garden
+the typical color of a garden
+a distinctive part of a garden
+the texture or surface of a garden
+the overall shape of a garden hose
+the typical color of a garden hose
+a distinctive part of a garden hose
+the texture or surface of a garden hose
+the overall shape of a giraffe
+the typical color of a giraffe
+a distinctive part of a giraffe
+the texture or surface of a giraffe
+the overall shape of a goatee
+the typical color of a goatee
+a distinctive part of a goatee
+the texture or surface of a goatee
+the overall shape of a golf club
+the typical color of a golf club
+a distinctive part of a golf club
+the texture or surface of a golf club
+the overall shape of a grapes
+the typical color of a grapes
+a distinctive part of a grapes
+the texture or surface of a grapes
+the overall shape of a grass
+the typical color of a grass
+a distinctive part of a grass
+the texture or surface of a grass
+the overall shape of a guitar
+the typical color of a guitar
+a distinctive part of a guitar
+the texture or surface of a guitar
+the overall shape of a hamburger
+the typical color of a hamburger
+a distinctive part of a hamburger
+the texture or surface of a hamburger
+the overall shape of a hammer
+the typical color of a hammer
+a distinctive part of a hammer
+the texture or surface of a hammer
+the overall shape of a hand
+the typical color of a hand
+a distinctive part of a hand
+the texture or surface of a hand
+the overall shape of a harp
+the typical color of a harp
+a distinctive part of a harp
+the texture or surface of a harp
+the overall shape of a hat
+the typical color of a hat
+a distinctive part of a hat
+the texture or surface of a hat
+the overall shape of a headphones
+the typical color of a headphones
+a distinctive part of a headphones
+the texture or surface of a headphones
+the overall shape of a hedgehog
+the typical color of a hedgehog
+a distinctive part of a hedgehog
+the texture or surface of a hedgehog
+the overall shape of a helicopter
+the typical color of a helicopter
+a distinctive part of a helicopter
+the texture or surface of a helicopter
+the overall shape of a helmet
+the typical color of a helmet
+a distinctive part of a helmet
+the texture or surface of a helmet
+the overall shape of a hexagon
+the typical color of a hexagon
+a distinctive part of a hexagon
+the texture or surface of a hexagon
+the overall shape of a hockey puck
+the typical color of a hockey puck
+a distinctive part of a hockey puck
+the texture or surface of a hockey puck
+the overall shape of a hockey stick
+the typical color of a hockey stick
+a distinctive part of a hockey stick
+the texture or surface of a hockey stick
+the overall shape of a horse
+the typical color of a horse
+a distinctive part of a horse
+the texture or surface of a horse
+the overall shape of a hospital
+the typical color of a hospital
+a distinctive part of a hospital
+the texture or surface of a hospital
+the overall shape of a hot air balloon
+the typical color of a hot air balloon
+a distinctive part of a hot air balloon
+the texture or surface of a hot air balloon
+the overall shape of a hot dog
+the typical color of a hot dog
+a distinctive part of a hot dog
+the texture or surface of a hot dog
+the overall shape of a hot tub
+the typical color of a hot tub
+a distinctive part of a hot tub
+the texture or surface of a hot tub
+the overall shape of a hourglass
+the typical color of a hourglass
+a distinctive part of a hourglass
+the texture or surface of a hourglass
+the overall shape of a house
+the typical color of a house
+a distinctive part of a house
+the texture or surface of a house
+the overall shape of a house plant
+the typical color of a house plant
+a distinctive part of a house plant
+the texture or surface of a house plant
+the overall shape of a hurricane
+the typical color of a hurricane
+a distinctive part of a hurricane
+the texture or surface of a hurricane
+the overall shape of a ice cream
+the typical color of a ice cream
+a distinctive part of a ice cream
+the texture or surface of a ice cream
+the overall shape of a jacket
+the typical color of a jacket
+a distinctive part of a jacket
+the texture or surface of a jacket
+the overall shape of a jail
+the typical color of a jail
+a distinctive part of a jail
+the texture or surface of a jail
+the overall shape of a kangaroo
+the typical color of a kangaroo
+a distinctive part of a kangaroo
+the texture or surface of a kangaroo
+the overall shape of a key
+the typical color of a key
+a distinctive part of a key
+the texture or surface of a key
+the overall shape of a keyboard
+the typical color of a keyboard
+a distinctive part of a keyboard
+the texture or surface of a keyboard
+the overall shape of a knee
+the typical color of a knee
+a distinctive part of a knee
+the texture or surface of a knee
+the overall shape of a knife
+the typical color of a knife
+a distinctive part of a knife
+the texture or surface of a knife
+the overall shape of a ladder
+the typical color of a ladder
+a distinctive part of a ladder
+the texture or surface of a ladder
+the overall shape of a lantern
+the typical color of a lantern
+a distinctive part of a lantern
+the texture or surface of a lantern
+the overall shape of a laptop
+the typical color of a laptop
+a distinctive part of a laptop
+the texture or surface of a laptop
+the overall shape of a leaf
+the typical color of a leaf
+a distinctive part of a leaf
+the texture or surface of a leaf
+the overall shape of a leg
+the typical color of a leg
+a distinctive part of a leg
+the texture or surface of a leg
+the overall shape of a light bulb
+the typical color of a light bulb
+a distinctive part of a light bulb
+the texture or surface of a light bulb
+the overall shape of a lighter
+the typical color of a lighter
+a distinctive part of a lighter
+the texture or surface of a lighter
+the overall shape of a lighthouse
+the typical color of a lighthouse
+a distinctive part of a lighthouse
+the texture or surface of a lighthouse
+the overall shape of a lightning
+the typical color of a lightning
+a distinctive part of a lightning
+the texture or surface of a lightning
+the overall shape of a line
+the typical color of a line
+a distinctive part of a line
+the texture or surface of a line
+the overall shape of a lion
+the typical color of a lion
+a distinctive part of a lion
+the texture or surface of a lion
+the overall shape of a lipstick
+the typical color of a lipstick
+a distinctive part of a lipstick
+the texture or surface of a lipstick
+the overall shape of a lobster
+the typical color of a lobster
+a distinctive part of a lobster
+the texture or surface of a lobster
+the overall shape of a lollipop
+the typical color of a lollipop
+a distinctive part of a lollipop
+the texture or surface of a lollipop
+the overall shape of a mailbox
+the typical color of a mailbox
+a distinctive part of a mailbox
+the texture or surface of a mailbox
+the overall shape of a map
+the typical color of a map
+a distinctive part of a map
+the texture or surface of a map
+the overall shape of a marker
+the typical color of a marker
+a distinctive part of a marker
+the texture or surface of a marker
+the overall shape of a matches
+the typical color of a matches
+a distinctive part of a matches
+the texture or surface of a matches
+the overall shape of a megaphone
+the typical color of a megaphone
+a distinctive part of a megaphone
+the texture or surface of a megaphone
+the overall shape of a mermaid
+the typical color of a mermaid
+a distinctive part of a mermaid
+the texture or surface of a mermaid
+the overall shape of a microphone
+the typical color of a microphone
+a distinctive part of a microphone
+the texture or surface of a microphone
+the overall shape of a microwave
+the typical color of a microwave
+a distinctive part of a microwave
+the texture or surface of a microwave
+the overall shape of a monkey
+the typical color of a monkey
+a distinctive part of a monkey
+the texture or surface of a monkey
+the overall shape of a moon
+the typical color of a moon
+a distinctive part of a moon
+the texture or surface of a moon
+the overall shape of a mosquito
+the typical color of a mosquito
+a distinctive part of a mosquito
+the texture or surface of a mosquito
+the overall shape of a motorbike
+the typical color of a motorbike
+a distinctive part of a motorbike
+the texture or surface of a motorbike
+the overall shape of a mountain
+the typical color of a mountain
+a distinctive part of a mountain
+the texture or surface of a mountain
+the overall shape of a mouse
+the typical color of a mouse
+a distinctive part of a mouse
+the texture or surface of a mouse
+the overall shape of a moustache
+the typical color of a moustache
+a distinctive part of a moustache
+the texture or surface of a moustache
+the overall shape of a mouth
+the typical color of a mouth
+a distinctive part of a mouth
+the texture or surface of a mouth
+the overall shape of a mug
+the typical color of a mug
+a distinctive part of a mug
+the texture or surface of a mug
+the overall shape of a mushroom
+the typical color of a mushroom
+a distinctive part of a mushroom
+the texture or surface of a mushroom
+the overall shape of a nail
+the typical color of a nail
+a distinctive part of a nail
+the texture or surface of a nail
+the overall shape of a necklace
+the typical color of a necklace
+a distinctive part of a necklace
+the texture or surface of a necklace
+the overall shape of a nose
+the typical color of a nose
+a distinctive part of a nose
+the texture or surface of a nose
+the overall shape of a ocean
+the typical color of a ocean
+a distinctive part of a ocean
+the texture or surface of a ocean
+the overall shape of a octagon
+the typical color of a octagon
+a distinctive part of a octagon
+the texture or surface of a octagon
+the overall shape of a octopus
+the typical color of a octopus
+a distinctive part of a octopus
+the texture or surface of a octopus
+the overall shape of a onion
+the typical color of a onion
+a distinctive part of a onion
+the texture or surface of a onion
+the overall shape of a oven
+the typical color of a oven
+a distinctive part of a oven
+the texture or surface of a oven
+the overall shape of a owl
+the typical color of a owl
+a distinctive part of a owl
+the texture or surface of a owl
+the overall shape of a paintbrush
+the typical color of a paintbrush
+a distinctive part of a paintbrush
+the texture or surface of a paintbrush
+the overall shape of a paint can
+the typical color of a paint can
+a distinctive part of a paint can
+the texture or surface of a paint can
+the overall shape of a palm tree
+the typical color of a palm tree
+a distinctive part of a palm tree
+the texture or surface of a palm tree
+the overall shape of a panda
+the typical color of a panda
+a distinctive part of a panda
+the texture or surface of a panda
+the overall shape of a pants
+the typical color of a pants
+a distinctive part of a pants
+the texture or surface of a pants
+the overall shape of a paper clip
+the typical color of a paper clip
+a distinctive part of a paper clip
+the texture or surface of a paper clip
+the overall shape of a parachute
+the typical color of a parachute
+a distinctive part of a parachute
+the texture or surface of a parachute
+the overall shape of a parrot
+the typical color of a parrot
+a distinctive part of a parrot
+the texture or surface of a parrot
+the overall shape of a passport
+the typical color of a passport
+a distinctive part of a passport
+the texture or surface of a passport
+the overall shape of a peanut
+the typical color of a peanut
+a distinctive part of a peanut
+the texture or surface of a peanut
+the overall shape of a pear
+the typical color of a pear
+a distinctive part of a pear
+the texture or surface of a pear
+the overall shape of a peas
+the typical color of a peas
+a distinctive part of a peas
+the texture or surface of a peas
+the overall shape of a pencil
+the typical color of a pencil
+a distinctive part of a pencil
+the texture or surface of a pencil
+the overall shape of a penguin
+the typical color of a penguin
+a distinctive part of a penguin
+the texture or surface of a penguin
+the overall shape of a piano
+the typical color of a piano
+a distinctive part of a piano
+the texture or surface of a piano
+the overall shape of a pickup truck
+the typical color of a pickup truck
+a distinctive part of a pickup truck
+the texture or surface of a pickup truck
+the overall shape of a picture frame
+the typical color of a picture frame
+a distinctive part of a picture frame
+the texture or surface of a picture frame
+the overall shape of a pig
+the typical color of a pig
+a distinctive part of a pig
+the texture or surface of a pig
+the overall shape of a pillow
+the typical color of a pillow
+a distinctive part of a pillow
+the texture or surface of a pillow
+the overall shape of a pineapple
+the typical color of a pineapple
+a distinctive part of a pineapple
+the texture or surface of a pineapple
+the overall shape of a pizza
+the typical color of a pizza
+a distinctive part of a pizza
+the texture or surface of a pizza
+the overall shape of a pliers
+the typical color of a pliers
+a distinctive part of a pliers
+the texture or surface of a pliers
+the overall shape of a police car
+the typical color of a police car
+a distinctive part of a police car
+the texture or surface of a police car
+the overall shape of a pond
+the typical color of a pond
+a distinctive part of a pond
+the texture or surface of a pond
+the overall shape of a pool
+the typical color of a pool
+a distinctive part of a pool
+the texture or surface of a pool
+the overall shape of a popsicle
+the typical color of a popsicle
+a distinctive part of a popsicle
+the texture or surface of a popsicle
+the overall shape of a postcard
+the typical color of a postcard
+a distinctive part of a postcard
+the texture or surface of a postcard
+the overall shape of a potato
+the typical color of a potato
+a distinctive part of a potato
+the texture or surface of a potato
+the overall shape of a power outlet
+the typical color of a power outlet
+a distinctive part of a power outlet
+the texture or surface of a power outlet
+the overall shape of a purse
+the typical color of a purse
+a distinctive part of a purse
+the texture or surface of a purse
+the overall shape of a rabbit
+the typical color of a rabbit
+a distinctive part of a rabbit
+the texture or surface of a rabbit
+the overall shape of a raccoon
+the typical color of a raccoon
+a distinctive part of a raccoon
+the texture or surface of a raccoon
+the overall shape of a radio
+the typical color of a radio
+a distinctive part of a radio
+the texture or surface of a radio
+the overall shape of a rain
+the typical color of a rain
+a distinctive part of a rain
+the texture or surface of a rain
+the overall shape of a rainbow
+the typical color of a rainbow
+a distinctive part of a rainbow
+the texture or surface of a rainbow
+the overall shape of a rake
+the typical color of a rake
+a distinctive part of a rake
+the texture or surface of a rake
+the overall shape of a remote control
+the typical color of a remote control
+a distinctive part of a remote control
+the texture or surface of a remote control
+the overall shape of a rhinoceros
+the typical color of a rhinoceros
+a distinctive part of a rhinoceros
+the texture or surface of a rhinoceros
+the overall shape of a rifle
+the typical color of a rifle
+a distinctive part of a rifle
+the texture or surface of a rifle
+the overall shape of a river
+the typical color of a river
+a distinctive part of a river
+the texture or surface of a river
+the overall shape of a roller coaster
+the typical color of a roller coaster
+a distinctive part of a roller coaster
+the texture or surface of a roller coaster
+the overall shape of a rollerskates
+the typical color of a rollerskates
+a distinctive part of a rollerskates
+the texture or surface of a rollerskates
+the overall shape of a sailboat
+the typical color of a sailboat
+a distinctive part of a sailboat
+the texture or surface of a sailboat
+the overall shape of a sandwich
+the typical color of a sandwich
+a distinctive part of a sandwich
+the texture or surface of a sandwich
+the overall shape of a saw
+the typical color of a saw
+a distinctive part of a saw
+the texture or surface of a saw
+the overall shape of a saxophone
+the typical color of a saxophone
+a distinctive part of a saxophone
+the texture or surface of a saxophone
+the overall shape of a school bus
+the typical color of a school bus
+a distinctive part of a school bus
+the texture or surface of a school bus
+the overall shape of a scissors
+the typical color of a scissors
+a distinctive part of a scissors
+the texture or surface of a scissors
+the overall shape of a scorpion
+the typical color of a scorpion
+a distinctive part of a scorpion
+the texture or surface of a scorpion
+the overall shape of a screwdriver
+the typical color of a screwdriver
+a distinctive part of a screwdriver
+the texture or surface of a screwdriver
+the overall shape of a sea turtle
+the typical color of a sea turtle
+a distinctive part of a sea turtle
+the texture or surface of a sea turtle
+the overall shape of a see saw
+the typical color of a see saw
+a distinctive part of a see saw
+the texture or surface of a see saw
+the overall shape of a shark
+the typical color of a shark
+a distinctive part of a shark
+the texture or surface of a shark
+the overall shape of a sheep
+the typical color of a sheep
+a distinctive part of a sheep
+the texture or surface of a sheep
+the overall shape of a shoe
+the typical color of a shoe
+a distinctive part of a shoe
+the texture or surface of a shoe
+the overall shape of a shorts
+the typical color of a shorts
+a distinctive part of a shorts
+the texture or surface of a shorts
+the overall shape of a shovel
+the typical color of a shovel
+a distinctive part of a shovel
+the texture or surface of a shovel
+the overall shape of a sink
+the typical color of a sink
+a distinctive part of a sink
+the texture or surface of a sink
+the overall shape of a skateboard
+the typical color of a skateboard
+a distinctive part of a skateboard
+the texture or surface of a skateboard
+the overall shape of a skull
+the typical color of a skull
+a distinctive part of a skull
+the texture or surface of a skull
+the overall shape of a skyscraper
+the typical color of a skyscraper
+a distinctive part of a skyscraper
+the texture or surface of a skyscraper
+the overall shape of a sleeping bag
+the typical color of a sleeping bag
+a distinctive part of a sleeping bag
+the texture or surface of a sleeping bag
+the overall shape of a smiley face
+the typical color of a smiley face
+a distinctive part of a smiley face
+the texture or surface of a smiley face
+the overall shape of a snail
+the typical color of a snail
+a distinctive part of a snail
+the texture or surface of a snail
+the overall shape of a snake
+the typical color of a snake
+a distinctive part of a snake
+the texture or surface of a snake
+the overall shape of a snorkel
+the typical color of a snorkel
+a distinctive part of a snorkel
+the texture or surface of a snorkel
+the overall shape of a snowflake
+the typical color of a snowflake
+a distinctive part of a snowflake
+the texture or surface of a snowflake
+the overall shape of a snowman
+the typical color of a snowman
+a distinctive part of a snowman
+the texture or surface of a snowman
+the overall shape of a soccer ball
+the typical color of a soccer ball
+a distinctive part of a soccer ball
+the texture or surface of a soccer ball
+the overall shape of a sock
+the typical color of a sock
+a distinctive part of a sock
+the texture or surface of a sock
+the overall shape of a speedboat
+the typical color of a speedboat
+a distinctive part of a speedboat
+the texture or surface of a speedboat
+the overall shape of a spider
+the typical color of a spider
+a distinctive part of a spider
+the texture or surface of a spider
+the overall shape of a spoon
+the typical color of a spoon
+a distinctive part of a spoon
+the texture or surface of a spoon
+the overall shape of a spreadsheet
+the typical color of a spreadsheet
+a distinctive part of a spreadsheet
+the texture or surface of a spreadsheet
+the overall shape of a square
+the typical color of a square
+a distinctive part of a square
+the texture or surface of a square
+the overall shape of a squiggle
+the typical color of a squiggle
+a distinctive part of a squiggle
+the texture or surface of a squiggle
+the overall shape of a squirrel
+the typical color of a squirrel
+a distinctive part of a squirrel
+the texture or surface of a squirrel
+the overall shape of a stairs
+the typical color of a stairs
+a distinctive part of a stairs
+the texture or surface of a stairs
+the overall shape of a star
+the typical color of a star
+a distinctive part of a star
+the texture or surface of a star
+the overall shape of a steak
+the typical color of a steak
+a distinctive part of a steak
+the texture or surface of a steak
+the overall shape of a stereo
+the typical color of a stereo
+a distinctive part of a stereo
+the texture or surface of a stereo
+the overall shape of a stethoscope
+the typical color of a stethoscope
+a distinctive part of a stethoscope
+the texture or surface of a stethoscope
+the overall shape of a stitches
+the typical color of a stitches
+a distinctive part of a stitches
+the texture or surface of a stitches
+the overall shape of a stop sign
+the typical color of a stop sign
+a distinctive part of a stop sign
+the texture or surface of a stop sign
+the overall shape of a stove
+the typical color of a stove
+a distinctive part of a stove
+the texture or surface of a stove
+the overall shape of a strawberry
+the typical color of a strawberry
+a distinctive part of a strawberry
+the texture or surface of a strawberry
+the overall shape of a streetlight
+the typical color of a streetlight
+a distinctive part of a streetlight
+the texture or surface of a streetlight
+the overall shape of a string bean
+the typical color of a string bean
+a distinctive part of a string bean
+the texture or surface of a string bean
+the overall shape of a submarine
+the typical color of a submarine
+a distinctive part of a submarine
+the texture or surface of a submarine
+the overall shape of a suitcase
+the typical color of a suitcase
+a distinctive part of a suitcase
+the texture or surface of a suitcase
+the overall shape of a sun
+the typical color of a sun
+a distinctive part of a sun
+the texture or surface of a sun
+the overall shape of a swan
+the typical color of a swan
+a distinctive part of a swan
+the texture or surface of a swan
+the overall shape of a sweater
+the typical color of a sweater
+a distinctive part of a sweater
+the texture or surface of a sweater
+the overall shape of a swing set
+the typical color of a swing set
+a distinctive part of a swing set
+the texture or surface of a swing set
+the overall shape of a sword
+the typical color of a sword
+a distinctive part of a sword
+the texture or surface of a sword
+the overall shape of a syringe
+the typical color of a syringe
+a distinctive part of a syringe
+the texture or surface of a syringe
+the overall shape of a table
+the typical color of a table
+a distinctive part of a table
+the texture or surface of a table
+the overall shape of a teapot
+the typical color of a teapot
+a distinctive part of a teapot
+the texture or surface of a teapot
+the overall shape of a teddy-bear
+the typical color of a teddy-bear
+a distinctive part of a teddy-bear
+the texture or surface of a teddy-bear
+the overall shape of a telephone
+the typical color of a telephone
+a distinctive part of a telephone
+the texture or surface of a telephone
+the overall shape of a television
+the typical color of a television
+a distinctive part of a television
+the texture or surface of a television
+the overall shape of a tennis racquet
+the typical color of a tennis racquet
+a distinctive part of a tennis racquet
+the texture or surface of a tennis racquet
+the overall shape of a tent
+the typical color of a tent
+a distinctive part of a tent
+the texture or surface of a tent
+the overall shape of a The Eiffel Tower
+the typical color of a The Eiffel Tower
+a distinctive part of a The Eiffel Tower
+the texture or surface of a The Eiffel Tower
+the overall shape of a The Great Wall of China
+the typical color of a The Great Wall of China
+a distinctive part of a The Great Wall of China
+the texture or surface of a The Great Wall of China
+the overall shape of a The Mona Lisa
+the typical color of a The Mona Lisa
+a distinctive part of a The Mona Lisa
+the texture or surface of a The Mona Lisa
+the overall shape of a tiger
+the typical color of a tiger
+a distinctive part of a tiger
+the texture or surface of a tiger
+the overall shape of a toaster
+the typical color of a toaster
+a distinctive part of a toaster
+the texture or surface of a toaster
+the overall shape of a toe
+the typical color of a toe
+a distinctive part of a toe
+the texture or surface of a toe
+the overall shape of a toilet
+the typical color of a toilet
+a distinctive part of a toilet
+the texture or surface of a toilet
+the overall shape of a tooth
+the typical color of a tooth
+a distinctive part of a tooth
+the texture or surface of a tooth
+the overall shape of a toothbrush
+the typical color of a toothbrush
+a distinctive part of a toothbrush
+the texture or surface of a toothbrush
+the overall shape of a toothpaste
+the typical color of a toothpaste
+a distinctive part of a toothpaste
+the texture or surface of a toothpaste
+the overall shape of a tornado
+the typical color of a tornado
+a distinctive part of a tornado
+the texture or surface of a tornado
+the overall shape of a tractor
+the typical color of a tractor
+a distinctive part of a tractor
+the texture or surface of a tractor
+the overall shape of a traffic light
+the typical color of a traffic light
+a distinctive part of a traffic light
+the texture or surface of a traffic light
+the overall shape of a train
+the typical color of a train
+a distinctive part of a train
+the texture or surface of a train
+the overall shape of a tree
+the typical color of a tree
+a distinctive part of a tree
+the texture or surface of a tree
+the overall shape of a triangle
+the typical color of a triangle
+a distinctive part of a triangle
+the texture or surface of a triangle
+the overall shape of a trombone
+the typical color of a trombone
+a distinctive part of a trombone
+the texture or surface of a trombone
+the overall shape of a truck
+the typical color of a truck
+a distinctive part of a truck
+the texture or surface of a truck
+the overall shape of a trumpet
+the typical color of a trumpet
+a distinctive part of a trumpet
+the texture or surface of a trumpet
+the overall shape of a t-shirt
+the typical color of a t-shirt
+a distinctive part of a t-shirt
+the texture or surface of a t-shirt
+the overall shape of a umbrella
+the typical color of a umbrella
+a distinctive part of a umbrella
+the texture or surface of a umbrella
+the overall shape of a underwear
+the typical color of a underwear
+a distinctive part of a underwear
+the texture or surface of a underwear
+the overall shape of a van
+the typical color of a van
+a distinctive part of a van
+the texture or surface of a van
+the overall shape of a vase
+the typical color of a vase
+a distinctive part of a vase
+the texture or surface of a vase
+the overall shape of a violin
+the typical color of a violin
+a distinctive part of a violin
+the texture or surface of a violin
+the overall shape of a washing machine
+the typical color of a washing machine
+a distinctive part of a washing machine
+the texture or surface of a washing machine
+the overall shape of a watermelon
+the typical color of a watermelon
+a distinctive part of a watermelon
+the texture or surface of a watermelon
+the overall shape of a waterslide
+the typical color of a waterslide
+a distinctive part of a waterslide
+the texture or surface of a waterslide
+the overall shape of a whale
+the typical color of a whale
+a distinctive part of a whale
+the texture or surface of a whale
+the overall shape of a wheel
+the typical color of a wheel
+a distinctive part of a wheel
+the texture or surface of a wheel
+the overall shape of a windmill
+the typical color of a windmill
+a distinctive part of a windmill
+the texture or surface of a windmill
+the overall shape of a wine bottle
+the typical color of a wine bottle
+a distinctive part of a wine bottle
+the texture or surface of a wine bottle
+the overall shape of a wine glass
+the typical color of a wine glass
+a distinctive part of a wine glass
+the texture or surface of a wine glass
+the overall shape of a wristwatch
+the typical color of a wristwatch
+a distinctive part of a wristwatch
+the texture or surface of a wristwatch
+the overall shape of a yoga
+the typical color of a yoga
+a distinctive part of a yoga
+the texture or surface of a yoga
+the overall shape of a zebra
+the typical color of a zebra
+a distinctive part of a zebra
+the texture or surface of a zebra
+the overall shape of a zigzag
+the typical color of a zigzag
+a distinctive part of a zigzag
+the texture or surface of a zigzag

@@ -6,6 +6,7 @@ from .LAD_animal.lad_A_data import Processed_LADA,Processed_LADAS
 from .LAD_vehicle.lad_V_data import Processed_LADV,Processed_LADV3
 from .PACS.pacs_data import Processed_PACS_Dataset
 from .OfficeHome.office_home_data import Processed_OfficeHome_Dataset
+from .DomainNet.domainnet_data import Processed_DomainNet_Dataset
 
 from prompts.prompt200new import source_text_prompts, target_text_prompts
 import torch
@@ -13,6 +14,7 @@ from torch.utils.data import DataLoader
 
 PACS_DOMAINS = ("photo", "art_painting", "cartoon", "sketch")
 OFFICE_HOME_DOMAINS = ("art", "clipart", "product", "real_world")
+DOMAINNET_DOMAINS = ("clipart", "infograph", "painting", "quickdraw", "real", "sketch")
 
 def get_dataset_classes(args):
     if args.dataset == "CUB":
@@ -154,6 +156,36 @@ def get_pacs_datasets(args, domains=PACS_DOMAINS):
         test_dataset = Processed_PACS_Dataset(
             args, data_root=data_root, domain=domain, split="test",
             meta_root="data/PACS", classname2id=classname2id, concept2id=concept2id,
+        )
+        datasets[domain] = {"train": train_dataset, "test": test_dataset}
+    torch.cuda.empty_cache()
+    return datasets, classname2id, concept2id, domain_diffs
+
+
+def get_domainnet_datasets(args, domains=DOMAINNET_DOMAINS):
+    """Same structure/rationale as get_pacs_datasets - see there for the full
+    docstring. DomainNet: 6 domains, 345 classes - Component 1's scale test
+    (see results/component1_exact_classifier.md and
+    docs/new_methodology_report.md for why)."""
+    data_root = os.path.join(args.data_dir, "DomainNet")
+    datasets = {}
+    classname2id = concept2id = domain_diffs = None
+    for i, domain in enumerate(domains):
+        train_dataset = Processed_DomainNet_Dataset(
+            args, data_root=data_root, domain=domain, split="train",
+            meta_root="data/DomainNet", classname2id=classname2id, concept2id=concept2id,
+            src_dm_texts=source_text_prompts if i == 0 else None,
+            tgt_dm_texts=target_text_prompts if i == 0 else None,
+        )
+        if i == 0:
+            classname2id = train_dataset.classname2id
+            concept2id = train_dataset.concept2id
+            domain_diffs = train_dataset.domain_diffs
+        else:
+            train_dataset.domain_diffs = domain_diffs
+        test_dataset = Processed_DomainNet_Dataset(
+            args, data_root=data_root, domain=domain, split="test",
+            meta_root="data/DomainNet", classname2id=classname2id, concept2id=concept2id,
         )
         datasets[domain] = {"train": train_dataset, "test": test_dataset}
     torch.cuda.empty_cache()

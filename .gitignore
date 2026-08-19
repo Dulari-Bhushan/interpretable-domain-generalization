@@ -48,9 +48,23 @@ external/LanCE/data/awa2/raw/
 external/LanCE/data/awa2/JPEGImages/
 
 # Raw downloaded DomainNet dataset (large, publicly redistributable - see
-# docs/new_methodology_report.md for source and sizes). No loader/manifests
-# committed yet - the whole folder is regenerable from the public zips.
-external/LanCE/data/DomainNet/
+# docs/new_methodology_report.md for source and sizes). Generated split
+# manifests (domainnet_*.txt) and the loader/prep/concept-bank code stay
+# committed, same convention as PACS/Office-Home above.
+external/LanCE/data/DomainNet/raw/
+external/LanCE/data/DomainNet/clipart/
+external/LanCE/data/DomainNet/infograph/
+external/LanCE/data/DomainNet/painting/
+external/LanCE/data/DomainNet/quickdraw/
+external/LanCE/data/DomainNet/real/
+external/LanCE/data/DomainNet/sketch/
+# Original downloaded manifests (redundant with our own converted domainnet_*.txt)
+external/LanCE/data/DomainNet/clipart_t*.txt
+external/LanCE/data/DomainNet/infograph_t*.txt
+external/LanCE/data/DomainNet/painting_t*.txt
+external/LanCE/data/DomainNet/quickdraw_t*.txt
+external/LanCE/data/DomainNet/real_t*.txt
+external/LanCE/data/DomainNet/sketch_t*.txt
 
 # Camelyon17-WILDS (medical dataset, download currently blocked - see
 # docs/new_methodology_report.md). Ignored regardless of download state so a
