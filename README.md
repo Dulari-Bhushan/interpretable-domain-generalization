@@ -2,6 +2,8 @@
 
 Research project investigating whether **concept bottleneck models (CBMs) for domain generalization survive a continual-learning setting** — i.e. domains arriving one at a time, over time, rather than all at once during a single training run.
 
+**Picking this up in a new chat? Read [`docs/session_handoff.md`](docs/session_handoff.md) first** — server access, what's currently running, exact status of in-progress work, and where to start next, all in one place.
+
 ## Starting point: LanCE
 
 The most relevant prior work is **LanCE** ([Zeng et al., CVPR 2025](https://arxiv.org/abs/2503.18483), [original code](https://github.com/joeyz0z/LanCE)) — a CLIP-based CBM that erases domain-specific concepts from its final classifier using a language-guided "Domain Descriptor Orthogonality" (DDO) loss. It gets strong domain-generalization results, but it trains once, on one domain, and never updates again. This project argues (and is in the process of measuring) that this design cannot survive domains arriving continually — see [`docs/lance_continual_dg_failure_analysis.md`](docs/lance_continual_dg_failure_analysis.md) and the rendered brief in [`presentation/lance_failure_brief.html`](presentation/lance_failure_brief.html) for the full argument.
