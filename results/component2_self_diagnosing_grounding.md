@@ -50,6 +50,8 @@ The alignment-score methodology was already validated three times (F1/F3/F4) —
 | photo → Midjourney v6 (Defactify, cited from Phase F3, same formula) | 0.037 |
 | **Calibrated threshold (midpoint)** | **0.143** |
 
+![Calibration curve — includes the EuroSAT point added later in component2b](figures/component2_calibration_curve.png)
+
 **An honest finding worth stating plainly, not burying:** none of these — including PACS's own "trustworthy" domains — come anywhere near the paper's claimed 0.90–0.99 alignment range under this real-matched-photo formula. The paper's Fig. 2 number apparently doesn't replicate at the per-class, small-probe scale this diagnostic uses. What *does* hold up is the **relative** separation: PACS domains score 5.4–8.8x higher than the known-bad Defactify shift, which is what a calibrated (not absolute) threshold actually needs.
 
 ### Main experiment ([`component2_defactify_grounding_ddo.json`](component2_defactify_grounding_ddo.json))
@@ -61,6 +63,8 @@ The alignment-score methodology was already validated three times (F1/F3/F4) —
 | Baseline (α=0) | 74.27% | 73.00% | — |
 | +DDO, text-only `domain_diffs` (α=1) | 75.03% | 72.76% | **+0.76** |
 | +DDO, image-grounded `domain_diffs` (α=1) | 73.81% | 71.31% | **−0.46** |
+
+![Baseline vs. text-only DDO vs. the single-mean-direction fallback](figures/component2_first_run_comparison.png)
 
 *(Reference, Phase E2's separately-measured number on a very slightly different target_test split: +0.68. Our text-DDO condition's +0.76 is a close, independent reproduction — a useful cross-check that this rerun's setup matches Phase E2's.)*
 
