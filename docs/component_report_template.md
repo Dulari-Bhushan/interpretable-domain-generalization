@@ -58,9 +58,11 @@ Plain-language interpretation of the numbers in §9 — not a restatement of the
 Did it solve the issue from §4? Completely, partially, or not at all? If there's a literature check relevant to novelty (was this already published elsewhere), state it here too, plainly — see `docs/new_methodology_report.md` §6 for the standard this project already holds itself to.
 
 ### 12. What's next
+**The 90% bar, apply it before writing anything here:** only list a next step if you're at least 90% confident it will produce real, non-redundant information — genuinely uncertain in outcome, not something already answerable from evidence this project has already collected — and you can state plainly *why* you're that confident (what specific evidence, already in hand, makes you sure). If nothing clears that bar, say so directly: *"no further step under this component is confidently warranted right now."* Don't manufacture a plausible-sounding step just to fill this section — a padded next-steps list is exactly how a project drifts into a chronic loop of low-value follow-up experiments that each sound reasonable in isolation but never converge on anything. An honest "nothing else is worth running" is a complete, valid answer, not a gap in the report.
+
 Two cases, and be honest about which one applies:
-- **There's a real next step.** Say exactly what it is and why it follows from this result.
-- **This is a dead end.** Say so in plain words — "this approach doesn't work, here's why, we're not pursuing it further" — and note what (if anything) should be tried instead to address the original issue from §4. A dead end is not a failure of the project; a dead end that isn't written down honestly is.
+- **There's a real next step that clears the 90% bar.** Say exactly what it is, why it follows from this result, and name the specific reason you're confident it'll produce something new (not just plausible-sounding — if the likely outcome is already predictable from data this project already has, it doesn't clear the bar, even if it would still technically confirm something).
+- **This is a dead end, or nothing else clears the bar.** Say so in plain words — "this approach doesn't work, here's why, we're not pursuing it further" or "no further step here is confidently worth running" — and note what (if anything, itself meeting the same bar) should be tried instead to address the original issue from §4, elsewhere in the project if not here. A dead end is not a failure of the project; a dead end that isn't written down honestly is. Neither is "no more next steps" — an unpadded stop is the honest outcome sometimes, not a shortcoming of the report.
 
 ---
 
