@@ -1,0 +1,31 @@
+{
+  "clip_type": "ViT-L/14",
+  "probe_per_class": 30,
+  "display_names": [
+    "annual crop field",
+    "forest",
+    "herbaceous vegetation",
+    "highway",
+    "industrial area",
+    "pasture",
+    "permanent crop field",
+    "residential area",
+    "river",
+    "sea or lake"
+  ],
+  "per_class_alignment": {
+    "annual crop field": 0.2879692614078522,
+    "forest": 0.2993541359901428,
+    "herbaceous vegetation": 0.3486442267894745,
+    "highway": 0.33399498462677,
+    "industrial area": 0.34420090913772583,
+    "pasture": 0.33810392022132874,
+    "permanent crop field": 0.3224421739578247,
+    "residential area": 0.3277049660682678,
+    "river": 0.33512023091316223,
+    "sea or lake": 0.279986709356308
+  },
+  "mean_alignment": 0.32175215184688566,
+  "phase_f1_mean_alignment_200_per_class": 0.324,
+  "source_mode": "text_proxy (no matched real photo dataset, same adaptation as Phase F1)"
+}

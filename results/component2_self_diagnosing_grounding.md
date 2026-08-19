@@ -1,6 +1,6 @@
 # Component 2 — self-diagnosing domain grounding
 
-**Status: ⚠️ Done — partial/mixed result.** The diagnostic half works exactly as designed: run on a cheap 20-images/class probe, it correctly and confidently flags the photo→Midjourney v6 domain shift as untrustworthy (mean alignment 0.0123, far below the calibrated threshold 0.1431). The fallback half — replacing the text-only `domain_diffs` with a single image-measured direction from that same probe — does **not** recover DDO's lost benefit. It does worse than both the (known-weak) text-only DDO and the plain baseline.
+**Status: ⚠️ Done — partial/mixed result.** *(Superseded in part — see [`results/component2b_grounding_fallback_variants.md`](component2b_grounding_fallback_variants.md): the specific harm found below traces to collapsing the probe into one mean direction; a diversity-preserving or blended fallback resolves it. This report is kept as-is, the honest record of what was actually run first — see that file for the follow-up.)* The diagnostic half works exactly as designed: run on a cheap 20-images/class probe, it correctly and confidently flags the photo→Midjourney v6 domain shift as untrustworthy (mean alignment 0.0123, far below the calibrated threshold 0.1431). The fallback half — replacing the text-only `domain_diffs` with a single image-measured direction from that same probe — does **not** recover DDO's lost benefit. It does worse than both the (known-weak) text-only DDO and the plain baseline.
 
 ## One-line summary
 

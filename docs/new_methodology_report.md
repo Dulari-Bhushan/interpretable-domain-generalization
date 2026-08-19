@@ -17,7 +17,7 @@ The plan was developed and approved as a standalone planning artifact before any
 | # | Component | Failure it addresses | Status |
 |---|---|---|---|
 | 1 | An exact, no-forgetting classifier update | Naive fine-tuning forgets earlier domains (Phase B/D); every remedy tested (cumulative DDO, replay, EWC) is an approximation | ✅ **Done, validated** |
-| 2 | Self-diagnosing domain grounding | DDO predicts a new domain's look purely from text, with measured near-zero reliability for domains that matter (Phase F1/F3/F4) | ⚠️ **Partial/mixed result** — diagnostic works, tested fallback doesn't |
+| 2 | Self-diagnosing domain grounding | DDO predicts a new domain's look purely from text, with measured near-zero reliability for domains that matter (Phase F1/F3/F4) | ✅ **Diagnostic + blended fallback validated** (one domain shift) — see `results/component2b_grounding_fallback_variants.md` |
 | 3 | A vocabulary that grows and prunes itself | The 204-phrase descriptor list is frozen at t=0; zero phrases match AI-generated imagery (Phase E1); DDO's benefit collapses ~10x without coverage (Phase E2) | Not started |
 | 4 | Domain memory that never stores raw images | Remedies that work well (replay) need to keep real examples from old domains around — a real problem for sensitive domains like medical imaging | Not started |
 | 5 | Knowing when to stop trusting itself | Some domains (sculpture/3D, per the base paper's own numbers) stay hard even with full descriptor coverage — a structural wall, not a coverage gap | Not started |
