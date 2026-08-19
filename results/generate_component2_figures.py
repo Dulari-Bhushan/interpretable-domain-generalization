@@ -133,7 +133,62 @@ def plot_first_run_comparison():
     print("Wrote", out)
 
 
+def plot_seed_sweep_summary():
+    """Component 2c: gain-over-baseline for the 4 key conditions across 3
+    seeds on Midjourney v6 (same fixed data split, only training seed
+    varies) plus 1 independent check on DALL-E 3 - shows both the average
+    and, just as importantly, the spread of each fallback design."""
+    mj = {
+        "seed0": load("component2_defactify_grounding_variants.json"),
+        "seed1": load("component2_defactify_grounding_variants_seed1.json"),
+        "seed2": load("component2_defactify_grounding_variants_seed2.json"),
+    }
+    dalle3 = load("component2d_dalle3_validation.json")
+
+    def gain(run, key):
+        return run[key]["best_target_acc"] - run["baseline"]["best_target_acc"]
+
+    conditions = [
+        ("+DDO text-only", "ddo_text", None, "#3498db"),
+        ("+DDO grounded\nmean (probe=20)", "ddo_grounded_mean_by_probe_size", "20", "#e74c3c"),
+        ("+DDO grounded\npersample", "ddo_grounded_persample", None, "#2ecc71"),
+        ("+DDO grounded\nblend", "ddo_grounded_blend", None, "#27ae60"),
+    ]
+    dalle3_key = {"ddo_text": "ddo_text", "ddo_grounded_mean_by_probe_size": "ddo_grounded_mean",
+                  "ddo_grounded_persample": "ddo_grounded_persample", "ddo_grounded_blend": "ddo_grounded_blend"}
+
+    fig, ax = plt.subplots(figsize=(9, 5.5))
+    x_positions = np.arange(len(conditions))
+    for xi, (label, key, subkey, color) in zip(x_positions, conditions):
+        mj_gains = []
+        for run in mj.values():
+            entry = run[key][subkey] if subkey else run[key]
+            mj_gains.append(entry["best_target_acc"] - run["baseline"]["best_target_acc"])
+        dkey = dalle3_key[key]
+        d_gain = dalle3["results_by_condition"][dkey]["best_target_acc"] - dalle3["results_by_condition"]["baseline"]["best_target_acc"]
+
+        ax.scatter([xi] * len(mj_gains), mj_gains, color=color, s=70, zorder=3,
+                   label="Midjourney v6, 3 seeds" if xi == 0 else None, marker="o")
+        ax.scatter([xi], [d_gain], color=color, s=100, zorder=3, marker="^", edgecolor="black",
+                   label="DALL-E 3, 1 seed" if xi == 0 else None)
+        mean_all = np.mean(mj_gains + [d_gain])
+        ax.hlines(mean_all, xi - 0.25, xi + 0.25, color=color, linewidth=2.5, zorder=2)
+
+    ax.axhline(0, color="black", linewidth=0.8)
+    ax.set_xticks(x_positions)
+    ax.set_xticklabels([c[0] for c in conditions], fontsize=9)
+    ax.set_ylabel("Accuracy gain over baseline (percentage points)")
+    ax.set_title("Component 2c: gain across 3 training seeds (Midjourney v6)\n+ 1 independent check (DALL-E 3) — thick line = mean")
+    ax.legend(fontsize=8, loc="upper left")
+    fig.tight_layout()
+    out = os.path.join(FIG_DIR, "component2c_seed_sweep_summary.png")
+    fig.savefig(out, dpi=150)
+    plt.close(fig)
+    print("Wrote", out)
+
+
 if __name__ == "__main__":
     plot_calibration_curve()
     plot_variants_comparison()
     plot_first_run_comparison()
+    plot_seed_sweep_summary()
