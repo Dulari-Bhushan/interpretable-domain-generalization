@@ -55,6 +55,8 @@ Two constraints carried over deliberately from how this project already handled 
 
 Best candidate (0.0522) reached roughly a third of the threshold and about a fifth of PACS's own comfort-zone alignment (Component 2's calibration point, ~0.25). Pool size: 204 → 204 (no change). Pruning consequently had 0 entries to drop in this run.
 
+![All 10 candidates fall short of the trust threshold](figures/component3_candidate_scores.png)
+
 **Pruning, verified separately with a synthetic check** (since the main run gave it nothing real to prune): seeded the actual 204-entry pool with an exact duplicate of entry 0 (`"a painting of a {}."`), a semantically-close paraphrase (`"a photograph of a {}."` — close to the pool's existing "a vintage photo of a {}." family), and a genuinely distinct new entry. Result: the exact duplicate was correctly dropped; **the paraphrase was not** — it survived, meaning at the 0.97 cosine-similarity threshold, pruning only catches true duplicates, not loosely-related phrasing. This is a real, verified property of the current threshold, not a bug, but it's a narrower guarantee than "prunes redundant phrases" might suggest — it prunes *near-identical* ones.
 
 **Training (4 conditions, best-epoch target accuracy):**
@@ -67,6 +69,8 @@ Best candidate (0.0522) reached roughly a third of the threshold and about a fif
 | +DDO (grown pool) | 72.76% | **75.03%** | **+0.76** |
 
 The grown-pool row is numerically identical to the original-pool row (down to the hundredth of a point) — expected and mechanically necessary, since growth added zero descriptors, so `+DDO-grown`'s `domain_diffs` tensor *is* `+DDO-text`'s, unchanged. This run's own +DDO-text gain (+0.76) and grounded-fallback result (73.81%, −0.46) closely reproduce Phase E2's +0.68 and Component 2's original single-direction fallback result, confirming this run's data pipeline and protocol match those prior runs (this project's own established cross-check pattern).
+
+![Grown pool reproduces the text-only condition exactly](figures/component3_condition_comparison.png)
 
 ## What this means
 
