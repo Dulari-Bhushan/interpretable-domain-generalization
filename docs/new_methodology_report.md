@@ -134,7 +134,28 @@ Before treating any of this as a contribution, we searched for prior work matchi
 
 Ranked by what unblocks the most downstream work per unit of effort:
 
-1. **Run the L1-vs-L2 DDO ablation (§7.1) before treating Component 1 as fully closed.** Cheap (reuses existing cached embeddings and the existing SGD training script), and it's the one open question that could change the L2-substitution's framing from "a deliberate, low-risk adaptation" to "a change worth reconsidering."
-2. **Write the DomainNet loader.** Unblocks Component 1's strongest scale test and doesn't depend on anything else being finished first.
-3. **Retry Camelyon17 (or download it manually from `wilds.stanford.edu/downloads`).** It's the dataset every one of Components 2, 3, and 4 is designed around most directly (the no-raw-image-storage argument in Component 4 specifically needs a sensitive-data domain to be a meaningful claim, not just a hypothetical one).
-4. **Start Component 2 once Camelyon17 (or a substitute) is in hand** — it's the next piece in dependency order per the plan, and doesn't require Components 3–5 to exist first.
+1. **Run the L1-vs-L2 DDO ablation (§7.1) before treating Component 1 as fully closed.** Cheap (reuses existing cached embeddings and the existing SGD training script), and it's the one open question that could change the L2-substitution's framing from "a deliberate, low-risk adaptation" to "a change worth reconsidering." — ✅ done, see [`results/component1b_l1_vs_l2_ablation.md`](../results/component1b_l1_vs_l2_ablation.md).
+2. **Write the DomainNet loader.** Unblocks Component 1's strongest scale test and doesn't depend on anything else being finished first. — ✅ done; the scale-test run itself is in progress (see `docs/session_handoff.md`).
+3. **Retry Camelyon17 (or download it manually from `wilds.stanford.edu/downloads`).** It's the dataset every one of Components 2, 3, and 4 is designed around most directly (the no-raw-image-storage argument in Component 4 specifically needs a sensitive-data domain to be a meaningful claim, not just a hypothetical one). — still blocked (host outage), superseded for Components 2–3 by Defactify/PACS/EuroSAT, which turned out sufficient for both.
+4. **Start Component 2** — ✅ done, see [`results/component2_self_diagnosing_grounding.md`](../results/component2_self_diagnosing_grounding.md) and its follow-up [`results/component2b_grounding_fallback_variants.md`](../results/component2b_grounding_fallback_variants.md) (diagnostic + a diversity-preserving/blended fallback both validated, on one domain shift).
+5. **Start Component 3** — in progress, see §9.
+
+---
+
+## 9. Combined / ablation testing across components — planned, not yet run
+
+**This section exists because the project owner raised it directly and asked that it not get lost:** since each component fixes a *different* problem (Component 1: forgetting; Component 2: untrustworthy text-only domain grounding; Component 3: a frozen descriptor vocabulary), when do we test them **combined**, not just individually? The natural comparison is a real ablation table — original baseline, each validated component alone, validated components combined, eventually all of them together — not a set of isolated single-component results presented as if they were independent proof points for one method.
+
+**Status: not started as an experiment.** This section is the "it's now a real, written part of the plan" step the commitment asked for — the run itself still needs Component 3 (and ideally Component 4) to reach at least a first result before a combined condition is meaningful. With Component 1 done and Component 2 validated (diagnostic + blended fallback), there is already enough validated to define what the table looks like:
+
+| Condition | What it tests |
+|---|---|
+| Original SGD baseline (no components) | The paper's own untouched method, for reference |
+| Component 1 alone | Exact incremental update, no domain-grounding or vocabulary changes |
+| Component 2 alone | Self-diagnosing grounding on top of ordinary SGD training (not the exact classifier) |
+| Component 3 alone | Growing/pruning vocabulary on top of ordinary SGD training |
+| Component 1 + Component 2 | Exact update *and* grounded domain_diffs together |
+| Component 1 + Component 3 | Exact update *and* a growing vocabulary together |
+| All validated components combined | The full proposed method, as far as it's been built |
+
+**Design questions still open, to resolve before this is run rather than during it:** which benchmark(s) — Office-Home for the forgetting axis (Component 1's own hard case) and Defactify for the grounding/vocabulary axis (Components 2/3's shared testbed) may need to be combined into one multi-domain sequence rather than run separately, since Component 1's contribution only shows up across a *sequence* of domains while Components 2/3's contributions show up on a *single* new-domain arrival; and whether Component 2 and Component 3 (both modify `domain_diffs`/the descriptor pool DDO regularizes against) compose cleanly or need an explicit merge rule. Revisit once Component 3 has a first result.
