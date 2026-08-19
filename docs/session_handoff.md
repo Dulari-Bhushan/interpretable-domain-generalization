@@ -56,9 +56,24 @@ Also worth knowing: when running a background command through this session's own
 
 ---
 
-## 4. Where to start Component 2
+## 4. Component 2 — status (started 2026-08-19, this session)
 
-Per the plan (`docs/new_methodology_report.md`), Component 2 is self-diagnosing domain grounding — checking whether a text-only domain-shift guess is trustworthy, falling back to a real-image measurement when it isn't. **Start on EuroSAT and Defactify** — both already downloaded, no need to wait on Camelyon17. New chat can go straight to building this without needing anything from Component 1's own troubleshooting history.
+Self-diagnosing domain grounding — checking whether DDO's text-only domain-shift guess is trustworthy, falling back to a real-image-measured `domain_diffs` when it isn't. Plan: [`planning/04-component2-self-diagnosing-domain-grounding-plan.md`](../planning/04-component2-self-diagnosing-domain-grounding-plan.md).
+
+**Built:**
+- [`external/LanCE/model/domain_grounding.py`](../external/LanCE/model/domain_grounding.py) — the diagnostic (Phase F3's real-matched-photo alignment-score formula, generalized to a small probe) + the image-grounded `domain_diffs` fallback (drop-in replacement, `clip_cbm_orth` needs no changes).
+- [`external/LanCE/experiments/component2_alignment_calibration.py`](../external/LanCE/experiments/component2_alignment_calibration.py) — threshold calibration on PACS.
+- [`external/LanCE/experiments/component2_defactify_grounding_ddo.py`](../external/LanCE/experiments/component2_defactify_grounding_ddo.py) — main validation: reruns Phase E2's baseline-vs-+DDO protocol on Defactify (photo→Midjourney v6) with a third condition, +DDO using the self-diagnosed/grounded `domain_diffs`.
+
+**Calibration run: done.** PACS (photo→art_painting/cartoon/sketch, real images both sides, this project's own diagnostic code) gives mean alignment 0.20–0.33 per domain (0.2493 overall) — **not** the paper's claimed 0.90–0.99, an honest finding worth keeping in the write-up (the diagnostic still separates known-good from known-bad domains by ~6-9x; it just doesn't hit the paper's absolute range under this formula). Defactify (photo→Midjourney v6, cited from Phase F3): 0.037. Calibrated threshold = midpoint = **0.1431**. Result: `results/component2_alignment_calibration.json`.
+
+**Main experiment: running now** (started 2026-08-19 ~19:58 IST, detached tmux session `c2_defactify` on **GPU 1** of lab-server, log at `/data/ai25mtech14009/c2_defactify.log`). Downloads Defactify directly on the server (HF dataset, not yet transferred — `datasets` package had to be `pip install`ed into the `mlgpu` env, wasn't there before), tags COCO categories (same heuristic as Phase E2), builds text-only and image-grounded `domain_diffs`, runs 3 conditions (baseline α=0, +DDO-text α=1, +DDO-grounded α=1) for 50 epochs each. Check status: `ssh lab-server "tail -50 /data/ai25mtech14009/c2_defactify.log"` — look for `Wrote .../component2_defactify_grounding_ddo.json` at the end, or a `Traceback`/`Error`.
+
+**Once done:** write up `results/component2_self_diagnosing_grounding.md` per `docs/component_report_template.md`, citing both the calibration JSON and the main experiment JSON. Key number to report: whether `ddo_grounded_gain_points` (new) beats `ddo_text_gain_points` (should reproduce Phase E2's ~+0.68) — that's the whole empirical question this component answers. **Also**: the moment this component has a real result, the combined/ablation-testing commitment from §5 below becomes actionable (Component 1 + Component 2 together) — don't let that slip.
+
+Other GPUs at the time this was started: GPU 0 in use by Component 1's DomainNet work (a different chat session); GPU 1 is this component's; GPU 2 free.
+
+Not yet started: EuroSAT as a second Component 2 domain (F1's already-measured 0.324 could be revisited with this project's own probe-scale diagnostic code the same way PACS/Defactify were, for a 3-point calibration curve instead of 2 — optional, not blocking the write-up).
 
 ---
 

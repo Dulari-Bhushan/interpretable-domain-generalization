@@ -1,0 +1,59 @@
+{
+  "clip_type": "ViT-L/14",
+  "probe_per_class": 30,
+  "source_domain": "photo",
+  "source_template": "a photo of a {}.",
+  "class_names": [
+    "dog",
+    "elephant",
+    "giraffe",
+    "guitar",
+    "horse",
+    "house",
+    "person"
+  ],
+  "results_per_target_domain": {
+    "art_painting": {
+      "target_template": "a painting of a {}.",
+      "per_class_alignment": {
+        "dog": 0.3723074793815613,
+        "elephant": 0.32618921995162964,
+        "giraffe": 0.32433825731277466,
+        "guitar": 0.3383965492248535,
+        "horse": 0.37864241003990173,
+        "house": 0.29800283908843994,
+        "person": 0.2434474676847458
+      },
+      "mean_alignment": 0.3259034603834152
+    },
+    "cartoon": {
+      "target_template": "a cartoon of a {}.",
+      "per_class_alignment": {
+        "dog": 0.23770129680633545,
+        "elephant": 0.21756599843502045,
+        "giraffe": 0.19560158252716064,
+        "guitar": 0.20488020777702332,
+        "horse": 0.2792632281780243,
+        "house": 0.21169093251228333,
+        "person": 0.20425844192504883
+      },
+      "mean_alignment": 0.2215659554515566
+    },
+    "sketch": {
+      "target_template": "a sketch of a {}.",
+      "per_class_alignment": {
+        "dog": 0.245961993932724,
+        "elephant": 0.17296040058135986,
+        "giraffe": 0.20047831535339355,
+        "guitar": 0.25284817814826965,
+        "horse": 0.2196626216173172,
+        "house": 0.1416950523853302,
+        "person": 0.16890107095241547
+      },
+      "mean_alignment": 0.20035823328154428
+    }
+  },
+  "pacs_overall_mean_alignment": 0.2492758830388387,
+  "phase_f3_mean_alignment_cited": 0.037,
+  "calibrated_threshold": 0.14313794151941936
+}
