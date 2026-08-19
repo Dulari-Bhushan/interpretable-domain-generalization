@@ -1,6 +1,6 @@
 # New methodology: our work on fixing what the diagnosis found
 
-**Status: Component 1 done and validated. Component 2's diagnostic validated, fallback mechanism identified but not yet statistically confirmed. Component 3 in progress. Components 4–5 not started. Report updated as work continues.**
+**Status: Component 1 done and validated. Component 2's diagnostic validated, fallback mechanism identified but not yet statistically confirmed. Component 3 done — mechanism validated as safe, not (yet) effective. Components 4–5 not started. Report updated as work continues.**
 
 This document picks up exactly where [`docs/research_report.md`](research_report.md) leaves off. That report is the *diagnosis*: eleven experiments establishing that LanCE forgets earlier domains once a harder benchmark is used (Pillar 1), and that its frozen CLIP backbone and frozen descriptor list both have real, measured coverage gaps (Pillar 2). This document is the *treatment* — an actual proposed method, why each piece exists, what it's shown so far, and an honest account of what's proven versus what's still just well-motivated.
 
@@ -18,7 +18,7 @@ The plan was developed and approved as a standalone planning artifact before any
 |---|---|---|---|
 | 1 | An exact, no-forgetting classifier update | Naive fine-tuning forgets earlier domains (Phase B/D); every remedy tested (cumulative DDO, replay, EWC) is an approximation | ✅ **Done, validated** |
 | 2 | Self-diagnosing domain grounding | DDO predicts a new domain's look purely from text, with measured near-zero reliability for domains that matter (Phase F1/F3/F4) | ⚠️ **Diagnostic validated; fallback mechanism identified, not yet statistically confirmed** (single run, effect size below this project's own demonstrated noise floor) — see `results/component2b_grounding_fallback_variants.md` |
-| 3 | A vocabulary that grows and prunes itself | The 204-phrase descriptor list is frozen at t=0; zero phrases match AI-generated imagery (Phase E1); DDO's benefit collapses ~10x without coverage (Phase E2) | 🔄 **In progress** — plan at `planning/05-component3-self-growing-vocabulary-plan.md`, main Defactify run started on lab-server GPU 2 |
+| 3 | A vocabulary that grows and prunes itself | The 204-phrase descriptor list is frozen at t=0; zero phrases match AI-generated imagery (Phase E1); DDO's benefit collapses ~10x without coverage (Phase E2) | ⚠️ **Partial/mixed result** — filter correctly rejected all 10 candidates (none cleared the trust threshold), so growth was a safe no-op, not a fix, on photo→Midjourney v6 — see `results/component3_self_growing_vocabulary.md` |
 | 4 | Domain memory that never stores raw images | Remedies that work well (replay) need to keep real examples from old domains around — a real problem for sensitive domains like medical imaging | Not started |
 | 5 | Knowing when to stop trusting itself | Some domains (sculpture/3D, per the base paper's own numbers) stay hard even with full descriptor coverage — a structural wall, not a coverage gap | Not started |
 | — | *Stretch: detecting a new domain arrived, without being told* | Every experiment so far assumes a domain boundary is handed to the method; real deployments often don't get that | Not started |
