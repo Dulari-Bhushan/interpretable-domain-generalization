@@ -1,0 +1,75 @@
+{
+  "component": "1b - L1 (original SGD) vs L2 (analytic) DDO ablation",
+  "config": {
+    "joint_epochs": 50,
+    "batch_size": 64,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "ridge_lambda": 1.0,
+    "ddo_lambda": 1.0,
+    "alpha": 1.0,
+    "seed": 0
+  },
+  "datasets": [
+    {
+      "dataset": "PACS",
+      "l1_sgd": {
+        "per_domain_test_acc": {
+          "photo": 100.0,
+          "art_painting": 99.0243911743164,
+          "cartoon": 98.50746393203735,
+          "sketch": 95.54707407951355
+        },
+        "ACC": 98.26973229646683,
+        "orthogonality": {
+          "mean_abs": 0.33753105998039246,
+          "mean_sq": 0.20365363359451294
+        }
+      },
+      "l2_analytic": {
+        "per_domain_test_acc": {
+          "photo": 100.0,
+          "art_painting": 99.0243911743164,
+          "cartoon": 99.36034083366394,
+          "sketch": 95.67430019378662
+        },
+        "ACC": 98.51475805044174,
+        "orthogonality": {
+          "mean_abs": 0.3337160646915436,
+          "mean_sq": 0.14989885687828064
+        }
+      },
+      "ACC_diff_l2_minus_l1": 0.24502575397491455
+    },
+    {
+      "dataset": "OfficeHome",
+      "l1_sgd": {
+        "per_domain_test_acc": {
+          "art": 90.72165489196777,
+          "clipart": 82.07762241363525,
+          "product": 96.85039520263672,
+          "real_world": 93.47079396247864
+        },
+        "ACC": 90.7801166176796,
+        "orthogonality": {
+          "mean_abs": 0.4686061143875122,
+          "mean_sq": 0.39026784896850586
+        }
+      },
+      "l2_analytic": {
+        "per_domain_test_acc": {
+          "art": 87.8350555896759,
+          "clipart": 80.1369845867157,
+          "product": 96.17547988891602,
+          "real_world": 91.9816792011261
+        },
+        "ACC": 89.03229981660843,
+        "orthogonality": {
+          "mean_abs": 0.09686515480279922,
+          "mean_sq": 0.015088286250829697
+        }
+      },
+      "ACC_diff_l2_minus_l1": -1.747816801071167
+    }
+  ]
+}
