@@ -1,0 +1,335 @@
+{
+  "dataset": "DomainNet",
+  "component": "1 - analytic domain-incremental classifier (scale test)",
+  "num_classes": 345,
+  "config": {
+    "ridge_lambda": 1.0,
+    "ddo_lambda": 1.0,
+    "seed": 0
+  },
+  "joint_oracle": {
+    "per_domain_test_acc": {
+      "clipart": 77.17748880386353,
+      "infograph": 57.79746174812317,
+      "painting": 73.72082471847534,
+      "quickdraw": 34.07536447048187,
+      "real": 84.10484194755554,
+      "sketch": 71.88754677772522
+    },
+    "ACC": 66.46058807770412
+  },
+  "sequential_runs": [
+    {
+      "order_id": "real_clipart_painting_sketch_infograph_quickdraw",
+      "domain_order": [
+        "real",
+        "clipart",
+        "painting",
+        "sketch",
+        "infograph",
+        "quickdraw"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "real",
+          "per_domain_test_acc": {
+            "clipart": 74.08244609832764,
+            "infograph": 47.542038559913635,
+            "painting": 66.35240316390991,
+            "quickdraw": 19.686956703662872,
+            "real": 86.63169741630554,
+            "sketch": 66.16944074630737
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "clipart": 79.2728066444397,
+            "infograph": 49.454501271247864,
+            "painting": 67.60640740394592,
+            "quickdraw": 21.147826313972473,
+            "real": 86.2646758556366,
+            "sketch": 68.31133961677551
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "painting",
+          "per_domain_test_acc": {
+            "clipart": 78.41687798500061,
+            "infograph": 50.03851056098938,
+            "painting": 75.65675377845764,
+            "quickdraw": 21.704348921775818,
+            "real": 85.8899712562561,
+            "sketch": 69.54006552696228
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "clipart": 78.24568748474121,
+            "infograph": 49.83955919742584,
+            "painting": 75.11212825775146,
+            "quickdraw": 22.28599041700363,
+            "real": 85.25393605232239,
+            "sketch": 72.99196720123291
+          }
+        },
+        {
+          "stage": 4,
+          "trained_domain": "infograph",
+          "per_domain_test_acc": {
+            "clipart": 77.74582505226135,
+            "infograph": 58.150434494018555,
+            "painting": 74.4347870349884,
+            "quickdraw": 22.056038677692413,
+            "real": 84.59675908088684,
+            "sketch": 72.19831943511963
+          }
+        },
+        {
+          "stage": 5,
+          "trained_domain": "quickdraw",
+          "per_domain_test_acc": {
+            "clipart": 77.17748880386353,
+            "infograph": 57.79746174812317,
+            "painting": 73.72082471847534,
+            "quickdraw": 34.07536447048187,
+            "real": 84.10484194755554,
+            "sketch": 71.88754677772522
+          }
+        }
+      ],
+      "R_diagonal": {
+        "real": 86.63169741630554,
+        "clipart": 79.2728066444397,
+        "painting": 75.65675377845764,
+        "sketch": 72.99196720123291,
+        "infograph": 58.150434494018555,
+        "quickdraw": 34.07536447048187
+      },
+      "R_final": {
+        "clipart": 77.17748880386353,
+        "infograph": 57.79746174812317,
+        "painting": 73.72082471847534,
+        "quickdraw": 34.07536447048187,
+        "real": 84.10484194755554,
+        "sketch": 71.88754677772522
+      },
+      "ACC_final": 66.46058807770412,
+      "BWT": -1.6030991077423096,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "quickdraw_infograph_sketch_painting_clipart_real",
+      "domain_order": [
+        "quickdraw",
+        "infograph",
+        "sketch",
+        "painting",
+        "clipart",
+        "real"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "quickdraw",
+          "per_domain_test_acc": {
+            "clipart": 40.74911177158356,
+            "infograph": 23.013734817504883,
+            "painting": 31.432494521141052,
+            "quickdraw": 49.40289855003357,
+            "real": 32.71074593067169,
+            "sketch": 37.56932318210602
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "infograph",
+          "per_domain_test_acc": {
+            "clipart": 55.45741319656372,
+            "infograph": 54.42818999290466,
+            "painting": 49.066361784935,
+            "quickdraw": 43.80483329296112,
+            "real": 57.28368163108826,
+            "sketch": 53.432780504226685
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "clipart": 66.15995764732361,
+            "infograph": 55.35233020782471,
+            "painting": 59.99084711074829,
+            "quickdraw": 39.9420291185379,
+            "real": 67.55827069282532,
+            "sketch": 69.70261931419373
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "painting",
+          "per_domain_test_acc": {
+            "clipart": 67.02273488044739,
+            "infograph": 55.21755814552307,
+            "painting": 71.94050550460815,
+            "quickdraw": 37.31594383716583,
+            "real": 70.19657492637634,
+            "sketch": 69.55440640449524
+          }
+        },
+        {
+          "stage": 4,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "clipart": 75.02739429473877,
+            "infograph": 56.22513294219971,
+            "painting": 72.90160655975342,
+            "quickdraw": 36.42318844795227,
+            "real": 74.37404990196228,
+            "sketch": 70.8739697933197
+          }
+        },
+        {
+          "stage": 5,
+          "trained_domain": "real",
+          "per_domain_test_acc": {
+            "clipart": 77.17748880386353,
+            "infograph": 57.79746174812317,
+            "painting": 73.72082471847534,
+            "quickdraw": 34.07536447048187,
+            "real": 84.10484194755554,
+            "sketch": 71.88754677772522
+          }
+        }
+      ],
+      "R_diagonal": {
+        "quickdraw": 49.40289855003357,
+        "infograph": 54.42818999290466,
+        "sketch": 69.70261931419373,
+        "painting": 71.94050550460815,
+        "clipart": 75.02739429473877,
+        "real": 84.10484194755554
+      },
+      "R_final": {
+        "clipart": 77.17748880386353,
+        "infograph": 57.79746174812317,
+        "painting": 73.72082471847534,
+        "quickdraw": 34.07536447048187,
+        "real": 84.10484194755554,
+        "sketch": 71.88754677772522
+      },
+      "ACC_final": 66.46058807770412,
+      "BWT": -1.1685842275619507,
+      "max_abs_diff_from_joint_acc": 0.0
+    },
+    {
+      "order_id": "clipart_real_quickdraw_infograph_painting_sketch",
+      "domain_order": [
+        "clipart",
+        "real",
+        "quickdraw",
+        "infograph",
+        "painting",
+        "sketch"
+      ],
+      "stages": [
+        {
+          "stage": 0,
+          "trained_domain": "clipart",
+          "per_domain_test_acc": {
+            "clipart": 80.53958415985107,
+            "infograph": 41.74047112464905,
+            "painting": 54.98398542404175,
+            "quickdraw": 20.11980712413788,
+            "real": 66.71086549758911,
+            "sketch": 61.923885345458984
+          }
+        },
+        {
+          "stage": 1,
+          "trained_domain": "real",
+          "per_domain_test_acc": {
+            "clipart": 79.2728066444397,
+            "infograph": 49.454501271247864,
+            "painting": 67.60640740394592,
+            "quickdraw": 21.147826313972473,
+            "real": 86.2646758556366,
+            "sketch": 68.31133961677551
+          }
+        },
+        {
+          "stage": 2,
+          "trained_domain": "quickdraw",
+          "per_domain_test_acc": {
+            "clipart": 78.70447039604187,
+            "infograph": 49.672701954841614,
+            "painting": 67.68878698348999,
+            "quickdraw": 38.04637789726257,
+            "real": 85.46722531318665,
+            "sketch": 68.47867369651794
+          }
+        },
+        {
+          "stage": 3,
+          "trained_domain": "infograph",
+          "per_domain_test_acc": {
+            "clipart": 78.18406224250793,
+            "infograph": 58.47131609916687,
+            "painting": 67.0846700668335,
+            "quickdraw": 36.535266041755676,
+            "real": 84.65248346328735,
+            "sketch": 68.10575723648071
+          }
+        },
+        {
+          "stage": 4,
+          "trained_domain": "painting",
+          "per_domain_test_acc": {
+            "clipart": 77.44454145431519,
+            "infograph": 58.04774761199951,
+            "painting": 73.84897470474243,
+            "quickdraw": 35.29468774795532,
+            "real": 84.55448746681213,
+            "sketch": 69.0141499042511
+          }
+        },
+        {
+          "stage": 5,
+          "trained_domain": "sketch",
+          "per_domain_test_acc": {
+            "clipart": 77.17748880386353,
+            "infograph": 57.79746174812317,
+            "painting": 73.72082471847534,
+            "quickdraw": 34.07536447048187,
+            "real": 84.10484194755554,
+            "sketch": 71.88754677772522
+          }
+        }
+      ],
+      "R_diagonal": {
+        "clipart": 80.53958415985107,
+        "real": 86.2646758556366,
+        "quickdraw": 38.04637789726257,
+        "infograph": 58.47131609916687,
+        "painting": 73.84897470474243,
+        "sketch": 71.88754677772522
+      },
+      "R_final": {
+        "clipart": 77.17748880386353,
+        "infograph": 57.79746174812317,
+        "painting": 73.72082471847534,
+        "quickdraw": 34.07536447048187,
+        "real": 84.10484194755554,
+        "sketch": 71.88754677772522
+      },
+      "ACC_final": 66.46058807770412,
+      "BWT": -2.058989405632019,
+      "max_abs_diff_from_joint_acc": 0.0
+    }
+  ]
+}
