@@ -24,26 +24,13 @@ Also worth knowing: when running a background command through this session's own
 
 ## 2. Component 1 — exact status
 
-**Core validation: done, confirmed, nothing further needed there.**
-- [`results/component1_exact_classifier.md`](../results/component1_exact_classifier.md) — the full report. PACS and Office-Home both show max-difference-from-joint = 0.0000 on every domain ordering tested.
-- [`results/component1b_l1_vs_l2_ablation.md`](../results/component1b_l1_vs_l2_ablation.md) — the L1-vs-L2 DDO ablation, also done. Real, mixed result: free on PACS, costs 1.75 accuracy points on Office-Home for a much stronger orthogonality property.
+**Fully done, including the scale test. Nothing further needed unless the L1-vs-L2-on-DomainNet follow-up below gets picked up.**
+- [`results/component1_exact_classifier.md`](../results/component1_exact_classifier.md) — the full report. PACS, Office-Home, **and now DomainNet (6 domains, 345 classes, ~586K images)** all show max-difference-from-joint = 0.0000 on every domain ordering tested — the exact-match property doesn't degrade at scale.
+- [`results/component1b_l1_vs_l2_ablation.md`](../results/component1b_l1_vs_l2_ablation.md) — the L1-vs-L2 DDO ablation, also done (PACS/Office-Home only). Real, mixed result: free on PACS, costs 1.75 accuracy points on Office-Home for a much stronger orthogonality property.
+- The DomainNet loader (`external/LanCE/data/DomainNet/`) is built, tested, and pushed; its concept bank is template-generated rather than hand-written — deliberate, documented in `generate_domainnet_concepts.py`'s own docstring, fine for the exactness test but would need replacing with real concepts if DomainNet classification *accuracy* ever needs to mean something on its own.
+- Applying the report template's 90% bar honestly (see `results/component1_exact_classifier.md` §12): the previously-listed "longer synthetic sequences" and "numerical conditioning at scale" follow-ups were dropped as low-value now that exactness is confirmed at three real scales with zero deviation. The one item that does clear the bar and is genuinely still open: **running the L1-vs-L2 ablation on DomainNet too** — 1b's own finding was dataset-dependent, not universal, so whether that pattern holds, reverses, or changes at DomainNet's very different scale is a real open question, not yet run.
 
-**In progress: the DomainNet scale test.** This is the one piece of Component 1 not yet finished.
-- The loader (`external/LanCE/data/DomainNet/domainnet_data.py`, `prepare_domainnet_dataset.py`, `generate_domainnet_concepts.py`, plus the wiring in `data/__init__.py`) is built, tested, and already pushed.
-- The validation script (`external/LanCE/experiments/component1_analytic_domain_il_domainnet.py`) is built and pushed, mirroring the PACS/Office-Home harnesses exactly.
-- **What's blocking it right now:** DomainNet's ~18GB of raw images are being downloaded directly on the server (not transferred from this machine — faster and more reliable). Running inside a detached tmux session called `domainnet_dl`, logging to `/data/ai25mtech14009/domainnet_dl.log`. As of this handoff (19 Aug 2026, ~19:37 IST), it was partway through (clipart done, infograph in progress) at roughly 1-4MB/s depending on the moment — could reasonably take a few more hours from when you're reading this.
-
-**To pick this up in the new chat:**
-1. Check download status: `ssh lab-server "tail -50 /data/ai25mtech14009/domainnet_dl.log"` — look for `DOMAINNET_DOWNLOAD_DONE` at the end.
-2. Once done, run the actual experiment **inside another tmux session** (per §1's lesson):
-   ```bash
-   ssh lab-server "cd /data/ai25mtech14009/repo/external/LanCE && tmux new-session -d -s domainnet_run 'source /data/ai25mtech14009/miniconda3/bin/activate mlgpu && CUDA_VISIBLE_DEVICES=0 python -m experiments.component1_analytic_domain_il_domainnet > /data/ai25mtech14009/domainnet_run.log 2>&1'"
-   ```
-   This will first build a CLIP embedding cache for ~586K images (the slow part, one-time), then run the joint fit and 3 sequential orderings.
-3. Once it writes `results/component1_domainnet_results.json` on the server, copy it back and write up the result following [`docs/component_report_template.md`](component_report_template.md) — likely updating `results/component1_exact_classifier.md` §12 (mark the DomainNet item done, same pattern as the L1-vs-L2 ablation) rather than a whole new report, since it's extending Component 1's own existing report, not answering a separate question.
-4. **A design decision already made and worth knowing:** the DomainNet concept bank (`domainnet_concepts.txt`, 1380 entries) is template-generated, not hand-written like PACS/Office-Home's — deliberately, because Component 1's exactness claim is a mathematical property that doesn't depend on concept quality. This is fine for the scale test; it would need replacing with real concepts first if a future experiment needed DomainNet *classification accuracy* to be meaningful, not just the exactness property.
-
-**This chat is staying on Component 1** in case the DomainNet run needs debugging or follow-up questions come up — don't duplicate that work in a new chat.
+**This chat's job is done unless something about Component 1 needs revisiting.** Don't duplicate this work in a new chat — if the L1-vs-L2-on-DomainNet follow-up gets picked up, it can go in whichever chat has room, following `external/LanCE/experiments/component1_l1_vs_l2_ablation.py` as the pattern (same script, swap in `get_domainnet_datasets`/`DOMAINNET_DOMAINS`).
 
 ---
 
