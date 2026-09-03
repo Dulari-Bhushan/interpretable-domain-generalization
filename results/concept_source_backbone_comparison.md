@@ -90,6 +90,20 @@ This matches Plan 03 §6's prediction exactly: detector/classifier-style concept
 
 Sanity check: this project's own CLIP-zero-shot Stage 2 result (50.34% on CUB-Painting) lands within 0.3 points of Phase 0's independently-run number for the same no-DDO CLIP pipeline (50.64%) — strong evidence the Stage 2 classifier-training code reproduces the established baseline correctly before trusting its DINOv2 numbers.
 
+### Stage 3a — vanilla DDO reattached to the DINOv2 concept source
+
+Added after a correction to Plan 07 §7: DDO's regularizer term never touches the image encoder, so Phase 0's own CLIP-text `domain_diffs` and `concept_embeddings` (unmodified, same human-written 312-concept bank) were reattached directly to Stage 2's DINOv2 downstream classifier, alpha=1 (matching Phase 0's own +DDO run). No new machinery — see [`planning/07-concept-source-backbone-comparison-plan.md`](../planning/07-concept-source-backbone-comparison-plan.md) §7 for exactly why this is valid. Script: [`concept_source_cub_stage3a_ddo_reattached.py`](../external/LanCE/experiments/concept_source_cub_stage3a_ddo_reattached.py); raw results: [`concept_source_cub_stage3a_ddo_reattached.json`](concept_source_cub_stage3a_ddo_reattached.json).
+
+| Variant | In-domain | CUB-Painting shift | Δ shift vs. Stage 2 (no DDO) |
+|---|---|---|---|
+| DINOv2 ViT-B/14, no DDO (Stage 2) | 85.01% | 61.70% | — |
+| DINOv2 ViT-B/14, +DDO reattached | 85.11% | **63.57%** | +1.87 |
+| DINOv2 ViT-L/14, no DDO (Stage 2) | 85.09% | 67.15% | — |
+| DINOv2 ViT-L/14, +DDO reattached | 85.13% | **67.54%** | +0.39 |
+| *(reference: CLIP zero-shot +DDO, Phase 0)* | *(not measured here)* | *57.04%* | — |
+
+Reattaching DDO helps on both DINOv2 sizes, but by a small and size-dependent amount — a real +1.87-point gain for ViT-B/14, a much smaller +0.39 for ViT-L/14 that's within the range Component 2's own seed-sweep work (`results/component2c_seed_sweep_and_second_domain.md`) found for same-split training-seed noise alone (~0.10-0.30 points on a comparably-sized domain-shift accuracy metric) — this is a single seed, no repeats, so the ViT-L/14 number specifically should be read as "not distinguishable from noise on this evidence alone," not as a confirmed null result. Both DINOv2+DDO numbers still comfortably beat CLIP+DDO's 57.04% (Phase 0) by 6.5-10.5 points — DDO's own text-domain-shift reasoning, built for CLIP's concept space, still adds a little value on top of a DINOv2 concept space it was never fit to, without making DINOv2's own advantage disappear.
+
 ## 9. What this means
 
 Stage 1's AUROC gap is real and not noise — a ~0.13 mean-AUROC gap with an 8:1-to-9:1 per-concept win ratio, on both DINOv2 sizes, comfortably clears the continuation bar plan 07 §3 set for even attempting Stage 2. Stage 2 confirms the practical consequence: DINOv2's better concept scores translate into a meaningfully better classifier, in-domain (+7.3 points over CLIP zero-shot on both sizes) and, more strikingly, the **domain-shift gap is even larger than the in-domain gap** (+11.4 points for ViT-B/14, +16.8 points for ViT-L/14) — despite neither DINOv2 variant getting any DDO-style domain-shift help. This project's other results all treat DDO as *the* mechanism for closing the CUB→CUB-Painting gap (Phase 0: +6.4 points from adding DDO on top of CLIP); here, simply swapping the concept source for a self-supervised, non-text-aligned backbone closes more of that gap (compare: CLIP zero-shot's own 50.34%→ DINOv2-L's 67.15%, a 16.8-point jump) than DDO did on the CLIP pipeline it was designed for, with zero domain-shift-specific machinery. That's a genuinely different lever than anything else this project has tried on CUB.

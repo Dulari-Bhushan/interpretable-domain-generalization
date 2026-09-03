@@ -80,7 +80,7 @@ This line **never touches `visual_features` (the image encoder's output) at all*
 
 **Two genuinely different Stage 3 variants follow from this, cheapest first:**
 
-### Stage 3a — vanilla DDO, reattached unmodified (cheap, do this first)
+### Stage 3a — vanilla DDO, reattached unmodified (cheap, do this first) — **done, see `results/concept_source_backbone_comparison.md` §8**
 
 Literally reuse Phase 0's existing `self.diffs` (CLIP-text domain-shift vectors from `target_text_prompts`/`source_text_prompts`) and `self.concept_embeddings` (CLIP-text embeddings of the *same* 311 human-written concept names Stage 1/2 already used), computed exactly as `clip_cbm_orth` already computes them today — zero new machinery. The only change: train Stage 2's DINOv2 downstream classifier with the extra loss term `alpha * |classifier[1:](diffs @ concept_embeddings.T)|.mean()` added in, exactly like `train_cached.py`'s existing `orth_loss` term (`train_cached.py:115-116`), where `classifier` is the *same* `LayerNorm(312) → Linear(312, 200)` being trained on DINOv2 concept activations. This is dimensionally valid with no changes anywhere else: the regularizer's output shape is `(num_directions, num_classes, 312)`, and 312 is the concept-bank size, which is identical for CLIP and DINOv2 in Stages 1/2 (same concept names, just scored two different ways) — the classifier the regularizer is checked against doesn't care which encoder produced the concept-activation values it was trained on.
 

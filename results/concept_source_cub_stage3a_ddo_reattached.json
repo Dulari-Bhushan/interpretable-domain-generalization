@@ -1,0 +1,20 @@
+{
+  "seed": 0,
+  "alpha": 1.0,
+  "cls_epochs": 50,
+  "note": "reuses Phase 0's own CLIP-text domain_diffs and concept_embeddings (human-written 312-concept cub_concepts.txt), unmodified, per plan 07 SS7 Stage 3a",
+  "compare_against_no_ddo": "results/concept_source_cub_stage2_downstream.json",
+  "compare_against_clip_ddo": {
+    "phase0_cub_painting_ddo_acc": 0.5704
+  },
+  "variants": {
+    "dinov2_vitb14": {
+      "acc_in_domain": 0.8511226177215576,
+      "acc_domain_shift": 0.6357072591781616
+    },
+    "dinov2_vitl14": {
+      "acc_in_domain": 0.8512953519821167,
+      "acc_domain_shift": 0.6754184365272522
+    }
+  }
+}
