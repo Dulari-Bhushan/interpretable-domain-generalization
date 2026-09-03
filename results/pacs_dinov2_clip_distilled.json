@@ -1,0 +1,14 @@
+{
+  "backbone": "dinov2_vitl14",
+  "concept_file": "pacs_concepts.txt",
+  "pseudo_label_source": "CLIP zero-shot, photo train, min-max normalized per concept",
+  "seed": 0,
+  "n_concepts": 70,
+  "results": {
+    "photo": 0.9909909963607788,
+    "art_painting": 0.8292682766914368,
+    "cartoon": 0.5927505493164062,
+    "sketch": 0.6679389476776123
+  },
+  "compare_against": "results/pacs_concept_bank_comparison.json, key human_alpha0.0"
+}
