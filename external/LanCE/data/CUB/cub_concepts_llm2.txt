@@ -1,0 +1,312 @@
+a long thin bill
+a short stout bill
+a hooked bill
+a strongly curved bill
+a straight slender bill
+a thick conical bill
+a fine pointed bill
+a downward curved bill
+an upturned bill
+a broad flat bill
+a needle like bill
+a chisel shaped bill
+a heavy crushing bill
+a tiny delicate bill
+an oversized bill
+a spatula shaped bill
+a serrated edged bill
+a hooked upper mandible
+a stubby bill
+a wedge shaped bill
+a decurved bill
+a straight dagger bill
+a short conical bill
+a long probing bill
+a slightly curved bill
+a stout crossbill shaped bill
+a sharply pointed bill
+a broad based bill
+a narrow tapered bill
+a black bill
+a yellow bill
+an orange bill
+a red bill
+a pink bill
+a grey bill
+a horn colored bill
+a two toned bill
+a dark tipped bill
+a pale ivory bill
+a bright yellow bill tip
+a blackish bill with a pale base
+a reddish orange bill
+a dusky bill
+a bill with a black tip
+a black crown
+a red crown
+a bright yellow crown
+a crested crown
+a striped crown
+a white crown patch
+a rufous crown
+an orange crown stripe
+a bare crown
+a crown with a central stripe
+a blue grey crown
+a chestnut crown
+a speckled crown
+a glossy black crown
+a flat crown
+a peaked crown
+a buff nape
+a white nape patch
+a black nape
+a rufous nape
+a speckled nape
+a grey nape
+a golden nape
+a nape with a pale collar
+a streaked nape
+a dark olive nape
+a white throat patch
+a black throat
+a bright yellow throat
+a red throat patch
+a streaked throat
+an orange throat
+an iridescent throat patch
+a pale grey throat
+a throat with a dark bib
+a rufous throat
+a throat bordered by a black band
+a plain white throat
+a buffy throat
+a throat with fine streaks
+a spotted breast
+a streaked breast
+a solid orange breast
+a white breast
+a barred breast
+a rusty breast band
+a black breast band
+a pale buff breast
+a scaly patterned breast
+a bright yellow breast
+a pink flushed breast
+a breast with dark speckles
+a breast with a central spot
+a plain grey breast
+a breast streaked with brown
+a breast marked with chevrons
+a deep chestnut breast
+a breast washed with rufous
+a white belly
+a yellow belly
+a buff belly
+a barred belly
+a black belly patch
+a pale grey belly
+a belly with faint streaks
+an off white belly
+a rufous tinged belly
+a belly washed with yellow
+an olive green back
+a striped back
+a grey back
+a mottled back
+a brown back with fine streaks
+an iridescent back
+a chestnut back
+a back with a pale rump patch
+a scaly patterned back
+a plain slate colored back
+a back marked with dark bars
+a golden brown back
+a back with a greenish sheen
+a two toned back
+a blue wing
+a barred wing
+white wing bars
+a black wing with white patches
+a rufous wing patch
+an iridescent wing patch
+a wing with a white speculum
+speckled wing coverts
+a wing edged in white
+a chestnut wing panel
+a wing with a yellow patch
+dark primaries with pale edges
+a wing bar formed by pale tips
+a wing with a metallic sheen
+a mottled wing pattern
+a wing marked with a red patch
+a plain brown wing
+a wing with contrasting stripes
+orange tinged wing feathers
+a wing with a black leading edge
+a wing patch that flashes in flight
+buffy wing bars
+a long pointed wing
+a rounded wing
+a broad rounded wing
+a short stubby wing
+a narrow swept wing
+a wing built for soaring
+a wing built for rapid wingbeats
+a wing that extends past the tail
+a long forked tail
+a short square tail
+a notched tail
+a fan shaped tail
+a long graduated tail
+a stiff pointed tail
+a wedge shaped tail
+a very short tail
+a deeply forked tail
+a rounded tail
+a tail that is often cocked upward
+a tail longer than the body
+a pointed spike like tail
+a broad tail
+a slightly notched tail
+a tail with elongated central feathers
+a white outer tail feather
+a black tail with a white tip
+a barred tail
+a rufous tail
+a tail edged in white
+a dark tail with a pale band
+a tail with a white terminal band
+an iridescent tail
+a tail marked with dark spots
+a chestnut tail
+a tail flashing white when spread
+a plain grey tail
+long thin legs
+short stout legs
+yellow legs
+pink legs
+black legs
+webbed feet
+long wading legs
+orange legs
+legs feathered to the toes
+long toes for grasping branches
+strong grasping talons
+legs adapted for perching on cattails
+short legs suited for hopping
+a red eye
+a white eye ring
+a dark eye stripe
+a pale eyebrow stripe
+a black eye mask
+a yellow eye
+a bold white eyebrow
+a thin dark line through the eye
+a bright orange eye
+a pale eye ring contrasting with dark plumage
+a broken eye ring
+a dark eye with no visible ring
+a golden eye
+a small bird
+a large bird
+a medium sized bird
+a plump rounded body
+a slender body
+a stocky build
+a long necked bird
+a short necked bird
+a compact body
+an elongated body
+a tiny bird barely bigger than a bee
+a bird about the size of a sparrow
+a bird about the size of a crow
+a large heavy bodied bird
+a small delicate bird
+a robust barrel chested bird
+a slim streamlined body
+a top heavy bill relative to body size
+found near water
+a diving seabird
+a woodland songbird
+a marsh dweller
+an aerial insectivore
+a ground foraging bird
+a bird of prey
+a nocturnal hunter
+a tree climbing bird
+a shorebird that probes mud
+a bird that perches on wires
+a bird found in dense forest
+a bird found in open grassland
+a colonial nester
+a bird that hovers while feeding
+a bird with a distinctive undulating flight
+a bird that walks rather than hops
+a cavity nesting bird
+a migratory songbird
+a bird found along rocky coastlines
+a bird that forages in mixed flocks
+a bird that flicks its tail while perched
+a bird that bobs its head while walking
+a bird that catches insects on the wing
+a bird often seen near backyard feeders
+a bird that nests in tree cavities
+a bird that builds a hanging nest
+a wetland wading bird
+a bird that skims the water surface
+a bird that dives from the air for fish
+a songbird known for its loud call
+a bird that forages on tree trunks
+a bird found in dry scrubland
+a bird that nests on cliff ledges
+a bird that flocks in large numbers
+a bird that mimics other species calls
+a white forehead patch
+a black cheek patch
+a rufous ear patch
+a pale supercilium
+a dark malar stripe
+a grey cheek
+streaked ear coverts
+a yellow forehead
+a facial disk typical of owls
+a bold facial pattern
+a plain unmarked face
+a dark mask across the face
+a white cheek patch bordered in black
+a rufous face
+a pale lore
+a bright red forehead patch
+a white rump patch
+a yellow rump
+a bright rump patch visible in flight
+a streaked vent
+a buff colored undertail
+a dark rump
+contrasting white undertail coverts
+a chestnut rump
+a plain grey vent
+a bird with a distinctive silhouette in flight
+a bird with a slight crest at the back of the head
+a bird with a bushy crest
+a bird with iridescent gorget feathers
+a bird with a ruff around the neck
+a bird with elongated tail streamers
+a bird with a shaggy throat feather tuft
+a bird with a bare colorful facial patch
+has a heavily streaked plumage
+has a spotted plumage overall
+has a barred plumage overall
+has a mottled brown plumage
+has a plain unmarked plumage
+has strongly contrasting black and white plumage
+has a scaly patterned plumage
+has a uniformly dark plumage
+has a pale washed out plumage
+has bright iridescent plumage
+has a boldly patterned plumage
+has counter shaded plumage darker above than below
+has a subtly patterned plumage
+has a glossy sheen to the plumage
+has cryptic camouflage plumage
