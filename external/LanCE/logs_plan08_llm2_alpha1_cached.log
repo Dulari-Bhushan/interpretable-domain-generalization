@@ -1,0 +1,69 @@
+2026-09-03 15:29:10,478 [INFO] Using device: cuda:0
+2026-09-03 15:30:16,085 [INFO] Dataset CUB loaded
+2026-09-03 15:30:25,788 [INFO] Model initialized: clip_cbm
+2026-09-03 15:30:25,788 [INFO] Total parameters: 427,679,737 | Trainable: 63,224
+2026-09-03 15:30:25,815 [INFO] Cached features - train: 5,990, source test: 5,790, target test: 3,047
+2026-09-03 15:30:25,819 [INFO] 
+============================================================
+2026-09-03 15:30:25,820 [INFO] Starting Training for 50 epochs
+2026-09-03 15:30:25,820 [INFO] Dataset: CUB
+2026-09-03 15:30:25,820 [INFO] Model: clip_cbm
+2026-09-03 15:30:25,820 [INFO] Alpha: 1.0, Beta: 0
+2026-09-03 15:30:25,820 [INFO] ============================================================
+
+2026-09-03 15:30:31,854 [INFO] Epoch 1 Summary: Time: 6.03s | Train Acc: 1.40% | Source Acc: 3.58% | Target Acc: 3.18% | Best Target Acc: 3.18% @ Epoch 1
+2026-09-03 15:30:37,689 [INFO] Epoch 2 Summary: Time: 5.83s | Train Acc: 6.38% | Source Acc: 11.95% | Target Acc: 8.70% | Best Target Acc: 8.70% @ Epoch 2
+2026-09-03 15:30:43,574 [INFO] Epoch 3 Summary: Time: 5.88s | Train Acc: 16.74% | Source Acc: 23.28% | Target Acc: 15.36% | Best Target Acc: 15.36% @ Epoch 3
+2026-09-03 15:30:49,423 [INFO] Epoch 4 Summary: Time: 5.85s | Train Acc: 28.60% | Source Acc: 32.80% | Target Acc: 21.50% | Best Target Acc: 21.50% @ Epoch 4
+2026-09-03 15:30:55,359 [INFO] Epoch 5 Summary: Time: 5.94s | Train Acc: 38.13% | Source Acc: 41.66% | Target Acc: 27.50% | Best Target Acc: 27.50% @ Epoch 5
+2026-09-03 15:31:01,253 [INFO] Epoch 6 Summary: Time: 5.89s | Train Acc: 46.14% | Source Acc: 48.32% | Target Acc: 33.25% | Best Target Acc: 33.25% @ Epoch 6
+2026-09-03 15:31:07,257 [INFO] Epoch 7 Summary: Time: 6.00s | Train Acc: 52.79% | Source Acc: 54.11% | Target Acc: 37.84% | Best Target Acc: 37.84% @ Epoch 7
+2026-09-03 15:31:13,273 [INFO] Epoch 8 Summary: Time: 6.02s | Train Acc: 58.23% | Source Acc: 58.08% | Target Acc: 41.61% | Best Target Acc: 41.61% @ Epoch 8
+2026-09-03 15:31:19,112 [INFO] Epoch 9 Summary: Time: 5.84s | Train Acc: 61.60% | Source Acc: 61.50% | Target Acc: 44.04% | Best Target Acc: 44.04% @ Epoch 9
+2026-09-03 15:31:25,009 [INFO] Epoch 10 Summary: Time: 5.90s | Train Acc: 65.44% | Source Acc: 64.37% | Target Acc: 46.50% | Best Target Acc: 46.50% @ Epoch 10
+2026-09-03 15:31:30,856 [INFO] Epoch 11 Summary: Time: 5.85s | Train Acc: 68.48% | Source Acc: 66.48% | Target Acc: 48.15% | Best Target Acc: 48.15% @ Epoch 11
+2026-09-03 15:31:36,999 [INFO] Epoch 12 Summary: Time: 6.14s | Train Acc: 70.50% | Source Acc: 68.43% | Target Acc: 49.36% | Best Target Acc: 49.36% @ Epoch 12
+2026-09-03 15:31:42,974 [INFO] Epoch 13 Summary: Time: 5.97s | Train Acc: 72.95% | Source Acc: 69.64% | Target Acc: 51.00% | Best Target Acc: 51.00% @ Epoch 13
+2026-09-03 15:31:48,958 [INFO] Epoch 14 Summary: Time: 5.98s | Train Acc: 73.47% | Source Acc: 71.23% | Target Acc: 52.12% | Best Target Acc: 52.12% @ Epoch 14
+2026-09-03 15:31:54,825 [INFO] Epoch 15 Summary: Time: 5.87s | Train Acc: 74.99% | Source Acc: 72.09% | Target Acc: 53.27% | Best Target Acc: 53.27% @ Epoch 15
+2026-09-03 15:31:55,767 [INFO] Epoch 16 Summary: Time: 0.94s | Train Acc: 77.03% | Source Acc: 72.92% | Target Acc: 53.23% | Best Target Acc: 53.27% @ Epoch 15
+2026-09-03 15:32:01,616 [INFO] Epoch 17 Summary: Time: 5.85s | Train Acc: 77.75% | Source Acc: 73.70% | Target Acc: 54.32% | Best Target Acc: 54.32% @ Epoch 17
+2026-09-03 15:32:07,532 [INFO] Epoch 18 Summary: Time: 5.92s | Train Acc: 78.91% | Source Acc: 74.15% | Target Acc: 54.68% | Best Target Acc: 54.68% @ Epoch 18
+2026-09-03 15:32:13,609 [INFO] Epoch 19 Summary: Time: 6.08s | Train Acc: 79.03% | Source Acc: 74.96% | Target Acc: 54.84% | Best Target Acc: 54.84% @ Epoch 19
+2026-09-03 15:32:19,720 [INFO] Epoch 20 Summary: Time: 6.02s | Train Acc: 80.10% | Source Acc: 76.17% | Target Acc: 55.56% | Best Target Acc: 55.56% @ Epoch 20
+2026-09-03 15:32:25,681 [INFO] Epoch 21 Summary: Time: 5.96s | Train Acc: 81.07% | Source Acc: 76.41% | Target Acc: 56.35% | Best Target Acc: 56.35% @ Epoch 21
+2026-09-03 15:32:31,596 [INFO] Epoch 22 Summary: Time: 5.91s | Train Acc: 81.39% | Source Acc: 76.56% | Target Acc: 56.48% | Best Target Acc: 56.48% @ Epoch 22
+2026-09-03 15:32:37,626 [INFO] Epoch 23 Summary: Time: 6.03s | Train Acc: 81.87% | Source Acc: 77.31% | Target Acc: 56.91% | Best Target Acc: 56.91% @ Epoch 23
+2026-09-03 15:32:43,574 [INFO] Epoch 24 Summary: Time: 5.95s | Train Acc: 82.70% | Source Acc: 77.72% | Target Acc: 57.40% | Best Target Acc: 57.40% @ Epoch 24
+2026-09-03 15:32:44,533 [INFO] Epoch 25 Summary: Time: 0.96s | Train Acc: 83.16% | Source Acc: 78.22% | Target Acc: 57.24% | Best Target Acc: 57.40% @ Epoch 24
+2026-09-03 15:32:50,542 [INFO] Epoch 26 Summary: Time: 6.01s | Train Acc: 83.12% | Source Acc: 78.19% | Target Acc: 57.93% | Best Target Acc: 57.93% @ Epoch 26
+2026-09-03 15:32:51,491 [INFO] Epoch 27 Summary: Time: 0.95s | Train Acc: 83.82% | Source Acc: 78.77% | Target Acc: 57.79% | Best Target Acc: 57.93% @ Epoch 26
+2026-09-03 15:32:57,419 [INFO] Epoch 28 Summary: Time: 5.93s | Train Acc: 84.42% | Source Acc: 79.05% | Target Acc: 58.42% | Best Target Acc: 58.42% @ Epoch 28
+2026-09-03 15:33:03,602 [INFO] Epoch 29 Summary: Time: 6.18s | Train Acc: 84.84% | Source Acc: 79.31% | Target Acc: 58.65% | Best Target Acc: 58.65% @ Epoch 29
+2026-09-03 15:33:09,590 [INFO] Epoch 30 Summary: Time: 5.99s | Train Acc: 84.76% | Source Acc: 79.55% | Target Acc: 58.71% | Best Target Acc: 58.71% @ Epoch 30
+2026-09-03 15:33:15,598 [INFO] Epoch 31 Summary: Time: 6.01s | Train Acc: 85.38% | Source Acc: 80.17% | Target Acc: 59.60% | Best Target Acc: 59.60% @ Epoch 31
+2026-09-03 15:33:16,548 [INFO] Epoch 32 Summary: Time: 0.95s | Train Acc: 85.44% | Source Acc: 79.90% | Target Acc: 59.24% | Best Target Acc: 59.60% @ Epoch 31
+2026-09-03 15:33:22,443 [INFO] Epoch 33 Summary: Time: 5.89s | Train Acc: 85.64% | Source Acc: 80.07% | Target Acc: 59.63% | Best Target Acc: 59.63% @ Epoch 33
+2026-09-03 15:33:28,355 [INFO] Epoch 34 Summary: Time: 5.91s | Train Acc: 86.13% | Source Acc: 80.09% | Target Acc: 59.89% | Best Target Acc: 59.89% @ Epoch 34
+2026-09-03 15:33:29,299 [INFO] Epoch 35 Summary: Time: 0.94s | Train Acc: 86.24% | Source Acc: 80.24% | Target Acc: 59.70% | Best Target Acc: 59.89% @ Epoch 34
+2026-09-03 15:33:35,332 [INFO] Epoch 36 Summary: Time: 6.03s | Train Acc: 86.19% | Source Acc: 80.52% | Target Acc: 60.39% | Best Target Acc: 60.39% @ Epoch 36
+2026-09-03 15:33:41,363 [INFO] Epoch 37 Summary: Time: 6.03s | Train Acc: 86.74% | Source Acc: 80.86% | Target Acc: 60.52% | Best Target Acc: 60.52% @ Epoch 37
+2026-09-03 15:33:42,326 [INFO] Epoch 38 Summary: Time: 0.96s | Train Acc: 86.63% | Source Acc: 80.85% | Target Acc: 60.52% | Best Target Acc: 60.52% @ Epoch 37
+2026-09-03 15:33:48,385 [INFO] Epoch 39 Summary: Time: 6.06s | Train Acc: 87.10% | Source Acc: 80.81% | Target Acc: 60.55% | Best Target Acc: 60.55% @ Epoch 39
+2026-09-03 15:33:49,385 [INFO] Epoch 40 Summary: Time: 1.00s | Train Acc: 87.05% | Source Acc: 81.07% | Target Acc: 60.42% | Best Target Acc: 60.55% @ Epoch 39
+2026-09-03 15:33:50,333 [INFO] Epoch 41 Summary: Time: 0.95s | Train Acc: 86.94% | Source Acc: 81.04% | Target Acc: 60.52% | Best Target Acc: 60.55% @ Epoch 39
+2026-09-03 15:33:51,278 [INFO] Epoch 42 Summary: Time: 0.94s | Train Acc: 87.30% | Source Acc: 81.21% | Target Acc: 60.52% | Best Target Acc: 60.55% @ Epoch 39
+2026-09-03 15:33:57,215 [INFO] Epoch 43 Summary: Time: 5.94s | Train Acc: 87.65% | Source Acc: 81.45% | Target Acc: 61.01% | Best Target Acc: 61.01% @ Epoch 43
+2026-09-03 15:33:58,171 [INFO] Epoch 44 Summary: Time: 0.96s | Train Acc: 87.81% | Source Acc: 81.28% | Target Acc: 60.62% | Best Target Acc: 61.01% @ Epoch 43
+2026-09-03 15:33:59,113 [INFO] Epoch 45 Summary: Time: 0.94s | Train Acc: 87.66% | Source Acc: 81.68% | Target Acc: 60.72% | Best Target Acc: 61.01% @ Epoch 43
+2026-09-03 15:34:05,027 [INFO] Epoch 46 Summary: Time: 5.91s | Train Acc: 87.86% | Source Acc: 81.76% | Target Acc: 61.11% | Best Target Acc: 61.11% @ Epoch 46
+2026-09-03 15:34:05,977 [INFO] Epoch 47 Summary: Time: 0.95s | Train Acc: 88.10% | Source Acc: 81.78% | Target Acc: 61.04% | Best Target Acc: 61.11% @ Epoch 46
+2026-09-03 15:34:11,924 [INFO] Epoch 48 Summary: Time: 5.95s | Train Acc: 88.23% | Source Acc: 81.93% | Target Acc: 61.40% | Best Target Acc: 61.40% @ Epoch 48
+2026-09-03 15:34:12,881 [INFO] Epoch 49 Summary: Time: 0.96s | Train Acc: 88.25% | Source Acc: 81.66% | Target Acc: 61.01% | Best Target Acc: 61.40% @ Epoch 48
+2026-09-03 15:34:13,825 [INFO] Epoch 50 Summary: Time: 0.94s | Train Acc: 88.33% | Source Acc: 81.66% | Target Acc: 61.27% | Best Target Acc: 61.40% @ Epoch 48
+2026-09-03 15:34:13,825 [INFO] 
+============================================================
+2026-09-03 15:34:13,825 [INFO] Training Completed
+2026-09-03 15:34:13,825 [INFO] Best Source Accuracy: 81.93%
+2026-09-03 15:34:13,825 [INFO] Best Target Accuracy: 61.40%
+2026-09-03 15:34:13,825 [INFO] ============================================================

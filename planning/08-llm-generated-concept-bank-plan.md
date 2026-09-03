@@ -1,6 +1,6 @@
 # Plan 08: does an LLM-generated concept bank beat the human-written one?
 
-**Done — results in [`results/llm_concept_bank_comparison.md`](../results/llm_concept_bank_comparison.md).** The LLM-generated bank won on every metric (in-domain and CUB-Painting shift, with and without DDO), by 1.6-3.2 points.
+**Done and replicated — results in [`results/llm_concept_bank_comparison.md`](../results/llm_concept_bank_comparison.md).** The LLM-generated bank won on every metric (in-domain and CUB-Painting shift, with and without DDO) on two independent draws — draw 1 by 1.6-3.2 points, draw 2 by 2.0-4.7 points.
 
 ## 0. Where this comes from, and what it is
 
