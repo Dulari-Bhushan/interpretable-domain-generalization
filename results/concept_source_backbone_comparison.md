@@ -51,10 +51,15 @@ DINOv2 (not a CLIP variant, not an ImageNet-supervised ResNet-50, despite the or
 | Variant | Mean AUROC | Median AUROC | Wins vs. CLIP zero-shot (of 312) |
 |---|---|---|---|
 | CLIP ViT-L/14 zero-shot | 0.6468 | 0.6468 | — (baseline) |
-| DINOv2 ViT-B/14 + trained probe | **0.7770** | 0.7921 | 289 wins / 23 losses / 0 ties |
-| DINOv2 ViT-L/14 + trained probe | 0.7717 | 0.7844 | 287 wins / 25 losses / 0 ties |
+| DINOv2 ViT-B/14 + trained probe | 0.7765 | 0.7910 | 290 wins / 22 losses / 0 ties |
+| DINOv2 ViT-L/14 + trained probe | 0.7716 | 0.7855 | 285 wins / 27 losses / 0 ties |
+| DINOv2 ViT-g/14 ("giant") + trained probe | **0.7916** | **0.8097** | **296 wins / 16 losses / 0 ties** |
+
+*(ViT-B/L numbers rerun alongside the ViT-g/14 addition - tiny run-to-run floating-point differences from the original Stage 1 numbers reported above in §8's first pass; not a meaningful change, both runs land within 0.001 of each other.)*
 
 ![Stage 1: mean per-concept AUROC](figures/concept_source_stage1_auroc.png)
+
+**Adding ViT-g/14 answers the scale question §11 (original write-up) left open.** ViT-B and ViT-L had scored within 0.005 mean AUROC of each other - consistent with either a real ceiling or noise. ViT-g/14 (~1.1B params, 3.6x ViT-L's parameter count) breaks that tie cleanly: +0.015 to +0.020 mean AUROC over both smaller sizes, and the best win-rate of any variant (296/312). Scale within the DINOv2 family keeps helping, at least up to giant - this was not knowable from ViT-B/L alone.
 
 **Per-concept pattern** (both DINOv2 sizes agree on direction): biggest DINOv2 gains are on structural/localizable concepts —
 

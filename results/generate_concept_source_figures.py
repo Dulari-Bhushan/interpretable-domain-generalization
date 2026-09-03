@@ -19,13 +19,16 @@ LABELS = {
     "clip_vitl14_zeroshot": "CLIP ViT-L/14\n(zero-shot)",
     "dinov2_vitb14": "DINOv2 ViT-B/14\n(trained probe)",
     "dinov2_vitl14": "DINOv2 ViT-L/14\n(trained probe)",
+    "dinov2_vitg14": "DINOv2 ViT-g/14\n(trained probe)",
 }
 COLORS = {
     "clip_vitl14_zeroshot": "#c0392b",
-    "dinov2_vitb14": "#2471a3",
-    "dinov2_vitl14": "#1a5276",
+    "dinov2_vitb14": "#7fb3d5",
+    "dinov2_vitl14": "#2471a3",
+    "dinov2_vitg14": "#1a5276",
 }
-ORDER = ["clip_vitl14_zeroshot", "dinov2_vitb14", "dinov2_vitl14"]
+ORDER = ["clip_vitl14_zeroshot", "dinov2_vitb14", "dinov2_vitl14", "dinov2_vitg14"]  # Stage 1 has all 3 sizes
+STAGE2_ORDER = ["clip_vitl14_zeroshot", "dinov2_vitb14", "dinov2_vitl14"]  # Stage 2 hasn't run giant yet
 
 
 def main():
@@ -50,10 +53,10 @@ def main():
 
     # --- Figure 2: Stage 2 - downstream accuracy, in-domain + shift ---
     fig, ax = plt.subplots(figsize=(7, 4.5))
-    x = range(len(ORDER))
+    x = range(len(STAGE2_ORDER))
     width = 0.35
-    in_dom = [stage2["variants"][k]["acc_in_domain"] * 100 for k in ORDER]
-    shift = [stage2["variants"][k]["acc_domain_shift"] * 100 for k in ORDER]
+    in_dom = [stage2["variants"][k]["acc_in_domain"] * 100 for k in STAGE2_ORDER]
+    shift = [stage2["variants"][k]["acc_domain_shift"] * 100 for k in STAGE2_ORDER]
     bars1 = ax.bar([i - width / 2 for i in x], in_dom, width, label="In-domain (CUB test)", color="#7fb3d5")
     bars2 = ax.bar([i + width / 2 for i in x], shift, width, label="Domain shift (CUB-Painting)", color="#1a5276")
     for bars in (bars1, bars2):
@@ -68,7 +71,7 @@ def main():
     ax.axhline(phase0_shift, color="#c0392b", linestyle="--", linewidth=1, alpha=0.7,
                label=f"Phase 0 baseline, CUB-Painting ({phase0_shift:.2f}%)")
     ax.set_xticks(list(x))
-    ax.set_xticklabels([LABELS[k] for k in ORDER])
+    ax.set_xticklabels([LABELS[k] for k in STAGE2_ORDER])
     ax.set_ylabel("Classification accuracy (%)")
     ax.set_title("Stage 2: downstream accuracy (no DDO)")
     ax.set_ylim(0, 100)
