@@ -62,6 +62,7 @@ N_CLASSES = 200
 DINOV2_BACKBONES = {
     "dinov2_vitb14": "vit_base_patch14_dinov2.lvd142m",
     "dinov2_vitl14": "vit_large_patch14_dinov2.lvd142m",
+    "dinov2_vitg14": "vit_giant_patch14_dinov2.lvd142m",
 }
 
 SPLITS = {
