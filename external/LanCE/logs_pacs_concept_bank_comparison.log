@@ -1,0 +1,877 @@
+
+=== human_alpha0.0 (concept_file=pacs_concepts.txt) ===
+----------Computing Domain Differences (photo)----------
+0it [00:00, ?it/s]                  0it [00:00, ?it/s]1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]                      1it [00:00,  1.80it/s]7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]                      7it [00:00, 13.30it/s]13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]                       13it [00:00, 23.01it/s]19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]                       19it [00:00, 30.86it/s]25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]                       25it [00:01, 36.94it/s]31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]                       31it [00:01, 41.33it/s]37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]                       37it [00:01, 44.65it/s]43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]                       43it [00:01, 47.15it/s]49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]                       49it [00:01, 48.84it/s]55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]                       55it [00:01, 50.30it/s]61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]                       61it [00:01, 51.21it/s]67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]                       67it [00:01, 51.81it/s]73it [00:01, 52.31it/s]                       73it [00:01, 52.31it/s]                       73it [00:01, 52.31it/s]                       73it [00:01, 52.31it/s]                       73it [00:01, 52.31it/s]                       73it [00:01, 52.31it/s]                       73it [00:02, 52.31it/s]79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]                       79it [00:02, 52.64it/s]85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]                       85it [00:02, 52.95it/s]91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]                       91it [00:02, 53.16it/s]97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]                       97it [00:02, 53.13it/s]103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]                        103it [00:02, 53.28it/s]109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]                        109it [00:02, 53.28it/s]115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]                        115it [00:02, 53.47it/s]121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]                        121it [00:02, 53.62it/s]127it [00:02, 53.57it/s]                        127it [00:02, 53.57it/s]                        127it [00:02, 53.57it/s]                        127it [00:02, 53.57it/s]                        127it [00:02, 53.57it/s]                        127it [00:02, 53.57it/s]                        127it [00:03, 53.57it/s]133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]                        133it [00:03, 53.47it/s]139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]                        139it [00:03, 53.54it/s]145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]                        145it [00:03, 53.59it/s]151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]                        151it [00:03, 53.75it/s]157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]                        157it [00:03, 53.53it/s]163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]                        163it [00:03, 53.51it/s]169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]                        169it [00:03, 53.51it/s]175it [00:03, 53.75it/s]                        175it [00:03, 53.75it/s]                        a painting of a {}. - a photo of a {}.
+a clipart illustration of a {}. - a photo of a {}.
+an infographic of a {}. - a photo of a {}.
+a quickdraw of a {}. - a photo of a {}.
+a sketch of a {}. - a photo of a {}.
+an advertising posters of a {}. - a photo of a {}.
+a sculpture of a {}. - a photo of a {}.
+a watercolor of a {}. - a photo of a {}.
+a 3D model of a {}. - a photo of a {}.
+a blueprint of a {}. - a photo of a {}.
+a silhouette of a {}. - a photo of a {}.
+a vintage photo of a {}. - a photo of a {}.
+a digital art of a {}. - a photo of a {}.
+a pencil drawing of a {}. - a photo of a {}.
+a technical illustration of a {}. - a photo of a {}.
+a doodle of a {}. - a photo of a {}.
+a woodcut of a {}. - a photo of a {}.
+a lithograph of a {}. - a photo of a {}.
+an oil painting of a {}. - a photo of a {}.
+a gouache painting of a {}. - a photo of a {}.
+an embroidery of a {}. - a photo of a {}.
+a charcoal sketch of a {}. - a photo of a {}.
+an etching of a {}. - a photo of a {}.
+a tattoo design of a {}. - a photo of a {}.
+a comic strip of a {}. - a photo of a {}.
+a collage of a {}. - a photo of a {}.
+a pop art of a {}. - a photo of a {}.
+a manga style drawing of a {}. - a photo of a {}.
+a minimalist drawing of a {}. - a photo of a {}.
+a pixel art of a {}. - a photo of a {}.
+a sepia photo of a {}. - a photo of a {}.
+a retro style of a {}. - a photo of a {}.
+a low-poly model of a {}. - a photo of a {}.
+a fantasy art of a {}. - a photo of a {}.
+a surrealist painting of a {}. - a photo of a {}.
+a futuristic concept art of a {}. - a photo of a {}.
+an impressionist painting of a {}. - a photo of a {}.
+a hyperrealistic drawing of a {}. - a photo of a {}.
+a chalkboard sketch of a {}. - a photo of a {}.
+a photo collage of a {}. - a photo of a {}.
+a CGI render of a {}. - a photo of a {}.
+a stained glass of a {}. - a photo of a {}.
+an anime style of a {}. - a photo of a {}.
+a Renaissance painting of a {}. - a photo of a {}.
+a Victorian engraving of a {}. - a photo of a {}.
+a children’s book illustration of a {}. - a photo of a {}.
+a pen and ink drawing of a {}. - a photo of a {}.
+a crayon drawing of a {}. - a photo of a {}.
+a blueprint diagram of a {}. - a photo of a {}.
+a steampunk version of a {}. - a photo of a {}.
+a street art mural of a {}. - a photo of a {}.
+a pastel drawing of a {}. - a photo of a {}.
+a scientific diagram of a {}. - a photo of a {}.
+a psychedelic art of a {}. - a photo of a {}.
+an editorial cartoon of a {}. - a photo of a {}.
+a pointillism painting of a {}. - a photo of a {}.
+a decorative ornament of a {}. - a photo of a {}.
+a folk art version of a {}. - a photo of a {}.
+a holographic image of a {}. - a photo of a {}.
+a VR model of a {}. - a photo of a {}.
+a bronze statue of a {}. - a photo of a {}.
+an ancient cave painting of a {}. - a photo of a {}.
+a sci-fi style of a {}. - a photo of a {}.
+a children coloring book of a {}. - a photo of a {}.
+a mixed media art of a {}. - a photo of a {}.
+a conceptual sketch of a {}. - a photo of a {}.
+a steampunk mechanical drawing of a {}. - a photo of a {}.
+a hand-painted mural of a {}. - a photo of a {}.
+a pastel artwork of a {}. - a photo of a {}.
+an illustrated diagram of a {}. - a photo of a {}.
+a vector graphic of a {}. - a photo of a {}.
+a medieval manuscript of a {}. - a photo of a {}.
+a baroque painting of a {}. - a photo of a {}.
+a Cubist painting of a {}. - a photo of a {}.
+an Art Deco version of a {}. - a photo of a {}.
+an Art Nouveau illustration of a {}. - a photo of a {}.
+an acrylic painting of a {}. - a photo of a {}.
+a neon sign of a {}. - a photo of a {}.
+an icon design of a {}. - a photo of a {}.
+a shadow silhouette of a {}. - a photo of a {}.
+a cut-paper art of a {}. - a photo of a {}.
+a tapestry featuring a {}. - a photo of a {}.
+a cross-stitch pattern of a {}. - a photo of a {}.
+a visual novel character of a {}. - a photo of a {}.
+an emoji of a {}. - a photo of a {}.
+a logo of a {}. - a photo of a {}.
+a banner featuring a {}. - a photo of a {}.
+a motion graphic of a {}. - a photo of a {}.
+a kinetic sculpture of a {}. - a photo of a {}.
+a vintage postcard of a {}. - a photo of a {}.
+a LED display of a {}. - a photo of a {}.
+a glass sculpture of a {}. - a photo of a {}.
+a sand art representation of a {}. - a photo of a {}.
+a flower arrangement resembling a {}. - a photo of a {}.
+a fabric pattern of a {}. - a photo of a {}.
+an Egyptian hieroglyph of a {}. - a photo of a {}.
+a 16-bit video game character of a {}. - a photo of a {}.
+a pottery design of a {}. - a photo of a {}.
+a metal engraving of a {}. - a photo of a {}.
+an origami model of a {}. - a photo of a {}.
+a cyberpunk illustration of a {}. - a photo of a {}.
+a graffiti stencil of a {}. - a photo of a {}.
+a stained glass panel of a {}. - a photo of a {}.
+a Rorschach inkblot of a {}. - a photo of a {}.
+a Gothic architecture detail of a {}. - a photo of a {}.
+a postage stamp of a {}. - a photo of a {}.
+a wireframe model of a {}. - a photo of a {}.
+a LEGO model of a {}. - a photo of a {}.
+a hologram of a {}. - a photo of a {}.
+a paper doll of a {}. - a photo of a {}.
+a bubble letter graffiti of a {}. - a photo of a {}.
+a cookie cutter shape of a {}. - a photo of a {}.
+an emoji sticker of a {}. - a photo of a {}.
+a flipbook animation of a {}. - a photo of a {}.
+a crystal carving of a {}. - a photo of a {}.
+a sand sculpture of a {}. - a photo of a {}.
+a totem pole with a {}. - a photo of a {}.
+a Moai statue resembling a {}. - a photo of a {}.
+a scientific model of a {}. - a photo of a {}.
+a photo negative of a {}. - a photo of a {}.
+a pop-up book with a {}. - a photo of a {}.
+a clay sculpture of a {}. - a photo of a {}.
+a fabric print of a {}. - a photo of a {}.
+a kinetic art piece of a {}. - a photo of a {}.
+a chalk pavement art of a {}. - a photo of a {}.
+a scrimshaw of a {}. - a photo of a {}.
+an augmented reality filter of a {}. - a photo of a {}.
+a laser-cut wood model of a {}. - a photo of a {}.
+a beadwork pattern of a {}. - a photo of a {}.
+a lenticular print of a {}. - a photo of a {}.
+a tarot card featuring a {}. - a photo of a {}.
+an astrological chart with a {}. - a photo of a {}.
+a glass mosaic of a {}. - a photo of a {}.
+a domino tile of a {}. - a photo of a {}.
+a rubber stamp of a {}. - a photo of a {}.
+a fashion illustration of a {}. - a photo of a {}.
+a tattoo flash of a {}. - a photo of a {}.
+a 2D animation cell of a {}. - a photo of a {}.
+a comic book panel of a {}. - a photo of a {}.
+a topographic map with a {}. - a photo of a {}.
+an ASCII art of a {}. - a photo of a {}.
+a street photography shot of a {}. - a photo of a {}.
+a stone carving of a {}. - a photo of a {}.
+a bookplate illustration of a {}. - a photo of a {}.
+a linocut of a {}. - a photo of a {}.
+an album cover with a {}. - a photo of a {}.
+a silhouette photo of a {}. - a photo of a {}.
+a flipbook of a {}. - a photo of a {}.
+a watercolor wash of a {}. - a photo of a {}.
+a 4-bit pixel icon of a {}. - a photo of a {}.
+a map illustration with a {}. - a photo of a {}.
+an animated GIF of a {}. - a photo of a {}.
+a 3D hologram of a {}. - a photo of a {}.
+a typography art of a {}. - a photo of a {}.
+a paper cutout of a {}. - a photo of a {}.
+a retrowave poster of a {}. - a photo of a {}.
+a constellation resembling a {}. - a photo of a {}.
+a steampunk icon of a {}. - a photo of a {}.
+a painted ceramic tile of a {}. - a photo of a {}.
+an abstract representation of a {}. - a photo of a {}.
+a shadow puppet of a {}. - a photo of a {}.
+a cave engraving of a {}. - a photo of a {}.
+a dot matrix print of a {}. - a photo of a {}.
+a Rube Goldberg machine featuring a {}. - a photo of a {}.
+an aerial view photo of a {}. - a photo of a {}.
+an album art design of a {}. - a photo of a {}.
+a topographic elevation map of a {}. - a photo of a {}.
+a needlepoint design of a {}. - a photo of a {}.
+a quilling art piece of a {}. - a photo of a {}.
+a badge design of a {}. - a photo of a {}.
+a marble statue of a {}. - a photo of a {}.
+a glass etching of a {}. - a photo of a {}.
+a logo badge of a {}. - a photo of a {}.
+a postage stamp illustration of a {}. - a photo of a {}.
+an embossed print of a {}. - a photo of a {}.
+a neon artwork of a {}. - a photo of a {}.
+175it [00:03, 53.75it/s]                        175it [00:03, 53.75it/s]                        175it [00:03, 53.75it/s]                        175it [00:03, 53.75it/s]                        175it [00:03, 53.75it/s]181it [00:03, 53.76it/s]                        181it [00:03, 53.76it/s]                        181it [00:03, 53.76it/s]                        181it [00:03, 53.76it/s]                        181it [00:03, 53.76it/s]                        181it [00:03, 53.76it/s]                        181it [00:04, 53.76it/s]187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]                        187it [00:04, 53.32it/s]193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]                        193it [00:04, 53.36it/s]199it [00:04, 53.41it/s]                        199it [00:04, 53.41it/s]                        199it [00:04, 53.41it/s]                        199it [00:04, 53.41it/s]                        199it [00:04, 53.41it/s]                        199it [00:04, 53.41it/s]204it [00:04, 46.86it/s]
+/data/ai25mtech14009/repo/external/LanCE/cache_utils.py:19: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  cached = torch.load(cache_path)
+a street poster with a {}. - a photo of a {}.
+an ancient rune of a {}. - a photo of a {}.
+a steampunk watch gear featuring a {}. - a photo of a {}.
+an environmental infographic of a {}. - a photo of a {}.
+a safety sign of a {}. - a photo of a {}.
+a blueprint schematic of a {}. - a photo of a {}.
+a wire sculpture of a {}. - a photo of a {}.
+a papercraft model of a {}. - a photo of a {}.
+a photorealistic painting of a {}. - a photo of a {}.
+a vintage label of a {}. - a photo of a {}.
+a linocut print of a {}. - a photo of a {}.
+a painting on driftwood of a {}. - a photo of a {}.
+a cave wall painting of a {}. - a photo of a {}.
+a tribal tattoo of a {}. - a photo of a {}.
+a doodle sticker of a {}. - a photo of a {}.
+a video game cover featuring a {}. - a photo of a {}.
+an emoji art of a {}. - a photo of a {}.
+a lava lamp pattern of a {}. - a photo of a {}.
+a comic character of a {}. - a photo of a {}.
+a floral arrangement shaped like a {}. - a photo of a {}.
+a retro poster of a {}. - a photo of a {}.
+a minimalist icon of a {}. - a photo of a {}.
+a classic movie poster featuring a {}. - a photo of a {}.
+a botanical illustration of a {}. - a photo of a {}.
+a cross-sectional diagram of a {}. - a photo of a {}.
+a video game avatar of a {}. - a photo of a {}.
+a medieval tapestry with a {}. - a photo of a {}.
+a carved pumpkin in the shape of a {}. - a photo of a {}.
+    epoch 1/50: cls=1.9674  orth=0.4829
+    epoch 10/50: cls=1.3192  orth=0.4811
+    epoch 20/50: cls=0.9012  orth=0.5011
+    epoch 30/50: cls=0.6766  orth=0.5348
+    epoch 40/50: cls=0.4566  orth=0.5740
+    epoch 50/50: cls=0.3518  orth=0.6142
+  photo: 99.70%
+  art_painting: 92.44%
+  cartoon: 94.46%
+  sketch: 91.86%
+
+=== human_alpha1.0 (concept_file=pacs_concepts.txt) ===
+----------Computing Domain Differences (photo)----------
+0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]                      6it [00:00, 51.39it/s]12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]                       12it [00:00, 52.15it/s]18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]                       18it [00:00, 52.47it/s]24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]                       24it [00:00, 52.87it/s]30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]                       30it [00:00, 52.65it/s]36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]                       36it [00:00, 52.73it/s]42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]                       42it [00:00, 52.68it/s]48it [00:00, 52.64it/s]                       48it [00:00, 52.64it/s]                       48it [00:00, 52.64it/s]                       48it [00:00, 52.64it/s]                       48it [00:00, 52.64it/s]                       48it [00:00, 52.64it/s]                       48it [00:01, 52.64it/s]54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]                       54it [00:01, 52.67it/s]60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]                       60it [00:01, 52.78it/s]66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]                       66it [00:01, 52.77it/s]72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]                       72it [00:01, 52.67it/s]78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]                       78it [00:01, 52.60it/s]84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]                       84it [00:01, 52.84it/s]90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]                       90it [00:01, 52.89it/s]96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]                       96it [00:01, 49.02it/s]102it [00:01, 50.14it/s]                        102it [00:01, 50.14it/s]                        102it [00:01, 50.14it/s]                        102it [00:02, 50.14it/s]                        102it [00:02, 50.14it/s]                        102it [00:02, 50.14it/s]                        102it [00:02, 50.14it/s]108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]                        108it [00:02, 50.86it/s]114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]                        114it [00:02, 51.42it/s]120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]                        120it [00:02, 51.93it/s]126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]                        126it [00:02, 52.38it/s]132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]                        132it [00:02, 52.59it/s]138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]                        138it [00:02, 52.42it/s]144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]                        144it [00:02, 52.39it/s]150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]                        150it [00:02, 52.36it/s]156it [00:02, 52.80it/s]                        156it [00:02, 52.80it/s]                        156it [00:03, 52.80it/s]                        156it [00:03, 52.80it/s]                        156it [00:03, 52.80it/s]                        156it [00:03, 52.80it/s]                        156it [00:03, 52.80it/s]162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]                        162it [00:03, 52.80it/s]168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]                        168it [00:03, 52.81it/s]174it [00:03, 52.79it/s]                        174it [00:03, 52.79it/s]                        174it [00:03, 52.79it/s]                        a painting of a {}. - a photo of a {}.
+a clipart illustration of a {}. - a photo of a {}.
+an infographic of a {}. - a photo of a {}.
+a quickdraw of a {}. - a photo of a {}.
+a sketch of a {}. - a photo of a {}.
+an advertising posters of a {}. - a photo of a {}.
+a sculpture of a {}. - a photo of a {}.
+a watercolor of a {}. - a photo of a {}.
+a 3D model of a {}. - a photo of a {}.
+a blueprint of a {}. - a photo of a {}.
+a silhouette of a {}. - a photo of a {}.
+a vintage photo of a {}. - a photo of a {}.
+a digital art of a {}. - a photo of a {}.
+a pencil drawing of a {}. - a photo of a {}.
+a technical illustration of a {}. - a photo of a {}.
+a doodle of a {}. - a photo of a {}.
+a woodcut of a {}. - a photo of a {}.
+a lithograph of a {}. - a photo of a {}.
+an oil painting of a {}. - a photo of a {}.
+a gouache painting of a {}. - a photo of a {}.
+an embroidery of a {}. - a photo of a {}.
+a charcoal sketch of a {}. - a photo of a {}.
+an etching of a {}. - a photo of a {}.
+a tattoo design of a {}. - a photo of a {}.
+a comic strip of a {}. - a photo of a {}.
+a collage of a {}. - a photo of a {}.
+a pop art of a {}. - a photo of a {}.
+a manga style drawing of a {}. - a photo of a {}.
+a minimalist drawing of a {}. - a photo of a {}.
+a pixel art of a {}. - a photo of a {}.
+a sepia photo of a {}. - a photo of a {}.
+a retro style of a {}. - a photo of a {}.
+a low-poly model of a {}. - a photo of a {}.
+a fantasy art of a {}. - a photo of a {}.
+a surrealist painting of a {}. - a photo of a {}.
+a futuristic concept art of a {}. - a photo of a {}.
+an impressionist painting of a {}. - a photo of a {}.
+a hyperrealistic drawing of a {}. - a photo of a {}.
+a chalkboard sketch of a {}. - a photo of a {}.
+a photo collage of a {}. - a photo of a {}.
+a CGI render of a {}. - a photo of a {}.
+a stained glass of a {}. - a photo of a {}.
+an anime style of a {}. - a photo of a {}.
+a Renaissance painting of a {}. - a photo of a {}.
+a Victorian engraving of a {}. - a photo of a {}.
+a children’s book illustration of a {}. - a photo of a {}.
+a pen and ink drawing of a {}. - a photo of a {}.
+a crayon drawing of a {}. - a photo of a {}.
+a blueprint diagram of a {}. - a photo of a {}.
+a steampunk version of a {}. - a photo of a {}.
+a street art mural of a {}. - a photo of a {}.
+a pastel drawing of a {}. - a photo of a {}.
+a scientific diagram of a {}. - a photo of a {}.
+a psychedelic art of a {}. - a photo of a {}.
+an editorial cartoon of a {}. - a photo of a {}.
+a pointillism painting of a {}. - a photo of a {}.
+a decorative ornament of a {}. - a photo of a {}.
+a folk art version of a {}. - a photo of a {}.
+a holographic image of a {}. - a photo of a {}.
+a VR model of a {}. - a photo of a {}.
+a bronze statue of a {}. - a photo of a {}.
+an ancient cave painting of a {}. - a photo of a {}.
+a sci-fi style of a {}. - a photo of a {}.
+a children coloring book of a {}. - a photo of a {}.
+a mixed media art of a {}. - a photo of a {}.
+a conceptual sketch of a {}. - a photo of a {}.
+a steampunk mechanical drawing of a {}. - a photo of a {}.
+a hand-painted mural of a {}. - a photo of a {}.
+a pastel artwork of a {}. - a photo of a {}.
+an illustrated diagram of a {}. - a photo of a {}.
+a vector graphic of a {}. - a photo of a {}.
+a medieval manuscript of a {}. - a photo of a {}.
+a baroque painting of a {}. - a photo of a {}.
+a Cubist painting of a {}. - a photo of a {}.
+an Art Deco version of a {}. - a photo of a {}.
+an Art Nouveau illustration of a {}. - a photo of a {}.
+an acrylic painting of a {}. - a photo of a {}.
+a neon sign of a {}. - a photo of a {}.
+an icon design of a {}. - a photo of a {}.
+a shadow silhouette of a {}. - a photo of a {}.
+a cut-paper art of a {}. - a photo of a {}.
+a tapestry featuring a {}. - a photo of a {}.
+a cross-stitch pattern of a {}. - a photo of a {}.
+a visual novel character of a {}. - a photo of a {}.
+an emoji of a {}. - a photo of a {}.
+a logo of a {}. - a photo of a {}.
+a banner featuring a {}. - a photo of a {}.
+a motion graphic of a {}. - a photo of a {}.
+a kinetic sculpture of a {}. - a photo of a {}.
+a vintage postcard of a {}. - a photo of a {}.
+a LED display of a {}. - a photo of a {}.
+a glass sculpture of a {}. - a photo of a {}.
+a sand art representation of a {}. - a photo of a {}.
+a flower arrangement resembling a {}. - a photo of a {}.
+a fabric pattern of a {}. - a photo of a {}.
+an Egyptian hieroglyph of a {}. - a photo of a {}.
+a 16-bit video game character of a {}. - a photo of a {}.
+a pottery design of a {}. - a photo of a {}.
+a metal engraving of a {}. - a photo of a {}.
+an origami model of a {}. - a photo of a {}.
+a cyberpunk illustration of a {}. - a photo of a {}.
+a graffiti stencil of a {}. - a photo of a {}.
+a stained glass panel of a {}. - a photo of a {}.
+a Rorschach inkblot of a {}. - a photo of a {}.
+a Gothic architecture detail of a {}. - a photo of a {}.
+a postage stamp of a {}. - a photo of a {}.
+a wireframe model of a {}. - a photo of a {}.
+a LEGO model of a {}. - a photo of a {}.
+a hologram of a {}. - a photo of a {}.
+a paper doll of a {}. - a photo of a {}.
+a bubble letter graffiti of a {}. - a photo of a {}.
+a cookie cutter shape of a {}. - a photo of a {}.
+an emoji sticker of a {}. - a photo of a {}.
+a flipbook animation of a {}. - a photo of a {}.
+a crystal carving of a {}. - a photo of a {}.
+a sand sculpture of a {}. - a photo of a {}.
+a totem pole with a {}. - a photo of a {}.
+a Moai statue resembling a {}. - a photo of a {}.
+a scientific model of a {}. - a photo of a {}.
+a photo negative of a {}. - a photo of a {}.
+a pop-up book with a {}. - a photo of a {}.
+a clay sculpture of a {}. - a photo of a {}.
+a fabric print of a {}. - a photo of a {}.
+a kinetic art piece of a {}. - a photo of a {}.
+a chalk pavement art of a {}. - a photo of a {}.
+a scrimshaw of a {}. - a photo of a {}.
+an augmented reality filter of a {}. - a photo of a {}.
+a laser-cut wood model of a {}. - a photo of a {}.
+a beadwork pattern of a {}. - a photo of a {}.
+a lenticular print of a {}. - a photo of a {}.
+a tarot card featuring a {}. - a photo of a {}.
+an astrological chart with a {}. - a photo of a {}.
+a glass mosaic of a {}. - a photo of a {}.
+a domino tile of a {}. - a photo of a {}.
+a rubber stamp of a {}. - a photo of a {}.
+a fashion illustration of a {}. - a photo of a {}.
+a tattoo flash of a {}. - a photo of a {}.
+a 2D animation cell of a {}. - a photo of a {}.
+a comic book panel of a {}. - a photo of a {}.
+a topographic map with a {}. - a photo of a {}.
+an ASCII art of a {}. - a photo of a {}.
+a street photography shot of a {}. - a photo of a {}.
+a stone carving of a {}. - a photo of a {}.
+a bookplate illustration of a {}. - a photo of a {}.
+a linocut of a {}. - a photo of a {}.
+an album cover with a {}. - a photo of a {}.
+a silhouette photo of a {}. - a photo of a {}.
+a flipbook of a {}. - a photo of a {}.
+a watercolor wash of a {}. - a photo of a {}.
+a 4-bit pixel icon of a {}. - a photo of a {}.
+a map illustration with a {}. - a photo of a {}.
+an animated GIF of a {}. - a photo of a {}.
+a 3D hologram of a {}. - a photo of a {}.
+a typography art of a {}. - a photo of a {}.
+a paper cutout of a {}. - a photo of a {}.
+a retrowave poster of a {}. - a photo of a {}.
+a constellation resembling a {}. - a photo of a {}.
+a steampunk icon of a {}. - a photo of a {}.
+a painted ceramic tile of a {}. - a photo of a {}.
+an abstract representation of a {}. - a photo of a {}.
+a shadow puppet of a {}. - a photo of a {}.
+a cave engraving of a {}. - a photo of a {}.
+a dot matrix print of a {}. - a photo of a {}.
+a Rube Goldberg machine featuring a {}. - a photo of a {}.
+an aerial view photo of a {}. - a photo of a {}.
+an album art design of a {}. - a photo of a {}.
+a topographic elevation map of a {}. - a photo of a {}.
+a needlepoint design of a {}. - a photo of a {}.
+a quilling art piece of a {}. - a photo of a {}.
+a badge design of a {}. - a photo of a {}.
+a marble statue of a {}. - a photo of a {}.
+a glass etching of a {}. - a photo of a {}.
+a logo badge of a {}. - a photo of a {}.
+a postage stamp illustration of a {}. - a photo of a {}.
+an embossed print of a {}. - a photo of a {}.
+a neon artwork of a {}. - a photo of a {}.
+174it [00:03, 52.79it/s]                        174it [00:03, 52.79it/s]                        174it [00:03, 52.79it/s]                        174it [00:03, 52.79it/s]180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]                        180it [00:03, 52.96it/s]186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]                        186it [00:03, 53.20it/s]192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]                        192it [00:03, 53.41it/s]198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]                        198it [00:03, 53.11it/s]204it [00:03, 53.11it/s]204it [00:03, 52.44it/s]
+a street poster with a {}. - a photo of a {}.
+an ancient rune of a {}. - a photo of a {}.
+a steampunk watch gear featuring a {}. - a photo of a {}.
+an environmental infographic of a {}. - a photo of a {}.
+a safety sign of a {}. - a photo of a {}.
+a blueprint schematic of a {}. - a photo of a {}.
+a wire sculpture of a {}. - a photo of a {}.
+a papercraft model of a {}. - a photo of a {}.
+a photorealistic painting of a {}. - a photo of a {}.
+a vintage label of a {}. - a photo of a {}.
+a linocut print of a {}. - a photo of a {}.
+a painting on driftwood of a {}. - a photo of a {}.
+a cave wall painting of a {}. - a photo of a {}.
+a tribal tattoo of a {}. - a photo of a {}.
+a doodle sticker of a {}. - a photo of a {}.
+a video game cover featuring a {}. - a photo of a {}.
+an emoji art of a {}. - a photo of a {}.
+a lava lamp pattern of a {}. - a photo of a {}.
+a comic character of a {}. - a photo of a {}.
+a floral arrangement shaped like a {}. - a photo of a {}.
+a retro poster of a {}. - a photo of a {}.
+a minimalist icon of a {}. - a photo of a {}.
+a classic movie poster featuring a {}. - a photo of a {}.
+a botanical illustration of a {}. - a photo of a {}.
+a cross-sectional diagram of a {}. - a photo of a {}.
+a video game avatar of a {}. - a photo of a {}.
+a medieval tapestry with a {}. - a photo of a {}.
+a carved pumpkin in the shape of a {}. - a photo of a {}.
+    epoch 1/50: cls=1.9756  orth=0.4544
+    epoch 10/50: cls=1.3711  orth=0.3049
+    epoch 20/50: cls=0.9749  orth=0.2881
+    epoch 30/50: cls=0.7641  orth=0.2981
+    epoch 40/50: cls=0.5363  orth=0.3108
+    epoch 50/50: cls=0.4282  orth=0.3226
+  photo: 99.70%
+  art_painting: 93.41%
+  cartoon: 95.52%
+  sketch: 93.00%
+
+=== llm_alpha0.0 (concept_file=pacs_concepts_llm.txt) ===
+----------Computing Domain Differences (photo)----------
+0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]                      5it [00:00, 49.21it/s]11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]                       11it [00:00, 51.44it/s]17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]                       17it [00:00, 51.89it/s]23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]                       23it [00:00, 52.52it/s]29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]                       29it [00:00, 52.62it/s]35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]                       35it [00:00, 52.67it/s]41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]                       41it [00:00, 52.79it/s]47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]                       47it [00:00, 52.93it/s]53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]                       53it [00:01, 53.01it/s]59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]                       59it [00:01, 52.85it/s]65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]                       65it [00:01, 52.72it/s]71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]                       71it [00:01, 52.81it/s]77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]                       77it [00:01, 53.00it/s]83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]                       83it [00:01, 53.08it/s]89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]                       89it [00:01, 53.02it/s]95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]                       95it [00:01, 52.93it/s]101it [00:01, 53.02it/s]                        101it [00:01, 53.02it/s]                        101it [00:01, 53.02it/s]                        101it [00:01, 53.02it/s]                        101it [00:01, 53.02it/s]                        101it [00:01, 53.02it/s]                        101it [00:02, 53.02it/s]107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]                        107it [00:02, 52.70it/s]113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]                        113it [00:02, 52.78it/s]119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]                        119it [00:02, 52.78it/s]125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]                        125it [00:02, 52.85it/s]131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]                        131it [00:02, 52.97it/s]137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]                        137it [00:02, 53.24it/s]143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]                        143it [00:02, 53.16it/s]149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]                        149it [00:02, 53.07it/s]155it [00:02, 52.98it/s]                        155it [00:02, 52.98it/s]                        155it [00:02, 52.98it/s]                        155it [00:02, 52.98it/s]                        155it [00:02, 52.98it/s]                        155it [00:03, 52.98it/s]                        155it [00:03, 52.98it/s]161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]                        161it [00:03, 53.03it/s]167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]                        167it [00:03, 53.03it/s]173it [00:03, 53.02it/s]                        173it [00:03, 53.02it/s]                        173it [00:03, 53.02it/s]                        173it [00:03, 53.02it/s]                        a painting of a {}. - a photo of a {}.
+a clipart illustration of a {}. - a photo of a {}.
+an infographic of a {}. - a photo of a {}.
+a quickdraw of a {}. - a photo of a {}.
+a sketch of a {}. - a photo of a {}.
+an advertising posters of a {}. - a photo of a {}.
+a sculpture of a {}. - a photo of a {}.
+a watercolor of a {}. - a photo of a {}.
+a 3D model of a {}. - a photo of a {}.
+a blueprint of a {}. - a photo of a {}.
+a silhouette of a {}. - a photo of a {}.
+a vintage photo of a {}. - a photo of a {}.
+a digital art of a {}. - a photo of a {}.
+a pencil drawing of a {}. - a photo of a {}.
+a technical illustration of a {}. - a photo of a {}.
+a doodle of a {}. - a photo of a {}.
+a woodcut of a {}. - a photo of a {}.
+a lithograph of a {}. - a photo of a {}.
+an oil painting of a {}. - a photo of a {}.
+a gouache painting of a {}. - a photo of a {}.
+an embroidery of a {}. - a photo of a {}.
+a charcoal sketch of a {}. - a photo of a {}.
+an etching of a {}. - a photo of a {}.
+a tattoo design of a {}. - a photo of a {}.
+a comic strip of a {}. - a photo of a {}.
+a collage of a {}. - a photo of a {}.
+a pop art of a {}. - a photo of a {}.
+a manga style drawing of a {}. - a photo of a {}.
+a minimalist drawing of a {}. - a photo of a {}.
+a pixel art of a {}. - a photo of a {}.
+a sepia photo of a {}. - a photo of a {}.
+a retro style of a {}. - a photo of a {}.
+a low-poly model of a {}. - a photo of a {}.
+a fantasy art of a {}. - a photo of a {}.
+a surrealist painting of a {}. - a photo of a {}.
+a futuristic concept art of a {}. - a photo of a {}.
+an impressionist painting of a {}. - a photo of a {}.
+a hyperrealistic drawing of a {}. - a photo of a {}.
+a chalkboard sketch of a {}. - a photo of a {}.
+a photo collage of a {}. - a photo of a {}.
+a CGI render of a {}. - a photo of a {}.
+a stained glass of a {}. - a photo of a {}.
+an anime style of a {}. - a photo of a {}.
+a Renaissance painting of a {}. - a photo of a {}.
+a Victorian engraving of a {}. - a photo of a {}.
+a children’s book illustration of a {}. - a photo of a {}.
+a pen and ink drawing of a {}. - a photo of a {}.
+a crayon drawing of a {}. - a photo of a {}.
+a blueprint diagram of a {}. - a photo of a {}.
+a steampunk version of a {}. - a photo of a {}.
+a street art mural of a {}. - a photo of a {}.
+a pastel drawing of a {}. - a photo of a {}.
+a scientific diagram of a {}. - a photo of a {}.
+a psychedelic art of a {}. - a photo of a {}.
+an editorial cartoon of a {}. - a photo of a {}.
+a pointillism painting of a {}. - a photo of a {}.
+a decorative ornament of a {}. - a photo of a {}.
+a folk art version of a {}. - a photo of a {}.
+a holographic image of a {}. - a photo of a {}.
+a VR model of a {}. - a photo of a {}.
+a bronze statue of a {}. - a photo of a {}.
+an ancient cave painting of a {}. - a photo of a {}.
+a sci-fi style of a {}. - a photo of a {}.
+a children coloring book of a {}. - a photo of a {}.
+a mixed media art of a {}. - a photo of a {}.
+a conceptual sketch of a {}. - a photo of a {}.
+a steampunk mechanical drawing of a {}. - a photo of a {}.
+a hand-painted mural of a {}. - a photo of a {}.
+a pastel artwork of a {}. - a photo of a {}.
+an illustrated diagram of a {}. - a photo of a {}.
+a vector graphic of a {}. - a photo of a {}.
+a medieval manuscript of a {}. - a photo of a {}.
+a baroque painting of a {}. - a photo of a {}.
+a Cubist painting of a {}. - a photo of a {}.
+an Art Deco version of a {}. - a photo of a {}.
+an Art Nouveau illustration of a {}. - a photo of a {}.
+an acrylic painting of a {}. - a photo of a {}.
+a neon sign of a {}. - a photo of a {}.
+an icon design of a {}. - a photo of a {}.
+a shadow silhouette of a {}. - a photo of a {}.
+a cut-paper art of a {}. - a photo of a {}.
+a tapestry featuring a {}. - a photo of a {}.
+a cross-stitch pattern of a {}. - a photo of a {}.
+a visual novel character of a {}. - a photo of a {}.
+an emoji of a {}. - a photo of a {}.
+a logo of a {}. - a photo of a {}.
+a banner featuring a {}. - a photo of a {}.
+a motion graphic of a {}. - a photo of a {}.
+a kinetic sculpture of a {}. - a photo of a {}.
+a vintage postcard of a {}. - a photo of a {}.
+a LED display of a {}. - a photo of a {}.
+a glass sculpture of a {}. - a photo of a {}.
+a sand art representation of a {}. - a photo of a {}.
+a flower arrangement resembling a {}. - a photo of a {}.
+a fabric pattern of a {}. - a photo of a {}.
+an Egyptian hieroglyph of a {}. - a photo of a {}.
+a 16-bit video game character of a {}. - a photo of a {}.
+a pottery design of a {}. - a photo of a {}.
+a metal engraving of a {}. - a photo of a {}.
+an origami model of a {}. - a photo of a {}.
+a cyberpunk illustration of a {}. - a photo of a {}.
+a graffiti stencil of a {}. - a photo of a {}.
+a stained glass panel of a {}. - a photo of a {}.
+a Rorschach inkblot of a {}. - a photo of a {}.
+a Gothic architecture detail of a {}. - a photo of a {}.
+a postage stamp of a {}. - a photo of a {}.
+a wireframe model of a {}. - a photo of a {}.
+a LEGO model of a {}. - a photo of a {}.
+a hologram of a {}. - a photo of a {}.
+a paper doll of a {}. - a photo of a {}.
+a bubble letter graffiti of a {}. - a photo of a {}.
+a cookie cutter shape of a {}. - a photo of a {}.
+an emoji sticker of a {}. - a photo of a {}.
+a flipbook animation of a {}. - a photo of a {}.
+a crystal carving of a {}. - a photo of a {}.
+a sand sculpture of a {}. - a photo of a {}.
+a totem pole with a {}. - a photo of a {}.
+a Moai statue resembling a {}. - a photo of a {}.
+a scientific model of a {}. - a photo of a {}.
+a photo negative of a {}. - a photo of a {}.
+a pop-up book with a {}. - a photo of a {}.
+a clay sculpture of a {}. - a photo of a {}.
+a fabric print of a {}. - a photo of a {}.
+a kinetic art piece of a {}. - a photo of a {}.
+a chalk pavement art of a {}. - a photo of a {}.
+a scrimshaw of a {}. - a photo of a {}.
+an augmented reality filter of a {}. - a photo of a {}.
+a laser-cut wood model of a {}. - a photo of a {}.
+a beadwork pattern of a {}. - a photo of a {}.
+a lenticular print of a {}. - a photo of a {}.
+a tarot card featuring a {}. - a photo of a {}.
+an astrological chart with a {}. - a photo of a {}.
+a glass mosaic of a {}. - a photo of a {}.
+a domino tile of a {}. - a photo of a {}.
+a rubber stamp of a {}. - a photo of a {}.
+a fashion illustration of a {}. - a photo of a {}.
+a tattoo flash of a {}. - a photo of a {}.
+a 2D animation cell of a {}. - a photo of a {}.
+a comic book panel of a {}. - a photo of a {}.
+a topographic map with a {}. - a photo of a {}.
+an ASCII art of a {}. - a photo of a {}.
+a street photography shot of a {}. - a photo of a {}.
+a stone carving of a {}. - a photo of a {}.
+a bookplate illustration of a {}. - a photo of a {}.
+a linocut of a {}. - a photo of a {}.
+an album cover with a {}. - a photo of a {}.
+a silhouette photo of a {}. - a photo of a {}.
+a flipbook of a {}. - a photo of a {}.
+a watercolor wash of a {}. - a photo of a {}.
+a 4-bit pixel icon of a {}. - a photo of a {}.
+a map illustration with a {}. - a photo of a {}.
+an animated GIF of a {}. - a photo of a {}.
+a 3D hologram of a {}. - a photo of a {}.
+a typography art of a {}. - a photo of a {}.
+a paper cutout of a {}. - a photo of a {}.
+a retrowave poster of a {}. - a photo of a {}.
+a constellation resembling a {}. - a photo of a {}.
+a steampunk icon of a {}. - a photo of a {}.
+a painted ceramic tile of a {}. - a photo of a {}.
+an abstract representation of a {}. - a photo of a {}.
+a shadow puppet of a {}. - a photo of a {}.
+a cave engraving of a {}. - a photo of a {}.
+a dot matrix print of a {}. - a photo of a {}.
+a Rube Goldberg machine featuring a {}. - a photo of a {}.
+an aerial view photo of a {}. - a photo of a {}.
+an album art design of a {}. - a photo of a {}.
+a topographic elevation map of a {}. - a photo of a {}.
+a needlepoint design of a {}. - a photo of a {}.
+a quilling art piece of a {}. - a photo of a {}.
+a badge design of a {}. - a photo of a {}.
+a marble statue of a {}. - a photo of a {}.
+a glass etching of a {}. - a photo of a {}.
+a logo badge of a {}. - a photo of a {}.
+a postage stamp illustration of a {}. - a photo of a {}.
+an embossed print of a {}. - a photo of a {}.
+a neon artwork of a {}. - a photo of a {}.
+173it [00:03, 53.02it/s]                        173it [00:03, 53.02it/s]                        173it [00:03, 53.02it/s]179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]                        179it [00:03, 53.00it/s]185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]                        185it [00:03, 53.01it/s]191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]                        191it [00:03, 53.21it/s]197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]                        197it [00:03, 53.24it/s]203it [00:03, 53.04it/s]                        203it [00:03, 53.04it/s]204it [00:03, 52.88it/s]
+a street poster with a {}. - a photo of a {}.
+an ancient rune of a {}. - a photo of a {}.
+a steampunk watch gear featuring a {}. - a photo of a {}.
+an environmental infographic of a {}. - a photo of a {}.
+a safety sign of a {}. - a photo of a {}.
+a blueprint schematic of a {}. - a photo of a {}.
+a wire sculpture of a {}. - a photo of a {}.
+a papercraft model of a {}. - a photo of a {}.
+a photorealistic painting of a {}. - a photo of a {}.
+a vintage label of a {}. - a photo of a {}.
+a linocut print of a {}. - a photo of a {}.
+a painting on driftwood of a {}. - a photo of a {}.
+a cave wall painting of a {}. - a photo of a {}.
+a tribal tattoo of a {}. - a photo of a {}.
+a doodle sticker of a {}. - a photo of a {}.
+a video game cover featuring a {}. - a photo of a {}.
+an emoji art of a {}. - a photo of a {}.
+a lava lamp pattern of a {}. - a photo of a {}.
+a comic character of a {}. - a photo of a {}.
+a floral arrangement shaped like a {}. - a photo of a {}.
+a retro poster of a {}. - a photo of a {}.
+a minimalist icon of a {}. - a photo of a {}.
+a classic movie poster featuring a {}. - a photo of a {}.
+a botanical illustration of a {}. - a photo of a {}.
+a cross-sectional diagram of a {}. - a photo of a {}.
+a video game avatar of a {}. - a photo of a {}.
+a medieval tapestry with a {}. - a photo of a {}.
+a carved pumpkin in the shape of a {}. - a photo of a {}.
+    epoch 1/50: cls=2.0988  orth=0.4965
+    epoch 10/50: cls=1.4021  orth=0.4548
+    epoch 20/50: cls=1.0650  orth=0.4514
+    epoch 30/50: cls=0.7910  orth=0.4908
+    epoch 40/50: cls=0.5396  orth=0.5499
+    epoch 50/50: cls=0.4133  orth=0.6137
+  photo: 99.40%
+  art_painting: 89.51%
+  cartoon: 93.82%
+  sketch: 86.26%
+
+=== llm_alpha1.0 (concept_file=pacs_concepts_llm.txt) ===
+----------Computing Domain Differences (photo)----------
+0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]                  0it [00:00, ?it/s]5it [00:00, 49.71it/s]                      5it [00:00, 49.71it/s]                      5it [00:00, 49.71it/s]                      5it [00:00, 49.71it/s]                      5it [00:00, 49.71it/s]                      5it [00:00, 49.71it/s]10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]                       10it [00:00, 49.39it/s]16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]                       16it [00:00, 50.16it/s]22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]                       22it [00:00, 51.21it/s]28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]                       28it [00:00, 51.96it/s]34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]                       34it [00:00, 52.08it/s]40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]                       40it [00:00, 49.24it/s]46it [00:00, 50.26it/s]                       46it [00:00, 50.26it/s]                       46it [00:00, 50.26it/s]                       46it [00:00, 50.26it/s]                       46it [00:00, 50.26it/s]                       46it [00:00, 50.26it/s]                       46it [00:01, 50.26it/s]52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]                       52it [00:01, 51.16it/s]58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]                       58it [00:01, 51.63it/s]64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]                       64it [00:01, 52.03it/s]70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]                       70it [00:01, 52.17it/s]76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]                       76it [00:01, 52.32it/s]82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]                       82it [00:01, 52.57it/s]88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]                       88it [00:01, 52.84it/s]94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]                       94it [00:01, 52.82it/s]100it [00:01, 49.77it/s]                        100it [00:01, 49.77it/s]                        100it [00:01, 49.77it/s]                        100it [00:01, 49.77it/s]                        100it [00:02, 49.77it/s]                        100it [00:02, 49.77it/s]                        100it [00:02, 49.77it/s]106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]                        106it [00:02, 50.58it/s]112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]                        112it [00:02, 51.35it/s]118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]                        118it [00:02, 51.68it/s]124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]                        124it [00:02, 51.97it/s]130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]                        130it [00:02, 52.11it/s]136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]                        136it [00:02, 51.54it/s]142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]                        142it [00:02, 51.11it/s]148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]                        148it [00:02, 50.67it/s]154it [00:02, 51.50it/s]                        154it [00:02, 51.50it/s]                        154it [00:03, 51.50it/s]                        154it [00:03, 51.50it/s]                        154it [00:03, 51.50it/s]                        154it [00:03, 51.50it/s]                        154it [00:03, 51.50it/s]160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]                        160it [00:03, 51.90it/s]166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]                        166it [00:03, 52.09it/s]172it [00:03, 52.21it/s]                        172it [00:03, 52.21it/s]                        172it [00:03, 52.21it/s]                        172it [00:03, 52.21it/s]                        172it [00:03, 52.21it/s]                        a painting of a {}. - a photo of a {}.
+a clipart illustration of a {}. - a photo of a {}.
+an infographic of a {}. - a photo of a {}.
+a quickdraw of a {}. - a photo of a {}.
+a sketch of a {}. - a photo of a {}.
+an advertising posters of a {}. - a photo of a {}.
+a sculpture of a {}. - a photo of a {}.
+a watercolor of a {}. - a photo of a {}.
+a 3D model of a {}. - a photo of a {}.
+a blueprint of a {}. - a photo of a {}.
+a silhouette of a {}. - a photo of a {}.
+a vintage photo of a {}. - a photo of a {}.
+a digital art of a {}. - a photo of a {}.
+a pencil drawing of a {}. - a photo of a {}.
+a technical illustration of a {}. - a photo of a {}.
+a doodle of a {}. - a photo of a {}.
+a woodcut of a {}. - a photo of a {}.
+a lithograph of a {}. - a photo of a {}.
+an oil painting of a {}. - a photo of a {}.
+a gouache painting of a {}. - a photo of a {}.
+an embroidery of a {}. - a photo of a {}.
+a charcoal sketch of a {}. - a photo of a {}.
+an etching of a {}. - a photo of a {}.
+a tattoo design of a {}. - a photo of a {}.
+a comic strip of a {}. - a photo of a {}.
+a collage of a {}. - a photo of a {}.
+a pop art of a {}. - a photo of a {}.
+a manga style drawing of a {}. - a photo of a {}.
+a minimalist drawing of a {}. - a photo of a {}.
+a pixel art of a {}. - a photo of a {}.
+a sepia photo of a {}. - a photo of a {}.
+a retro style of a {}. - a photo of a {}.
+a low-poly model of a {}. - a photo of a {}.
+a fantasy art of a {}. - a photo of a {}.
+a surrealist painting of a {}. - a photo of a {}.
+a futuristic concept art of a {}. - a photo of a {}.
+an impressionist painting of a {}. - a photo of a {}.
+a hyperrealistic drawing of a {}. - a photo of a {}.
+a chalkboard sketch of a {}. - a photo of a {}.
+a photo collage of a {}. - a photo of a {}.
+a CGI render of a {}. - a photo of a {}.
+a stained glass of a {}. - a photo of a {}.
+an anime style of a {}. - a photo of a {}.
+a Renaissance painting of a {}. - a photo of a {}.
+a Victorian engraving of a {}. - a photo of a {}.
+a children’s book illustration of a {}. - a photo of a {}.
+a pen and ink drawing of a {}. - a photo of a {}.
+a crayon drawing of a {}. - a photo of a {}.
+a blueprint diagram of a {}. - a photo of a {}.
+a steampunk version of a {}. - a photo of a {}.
+a street art mural of a {}. - a photo of a {}.
+a pastel drawing of a {}. - a photo of a {}.
+a scientific diagram of a {}. - a photo of a {}.
+a psychedelic art of a {}. - a photo of a {}.
+an editorial cartoon of a {}. - a photo of a {}.
+a pointillism painting of a {}. - a photo of a {}.
+a decorative ornament of a {}. - a photo of a {}.
+a folk art version of a {}. - a photo of a {}.
+a holographic image of a {}. - a photo of a {}.
+a VR model of a {}. - a photo of a {}.
+a bronze statue of a {}. - a photo of a {}.
+an ancient cave painting of a {}. - a photo of a {}.
+a sci-fi style of a {}. - a photo of a {}.
+a children coloring book of a {}. - a photo of a {}.
+a mixed media art of a {}. - a photo of a {}.
+a conceptual sketch of a {}. - a photo of a {}.
+a steampunk mechanical drawing of a {}. - a photo of a {}.
+a hand-painted mural of a {}. - a photo of a {}.
+a pastel artwork of a {}. - a photo of a {}.
+an illustrated diagram of a {}. - a photo of a {}.
+a vector graphic of a {}. - a photo of a {}.
+a medieval manuscript of a {}. - a photo of a {}.
+a baroque painting of a {}. - a photo of a {}.
+a Cubist painting of a {}. - a photo of a {}.
+an Art Deco version of a {}. - a photo of a {}.
+an Art Nouveau illustration of a {}. - a photo of a {}.
+an acrylic painting of a {}. - a photo of a {}.
+a neon sign of a {}. - a photo of a {}.
+an icon design of a {}. - a photo of a {}.
+a shadow silhouette of a {}. - a photo of a {}.
+a cut-paper art of a {}. - a photo of a {}.
+a tapestry featuring a {}. - a photo of a {}.
+a cross-stitch pattern of a {}. - a photo of a {}.
+a visual novel character of a {}. - a photo of a {}.
+an emoji of a {}. - a photo of a {}.
+a logo of a {}. - a photo of a {}.
+a banner featuring a {}. - a photo of a {}.
+a motion graphic of a {}. - a photo of a {}.
+a kinetic sculpture of a {}. - a photo of a {}.
+a vintage postcard of a {}. - a photo of a {}.
+a LED display of a {}. - a photo of a {}.
+a glass sculpture of a {}. - a photo of a {}.
+a sand art representation of a {}. - a photo of a {}.
+a flower arrangement resembling a {}. - a photo of a {}.
+a fabric pattern of a {}. - a photo of a {}.
+an Egyptian hieroglyph of a {}. - a photo of a {}.
+a 16-bit video game character of a {}. - a photo of a {}.
+a pottery design of a {}. - a photo of a {}.
+a metal engraving of a {}. - a photo of a {}.
+an origami model of a {}. - a photo of a {}.
+a cyberpunk illustration of a {}. - a photo of a {}.
+a graffiti stencil of a {}. - a photo of a {}.
+a stained glass panel of a {}. - a photo of a {}.
+a Rorschach inkblot of a {}. - a photo of a {}.
+a Gothic architecture detail of a {}. - a photo of a {}.
+a postage stamp of a {}. - a photo of a {}.
+a wireframe model of a {}. - a photo of a {}.
+a LEGO model of a {}. - a photo of a {}.
+a hologram of a {}. - a photo of a {}.
+a paper doll of a {}. - a photo of a {}.
+a bubble letter graffiti of a {}. - a photo of a {}.
+a cookie cutter shape of a {}. - a photo of a {}.
+an emoji sticker of a {}. - a photo of a {}.
+a flipbook animation of a {}. - a photo of a {}.
+a crystal carving of a {}. - a photo of a {}.
+a sand sculpture of a {}. - a photo of a {}.
+a totem pole with a {}. - a photo of a {}.
+a Moai statue resembling a {}. - a photo of a {}.
+a scientific model of a {}. - a photo of a {}.
+a photo negative of a {}. - a photo of a {}.
+a pop-up book with a {}. - a photo of a {}.
+a clay sculpture of a {}. - a photo of a {}.
+a fabric print of a {}. - a photo of a {}.
+a kinetic art piece of a {}. - a photo of a {}.
+a chalk pavement art of a {}. - a photo of a {}.
+a scrimshaw of a {}. - a photo of a {}.
+an augmented reality filter of a {}. - a photo of a {}.
+a laser-cut wood model of a {}. - a photo of a {}.
+a beadwork pattern of a {}. - a photo of a {}.
+a lenticular print of a {}. - a photo of a {}.
+a tarot card featuring a {}. - a photo of a {}.
+an astrological chart with a {}. - a photo of a {}.
+a glass mosaic of a {}. - a photo of a {}.
+a domino tile of a {}. - a photo of a {}.
+a rubber stamp of a {}. - a photo of a {}.
+a fashion illustration of a {}. - a photo of a {}.
+a tattoo flash of a {}. - a photo of a {}.
+a 2D animation cell of a {}. - a photo of a {}.
+a comic book panel of a {}. - a photo of a {}.
+a topographic map with a {}. - a photo of a {}.
+an ASCII art of a {}. - a photo of a {}.
+a street photography shot of a {}. - a photo of a {}.
+a stone carving of a {}. - a photo of a {}.
+a bookplate illustration of a {}. - a photo of a {}.
+a linocut of a {}. - a photo of a {}.
+an album cover with a {}. - a photo of a {}.
+a silhouette photo of a {}. - a photo of a {}.
+a flipbook of a {}. - a photo of a {}.
+a watercolor wash of a {}. - a photo of a {}.
+a 4-bit pixel icon of a {}. - a photo of a {}.
+a map illustration with a {}. - a photo of a {}.
+an animated GIF of a {}. - a photo of a {}.
+a 3D hologram of a {}. - a photo of a {}.
+a typography art of a {}. - a photo of a {}.
+a paper cutout of a {}. - a photo of a {}.
+a retrowave poster of a {}. - a photo of a {}.
+a constellation resembling a {}. - a photo of a {}.
+a steampunk icon of a {}. - a photo of a {}.
+a painted ceramic tile of a {}. - a photo of a {}.
+an abstract representation of a {}. - a photo of a {}.
+a shadow puppet of a {}. - a photo of a {}.
+a cave engraving of a {}. - a photo of a {}.
+a dot matrix print of a {}. - a photo of a {}.
+a Rube Goldberg machine featuring a {}. - a photo of a {}.
+an aerial view photo of a {}. - a photo of a {}.
+an album art design of a {}. - a photo of a {}.
+a topographic elevation map of a {}. - a photo of a {}.
+a needlepoint design of a {}. - a photo of a {}.
+a quilling art piece of a {}. - a photo of a {}.
+a badge design of a {}. - a photo of a {}.
+a marble statue of a {}. - a photo of a {}.
+a glass etching of a {}. - a photo of a {}.
+a logo badge of a {}. - a photo of a {}.
+a postage stamp illustration of a {}. - a photo of a {}.
+an embossed print of a {}. - a photo of a {}.
+a neon artwork of a {}. - a photo of a {}.
+172it [00:03, 52.21it/s]                        172it [00:03, 52.21it/s]178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]                        178it [00:03, 52.49it/s]184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]                        184it [00:03, 52.63it/s]190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]                        190it [00:03, 52.59it/s]196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]                        196it [00:03, 52.50it/s]202it [00:03, 52.87it/s]                        202it [00:03, 52.87it/s]                        202it [00:03, 52.87it/s]204it [00:03, 51.74it/s]
+a street poster with a {}. - a photo of a {}.
+an ancient rune of a {}. - a photo of a {}.
+a steampunk watch gear featuring a {}. - a photo of a {}.
+an environmental infographic of a {}. - a photo of a {}.
+a safety sign of a {}. - a photo of a {}.
+a blueprint schematic of a {}. - a photo of a {}.
+a wire sculpture of a {}. - a photo of a {}.
+a papercraft model of a {}. - a photo of a {}.
+a photorealistic painting of a {}. - a photo of a {}.
+a vintage label of a {}. - a photo of a {}.
+a linocut print of a {}. - a photo of a {}.
+a painting on driftwood of a {}. - a photo of a {}.
+a cave wall painting of a {}. - a photo of a {}.
+a tribal tattoo of a {}. - a photo of a {}.
+a doodle sticker of a {}. - a photo of a {}.
+a video game cover featuring a {}. - a photo of a {}.
+an emoji art of a {}. - a photo of a {}.
+a lava lamp pattern of a {}. - a photo of a {}.
+a comic character of a {}. - a photo of a {}.
+a floral arrangement shaped like a {}. - a photo of a {}.
+a retro poster of a {}. - a photo of a {}.
+a minimalist icon of a {}. - a photo of a {}.
+a classic movie poster featuring a {}. - a photo of a {}.
+a botanical illustration of a {}. - a photo of a {}.
+a cross-sectional diagram of a {}. - a photo of a {}.
+a video game avatar of a {}. - a photo of a {}.
+a medieval tapestry with a {}. - a photo of a {}.
+a carved pumpkin in the shape of a {}. - a photo of a {}.
+    epoch 1/50: cls=2.1099  orth=0.4709
+    epoch 10/50: cls=1.4447  orth=0.2958
+    epoch 20/50: cls=1.1317  orth=0.2851
+    epoch 30/50: cls=0.8836  orth=0.3018
+    epoch 40/50: cls=0.6421  orth=0.3212
+    epoch 50/50: cls=0.5244  orth=0.3385
+  photo: 99.40%
+  art_painting: 88.54%
+  cartoon: 93.18%
+  sketch: 81.30%
+
+Wrote /data/ai25mtech14009/repo/results/pacs_concept_bank_comparison.json
+PACS_CONCEPT_BANK_DONE
