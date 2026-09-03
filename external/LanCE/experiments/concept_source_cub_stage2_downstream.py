@@ -289,7 +289,7 @@ def main():
         "cls_lr": CLS_LR,
         "cls_batch_size": CLS_BATCH_SIZE,
         "n_classes": N_CLASSES,
-        "phase0_baseline_in_domain_acc": 0.5064,  # results/phase0_cub_reproduction.md, alpha=0
+        "phase0_baseline_domain_shift_acc": 0.5064,  # results/phase0_cub_reproduction.md, alpha=0 - CUB-Painting (target), not in-domain
         "variants": all_variant_results,
     }
     os.makedirs(RESULTS_DIR, exist_ok=True)

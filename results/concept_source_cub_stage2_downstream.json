@@ -1,0 +1,22 @@
+{
+  "seed": 0,
+  "cls_epochs": 50,
+  "cls_lr": 0.0001,
+  "cls_batch_size": 64,
+  "n_classes": 200,
+  "phase0_baseline_in_domain_acc": 0.5064,
+  "variants": {
+    "clip_vitl14_zeroshot": {
+      "acc_in_domain": 0.7775474786758423,
+      "acc_domain_shift": 0.5034459829330444
+    },
+    "dinov2_vitb14": {
+      "acc_in_domain": 0.8500863313674927,
+      "acc_domain_shift": 0.6170003414154053
+    },
+    "dinov2_vitl14": {
+      "acc_in_domain": 0.8509499430656433,
+      "acc_domain_shift": 0.671480119228363
+    }
+  }
+}

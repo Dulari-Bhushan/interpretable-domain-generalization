@@ -1,0 +1,3790 @@
+{
+  "seed": 0,
+  "n_concepts_total": 312,
+  "min_test_positives_flag_threshold": 10,
+  "probe_epochs": 50,
+  "variants": {
+    "clip_vitl14_zeroshot": {
+      "per_concept": {
+        "a curved bill": {
+          "auroc": 0.5070867705219984,
+          "n_test_positives": 119
+        },
+        "a dagger shaped bill": {
+          "auroc": 0.6206248741464843,
+          "n_test_positives": 786
+        },
+        "a hooked bill": {
+          "auroc": 0.5066845339864147,
+          "n_test_positives": 95
+        },
+        "a needle shaped bill": {
+          "auroc": 0.5675780985093557,
+          "n_test_positives": 149
+        },
+        "a bill like a hooked-seabird": {
+          "auroc": 0.8933755860435398,
+          "n_test_positives": 373
+        },
+        "a spatulated bill": {
+          "auroc": 0.55849492646046,
+          "n_test_positives": 223
+        },
+        "a all-purpose": {
+          "auroc": 0.3969615211864743,
+          "n_test_positives": 2336
+        },
+        "a cone shaped bill": {
+          "auroc": 0.4851257702613484,
+          "n_test_positives": 1467
+        },
+        "a specialized bill": {
+          "auroc": 0.36504314298457874,
+          "n_test_positives": 119
+        },
+        "a blue coloured wing": {
+          "auroc": 0.8887594820885685,
+          "n_test_positives": 296
+        },
+        "a brown coloured wing": {
+          "auroc": 0.6892374363523838,
+          "n_test_positives": 1557
+        },
+        "a iridescent coloured wing": {
+          "auroc": 0.6718018794344085,
+          "n_test_positives": 112
+        },
+        "a purple coloured wing": {
+          "auroc": 0.6297309560668339,
+          "n_test_positives": 26
+        },
+        "a rufous coloured wing": {
+          "auroc": 0.7520361039546649,
+          "n_test_positives": 69
+        },
+        "a grey coloured wing": {
+          "auroc": 0.619899517585407,
+          "n_test_positives": 1768
+        },
+        "a yellow coloured wing": {
+          "auroc": 0.8285373411231535,
+          "n_test_positives": 546
+        },
+        "a olive coloured wing": {
+          "auroc": 0.7675960061443932,
+          "n_test_positives": 210
+        },
+        "a green coloured wing": {
+          "auroc": 0.7696169308257476,
+          "n_test_positives": 95
+        },
+        "a pink coloured wing": {
+          "auroc": 0.46363920208152654,
+          "n_test_positives": 25
+        },
+        "a orange coloured wing": {
+          "auroc": 0.6742002696107372,
+          "n_test_positives": 144
+        },
+        "a black coloured wing": {
+          "auroc": 0.5954726258767473,
+          "n_test_positives": 2459
+        },
+        "a white coloured wing": {
+          "auroc": 0.606120731036966,
+          "n_test_positives": 1509
+        },
+        "a red coloured wing": {
+          "auroc": 0.8066033643000105,
+          "n_test_positives": 122
+        },
+        "a buff coloured wing": {
+          "auroc": 0.4969722094831154,
+          "n_test_positives": 1058
+        },
+        "a blue coloured upper body": {
+          "auroc": 0.8236563734536424,
+          "n_test_positives": 301
+        },
+        "a brown coloured upper body": {
+          "auroc": 0.6279234984243334,
+          "n_test_positives": 1383
+        },
+        "a iridescent coloured upper body": {
+          "auroc": 0.6089530272727597,
+          "n_test_positives": 149
+        },
+        "a purple coloured upper body": {
+          "auroc": 0.6109315573380235,
+          "n_test_positives": 31
+        },
+        "a rufous coloured upper body": {
+          "auroc": 0.6748726273726274,
+          "n_test_positives": 70
+        },
+        "a grey coloured upper body": {
+          "auroc": 0.6285900943221178,
+          "n_test_positives": 1711
+        },
+        "a yellow coloured upper body": {
+          "auroc": 0.8119102347706537,
+          "n_test_positives": 543
+        },
+        "a olive coloured upper body": {
+          "auroc": 0.6977592974615789,
+          "n_test_positives": 223
+        },
+        "a green coloured upper body": {
+          "auroc": 0.7684297065456869,
+          "n_test_positives": 108
+        },
+        "a pink coloured upper body": {
+          "auroc": 0.5148323994644716,
+          "n_test_positives": 28
+        },
+        "a orange coloured upper body": {
+          "auroc": 0.6109250466086621,
+          "n_test_positives": 149
+        },
+        "a black coloured upper body": {
+          "auroc": 0.5498165022012352,
+          "n_test_positives": 2271
+        },
+        "a white coloured upper body": {
+          "auroc": 0.5541578932953184,
+          "n_test_positives": 1348
+        },
+        "a red coloured upper body": {
+          "auroc": 0.7311185655994977,
+          "n_test_positives": 126
+        },
+        "a buff coloured upper body": {
+          "auroc": 0.5018285610011759,
+          "n_test_positives": 997
+        },
+        "a blue coloured lower body": {
+          "auroc": 0.8391428840423094,
+          "n_test_positives": 174
+        },
+        "a brown coloured lower body": {
+          "auroc": 0.6779942767603958,
+          "n_test_positives": 593
+        },
+        "a iridescent coloured lower body": {
+          "auroc": 0.700600515817907,
+          "n_test_positives": 92
+        },
+        "a purple coloured lower body": {
+          "auroc": 0.6309038617181177,
+          "n_test_positives": 24
+        },
+        "a rufous coloured lower body": {
+          "auroc": 0.6808735371958802,
+          "n_test_positives": 88
+        },
+        "a grey coloured lower body": {
+          "auroc": 0.6342972272081586,
+          "n_test_positives": 1081
+        },
+        "a yellow coloured lower body": {
+          "auroc": 0.8585696583449495,
+          "n_test_positives": 866
+        },
+        "a olive coloured lower body": {
+          "auroc": 0.7214148376661633,
+          "n_test_positives": 132
+        },
+        "a green coloured lower body": {
+          "auroc": 0.8550739681118614,
+          "n_test_positives": 81
+        },
+        "a pink coloured lower body": {
+          "auroc": 0.6561741241762054,
+          "n_test_positives": 24
+        },
+        "a orange coloured lower body": {
+          "auroc": 0.6869068165265273,
+          "n_test_positives": 189
+        },
+        "a black coloured lower body": {
+          "auroc": 0.6727658460184662,
+          "n_test_positives": 1022
+        },
+        "a white coloured lower body": {
+          "auroc": 0.6478030987614372,
+          "n_test_positives": 2266
+        },
+        "a red coloured lower body": {
+          "auroc": 0.8070650858118078,
+          "n_test_positives": 211
+        },
+        "a buff coloured lower body": {
+          "auroc": 0.5328108457374519,
+          "n_test_positives": 1053
+        },
+        "a solid pattern in the breast": {
+          "auroc": 0.4485510842123898,
+          "n_test_positives": 3152
+        },
+        "a spotted pattern in the breast": {
+          "auroc": 0.6487010620498378,
+          "n_test_positives": 311
+        },
+        "a striped pattern in the breast": {
+          "auroc": 0.621156049851076,
+          "n_test_positives": 682
+        },
+        "a multi-colored pattern in the breast": {
+          "auroc": 0.574554082281094,
+          "n_test_positives": 1117
+        },
+        "a blue coloured back": {
+          "auroc": 0.8885772289663981,
+          "n_test_positives": 249
+        },
+        "a brown coloured back": {
+          "auroc": 0.6933565775049861,
+          "n_test_positives": 1105
+        },
+        "a iridescent coloured back": {
+          "auroc": 0.6787561015967569,
+          "n_test_positives": 102
+        },
+        "a purple coloured back": {
+          "auroc": 0.623765806339858,
+          "n_test_positives": 17
+        },
+        "a rufous coloured back": {
+          "auroc": 0.6388376313188343,
+          "n_test_positives": 57
+        },
+        "a grey coloured back": {
+          "auroc": 0.6567763962774821,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured back": {
+          "auroc": 0.8387482253974756,
+          "n_test_positives": 422
+        },
+        "a olive coloured back": {
+          "auroc": 0.696180492218339,
+          "n_test_positives": 196
+        },
+        "a green coloured back": {
+          "auroc": 0.7842514828855955,
+          "n_test_positives": 87
+        },
+        "a pink coloured back": {
+          "auroc": 0.5247530329289428,
+          "n_test_positives": 20
+        },
+        "a orange coloured back": {
+          "auroc": 0.6767290969399952,
+          "n_test_positives": 94
+        },
+        "a black coloured back": {
+          "auroc": 0.6419450009907748,
+          "n_test_positives": 1661
+        },
+        "a white coloured back": {
+          "auroc": 0.6574354499960633,
+          "n_test_positives": 892
+        },
+        "a red coloured back": {
+          "auroc": 0.8095178750377713,
+          "n_test_positives": 103
+        },
+        "a buff coloured back": {
+          "auroc": 0.5284912048194796,
+          "n_test_positives": 841
+        },
+        "a forked tail": {
+          "auroc": 0.5159277232871764,
+          "n_test_positives": 197
+        },
+        "a rounded tail": {
+          "auroc": 0.5294030464695867,
+          "n_test_positives": 652
+        },
+        "a notched tail": {
+          "auroc": 0.502733084118836,
+          "n_test_positives": 1715
+        },
+        "a fan-shaped tail": {
+          "auroc": 0.5286111379417667,
+          "n_test_positives": 435
+        },
+        "a pointed tail": {
+          "auroc": 0.5050523018277469,
+          "n_test_positives": 1048
+        },
+        "a squared tail": {
+          "auroc": 0.5214376466544324,
+          "n_test_positives": 536
+        },
+        "a blue coloured upper tail": {
+          "auroc": 0.8980954759382669,
+          "n_test_positives": 214
+        },
+        "a brown coloured upper tail": {
+          "auroc": 0.6615014447968814,
+          "n_test_positives": 828
+        },
+        "a iridescent coloured upper tail": {
+          "auroc": 0.6755053339652607,
+          "n_test_positives": 63
+        },
+        "a purple coloured upper tail": {
+          "auroc": 0.47053602355386215,
+          "n_test_positives": 16
+        },
+        "a rufous coloured upper tail": {
+          "auroc": 0.6868173913043478,
+          "n_test_positives": 40
+        },
+        "a grey coloured upper tail": {
+          "auroc": 0.5973273404086805,
+          "n_test_positives": 1070
+        },
+        "a yellow coloured upper tail": {
+          "auroc": 0.813709663858481,
+          "n_test_positives": 258
+        },
+        "a olive coloured upper tail": {
+          "auroc": 0.6718568948469574,
+          "n_test_positives": 131
+        },
+        "a green coloured upper tail": {
+          "auroc": 0.7724090165919825,
+          "n_test_positives": 46
+        },
+        "a pink coloured upper tail": {
+          "auroc": 0.5053241475079159,
+          "n_test_positives": 29
+        },
+        "a orange coloured upper tail": {
+          "auroc": 0.6473463250839949,
+          "n_test_positives": 87
+        },
+        "a black coloured upper tail": {
+          "auroc": 0.6321052932182838,
+          "n_test_positives": 1478
+        },
+        "a white coloured upper tail": {
+          "auroc": 0.6236104707750627,
+          "n_test_positives": 729
+        },
+        "a red coloured upper tail": {
+          "auroc": 0.8161969764461737,
+          "n_test_positives": 83
+        },
+        "a buff coloured upper tail": {
+          "auroc": 0.512565089427213,
+          "n_test_positives": 631
+        },
+        "a spotted pattern in the head": {
+          "auroc": 0.5439698702934899,
+          "n_test_positives": 159
+        },
+        "a malar pattern in the head": {
+          "auroc": 0.5338253085506341,
+          "n_test_positives": 558
+        },
+        "a crested pattern in the head": {
+          "auroc": 0.6737078922173803,
+          "n_test_positives": 227
+        },
+        "a masked pattern in the head": {
+          "auroc": 0.530408949423034,
+          "n_test_positives": 252
+        },
+        "a unique pattern in the head": {
+          "auroc": 0.572538997516696,
+          "n_test_positives": 185
+        },
+        "a eyebrow pattern in the head": {
+          "auroc": 0.4920708571517508,
+          "n_test_positives": 708
+        },
+        "a eyering pattern in the head": {
+          "auroc": 0.5401642827455383,
+          "n_test_positives": 926
+        },
+        "a plain pattern in the head": {
+          "auroc": 0.5619796823381793,
+          "n_test_positives": 1534
+        },
+        "a eyeline pattern in the head": {
+          "auroc": 0.5013313316231344,
+          "n_test_positives": 670
+        },
+        "a striped pattern in the head": {
+          "auroc": 0.6186200860484987,
+          "n_test_positives": 392
+        },
+        "a capped pattern in the head": {
+          "auroc": 0.5077900134911746,
+          "n_test_positives": 668
+        },
+        "a blue coloured breast": {
+          "auroc": 0.8783305436984952,
+          "n_test_positives": 178
+        },
+        "a brown coloured breast": {
+          "auroc": 0.663019988825726,
+          "n_test_positives": 639
+        },
+        "a iridescent coloured breast": {
+          "auroc": 0.6647407407407407,
+          "n_test_positives": 90
+        },
+        "a purple coloured breast": {
+          "auroc": 0.6817130455161451,
+          "n_test_positives": 17
+        },
+        "a rufous coloured breast": {
+          "auroc": 0.7464043046048997,
+          "n_test_positives": 77
+        },
+        "a grey coloured breast": {
+          "auroc": 0.6745941821934156,
+          "n_test_positives": 1084
+        },
+        "a yellow coloured breast": {
+          "auroc": 0.8713877903330222,
+          "n_test_positives": 794
+        },
+        "a olive coloured breast": {
+          "auroc": 0.7354534754728211,
+          "n_test_positives": 104
+        },
+        "a green coloured breast": {
+          "auroc": 0.8335010157954108,
+          "n_test_positives": 63
+        },
+        "a pink coloured breast": {
+          "auroc": 0.5357016478751084,
+          "n_test_positives": 25
+        },
+        "a orange coloured breast": {
+          "auroc": 0.7351109482939082,
+          "n_test_positives": 170
+        },
+        "a black coloured breast": {
+          "auroc": 0.6651887073773469,
+          "n_test_positives": 1174
+        },
+        "a white coloured breast": {
+          "auroc": 0.6258340549636696,
+          "n_test_positives": 2079
+        },
+        "a red coloured breast": {
+          "auroc": 0.8162577300717264,
+          "n_test_positives": 233
+        },
+        "a buff coloured breast": {
+          "auroc": 0.5875214458166416,
+          "n_test_positives": 996
+        },
+        "a blue coloured throat": {
+          "auroc": 0.8500474204825134,
+          "n_test_positives": 182
+        },
+        "a brown coloured throat": {
+          "auroc": 0.6521848106950722,
+          "n_test_positives": 476
+        },
+        "a iridescent coloured throat": {
+          "auroc": 0.6811744682886387,
+          "n_test_positives": 88
+        },
+        "a purple coloured throat": {
+          "auroc": 0.6752367729459018,
+          "n_test_positives": 28
+        },
+        "a rufous coloured throat": {
+          "auroc": 0.6661764984018308,
+          "n_test_positives": 74
+        },
+        "a grey coloured throat": {
+          "auroc": 0.6685725276997135,
+          "n_test_positives": 992
+        },
+        "a yellow coloured throat": {
+          "auroc": 0.8371660901706712,
+          "n_test_positives": 653
+        },
+        "a olive coloured throat": {
+          "auroc": 0.7388954433850962,
+          "n_test_positives": 88
+        },
+        "a green coloured throat": {
+          "auroc": 0.8342582897033158,
+          "n_test_positives": 60
+        },
+        "a pink coloured throat": {
+          "auroc": 0.5824080499653019,
+          "n_test_positives": 26
+        },
+        "a orange coloured throat": {
+          "auroc": 0.6653410391393911,
+          "n_test_positives": 136
+        },
+        "a black coloured throat": {
+          "auroc": 0.6562614898154275,
+          "n_test_positives": 1257
+        },
+        "a white coloured throat": {
+          "auroc": 0.5799676597702661,
+          "n_test_positives": 2015
+        },
+        "a red coloured throat": {
+          "auroc": 0.7320308949728985,
+          "n_test_positives": 218
+        },
+        "a buff coloured throat": {
+          "auroc": 0.6301302769353374,
+          "n_test_positives": 796
+        },
+        "a blue coloured eye": {
+          "auroc": 0.7400468384074942,
+          "n_test_positives": 56
+        },
+        "a brown coloured eye": {
+          "auroc": 0.6026592128801431,
+          "n_test_positives": 200
+        },
+        "a purple coloured eye": {
+          "auroc": 0.6273356401384083,
+          "n_test_positives": 10
+        },
+        "a rufous coloured eye": {
+          "auroc": 0.5258279631025373,
+          "n_test_positives": 67
+        },
+        "a grey coloured eye": {
+          "auroc": 0.5696750198837778,
+          "n_test_positives": 101
+        },
+        "a yellow coloured eye": {
+          "auroc": 0.5690324858757063,
+          "n_test_positives": 126
+        },
+        "a olive coloured eye": {
+          "auroc": 0.5038770748209209,
+          "n_test_positives": 17
+        },
+        "a green coloured eye": {
+          "auroc": 0.25689764414492255,
+          "n_test_positives": 3
+        },
+        "a pink coloured eye": {
+          "auroc": 0.338982667500999,
+          "n_test_positives": 23
+        },
+        "a orange coloured eye": {
+          "auroc": 0.6648173902910456,
+          "n_test_positives": 69
+        },
+        "a black coloured eye": {
+          "auroc": 0.43418287795992716,
+          "n_test_positives": 4875
+        },
+        "a white coloured eye": {
+          "auroc": 0.5749727729846216,
+          "n_test_positives": 161
+        },
+        "a red coloured eye": {
+          "auroc": 0.6665903467335068,
+          "n_test_positives": 132
+        },
+        "a buff coloured eye": {
+          "auroc": 0.4884693992183512,
+          "n_test_positives": 89
+        },
+        "has bill length about the same ashead": {
+          "auroc": 0.6209696284894263,
+          "n_test_positives": 2117
+        },
+        "has bill length longer than head": {
+          "auroc": 0.6502350281125516,
+          "n_test_positives": 348
+        },
+        "has bill length shorter than head": {
+          "auroc": 0.3748305538822005,
+          "n_test_positives": 3245
+        },
+        "a blue coloured forehead": {
+          "auroc": 0.8411583093793251,
+          "n_test_positives": 303
+        },
+        "a brown coloured forehead": {
+          "auroc": 0.599572580051589,
+          "n_test_positives": 998
+        },
+        "a iridescent coloured forehead": {
+          "auroc": 0.6685335845962904,
+          "n_test_positives": 124
+        },
+        "a purple coloured forehead": {
+          "auroc": 0.6306171847863842,
+          "n_test_positives": 32
+        },
+        "a rufous coloured forehead": {
+          "auroc": 0.6903100188131756,
+          "n_test_positives": 88
+        },
+        "a grey coloured forehead": {
+          "auroc": 0.6513908599580867,
+          "n_test_positives": 1180
+        },
+        "a yellow coloured forehead": {
+          "auroc": 0.8099389025237577,
+          "n_test_positives": 483
+        },
+        "a olive coloured forehead": {
+          "auroc": 0.6265867847050512,
+          "n_test_positives": 128
+        },
+        "a green coloured forehead": {
+          "auroc": 0.8007044639069134,
+          "n_test_positives": 53
+        },
+        "a pink coloured forehead": {
+          "auroc": 0.6000043357613598,
+          "n_test_positives": 24
+        },
+        "a orange coloured forehead": {
+          "auroc": 0.6407879114828181,
+          "n_test_positives": 159
+        },
+        "a black coloured forehead": {
+          "auroc": 0.58186620958335,
+          "n_test_positives": 1861
+        },
+        "a white coloured forehead": {
+          "auroc": 0.6414197889823116,
+          "n_test_positives": 806
+        },
+        "a red coloured forehead": {
+          "auroc": 0.7690371683127759,
+          "n_test_positives": 254
+        },
+        "a buff coloured forehead": {
+          "auroc": 0.49547033175692656,
+          "n_test_positives": 708
+        },
+        "a blue coloured under tail": {
+          "auroc": 0.8954284268282899,
+          "n_test_positives": 203
+        },
+        "a brown coloured under tail": {
+          "auroc": 0.6582690894795405,
+          "n_test_positives": 891
+        },
+        "a iridescent coloured under tail": {
+          "auroc": 0.6151830702049043,
+          "n_test_positives": 65
+        },
+        "a purple coloured under tail": {
+          "auroc": 0.5600889350889351,
+          "n_test_positives": 18
+        },
+        "a rufous coloured under tail": {
+          "auroc": 0.6111114834973322,
+          "n_test_positives": 52
+        },
+        "a grey coloured under tail": {
+          "auroc": 0.6022924400128893,
+          "n_test_positives": 1213
+        },
+        "a yellow coloured under tail": {
+          "auroc": 0.8104429950344806,
+          "n_test_positives": 383
+        },
+        "a olive coloured under tail": {
+          "auroc": 0.6508469549867608,
+          "n_test_positives": 125
+        },
+        "a green coloured under tail": {
+          "auroc": 0.7960271438537048,
+          "n_test_positives": 56
+        },
+        "a pink coloured under tail": {
+          "auroc": 0.5235711431608628,
+          "n_test_positives": 23
+        },
+        "a orange coloured under tail": {
+          "auroc": 0.6474244584798192,
+          "n_test_positives": 109
+        },
+        "a black coloured under tail": {
+          "auroc": 0.6055947905686978,
+          "n_test_positives": 1806
+        },
+        "a white coloured under tail": {
+          "auroc": 0.6367417782038637,
+          "n_test_positives": 1033
+        },
+        "a red coloured under tail": {
+          "auroc": 0.7564985718236534,
+          "n_test_positives": 83
+        },
+        "a buff coloured under tail": {
+          "auroc": 0.534675866023643,
+          "n_test_positives": 694
+        },
+        "a blue coloured nape": {
+          "auroc": 0.8632472611145253,
+          "n_test_positives": 289
+        },
+        "a brown coloured nape": {
+          "auroc": 0.6630622980491945,
+          "n_test_positives": 1012
+        },
+        "a iridescent coloured nape": {
+          "auroc": 0.7041634498976808,
+          "n_test_positives": 119
+        },
+        "a purple coloured nape": {
+          "auroc": 0.7437763152516045,
+          "n_test_positives": 34
+        },
+        "a rufous coloured nape": {
+          "auroc": 0.7440630472854641,
+          "n_test_positives": 80
+        },
+        "a grey coloured nape": {
+          "auroc": 0.6373200871634939,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured nape": {
+          "auroc": 0.8529256688075415,
+          "n_test_positives": 464
+        },
+        "a olive coloured nape": {
+          "auroc": 0.7179764560497661,
+          "n_test_positives": 183
+        },
+        "a green coloured nape": {
+          "auroc": 0.8308953590192645,
+          "n_test_positives": 80
+        },
+        "a pink coloured nape": {
+          "auroc": 0.6619293508298199,
+          "n_test_positives": 33
+        },
+        "a orange coloured nape": {
+          "auroc": 0.7004949107703344,
+          "n_test_positives": 126
+        },
+        "a black coloured nape": {
+          "auroc": 0.7214569870172161,
+          "n_test_positives": 1505
+        },
+        "a white coloured nape": {
+          "auroc": 0.685970309249808,
+          "n_test_positives": 1273
+        },
+        "a red coloured nape": {
+          "auroc": 0.8828878788505216,
+          "n_test_positives": 199
+        },
+        "a buff coloured nape": {
+          "auroc": 0.4295034942709288,
+          "n_test_positives": 889
+        },
+        "a blue coloured belly": {
+          "auroc": 0.8883513893808792,
+          "n_test_positives": 144
+        },
+        "a brown coloured belly": {
+          "auroc": 0.681246654631652,
+          "n_test_positives": 513
+        },
+        "a iridescent coloured belly": {
+          "auroc": 0.7134457397784308,
+          "n_test_positives": 81
+        },
+        "a purple coloured belly": {
+          "auroc": 0.6745433154885133,
+          "n_test_positives": 19
+        },
+        "a rufous coloured belly": {
+          "auroc": 0.6812724278485447,
+          "n_test_positives": 79
+        },
+        "a grey coloured belly": {
+          "auroc": 0.6325588316975912,
+          "n_test_positives": 995
+        },
+        "a yellow coloured belly": {
+          "auroc": 0.8815781530577632,
+          "n_test_positives": 844
+        },
+        "a olive coloured belly": {
+          "auroc": 0.7179999427487529,
+          "n_test_positives": 117
+        },
+        "a green coloured belly": {
+          "auroc": 0.8443597466949031,
+          "n_test_positives": 68
+        },
+        "a pink coloured belly": {
+          "auroc": 0.49975074077600845,
+          "n_test_positives": 31
+        },
+        "a orange coloured belly": {
+          "auroc": 0.7230405387205386,
+          "n_test_positives": 165
+        },
+        "a black coloured belly": {
+          "auroc": 0.7048311502738747,
+          "n_test_positives": 850
+        },
+        "a white coloured belly": {
+          "auroc": 0.6829747920399349,
+          "n_test_positives": 2166
+        },
+        "a red coloured belly": {
+          "auroc": 0.8501180679785332,
+          "n_test_positives": 200
+        },
+        "a buff coloured belly": {
+          "auroc": 0.5365443586968456,
+          "n_test_positives": 948
+        },
+        "has rounded wings": {
+          "auroc": 0.5037278582930756,
+          "n_test_positives": 1650
+        },
+        "has pointed wings": {
+          "auroc": 0.5152156553899399,
+          "n_test_positives": 1163
+        },
+        "has broad wings": {
+          "auroc": 0.49155286810676224,
+          "n_test_positives": 335
+        },
+        "has tapered wings": {
+          "auroc": 0.5951921692529195,
+          "n_test_positives": 470
+        },
+        "has long wings": {
+          "auroc": 0.6496528863075266,
+          "n_test_positives": 379
+        },
+        "a large bird": {
+          "auroc": 0.5996558305542541,
+          "n_test_positives": 208
+        },
+        "a small bird": {
+          "auroc": 0.604588003491338,
+          "n_test_positives": 2956
+        },
+        "a very large bird": {
+          "auroc": 0.7092773094485424,
+          "n_test_positives": 96
+        },
+        "a medium bird": {
+          "auroc": 0.44361509418515105,
+          "n_test_positives": 1147
+        },
+        "a very small bird": {
+          "auroc": 0.6757289436824115,
+          "n_test_positives": 1383
+        },
+        "a upright-perching_water-like body shape": {
+          "auroc": 0.5371509267431597,
+          "n_test_positives": 125
+        },
+        "a chicken-like-marsh body shape": {
+          "auroc": 0.614779354003974,
+          "n_test_positives": 95
+        },
+        "a long-legged-like body shape": {
+          "auroc": 0.6428653292001397,
+          "n_test_positives": 64
+        },
+        "a duck-like body shape": {
+          "auroc": 0.8621959181164,
+          "n_test_positives": 353
+        },
+        "a owl-like body shape": {
+          "auroc": 0.6074173917685368,
+          "n_test_positives": 26
+        },
+        "a gull-like body shape": {
+          "auroc": 0.8453758496813163,
+          "n_test_positives": 403
+        },
+        "a hummingbird-like body shape": {
+          "auroc": 0.6920319106328094,
+          "n_test_positives": 319
+        },
+        "a pigeon-like body shape": {
+          "auroc": 0.592018192825352,
+          "n_test_positives": 369
+        },
+        "a tree-clinging-like body shape": {
+          "auroc": 0.659515434631652,
+          "n_test_positives": 365
+        },
+        "a hawk-like body shape": {
+          "auroc": 0.6528662209790581,
+          "n_test_positives": 189
+        },
+        "a sandpiper-like body shape": {
+          "auroc": 0.6073071423222025,
+          "n_test_positives": 312
+        },
+        "a upland-ground-like body shape": {
+          "auroc": 0.5827013507289223,
+          "n_test_positives": 132
+        },
+        "a swallow-like body shape": {
+          "auroc": 0.5573881065505463,
+          "n_test_positives": 211
+        },
+        "a perching-like body shape": {
+          "auroc": 0.5353999289193533,
+          "n_test_positives": 2827
+        },
+        "a solid pattern in the back": {
+          "auroc": 0.48718090132171943,
+          "n_test_positives": 2113
+        },
+        "a spotted pattern in the back": {
+          "auroc": 0.6915540107438393,
+          "n_test_positives": 356
+        },
+        "a striped pattern in the back": {
+          "auroc": 0.6102373631236491,
+          "n_test_positives": 898
+        },
+        "a multi-colored pattern in the back": {
+          "auroc": 0.5299307533733133,
+          "n_test_positives": 1150
+        },
+        "a solid tail pattern": {
+          "auroc": 0.5290162792604733,
+          "n_test_positives": 2074
+        },
+        "a spotted tail pattern": {
+          "auroc": 0.5783643517031153,
+          "n_test_positives": 263
+        },
+        "a striped tail pattern": {
+          "auroc": 0.550456830021545,
+          "n_test_positives": 708
+        },
+        "a multi-colored tail pattern": {
+          "auroc": 0.5437435719010351,
+          "n_test_positives": 1357
+        },
+        "a solid pattern in the belly": {
+          "auroc": 0.46935045627361593,
+          "n_test_positives": 3318
+        },
+        "a spotted pattern in the belly": {
+          "auroc": 0.6508282944808068,
+          "n_test_positives": 298
+        },
+        "a striped pattern in the belly": {
+          "auroc": 0.5900513869122668,
+          "n_test_positives": 566
+        },
+        "a multi-colored pattern in the belly": {
+          "auroc": 0.5642629905981281,
+          "n_test_positives": 919
+        },
+        "has primary colour blue": {
+          "auroc": 0.8637597155319379,
+          "n_test_positives": 367
+        },
+        "has primary colour brown": {
+          "auroc": 0.6111833702862279,
+          "n_test_positives": 1437
+        },
+        "has primary colour iridescent": {
+          "auroc": 0.6413020166453265,
+          "n_test_positives": 110
+        },
+        "has primary colour purple": {
+          "auroc": 0.6369529791475492,
+          "n_test_positives": 44
+        },
+        "has primary colour rufous": {
+          "auroc": 0.7216193237414094,
+          "n_test_positives": 107
+        },
+        "has primary colour grey": {
+          "auroc": 0.6458475878110267,
+          "n_test_positives": 1727
+        },
+        "has primary colour yellow": {
+          "auroc": 0.9157863958343596,
+          "n_test_positives": 901
+        },
+        "has primary colour olive": {
+          "auroc": 0.8177531402428376,
+          "n_test_positives": 248
+        },
+        "has primary colour green": {
+          "auroc": 0.8705764528080964,
+          "n_test_positives": 107
+        },
+        "has primary colour pink": {
+          "auroc": 0.5938342520065758,
+          "n_test_positives": 45
+        },
+        "has primary colour orange": {
+          "auroc": 0.7371614716402657,
+          "n_test_positives": 228
+        },
+        "has primary colour black": {
+          "auroc": 0.6549372875720767,
+          "n_test_positives": 2057
+        },
+        "has primary colour white": {
+          "auroc": 0.6587763277804317,
+          "n_test_positives": 1678
+        },
+        "has primary colour red": {
+          "auroc": 0.8899815115831794,
+          "n_test_positives": 232
+        },
+        "has primary colour buff": {
+          "auroc": 0.3907231794243714,
+          "n_test_positives": 1109
+        },
+        "a blue coloured leg": {
+          "auroc": 0.6669864355843701,
+          "n_test_positives": 77
+        },
+        "a brown coloured leg": {
+          "auroc": 0.5526215646062136,
+          "n_test_positives": 446
+        },
+        "a iridescent coloured leg": {
+          "auroc": 0.6902660446349766,
+          "n_test_positives": 22
+        },
+        "a purple coloured leg": {
+          "auroc": 0.4643586824586666,
+          "n_test_positives": 23
+        },
+        "a rufous coloured leg": {
+          "auroc": 0.5487659615018106,
+          "n_test_positives": 66
+        },
+        "a grey coloured leg": {
+          "auroc": 0.49787372468026236,
+          "n_test_positives": 1467
+        },
+        "a yellow coloured leg": {
+          "auroc": 0.6740927606683977,
+          "n_test_positives": 107
+        },
+        "a olive coloured leg": {
+          "auroc": 0.5031873058436933,
+          "n_test_positives": 29
+        },
+        "a green coloured leg": {
+          "auroc": 0.5620661544922309,
+          "n_test_positives": 7
+        },
+        "a pink coloured leg": {
+          "auroc": 0.5317134828413024,
+          "n_test_positives": 147
+        },
+        "a orange coloured leg": {
+          "auroc": 0.5439466416922922,
+          "n_test_positives": 478
+        },
+        "a black coloured leg": {
+          "auroc": 0.5762959680278467,
+          "n_test_positives": 1420
+        },
+        "a white coloured leg": {
+          "auroc": 0.5782997898839453,
+          "n_test_positives": 191
+        },
+        "a red coloured leg": {
+          "auroc": 0.6935075252305278,
+          "n_test_positives": 167
+        },
+        "a buff coloured leg": {
+          "auroc": 0.5097467536946122,
+          "n_test_positives": 957
+        },
+        "a blue coloured bill": {
+          "auroc": 0.6931575158340273,
+          "n_test_positives": 151
+        },
+        "a brown coloured bill": {
+          "auroc": 0.6329397041636006,
+          "n_test_positives": 488
+        },
+        "a iridescent coloured bill": {
+          "auroc": 0.5203067805473244,
+          "n_test_positives": 53
+        },
+        "a purple coloured bill": {
+          "auroc": 0.5706585423013827,
+          "n_test_positives": 17
+        },
+        "a rufous coloured bill": {
+          "auroc": 0.4904774570798977,
+          "n_test_positives": 81
+        },
+        "a grey coloured bill": {
+          "auroc": 0.49046553010820404,
+          "n_test_positives": 1582
+        },
+        "a yellow coloured bill": {
+          "auroc": 0.6610848088777133,
+          "n_test_positives": 336
+        },
+        "a olive coloured bill": {
+          "auroc": 0.5241947022033275,
+          "n_test_positives": 34
+        },
+        "a green coloured bill": {
+          "auroc": 0.6138331024930748,
+          "n_test_positives": 14
+        },
+        "a pink coloured bill": {
+          "auroc": 0.5374710995491037,
+          "n_test_positives": 53
+        },
+        "a orange coloured bill": {
+          "auroc": 0.6409025262568904,
+          "n_test_positives": 392
+        },
+        "a black coloured bill": {
+          "auroc": 0.5629841907930411,
+          "n_test_positives": 2572
+        },
+        "a white coloured bill": {
+          "auroc": 0.5296283850574747,
+          "n_test_positives": 317
+        },
+        "a red coloured bill": {
+          "auroc": 0.7046730263577539,
+          "n_test_positives": 202
+        },
+        "a buff coloured bill": {
+          "auroc": 0.5231136680707493,
+          "n_test_positives": 823
+        },
+        "a blue coloured crown": {
+          "auroc": 0.8865125672861498,
+          "n_test_positives": 317
+        },
+        "a brown coloured crown": {
+          "auroc": 0.6855409627966018,
+          "n_test_positives": 1078
+        },
+        "a iridescent coloured crown": {
+          "auroc": 0.6894774391354418,
+          "n_test_positives": 129
+        },
+        "a purple coloured crown": {
+          "auroc": 0.7210249874483452,
+          "n_test_positives": 36
+        },
+        "a rufous coloured crown": {
+          "auroc": 0.7383583746362417,
+          "n_test_positives": 97
+        },
+        "a grey coloured crown": {
+          "auroc": 0.6656416730721407,
+          "n_test_positives": 1246
+        },
+        "a yellow coloured crown": {
+          "auroc": 0.8712901339689375,
+          "n_test_positives": 407
+        },
+        "a olive coloured crown": {
+          "auroc": 0.6994511331444759,
+          "n_test_positives": 142
+        },
+        "a green coloured crown": {
+          "auroc": 0.8151351036571164,
+          "n_test_positives": 66
+        },
+        "a pink coloured crown": {
+          "auroc": 0.6538929440389295,
+          "n_test_positives": 36
+        },
+        "a orange coloured crown": {
+          "auroc": 0.6982020056559078,
+          "n_test_positives": 153
+        },
+        "a black coloured crown": {
+          "auroc": 0.648394266092029,
+          "n_test_positives": 1852
+        },
+        "a white coloured crown": {
+          "auroc": 0.6914021470609656,
+          "n_test_positives": 711
+        },
+        "a red coloured crown": {
+          "auroc": 0.8481464931492239,
+          "n_test_positives": 297
+        },
+        "a buff coloured crown": {
+          "auroc": 0.5074352719172606,
+          "n_test_positives": 718
+        },
+        "a solid wing pattern": {
+          "auroc": 0.5572049640668877,
+          "n_test_positives": 1648
+        },
+        "a spotted wing pattern": {
+          "auroc": 0.6463445852134676,
+          "n_test_positives": 430
+        },
+        "a striped wing pattern": {
+          "auroc": 0.5656736498601486,
+          "n_test_positives": 1303
+        },
+        "a multi-colored wing pattern": {
+          "auroc": 0.5595356125463526,
+          "n_test_positives": 1791
+        }
+      },
+      "n_skipped_constant_label": 0,
+      "mean_auroc": 0.6468379437873737,
+      "median_auroc": 0.6468454551487313,
+      "n_concepts_scored": 312
+    },
+    "dinov2_vitb14": {
+      "per_concept": {
+        "a curved bill": {
+          "auroc": 0.8201612508872355,
+          "n_test_positives": 119
+        },
+        "a dagger shaped bill": {
+          "auroc": 0.8477475017441516,
+          "n_test_positives": 786
+        },
+        "a hooked bill": {
+          "auroc": 0.7320345640219953,
+          "n_test_positives": 95
+        },
+        "a needle shaped bill": {
+          "auroc": 0.9183042656295174,
+          "n_test_positives": 149
+        },
+        "a bill like a hooked-seabird": {
+          "auroc": 0.9450562992782625,
+          "n_test_positives": 373
+        },
+        "a spatulated bill": {
+          "auroc": 0.9453361053807632,
+          "n_test_positives": 223
+        },
+        "a all-purpose": {
+          "auroc": 0.8089708626488248,
+          "n_test_positives": 2336
+        },
+        "a cone shaped bill": {
+          "auroc": 0.8855559450323652,
+          "n_test_positives": 1467
+        },
+        "a specialized bill": {
+          "auroc": 0.9127345524702561,
+          "n_test_positives": 119
+        },
+        "a blue coloured wing": {
+          "auroc": 0.9193874890543984,
+          "n_test_positives": 296
+        },
+        "a brown coloured wing": {
+          "auroc": 0.8163222234208661,
+          "n_test_positives": 1557
+        },
+        "a iridescent coloured wing": {
+          "auroc": 0.7570761837669199,
+          "n_test_positives": 112
+        },
+        "a purple coloured wing": {
+          "auroc": 0.6549805156675386,
+          "n_test_positives": 26
+        },
+        "a rufous coloured wing": {
+          "auroc": 0.8396601384677351,
+          "n_test_positives": 69
+        },
+        "a grey coloured wing": {
+          "auroc": 0.7429986319586167,
+          "n_test_positives": 1768
+        },
+        "a yellow coloured wing": {
+          "auroc": 0.9186462533144456,
+          "n_test_positives": 546
+        },
+        "a olive coloured wing": {
+          "auroc": 0.8780201399556239,
+          "n_test_positives": 210
+        },
+        "a green coloured wing": {
+          "auroc": 0.8380814195277482,
+          "n_test_positives": 95
+        },
+        "a pink coloured wing": {
+          "auroc": 0.5926660884648742,
+          "n_test_positives": 25
+        },
+        "a orange coloured wing": {
+          "auroc": 0.8223188983351044,
+          "n_test_positives": 144
+        },
+        "a black coloured wing": {
+          "auroc": 0.7692679304142425,
+          "n_test_positives": 2459
+        },
+        "a white coloured wing": {
+          "auroc": 0.8195210888372173,
+          "n_test_positives": 1509
+        },
+        "a red coloured wing": {
+          "auroc": 0.8791229450351122,
+          "n_test_positives": 122
+        },
+        "a buff coloured wing": {
+          "auroc": 0.7920519025833844,
+          "n_test_positives": 1058
+        },
+        "a blue coloured upper body": {
+          "auroc": 0.9218612398460466,
+          "n_test_positives": 301
+        },
+        "a brown coloured upper body": {
+          "auroc": 0.8234165687566337,
+          "n_test_positives": 1383
+        },
+        "a iridescent coloured upper body": {
+          "auroc": 0.6921401198559444,
+          "n_test_positives": 149
+        },
+        "a purple coloured upper body": {
+          "auroc": 0.6132561096516532,
+          "n_test_positives": 31
+        },
+        "a rufous coloured upper body": {
+          "auroc": 0.8414560439560439,
+          "n_test_positives": 70
+        },
+        "a grey coloured upper body": {
+          "auroc": 0.7526048588306143,
+          "n_test_positives": 1711
+        },
+        "a yellow coloured upper body": {
+          "auroc": 0.9224234421774293,
+          "n_test_positives": 543
+        },
+        "a olive coloured upper body": {
+          "auroc": 0.8660951265505168,
+          "n_test_positives": 223
+        },
+        "a green coloured upper body": {
+          "auroc": 0.878146714119963,
+          "n_test_positives": 108
+        },
+        "a pink coloured upper body": {
+          "auroc": 0.6056924678930927,
+          "n_test_positives": 28
+        },
+        "a orange coloured upper body": {
+          "auroc": 0.778353354931357,
+          "n_test_positives": 149
+        },
+        "a black coloured upper body": {
+          "auroc": 0.7648073632863506,
+          "n_test_positives": 2271
+        },
+        "a white coloured upper body": {
+          "auroc": 0.8083718671382019,
+          "n_test_positives": 1348
+        },
+        "a red coloured upper body": {
+          "auroc": 0.8851910703075957,
+          "n_test_positives": 126
+        },
+        "a buff coloured upper body": {
+          "auroc": 0.8008540539205768,
+          "n_test_positives": 997
+        },
+        "a blue coloured lower body": {
+          "auroc": 0.8948110079575596,
+          "n_test_positives": 174
+        },
+        "a brown coloured lower body": {
+          "auroc": 0.8175448866108707,
+          "n_test_positives": 593
+        },
+        "a iridescent coloured lower body": {
+          "auroc": 0.7104037267080745,
+          "n_test_positives": 92
+        },
+        "a purple coloured lower body": {
+          "auroc": 0.6684876864377385,
+          "n_test_positives": 24
+        },
+        "a rufous coloured lower body": {
+          "auroc": 0.8720843563661872,
+          "n_test_positives": 88
+        },
+        "a grey coloured lower body": {
+          "auroc": 0.7592065423169637,
+          "n_test_positives": 1081
+        },
+        "a yellow coloured lower body": {
+          "auroc": 0.9588310448142012,
+          "n_test_positives": 866
+        },
+        "a olive coloured lower body": {
+          "auroc": 0.8362990991569995,
+          "n_test_positives": 132
+        },
+        "a green coloured lower body": {
+          "auroc": 0.8301750106502834,
+          "n_test_positives": 81
+        },
+        "a pink coloured lower body": {
+          "auroc": 0.613213955370563,
+          "n_test_positives": 24
+        },
+        "a orange coloured lower body": {
+          "auroc": 0.8452005452541071,
+          "n_test_positives": 189
+        },
+        "a black coloured lower body": {
+          "auroc": 0.8685405968032153,
+          "n_test_positives": 1022
+        },
+        "a white coloured lower body": {
+          "auroc": 0.8561024742204006,
+          "n_test_positives": 2266
+        },
+        "a red coloured lower body": {
+          "auroc": 0.9140378314413647,
+          "n_test_positives": 211
+        },
+        "a buff coloured lower body": {
+          "auroc": 0.8136384057853342,
+          "n_test_positives": 1053
+        },
+        "a solid pattern in the breast": {
+          "auroc": 0.7857972169733263,
+          "n_test_positives": 3152
+        },
+        "a spotted pattern in the breast": {
+          "auroc": 0.8117137107541277,
+          "n_test_positives": 311
+        },
+        "a striped pattern in the breast": {
+          "auroc": 0.7923908101144316,
+          "n_test_positives": 682
+        },
+        "a multi-colored pattern in the breast": {
+          "auroc": 0.6968886004113998,
+          "n_test_positives": 1117
+        },
+        "a blue coloured back": {
+          "auroc": 0.9179573373805635,
+          "n_test_positives": 249
+        },
+        "a brown coloured back": {
+          "auroc": 0.819370282551901,
+          "n_test_positives": 1105
+        },
+        "a iridescent coloured back": {
+          "auroc": 0.7373745208350568,
+          "n_test_positives": 102
+        },
+        "a purple coloured back": {
+          "auroc": 0.698199529248734,
+          "n_test_positives": 17
+        },
+        "a rufous coloured back": {
+          "auroc": 0.8045418797298496,
+          "n_test_positives": 57
+        },
+        "a grey coloured back": {
+          "auroc": 0.7548943535344759,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured back": {
+          "auroc": 0.9068404305662484,
+          "n_test_positives": 422
+        },
+        "a olive coloured back": {
+          "auroc": 0.8932493269027311,
+          "n_test_positives": 196
+        },
+        "a green coloured back": {
+          "auroc": 0.8533016500692315,
+          "n_test_positives": 87
+        },
+        "a pink coloured back": {
+          "auroc": 0.5461178509532063,
+          "n_test_positives": 20
+        },
+        "a orange coloured back": {
+          "auroc": 0.7758449378436528,
+          "n_test_positives": 94
+        },
+        "a black coloured back": {
+          "auroc": 0.8025934824078788,
+          "n_test_positives": 1661
+        },
+        "a white coloured back": {
+          "auroc": 0.8155229919048134,
+          "n_test_positives": 892
+        },
+        "a red coloured back": {
+          "auroc": 0.8290104667261904,
+          "n_test_positives": 103
+        },
+        "a buff coloured back": {
+          "auroc": 0.7964274842393604,
+          "n_test_positives": 841
+        },
+        "a forked tail": {
+          "auroc": 0.7486742401896496,
+          "n_test_positives": 197
+        },
+        "a rounded tail": {
+          "auroc": 0.5739747090725427,
+          "n_test_positives": 652
+        },
+        "a notched tail": {
+          "auroc": 0.661661127904273,
+          "n_test_positives": 1715
+        },
+        "a fan-shaped tail": {
+          "auroc": 0.6193730212391471,
+          "n_test_positives": 435
+        },
+        "a pointed tail": {
+          "auroc": 0.641495841932254,
+          "n_test_positives": 1048
+        },
+        "a squared tail": {
+          "auroc": 0.5772407234857309,
+          "n_test_positives": 536
+        },
+        "a blue coloured upper tail": {
+          "auroc": 0.896747911610507,
+          "n_test_positives": 214
+        },
+        "a brown coloured upper tail": {
+          "auroc": 0.8017580958278082,
+          "n_test_positives": 828
+        },
+        "a iridescent coloured upper tail": {
+          "auroc": 0.7269602911300135,
+          "n_test_positives": 63
+        },
+        "a purple coloured upper tail": {
+          "auroc": 0.6041522341531,
+          "n_test_positives": 16
+        },
+        "a rufous coloured upper tail": {
+          "auroc": 0.7718434782608695,
+          "n_test_positives": 40
+        },
+        "a grey coloured upper tail": {
+          "auroc": 0.7250714794867732,
+          "n_test_positives": 1070
+        },
+        "a yellow coloured upper tail": {
+          "auroc": 0.8616639201376628,
+          "n_test_positives": 258
+        },
+        "a olive coloured upper tail": {
+          "auroc": 0.8624497355425189,
+          "n_test_positives": 131
+        },
+        "a green coloured upper tail": {
+          "auroc": 0.8383265713939688,
+          "n_test_positives": 46
+        },
+        "a pink coloured upper tail": {
+          "auroc": 0.6694718948458421,
+          "n_test_positives": 29
+        },
+        "a orange coloured upper tail": {
+          "auroc": 0.7108297508268485,
+          "n_test_positives": 87
+        },
+        "a black coloured upper tail": {
+          "auroc": 0.7628002132702016,
+          "n_test_positives": 1478
+        },
+        "a white coloured upper tail": {
+          "auroc": 0.805361421928196,
+          "n_test_positives": 729
+        },
+        "a red coloured upper tail": {
+          "auroc": 0.8409837000006333,
+          "n_test_positives": 83
+        },
+        "a buff coloured upper tail": {
+          "auroc": 0.7713888519409251,
+          "n_test_positives": 631
+        },
+        "a spotted pattern in the head": {
+          "auroc": 0.7700359309259502,
+          "n_test_positives": 159
+        },
+        "a malar pattern in the head": {
+          "auroc": 0.625384660703912,
+          "n_test_positives": 558
+        },
+        "a crested pattern in the head": {
+          "auroc": 0.8578651743227952,
+          "n_test_positives": 227
+        },
+        "a masked pattern in the head": {
+          "auroc": 0.7277912489180094,
+          "n_test_positives": 252
+        },
+        "a unique pattern in the head": {
+          "auroc": 0.7180046772910288,
+          "n_test_positives": 185
+        },
+        "a eyebrow pattern in the head": {
+          "auroc": 0.7546202727250493,
+          "n_test_positives": 708
+        },
+        "a eyering pattern in the head": {
+          "auroc": 0.6337224559864157,
+          "n_test_positives": 926
+        },
+        "a plain pattern in the head": {
+          "auroc": 0.7891446755742028,
+          "n_test_positives": 1534
+        },
+        "a eyeline pattern in the head": {
+          "auroc": 0.6849349930037313,
+          "n_test_positives": 670
+        },
+        "a striped pattern in the head": {
+          "auroc": 0.7658491240141851,
+          "n_test_positives": 392
+        },
+        "a capped pattern in the head": {
+          "auroc": 0.7517840149455092,
+          "n_test_positives": 668
+        },
+        "a blue coloured breast": {
+          "auroc": 0.9056436047955024,
+          "n_test_positives": 178
+        },
+        "a brown coloured breast": {
+          "auroc": 0.8388431497112705,
+          "n_test_positives": 639
+        },
+        "a iridescent coloured breast": {
+          "auroc": 0.7331773879142299,
+          "n_test_positives": 90
+        },
+        "a purple coloured breast": {
+          "auroc": 0.6894060586299304,
+          "n_test_positives": 17
+        },
+        "a rufous coloured breast": {
+          "auroc": 0.8751719136805781,
+          "n_test_positives": 77
+        },
+        "a grey coloured breast": {
+          "auroc": 0.7635628066862904,
+          "n_test_positives": 1084
+        },
+        "a yellow coloured breast": {
+          "auroc": 0.9524223913135546,
+          "n_test_positives": 794
+        },
+        "a olive coloured breast": {
+          "auroc": 0.8210314131875862,
+          "n_test_positives": 104
+        },
+        "a green coloured breast": {
+          "auroc": 0.7600145232413436,
+          "n_test_positives": 63
+        },
+        "a pink coloured breast": {
+          "auroc": 0.661009540329575,
+          "n_test_positives": 25
+        },
+        "a orange coloured breast": {
+          "auroc": 0.8188423696880887,
+          "n_test_positives": 170
+        },
+        "a black coloured breast": {
+          "auroc": 0.8772756193552389,
+          "n_test_positives": 1174
+        },
+        "a white coloured breast": {
+          "auroc": 0.8593601773337693,
+          "n_test_positives": 2079
+        },
+        "a red coloured breast": {
+          "auroc": 0.8960712274894364,
+          "n_test_positives": 233
+        },
+        "a buff coloured breast": {
+          "auroc": 0.825158162897732,
+          "n_test_positives": 996
+        },
+        "a blue coloured throat": {
+          "auroc": 0.930974784844257,
+          "n_test_positives": 182
+        },
+        "a brown coloured throat": {
+          "auroc": 0.8329879373653865,
+          "n_test_positives": 476
+        },
+        "a iridescent coloured throat": {
+          "auroc": 0.7743654539077197,
+          "n_test_positives": 88
+        },
+        "a purple coloured throat": {
+          "auroc": 0.5189790251400803,
+          "n_test_positives": 28
+        },
+        "a rufous coloured throat": {
+          "auroc": 0.8555524558848563,
+          "n_test_positives": 74
+        },
+        "a grey coloured throat": {
+          "auroc": 0.7652234970216083,
+          "n_test_positives": 992
+        },
+        "a yellow coloured throat": {
+          "auroc": 0.9574569506099491,
+          "n_test_positives": 653
+        },
+        "a olive coloured throat": {
+          "auroc": 0.8207088421925322,
+          "n_test_positives": 88
+        },
+        "a green coloured throat": {
+          "auroc": 0.8188830715532287,
+          "n_test_positives": 60
+        },
+        "a pink coloured throat": {
+          "auroc": 0.6930283457001015,
+          "n_test_positives": 26
+        },
+        "a orange coloured throat": {
+          "auroc": 0.7716881853555004,
+          "n_test_positives": 136
+        },
+        "a black coloured throat": {
+          "auroc": 0.9121648527785543,
+          "n_test_positives": 1257
+        },
+        "a white coloured throat": {
+          "auroc": 0.8874503475588714,
+          "n_test_positives": 2015
+        },
+        "a red coloured throat": {
+          "auroc": 0.9090480251849022,
+          "n_test_positives": 218
+        },
+        "a buff coloured throat": {
+          "auroc": 0.817857056608634,
+          "n_test_positives": 796
+        },
+        "a blue coloured eye": {
+          "auroc": 0.6934077432856646,
+          "n_test_positives": 56
+        },
+        "a brown coloured eye": {
+          "auroc": 0.6409436493738818,
+          "n_test_positives": 200
+        },
+        "a purple coloured eye": {
+          "auroc": 0.6449134948096885,
+          "n_test_positives": 10
+        },
+        "a rufous coloured eye": {
+          "auroc": 0.7604585842411218,
+          "n_test_positives": 67
+        },
+        "a grey coloured eye": {
+          "auroc": 0.587815812693943,
+          "n_test_positives": 101
+        },
+        "a yellow coloured eye": {
+          "auroc": 0.8121020536274774,
+          "n_test_positives": 126
+        },
+        "a olive coloured eye": {
+          "auroc": 0.4735227886408331,
+          "n_test_positives": 17
+        },
+        "a green coloured eye": {
+          "auroc": 0.5762340878981626,
+          "n_test_positives": 3
+        },
+        "a pink coloured eye": {
+          "auroc": 0.5932630182221184,
+          "n_test_positives": 23
+        },
+        "a orange coloured eye": {
+          "auroc": 0.7557663223972702,
+          "n_test_positives": 69
+        },
+        "a black coloured eye": {
+          "auroc": 0.6807274765307553,
+          "n_test_positives": 4875
+        },
+        "a white coloured eye": {
+          "auroc": 0.8269034911268067,
+          "n_test_positives": 161
+        },
+        "a red coloured eye": {
+          "auroc": 0.8603130991784225,
+          "n_test_positives": 132
+        },
+        "a buff coloured eye": {
+          "auroc": 0.6230781510832911,
+          "n_test_positives": 89
+        },
+        "has bill length about the same ashead": {
+          "auroc": 0.8351458722712086,
+          "n_test_positives": 2117
+        },
+        "has bill length longer than head": {
+          "auroc": 0.8352015190493691,
+          "n_test_positives": 348
+        },
+        "has bill length shorter than head": {
+          "auroc": 0.8579024704774763,
+          "n_test_positives": 3245
+        },
+        "a blue coloured forehead": {
+          "auroc": 0.93324515611758,
+          "n_test_positives": 303
+        },
+        "a brown coloured forehead": {
+          "auroc": 0.8497529282270717,
+          "n_test_positives": 998
+        },
+        "a iridescent coloured forehead": {
+          "auroc": 0.6977229768967126,
+          "n_test_positives": 124
+        },
+        "a purple coloured forehead": {
+          "auroc": 0.700834708232025,
+          "n_test_positives": 32
+        },
+        "a rufous coloured forehead": {
+          "auroc": 0.8913459392238768,
+          "n_test_positives": 88
+        },
+        "a grey coloured forehead": {
+          "auroc": 0.7736329460641935,
+          "n_test_positives": 1180
+        },
+        "a yellow coloured forehead": {
+          "auroc": 0.9503573740062053,
+          "n_test_positives": 483
+        },
+        "a olive coloured forehead": {
+          "auroc": 0.8505966310490993,
+          "n_test_positives": 128
+        },
+        "a green coloured forehead": {
+          "auroc": 0.8474615291010686,
+          "n_test_positives": 53
+        },
+        "a pink coloured forehead": {
+          "auroc": 0.6337943692912477,
+          "n_test_positives": 24
+        },
+        "a orange coloured forehead": {
+          "auroc": 0.7893310727118189,
+          "n_test_positives": 159
+        },
+        "a black coloured forehead": {
+          "auroc": 0.8601152455001587,
+          "n_test_positives": 1861
+        },
+        "a white coloured forehead": {
+          "auroc": 0.8836923315901206,
+          "n_test_positives": 806
+        },
+        "a red coloured forehead": {
+          "auroc": 0.9253241488780666,
+          "n_test_positives": 254
+        },
+        "a buff coloured forehead": {
+          "auroc": 0.782700158085366,
+          "n_test_positives": 708
+        },
+        "a blue coloured under tail": {
+          "auroc": 0.9084477424281033,
+          "n_test_positives": 203
+        },
+        "a brown coloured under tail": {
+          "auroc": 0.7766281810644605,
+          "n_test_positives": 891
+        },
+        "a iridescent coloured under tail": {
+          "auroc": 0.6295733960362782,
+          "n_test_positives": 65
+        },
+        "a purple coloured under tail": {
+          "auroc": 0.5142161392161392,
+          "n_test_positives": 18
+        },
+        "a rufous coloured under tail": {
+          "auroc": 0.7508278145695364,
+          "n_test_positives": 52
+        },
+        "a grey coloured under tail": {
+          "auroc": 0.6865967170524115,
+          "n_test_positives": 1213
+        },
+        "a yellow coloured under tail": {
+          "auroc": 0.9014680225469257,
+          "n_test_positives": 383
+        },
+        "a olive coloured under tail": {
+          "auroc": 0.848917917034422,
+          "n_test_positives": 125
+        },
+        "a green coloured under tail": {
+          "auroc": 0.7829145697344162,
+          "n_test_positives": 56
+        },
+        "a pink coloured under tail": {
+          "auroc": 0.48699874096244755,
+          "n_test_positives": 23
+        },
+        "a orange coloured under tail": {
+          "auroc": 0.7210369669379179,
+          "n_test_positives": 109
+        },
+        "a black coloured under tail": {
+          "auroc": 0.7339984244842049,
+          "n_test_positives": 1806
+        },
+        "a white coloured under tail": {
+          "auroc": 0.785614352192245,
+          "n_test_positives": 1033
+        },
+        "a red coloured under tail": {
+          "auroc": 0.8315997475093997,
+          "n_test_positives": 83
+        },
+        "a buff coloured under tail": {
+          "auroc": 0.7560280651830673,
+          "n_test_positives": 694
+        },
+        "a blue coloured nape": {
+          "auroc": 0.9231281635487477,
+          "n_test_positives": 289
+        },
+        "a brown coloured nape": {
+          "auroc": 0.8475260043976262,
+          "n_test_positives": 1012
+        },
+        "a iridescent coloured nape": {
+          "auroc": 0.7288934265294904,
+          "n_test_positives": 119
+        },
+        "a purple coloured nape": {
+          "auroc": 0.7132301843600539,
+          "n_test_positives": 34
+        },
+        "a rufous coloured nape": {
+          "auroc": 0.8519264448336252,
+          "n_test_positives": 80
+        },
+        "a grey coloured nape": {
+          "auroc": 0.7775169004951976,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured nape": {
+          "auroc": 0.9310029199632254,
+          "n_test_positives": 464
+        },
+        "a olive coloured nape": {
+          "auroc": 0.8721416730258137,
+          "n_test_positives": 183
+        },
+        "a green coloured nape": {
+          "auroc": 0.8115936952714536,
+          "n_test_positives": 80
+        },
+        "a pink coloured nape": {
+          "auroc": 0.6509703601939142,
+          "n_test_positives": 33
+        },
+        "a orange coloured nape": {
+          "auroc": 0.7647548426150121,
+          "n_test_positives": 126
+        },
+        "a black coloured nape": {
+          "auroc": 0.8564560760126687,
+          "n_test_positives": 1505
+        },
+        "a white coloured nape": {
+          "auroc": 0.853876365814334,
+          "n_test_positives": 1273
+        },
+        "a red coloured nape": {
+          "auroc": 0.9312049426168582,
+          "n_test_positives": 199
+        },
+        "a buff coloured nape": {
+          "auroc": 0.8070988932953468,
+          "n_test_positives": 889
+        },
+        "a blue coloured belly": {
+          "auroc": 0.8955984079190775,
+          "n_test_positives": 144
+        },
+        "a brown coloured belly": {
+          "auroc": 0.8196543091668912,
+          "n_test_positives": 513
+        },
+        "a iridescent coloured belly": {
+          "auroc": 0.7345624949992322,
+          "n_test_positives": 81
+        },
+        "a purple coloured belly": {
+          "auroc": 0.7252232122499978,
+          "n_test_positives": 19
+        },
+        "a rufous coloured belly": {
+          "auroc": 0.8238730941177252,
+          "n_test_positives": 79
+        },
+        "a grey coloured belly": {
+          "auroc": 0.7583292898276576,
+          "n_test_positives": 995
+        },
+        "a yellow coloured belly": {
+          "auroc": 0.9554673890337924,
+          "n_test_positives": 844
+        },
+        "a olive coloured belly": {
+          "auroc": 0.8213278974780824,
+          "n_test_positives": 117
+        },
+        "a green coloured belly": {
+          "auroc": 0.827050393733166,
+          "n_test_positives": 68
+        },
+        "a pink coloured belly": {
+          "auroc": 0.4888617535526441,
+          "n_test_positives": 31
+        },
+        "a orange coloured belly": {
+          "auroc": 0.8055342760942762,
+          "n_test_positives": 165
+        },
+        "a black coloured belly": {
+          "auroc": 0.8762749464158132,
+          "n_test_positives": 850
+        },
+        "a white coloured belly": {
+          "auroc": 0.8584070824644975,
+          "n_test_positives": 2166
+        },
+        "a red coloured belly": {
+          "auroc": 0.9053461538461538,
+          "n_test_positives": 200
+        },
+        "a buff coloured belly": {
+          "auroc": 0.8172308231246633,
+          "n_test_positives": 948
+        },
+        "has rounded wings": {
+          "auroc": 0.5645011711316059,
+          "n_test_positives": 1650
+        },
+        "has pointed wings": {
+          "auroc": 0.5639257853404844,
+          "n_test_positives": 1163
+        },
+        "has broad wings": {
+          "auroc": 0.5803056212977276,
+          "n_test_positives": 335
+        },
+        "has tapered wings": {
+          "auroc": 0.611360582306831,
+          "n_test_positives": 470
+        },
+        "has long wings": {
+          "auroc": 0.7249504941804757,
+          "n_test_positives": 379
+        },
+        "a large bird": {
+          "auroc": 0.7843988575917097,
+          "n_test_positives": 208
+        },
+        "a small bird": {
+          "auroc": 0.704608785833724,
+          "n_test_positives": 2956
+        },
+        "a very large bird": {
+          "auroc": 0.8506688326893806,
+          "n_test_positives": 96
+        },
+        "a medium bird": {
+          "auroc": 0.8709149771449592,
+          "n_test_positives": 1147
+        },
+        "a very small bird": {
+          "auroc": 0.7413941305826971,
+          "n_test_positives": 1383
+        },
+        "a upright-perching_water-like body shape": {
+          "auroc": 0.7922471315092676,
+          "n_test_positives": 125
+        },
+        "a chicken-like-marsh body shape": {
+          "auroc": 0.6972154706344439,
+          "n_test_positives": 95
+        },
+        "a long-legged-like body shape": {
+          "auroc": 0.8654629104086623,
+          "n_test_positives": 64
+        },
+        "a duck-like body shape": {
+          "auroc": 0.9422506891975608,
+          "n_test_positives": 353
+        },
+        "a owl-like body shape": {
+          "auroc": 0.7588213313404153,
+          "n_test_positives": 26
+        },
+        "a gull-like body shape": {
+          "auroc": 0.8557007703040267,
+          "n_test_positives": 403
+        },
+        "a hummingbird-like body shape": {
+          "auroc": 0.7222654188600022,
+          "n_test_positives": 319
+        },
+        "a pigeon-like body shape": {
+          "auroc": 0.6077689443192162,
+          "n_test_positives": 369
+        },
+        "a tree-clinging-like body shape": {
+          "auroc": 0.7642931633103971,
+          "n_test_positives": 365
+        },
+        "a hawk-like body shape": {
+          "auroc": 0.6972196008082456,
+          "n_test_positives": 189
+        },
+        "a sandpiper-like body shape": {
+          "auroc": 0.6312985040394679,
+          "n_test_positives": 312
+        },
+        "a upland-ground-like body shape": {
+          "auroc": 0.5927380914125346,
+          "n_test_positives": 132
+        },
+        "a swallow-like body shape": {
+          "auroc": 0.6118458776947066,
+          "n_test_positives": 211
+        },
+        "a perching-like body shape": {
+          "auroc": 0.8071662280733695,
+          "n_test_positives": 2827
+        },
+        "a solid pattern in the back": {
+          "auroc": 0.7535908033218608,
+          "n_test_positives": 2113
+        },
+        "a spotted pattern in the back": {
+          "auroc": 0.8146217324957715,
+          "n_test_positives": 356
+        },
+        "a striped pattern in the back": {
+          "auroc": 0.7516473875806509,
+          "n_test_positives": 898
+        },
+        "a multi-colored pattern in the back": {
+          "auroc": 0.643656484257871,
+          "n_test_positives": 1150
+        },
+        "a solid tail pattern": {
+          "auroc": 0.708502963026782,
+          "n_test_positives": 2074
+        },
+        "a spotted tail pattern": {
+          "auroc": 0.7744325987667868,
+          "n_test_positives": 263
+        },
+        "a striped tail pattern": {
+          "auroc": 0.6646614171652693,
+          "n_test_positives": 708
+        },
+        "a multi-colored tail pattern": {
+          "auroc": 0.6547083315809396,
+          "n_test_positives": 1357
+        },
+        "a solid pattern in the belly": {
+          "auroc": 0.7786860821916739,
+          "n_test_positives": 3318
+        },
+        "a spotted pattern in the belly": {
+          "auroc": 0.8141072798994999,
+          "n_test_positives": 298
+        },
+        "a striped pattern in the belly": {
+          "auroc": 0.7714993722909758,
+          "n_test_positives": 566
+        },
+        "a multi-colored pattern in the belly": {
+          "auroc": 0.6763128542288765,
+          "n_test_positives": 919
+        },
+        "has primary colour blue": {
+          "auroc": 0.8960512822316493,
+          "n_test_positives": 367
+        },
+        "has primary colour brown": {
+          "auroc": 0.8401649427577842,
+          "n_test_positives": 1437
+        },
+        "has primary colour iridescent": {
+          "auroc": 0.7080809859154931,
+          "n_test_positives": 110
+        },
+        "has primary colour purple": {
+          "auroc": 0.6196998702654811,
+          "n_test_positives": 44
+        },
+        "has primary colour rufous": {
+          "auroc": 0.8290392233929362,
+          "n_test_positives": 107
+        },
+        "has primary colour grey": {
+          "auroc": 0.762116739522754,
+          "n_test_positives": 1727
+        },
+        "has primary colour yellow": {
+          "auroc": 0.9426493460029073,
+          "n_test_positives": 901
+        },
+        "has primary colour olive": {
+          "auroc": 0.8697846940082188,
+          "n_test_positives": 248
+        },
+        "has primary colour green": {
+          "auroc": 0.8728689105563239,
+          "n_test_positives": 107
+        },
+        "has primary colour pink": {
+          "auroc": 0.6383986074847693,
+          "n_test_positives": 45
+        },
+        "has primary colour orange": {
+          "auroc": 0.7546595948699508,
+          "n_test_positives": 228
+        },
+        "has primary colour black": {
+          "auroc": 0.7926765980173155,
+          "n_test_positives": 2057
+        },
+        "has primary colour white": {
+          "auroc": 0.823990251503782,
+          "n_test_positives": 1678
+        },
+        "has primary colour red": {
+          "auroc": 0.8897759985606334,
+          "n_test_positives": 232
+        },
+        "has primary colour buff": {
+          "auroc": 0.815532025268005,
+          "n_test_positives": 1109
+        },
+        "a blue coloured leg": {
+          "auroc": 0.7553154005105694,
+          "n_test_positives": 77
+        },
+        "a brown coloured leg": {
+          "auroc": 0.6842190059343197,
+          "n_test_positives": 446
+        },
+        "a iridescent coloured leg": {
+          "auroc": 0.5492214096583028,
+          "n_test_positives": 22
+        },
+        "a purple coloured leg": {
+          "auroc": 0.49368596436999124,
+          "n_test_positives": 23
+        },
+        "a rufous coloured leg": {
+          "auroc": 0.7251948203206064,
+          "n_test_positives": 66
+        },
+        "a grey coloured leg": {
+          "auroc": 0.7599406859932313,
+          "n_test_positives": 1467
+        },
+        "a yellow coloured leg": {
+          "auroc": 0.7577526678189254,
+          "n_test_positives": 107
+        },
+        "a olive coloured leg": {
+          "auroc": 0.5709078285019962,
+          "n_test_positives": 29
+        },
+        "a green coloured leg": {
+          "auroc": 0.6123366517625553,
+          "n_test_positives": 7
+        },
+        "a pink coloured leg": {
+          "auroc": 0.7807288784732394,
+          "n_test_positives": 147
+        },
+        "a orange coloured leg": {
+          "auroc": 0.8674434925896051,
+          "n_test_positives": 478
+        },
+        "a black coloured leg": {
+          "auroc": 0.8205475070100234,
+          "n_test_positives": 1420
+        },
+        "a white coloured leg": {
+          "auroc": 0.710854312989698,
+          "n_test_positives": 191
+        },
+        "a red coloured leg": {
+          "auroc": 0.826106634321611,
+          "n_test_positives": 167
+        },
+        "a buff coloured leg": {
+          "auroc": 0.77076378200118,
+          "n_test_positives": 957
+        },
+        "a blue coloured bill": {
+          "auroc": 0.7857940619315106,
+          "n_test_positives": 151
+        },
+        "a brown coloured bill": {
+          "auroc": 0.7232493460556176,
+          "n_test_positives": 488
+        },
+        "a iridescent coloured bill": {
+          "auroc": 0.5667316755519451,
+          "n_test_positives": 53
+        },
+        "a purple coloured bill": {
+          "auroc": 0.5883168094883893,
+          "n_test_positives": 17
+        },
+        "a rufous coloured bill": {
+          "auroc": 0.8013965387118888,
+          "n_test_positives": 81
+        },
+        "a grey coloured bill": {
+          "auroc": 0.6979328399821182,
+          "n_test_positives": 1582
+        },
+        "a yellow coloured bill": {
+          "auroc": 0.8633776324060978,
+          "n_test_positives": 336
+        },
+        "a olive coloured bill": {
+          "auroc": 0.6963015574541144,
+          "n_test_positives": 34
+        },
+        "a green coloured bill": {
+          "auroc": 0.5877893747526711,
+          "n_test_positives": 14
+        },
+        "a pink coloured bill": {
+          "auroc": 0.6438214700339735,
+          "n_test_positives": 53
+        },
+        "a orange coloured bill": {
+          "auroc": 0.8563059069496638,
+          "n_test_positives": 392
+        },
+        "a black coloured bill": {
+          "auroc": 0.7979161008209072,
+          "n_test_positives": 2572
+        },
+        "a white coloured bill": {
+          "auroc": 0.706985424864592,
+          "n_test_positives": 317
+        },
+        "a red coloured bill": {
+          "auroc": 0.8546026846779166,
+          "n_test_positives": 202
+        },
+        "a buff coloured bill": {
+          "auroc": 0.7884758727161845,
+          "n_test_positives": 823
+        },
+        "a blue coloured crown": {
+          "auroc": 0.9360272193694195,
+          "n_test_positives": 317
+        },
+        "a brown coloured crown": {
+          "auroc": 0.8592495456277897,
+          "n_test_positives": 1078
+        },
+        "a iridescent coloured crown": {
+          "auroc": 0.7430275692929591,
+          "n_test_positives": 129
+        },
+        "a purple coloured crown": {
+          "auroc": 0.6720011199938207,
+          "n_test_positives": 36
+        },
+        "a rufous coloured crown": {
+          "auroc": 0.8456722942445145,
+          "n_test_positives": 97
+        },
+        "a grey coloured crown": {
+          "auroc": 0.7815101635091448,
+          "n_test_positives": 1246
+        },
+        "a yellow coloured crown": {
+          "auroc": 0.9322719946907202,
+          "n_test_positives": 407
+        },
+        "a olive coloured crown": {
+          "auroc": 0.8678006423811994,
+          "n_test_positives": 142
+        },
+        "a green coloured crown": {
+          "auroc": 0.8123107384113675,
+          "n_test_positives": 66
+        },
+        "a pink coloured crown": {
+          "auroc": 0.6524253659290156,
+          "n_test_positives": 36
+        },
+        "a orange coloured crown": {
+          "auroc": 0.7948800003710313,
+          "n_test_positives": 153
+        },
+        "a black coloured crown": {
+          "auroc": 0.876817178140223,
+          "n_test_positives": 1852
+        },
+        "a white coloured crown": {
+          "auroc": 0.8817551878629882,
+          "n_test_positives": 711
+        },
+        "a red coloured crown": {
+          "auroc": 0.9101832083809147,
+          "n_test_positives": 297
+        },
+        "a buff coloured crown": {
+          "auroc": 0.795599769997276,
+          "n_test_positives": 718
+        },
+        "a solid wing pattern": {
+          "auroc": 0.7918695180321873,
+          "n_test_positives": 1648
+        },
+        "a spotted wing pattern": {
+          "auroc": 0.8232271780631725,
+          "n_test_positives": 430
+        },
+        "a striped wing pattern": {
+          "auroc": 0.7305735799215983,
+          "n_test_positives": 1303
+        },
+        "a multi-colored wing pattern": {
+          "auroc": 0.6975680268475829,
+          "n_test_positives": 1791
+        }
+      },
+      "n_skipped_constant_label": 0,
+      "mean_auroc": 0.7770275512866641,
+      "median_auroc": 0.792149517046326,
+      "n_concepts_scored": 312
+    },
+    "dinov2_vitl14": {
+      "per_concept": {
+        "a curved bill": {
+          "auroc": 0.8241991912264818,
+          "n_test_positives": 119
+        },
+        "a dagger shaped bill": {
+          "auroc": 0.8385950272860592,
+          "n_test_positives": 786
+        },
+        "a hooked bill": {
+          "auroc": 0.7232253592717528,
+          "n_test_positives": 95
+        },
+        "a needle shaped bill": {
+          "auroc": 0.909766581916434,
+          "n_test_positives": 149
+        },
+        "a bill like a hooked-seabird": {
+          "auroc": 0.9405451312297054,
+          "n_test_positives": 373
+        },
+        "a spatulated bill": {
+          "auroc": 0.9498945177418823,
+          "n_test_positives": 223
+        },
+        "a all-purpose": {
+          "auroc": 0.8066181457274076,
+          "n_test_positives": 2336
+        },
+        "a cone shaped bill": {
+          "auroc": 0.8766793427965159,
+          "n_test_positives": 1467
+        },
+        "a specialized bill": {
+          "auroc": 0.9195953465145537,
+          "n_test_positives": 119
+        },
+        "a blue coloured wing": {
+          "auroc": 0.9119069697655428,
+          "n_test_positives": 296
+        },
+        "a brown coloured wing": {
+          "auroc": 0.8102133874574197,
+          "n_test_positives": 1557
+        },
+        "a iridescent coloured wing": {
+          "auroc": 0.7224673552055554,
+          "n_test_positives": 112
+        },
+        "a purple coloured wing": {
+          "auroc": 0.6797162760903218,
+          "n_test_positives": 26
+        },
+        "a rufous coloured wing": {
+          "auroc": 0.864797630899635,
+          "n_test_positives": 69
+        },
+        "a grey coloured wing": {
+          "auroc": 0.7426521214766747,
+          "n_test_positives": 1768
+        },
+        "a yellow coloured wing": {
+          "auroc": 0.9130480185972177,
+          "n_test_positives": 546
+        },
+        "a olive coloured wing": {
+          "auroc": 0.8743300904591227,
+          "n_test_positives": 210
+        },
+        "a green coloured wing": {
+          "auroc": 0.84343237373504,
+          "n_test_positives": 95
+        },
+        "a pink coloured wing": {
+          "auroc": 0.6112263660017346,
+          "n_test_positives": 25
+        },
+        "a orange coloured wing": {
+          "auroc": 0.8080745463848547,
+          "n_test_positives": 144
+        },
+        "a black coloured wing": {
+          "auroc": 0.7599015325367855,
+          "n_test_positives": 2459
+        },
+        "a white coloured wing": {
+          "auroc": 0.8114636172685913,
+          "n_test_positives": 1509
+        },
+        "a red coloured wing": {
+          "auroc": 0.8625111352777167,
+          "n_test_positives": 122
+        },
+        "a buff coloured wing": {
+          "auroc": 0.7772026759048716,
+          "n_test_positives": 1058
+        },
+        "a blue coloured upper body": {
+          "auroc": 0.9235093563750879,
+          "n_test_positives": 301
+        },
+        "a brown coloured upper body": {
+          "auroc": 0.8079206140365989,
+          "n_test_positives": 1383
+        },
+        "a iridescent coloured upper body": {
+          "auroc": 0.6778654363010985,
+          "n_test_positives": 149
+        },
+        "a purple coloured upper body": {
+          "auroc": 0.5541676702384486,
+          "n_test_positives": 31
+        },
+        "a rufous coloured upper body": {
+          "auroc": 0.7997152847152847,
+          "n_test_positives": 70
+        },
+        "a grey coloured upper body": {
+          "auroc": 0.7485028661721761,
+          "n_test_positives": 1711
+        },
+        "a yellow coloured upper body": {
+          "auroc": 0.9211497160001278,
+          "n_test_positives": 543
+        },
+        "a olive coloured upper body": {
+          "auroc": 0.8722234886716325,
+          "n_test_positives": 223
+        },
+        "a green coloured upper body": {
+          "auroc": 0.8749201507033256,
+          "n_test_positives": 108
+        },
+        "a pink coloured upper body": {
+          "auroc": 0.6277644171170724,
+          "n_test_positives": 28
+        },
+        "a orange coloured upper body": {
+          "auroc": 0.7675836903590563,
+          "n_test_positives": 149
+        },
+        "a black coloured upper body": {
+          "auroc": 0.761503664637924,
+          "n_test_positives": 2271
+        },
+        "a white coloured upper body": {
+          "auroc": 0.7959324401417813,
+          "n_test_positives": 1348
+        },
+        "a red coloured upper body": {
+          "auroc": 0.8653862321764864,
+          "n_test_positives": 126
+        },
+        "a buff coloured upper body": {
+          "auroc": 0.7892358485847696,
+          "n_test_positives": 997
+        },
+        "a blue coloured lower body": {
+          "auroc": 0.8739572076497365,
+          "n_test_positives": 174
+        },
+        "a brown coloured lower body": {
+          "auroc": 0.8117116471073432,
+          "n_test_positives": 593
+        },
+        "a iridescent coloured lower body": {
+          "auroc": 0.7493304286782548,
+          "n_test_positives": 92
+        },
+        "a purple coloured lower body": {
+          "auroc": 0.602829806914094,
+          "n_test_positives": 24
+        },
+        "a rufous coloured lower body": {
+          "auroc": 0.8751753770606805,
+          "n_test_positives": 88
+        },
+        "a grey coloured lower body": {
+          "auroc": 0.747872330603177,
+          "n_test_positives": 1081
+        },
+        "a yellow coloured lower body": {
+          "auroc": 0.9532689020924051,
+          "n_test_positives": 866
+        },
+        "a olive coloured lower body": {
+          "auroc": 0.8113210578746103,
+          "n_test_positives": 132
+        },
+        "a green coloured lower body": {
+          "auroc": 0.8122479342774783,
+          "n_test_positives": 81
+        },
+        "a pink coloured lower body": {
+          "auroc": 0.6570412764481443,
+          "n_test_positives": 24
+        },
+        "a orange coloured lower body": {
+          "auroc": 0.8214075528840749,
+          "n_test_positives": 189
+        },
+        "a black coloured lower body": {
+          "auroc": 0.8645259410420415,
+          "n_test_positives": 1022
+        },
+        "a white coloured lower body": {
+          "auroc": 0.8561075459865173,
+          "n_test_positives": 2266
+        },
+        "a red coloured lower body": {
+          "auroc": 0.9120975832696919,
+          "n_test_positives": 211
+        },
+        "a buff coloured lower body": {
+          "auroc": 0.7996941095948907,
+          "n_test_positives": 1053
+        },
+        "a solid pattern in the breast": {
+          "auroc": 0.777208978113707,
+          "n_test_positives": 3152
+        },
+        "a spotted pattern in the breast": {
+          "auroc": 0.7839156698273267,
+          "n_test_positives": 311
+        },
+        "a striped pattern in the breast": {
+          "auroc": 0.7822428506144121,
+          "n_test_positives": 682
+        },
+        "a multi-colored pattern in the breast": {
+          "auroc": 0.6881642211749587,
+          "n_test_positives": 1117
+        },
+        "a blue coloured back": {
+          "auroc": 0.9134969765363565,
+          "n_test_positives": 249
+        },
+        "a brown coloured back": {
+          "auroc": 0.8089922106269648,
+          "n_test_positives": 1105
+        },
+        "a iridescent coloured back": {
+          "auroc": 0.7230719643694328,
+          "n_test_positives": 102
+        },
+        "a purple coloured back": {
+          "auroc": 0.7006959374777106,
+          "n_test_positives": 17
+        },
+        "a rufous coloured back": {
+          "auroc": 0.821611415596378,
+          "n_test_positives": 57
+        },
+        "a grey coloured back": {
+          "auroc": 0.7489772327373542,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured back": {
+          "auroc": 0.9007162860835848,
+          "n_test_positives": 422
+        },
+        "a olive coloured back": {
+          "auroc": 0.8893676169073278,
+          "n_test_positives": 196
+        },
+        "a green coloured back": {
+          "auroc": 0.8580299539867099,
+          "n_test_positives": 87
+        },
+        "a pink coloured back": {
+          "auroc": 0.5482842287694973,
+          "n_test_positives": 20
+        },
+        "a orange coloured back": {
+          "auroc": 0.7367039953382739,
+          "n_test_positives": 94
+        },
+        "a black coloured back": {
+          "auroc": 0.7960744905164847,
+          "n_test_positives": 1661
+        },
+        "a white coloured back": {
+          "auroc": 0.8058947369384777,
+          "n_test_positives": 892
+        },
+        "a red coloured back": {
+          "auroc": 0.8251488234962724,
+          "n_test_positives": 103
+        },
+        "a buff coloured back": {
+          "auroc": 0.7819727931200264,
+          "n_test_positives": 841
+        },
+        "a forked tail": {
+          "auroc": 0.7305070424324823,
+          "n_test_positives": 197
+        },
+        "a rounded tail": {
+          "auroc": 0.5690948233658988,
+          "n_test_positives": 652
+        },
+        "a notched tail": {
+          "auroc": 0.6397053783827291,
+          "n_test_positives": 1715
+        },
+        "a fan-shaped tail": {
+          "auroc": 0.6001584081908626,
+          "n_test_positives": 435
+        },
+        "a pointed tail": {
+          "auroc": 0.6330716498015138,
+          "n_test_positives": 1048
+        },
+        "a squared tail": {
+          "auroc": 0.54347114352107,
+          "n_test_positives": 536
+        },
+        "a blue coloured upper tail": {
+          "auroc": 0.9124870942222342,
+          "n_test_positives": 214
+        },
+        "a brown coloured upper tail": {
+          "auroc": 0.7863041725811822,
+          "n_test_positives": 828
+        },
+        "a iridescent coloured upper tail": {
+          "auroc": 0.7094825125207525,
+          "n_test_positives": 63
+        },
+        "a purple coloured upper tail": {
+          "auroc": 0.5526606338759958,
+          "n_test_positives": 16
+        },
+        "a rufous coloured upper tail": {
+          "auroc": 0.8182565217391304,
+          "n_test_positives": 40
+        },
+        "a grey coloured upper tail": {
+          "auroc": 0.7123398146681451,
+          "n_test_positives": 1070
+        },
+        "a yellow coloured upper tail": {
+          "auroc": 0.8733058400174881,
+          "n_test_positives": 258
+        },
+        "a olive coloured upper tail": {
+          "auroc": 0.852761729272698,
+          "n_test_positives": 131
+        },
+        "a green coloured upper tail": {
+          "auroc": 0.8351588046505994,
+          "n_test_positives": 46
+        },
+        "a pink coloured upper tail": {
+          "auroc": 0.6483369146879433,
+          "n_test_positives": 29
+        },
+        "a orange coloured upper tail": {
+          "auroc": 0.6915658425390145,
+          "n_test_positives": 87
+        },
+        "a black coloured upper tail": {
+          "auroc": 0.7544342377127995,
+          "n_test_positives": 1478
+        },
+        "a white coloured upper tail": {
+          "auroc": 0.7892223786132909,
+          "n_test_positives": 729
+        },
+        "a red coloured upper tail": {
+          "auroc": 0.854490680436834,
+          "n_test_positives": 83
+        },
+        "a buff coloured upper tail": {
+          "auroc": 0.7603385095638566,
+          "n_test_positives": 631
+        },
+        "a spotted pattern in the head": {
+          "auroc": 0.7695081919607205,
+          "n_test_positives": 159
+        },
+        "a malar pattern in the head": {
+          "auroc": 0.6279238323852117,
+          "n_test_positives": 558
+        },
+        "a crested pattern in the head": {
+          "auroc": 0.8536277687458277,
+          "n_test_positives": 227
+        },
+        "a masked pattern in the head": {
+          "auroc": 0.7196089643272743,
+          "n_test_positives": 252
+        },
+        "a unique pattern in the head": {
+          "auroc": 0.6685035079682716,
+          "n_test_positives": 185
+        },
+        "a eyebrow pattern in the head": {
+          "auroc": 0.748584235487163,
+          "n_test_positives": 708
+        },
+        "a eyering pattern in the head": {
+          "auroc": 0.6223781456036148,
+          "n_test_positives": 926
+        },
+        "a plain pattern in the head": {
+          "auroc": 0.7777898952073795,
+          "n_test_positives": 1534
+        },
+        "a eyeline pattern in the head": {
+          "auroc": 0.6851725746268658,
+          "n_test_positives": 670
+        },
+        "a striped pattern in the head": {
+          "auroc": 0.7479210932242478,
+          "n_test_positives": 392
+        },
+        "a capped pattern in the head": {
+          "auroc": 0.7425807307680617,
+          "n_test_positives": 668
+        },
+        "a blue coloured breast": {
+          "auroc": 0.8974318675070275,
+          "n_test_positives": 178
+        },
+        "a brown coloured breast": {
+          "auroc": 0.8345180555061859,
+          "n_test_positives": 639
+        },
+        "a iridescent coloured breast": {
+          "auroc": 0.7141559454191033,
+          "n_test_positives": 90
+        },
+        "a purple coloured breast": {
+          "auroc": 0.5581357434711283,
+          "n_test_positives": 17
+        },
+        "a rufous coloured breast": {
+          "auroc": 0.8585704510787655,
+          "n_test_positives": 77
+        },
+        "a grey coloured breast": {
+          "auroc": 0.7579821747537492,
+          "n_test_positives": 1084
+        },
+        "a yellow coloured breast": {
+          "auroc": 0.9495604039906987,
+          "n_test_positives": 794
+        },
+        "a olive coloured breast": {
+          "auroc": 0.8519389729159338,
+          "n_test_positives": 104
+        },
+        "a green coloured breast": {
+          "auroc": 0.78646954969637,
+          "n_test_positives": 63
+        },
+        "a pink coloured breast": {
+          "auroc": 0.6492003469210754,
+          "n_test_positives": 25
+        },
+        "a orange coloured breast": {
+          "auroc": 0.7990223989951852,
+          "n_test_positives": 170
+        },
+        "a black coloured breast": {
+          "auroc": 0.868448829196425,
+          "n_test_positives": 1174
+        },
+        "a white coloured breast": {
+          "auroc": 0.8478059262214476,
+          "n_test_positives": 2079
+        },
+        "a red coloured breast": {
+          "auroc": 0.9071039812910446,
+          "n_test_positives": 233
+        },
+        "a buff coloured breast": {
+          "auroc": 0.8029051960868088,
+          "n_test_positives": 996
+        },
+        "a blue coloured throat": {
+          "auroc": 0.9246063316141775,
+          "n_test_positives": 182
+        },
+        "a brown coloured throat": {
+          "auroc": 0.8229103082708431,
+          "n_test_positives": 476
+        },
+        "a iridescent coloured throat": {
+          "auroc": 0.746580147316731,
+          "n_test_positives": 88
+        },
+        "a purple coloured throat": {
+          "auroc": 0.41657162691525756,
+          "n_test_positives": 28
+        },
+        "a rufous coloured throat": {
+          "auroc": 0.8736595237644923,
+          "n_test_positives": 74
+        },
+        "a grey coloured throat": {
+          "auroc": 0.7629890730680795,
+          "n_test_positives": 992
+        },
+        "a yellow coloured throat": {
+          "auroc": 0.959574429394171,
+          "n_test_positives": 653
+        },
+        "a olive coloured throat": {
+          "auroc": 0.8176317719460475,
+          "n_test_positives": 88
+        },
+        "a green coloured throat": {
+          "auroc": 0.8324723676556137,
+          "n_test_positives": 60
+        },
+        "a pink coloured throat": {
+          "auroc": 0.6986667912240432,
+          "n_test_positives": 26
+        },
+        "a orange coloured throat": {
+          "auroc": 0.7516073992384361,
+          "n_test_positives": 136
+        },
+        "a black coloured throat": {
+          "auroc": 0.9096590529171649,
+          "n_test_positives": 1257
+        },
+        "a white coloured throat": {
+          "auroc": 0.8792056924062905,
+          "n_test_positives": 2015
+        },
+        "a red coloured throat": {
+          "auroc": 0.911018888676673,
+          "n_test_positives": 218
+        },
+        "a buff coloured throat": {
+          "auroc": 0.8090147875943595,
+          "n_test_positives": 796
+        },
+        "a blue coloured eye": {
+          "auroc": 0.6921122128656136,
+          "n_test_positives": 56
+        },
+        "a brown coloured eye": {
+          "auroc": 0.6672719141323793,
+          "n_test_positives": 200
+        },
+        "a purple coloured eye": {
+          "auroc": 0.6316089965397924,
+          "n_test_positives": 10
+        },
+        "a rufous coloured eye": {
+          "auroc": 0.7829522664503796,
+          "n_test_positives": 67
+        },
+        "a grey coloured eye": {
+          "auroc": 0.5397075126742767,
+          "n_test_positives": 101
+        },
+        "a yellow coloured eye": {
+          "auroc": 0.8409952022240157,
+          "n_test_positives": 126
+        },
+        "a olive coloured eye": {
+          "auroc": 0.4855259269826066,
+          "n_test_positives": 17
+        },
+        "a green coloured eye": {
+          "auroc": 0.5306721963020563,
+          "n_test_positives": 3
+        },
+        "a pink coloured eye": {
+          "auroc": 0.6153150232582686,
+          "n_test_positives": 23
+        },
+        "a orange coloured eye": {
+          "auroc": 0.7926302536548542,
+          "n_test_positives": 69
+        },
+        "a black coloured eye": {
+          "auroc": 0.7063071878940732,
+          "n_test_positives": 4875
+        },
+        "a white coloured eye": {
+          "auroc": 0.8449279408211028,
+          "n_test_positives": 161
+        },
+        "a red coloured eye": {
+          "auroc": 0.8631396145977269,
+          "n_test_positives": 132
+        },
+        "a buff coloured eye": {
+          "auroc": 0.6713290985811675,
+          "n_test_positives": 89
+        },
+        "has bill length about the same ashead": {
+          "auroc": 0.8324550676263522,
+          "n_test_positives": 2117
+        },
+        "has bill length longer than head": {
+          "auroc": 0.8359940986875176,
+          "n_test_positives": 348
+        },
+        "has bill length shorter than head": {
+          "auroc": 0.8520109825907168,
+          "n_test_positives": 3245
+        },
+        "a blue coloured forehead": {
+          "auroc": 0.9236834016917275,
+          "n_test_positives": 303
+        },
+        "a brown coloured forehead": {
+          "auroc": 0.8429779007095994,
+          "n_test_positives": 998
+        },
+        "a iridescent coloured forehead": {
+          "auroc": 0.7126621158466461,
+          "n_test_positives": 124
+        },
+        "a purple coloured forehead": {
+          "auroc": 0.664515673845085,
+          "n_test_positives": 32
+        },
+        "a rufous coloured forehead": {
+          "auroc": 0.8772579796562611,
+          "n_test_positives": 88
+        },
+        "a grey coloured forehead": {
+          "auroc": 0.7692630243758962,
+          "n_test_positives": 1180
+        },
+        "a yellow coloured forehead": {
+          "auroc": 0.9482448471314695,
+          "n_test_positives": 483
+        },
+        "a olive coloured forehead": {
+          "auroc": 0.8396257395796539,
+          "n_test_positives": 128
+        },
+        "a green coloured forehead": {
+          "auroc": 0.8871476447160274,
+          "n_test_positives": 53
+        },
+        "a pink coloured forehead": {
+          "auroc": 0.7255174008555904,
+          "n_test_positives": 24
+        },
+        "a orange coloured forehead": {
+          "auroc": 0.7790398836628771,
+          "n_test_positives": 159
+        },
+        "a black coloured forehead": {
+          "auroc": 0.8567671275292268,
+          "n_test_positives": 1861
+        },
+        "a white coloured forehead": {
+          "auroc": 0.8773867940685629,
+          "n_test_positives": 806
+        },
+        "a red coloured forehead": {
+          "auroc": 0.9309963986618726,
+          "n_test_positives": 254
+        },
+        "a buff coloured forehead": {
+          "auroc": 0.7726947551677906,
+          "n_test_positives": 708
+        },
+        "a blue coloured under tail": {
+          "auroc": 0.9102093970785452,
+          "n_test_positives": 203
+        },
+        "a brown coloured under tail": {
+          "auroc": 0.7651099917548853,
+          "n_test_positives": 891
+        },
+        "a iridescent coloured under tail": {
+          "auroc": 0.6422680550890159,
+          "n_test_positives": 65
+        },
+        "a purple coloured under tail": {
+          "auroc": 0.6256448756448756,
+          "n_test_positives": 18
+        },
+        "a rufous coloured under tail": {
+          "auroc": 0.7758030136472103,
+          "n_test_positives": 52
+        },
+        "a grey coloured under tail": {
+          "auroc": 0.68498078405937,
+          "n_test_positives": 1213
+        },
+        "a yellow coloured under tail": {
+          "auroc": 0.9000811731818488,
+          "n_test_positives": 383
+        },
+        "a olive coloured under tail": {
+          "auroc": 0.8380031774051191,
+          "n_test_positives": 125
+        },
+        "a green coloured under tail": {
+          "auroc": 0.7911237480691614,
+          "n_test_positives": 56
+        },
+        "a pink coloured under tail": {
+          "auroc": 0.49525410695033967,
+          "n_test_positives": 23
+        },
+        "a orange coloured under tail": {
+          "auroc": 0.7388995024457835,
+          "n_test_positives": 109
+        },
+        "a black coloured under tail": {
+          "auroc": 0.7362386283784085,
+          "n_test_positives": 1806
+        },
+        "a white coloured under tail": {
+          "auroc": 0.7796255215476007,
+          "n_test_positives": 1033
+        },
+        "a red coloured under tail": {
+          "auroc": 0.8254943727951934,
+          "n_test_positives": 83
+        },
+        "a buff coloured under tail": {
+          "auroc": 0.7329379656983609,
+          "n_test_positives": 694
+        },
+        "a blue coloured nape": {
+          "auroc": 0.919888739952283,
+          "n_test_positives": 289
+        },
+        "a brown coloured nape": {
+          "auroc": 0.8303145841364488,
+          "n_test_positives": 1012
+        },
+        "a iridescent coloured nape": {
+          "auroc": 0.717741302128328,
+          "n_test_positives": 119
+        },
+        "a purple coloured nape": {
+          "auroc": 0.640002248293341,
+          "n_test_positives": 34
+        },
+        "a rufous coloured nape": {
+          "auroc": 0.8954225043782836,
+          "n_test_positives": 80
+        },
+        "a grey coloured nape": {
+          "auroc": 0.7779879894012223,
+          "n_test_positives": 1427
+        },
+        "a yellow coloured nape": {
+          "auroc": 0.9312121246455256,
+          "n_test_positives": 464
+        },
+        "a olive coloured nape": {
+          "auroc": 0.8537045320983431,
+          "n_test_positives": 183
+        },
+        "a green coloured nape": {
+          "auroc": 0.8526773204903678,
+          "n_test_positives": 80
+        },
+        "a pink coloured nape": {
+          "auroc": 0.594280480679647,
+          "n_test_positives": 33
+        },
+        "a orange coloured nape": {
+          "auroc": 0.7605890166801185,
+          "n_test_positives": 126
+        },
+        "a black coloured nape": {
+          "auroc": 0.8464644882674245,
+          "n_test_positives": 1505
+        },
+        "a white coloured nape": {
+          "auroc": 0.8523090129442044,
+          "n_test_positives": 1273
+        },
+        "a red coloured nape": {
+          "auroc": 0.9100699347210027,
+          "n_test_positives": 199
+        },
+        "a buff coloured nape": {
+          "auroc": 0.802824381700298,
+          "n_test_positives": 889
+        },
+        "a blue coloured belly": {
+          "auroc": 0.8773824634943125,
+          "n_test_positives": 144
+        },
+        "a brown coloured belly": {
+          "auroc": 0.8075395044366649,
+          "n_test_positives": 513
+        },
+        "a iridescent coloured belly": {
+          "auroc": 0.7451392538097741,
+          "n_test_positives": 81
+        },
+        "a purple coloured belly": {
+          "auroc": 0.6881777307590584,
+          "n_test_positives": 19
+        },
+        "a rufous coloured belly": {
+          "auroc": 0.8437237487504682,
+          "n_test_positives": 79
+        },
+        "a grey coloured belly": {
+          "auroc": 0.7546647732929507,
+          "n_test_positives": 995
+        },
+        "a yellow coloured belly": {
+          "auroc": 0.9468908764418755,
+          "n_test_positives": 844
+        },
+        "a olive coloured belly": {
+          "auroc": 0.8098942207879277,
+          "n_test_positives": 117
+        },
+        "a green coloured belly": {
+          "auroc": 0.8270581039126591,
+          "n_test_positives": 68
+        },
+        "a pink coloured belly": {
+          "auroc": 0.6558318256417724,
+          "n_test_positives": 31
+        },
+        "a orange coloured belly": {
+          "auroc": 0.7846680134680133,
+          "n_test_positives": 165
+        },
+        "a black coloured belly": {
+          "auroc": 0.8669125982376756,
+          "n_test_positives": 850
+        },
+        "a white coloured belly": {
+          "auroc": 0.8546161809339196,
+          "n_test_positives": 2166
+        },
+        "a red coloured belly": {
+          "auroc": 0.8988488372093023,
+          "n_test_positives": 200
+        },
+        "a buff coloured belly": {
+          "auroc": 0.8002897902843787,
+          "n_test_positives": 948
+        },
+        "has rounded wings": {
+          "auroc": 0.5480013175230567,
+          "n_test_positives": 1650
+        },
+        "has pointed wings": {
+          "auroc": 0.5417443057785799,
+          "n_test_positives": 1163
+        },
+        "has broad wings": {
+          "auroc": 0.5920418074613185,
+          "n_test_positives": 335
+        },
+        "has tapered wings": {
+          "auroc": 0.599931211006239,
+          "n_test_positives": 470
+        },
+        "has long wings": {
+          "auroc": 0.7191590081574278,
+          "n_test_positives": 379
+        },
+        "a large bird": {
+          "auroc": 0.7951554446986192,
+          "n_test_positives": 208
+        },
+        "a small bird": {
+          "auroc": 0.6950908072573229,
+          "n_test_positives": 2956
+        },
+        "a very large bird": {
+          "auroc": 0.8454330581899077,
+          "n_test_positives": 96
+        },
+        "a medium bird": {
+          "auroc": 0.8676521977849678,
+          "n_test_positives": 1147
+        },
+        "a very small bird": {
+          "auroc": 0.7185894195473218,
+          "n_test_positives": 1383
+        },
+        "a upright-perching_water-like body shape": {
+          "auroc": 0.779560105913504,
+          "n_test_positives": 125
+        },
+        "a chicken-like-marsh body shape": {
+          "auroc": 0.6745640219952866,
+          "n_test_positives": 95
+        },
+        "a long-legged-like body shape": {
+          "auroc": 0.8425466075794621,
+          "n_test_positives": 64
+        },
+        "a duck-like body shape": {
+          "auroc": 0.9430624599780852,
+          "n_test_positives": 353
+        },
+        "a owl-like body shape": {
+          "auroc": 0.7296949233972134,
+          "n_test_positives": 26
+        },
+        "a gull-like body shape": {
+          "auroc": 0.8552019128855839,
+          "n_test_positives": 403
+        },
+        "a hummingbird-like body shape": {
+          "auroc": 0.7329630327821417,
+          "n_test_positives": 319
+        },
+        "a pigeon-like body shape": {
+          "auroc": 0.6022579059954037,
+          "n_test_positives": 369
+        },
+        "a tree-clinging-like body shape": {
+          "auroc": 0.7424420175493971,
+          "n_test_positives": 365
+        },
+        "a hawk-like body shape": {
+          "auroc": 0.672659549645802,
+          "n_test_positives": 189
+        },
+        "a sandpiper-like body shape": {
+          "auroc": 0.6260853437058256,
+          "n_test_positives": 312
+        },
+        "a upland-ground-like body shape": {
+          "auroc": 0.5437005259380657,
+          "n_test_positives": 132
+        },
+        "a swallow-like body shape": {
+          "auroc": 0.6006512234012278,
+          "n_test_positives": 211
+        },
+        "a perching-like body shape": {
+          "auroc": 0.8014184134689827,
+          "n_test_positives": 2827
+        },
+        "a solid pattern in the back": {
+          "auroc": 0.730062200905824,
+          "n_test_positives": 2113
+        },
+        "a spotted pattern in the back": {
+          "auroc": 0.8006703527105656,
+          "n_test_positives": 356
+        },
+        "a striped pattern in the back": {
+          "auroc": 0.7424059006386502,
+          "n_test_positives": 898
+        },
+        "a multi-colored pattern in the back": {
+          "auroc": 0.6191975262368815,
+          "n_test_positives": 1150
+        },
+        "a solid tail pattern": {
+          "auroc": 0.7005492680405201,
+          "n_test_positives": 2074
+        },
+        "a spotted tail pattern": {
+          "auroc": 0.7777141044894713,
+          "n_test_positives": 263
+        },
+        "a striped tail pattern": {
+          "auroc": 0.6631604677637035,
+          "n_test_positives": 708
+        },
+        "a multi-colored tail pattern": {
+          "auroc": 0.6404257543868164,
+          "n_test_positives": 1357
+        },
+        "a solid pattern in the belly": {
+          "auroc": 0.7735298392020771,
+          "n_test_positives": 3318
+        },
+        "a spotted pattern in the belly": {
+          "auroc": 0.7982727774872053,
+          "n_test_positives": 298
+        },
+        "a striped pattern in the belly": {
+          "auroc": 0.7525145563558244,
+          "n_test_positives": 566
+        },
+        "a multi-colored pattern in the belly": {
+          "auroc": 0.6544049759083596,
+          "n_test_positives": 919
+        },
+        "has primary colour blue": {
+          "auroc": 0.8787619187827003,
+          "n_test_positives": 367
+        },
+        "has primary colour brown": {
+          "auroc": 0.8296294910795889,
+          "n_test_positives": 1437
+        },
+        "has primary colour iridescent": {
+          "auroc": 0.7167989756722151,
+          "n_test_positives": 110
+        },
+        "has primary colour purple": {
+          "auroc": 0.6206016833844888,
+          "n_test_positives": 44
+        },
+        "has primary colour rufous": {
+          "auroc": 0.8290638911592371,
+          "n_test_positives": 107
+        },
+        "has primary colour grey": {
+          "auroc": 0.7640035680077005,
+          "n_test_positives": 1727
+        },
+        "has primary colour yellow": {
+          "auroc": 0.9427669399401453,
+          "n_test_positives": 901
+        },
+        "has primary colour olive": {
+          "auroc": 0.8644253268297226,
+          "n_test_positives": 248
+        },
+        "has primary colour green": {
+          "auroc": 0.8674420019701322,
+          "n_test_positives": 107
+        },
+        "has primary colour pink": {
+          "auroc": 0.5966231505657094,
+          "n_test_positives": 45
+        },
+        "has primary colour orange": {
+          "auroc": 0.7445337093182436,
+          "n_test_positives": 228
+        },
+        "has primary colour black": {
+          "auroc": 0.7913763916434131,
+          "n_test_positives": 2057
+        },
+        "has primary colour white": {
+          "auroc": 0.8179210647750936,
+          "n_test_positives": 1678
+        },
+        "has primary colour red": {
+          "auroc": 0.9050599632713329,
+          "n_test_positives": 232
+        },
+        "has primary colour buff": {
+          "auroc": 0.8118875125716857,
+          "n_test_positives": 1109
+        },
+        "a blue coloured leg": {
+          "auroc": 0.7775817740809864,
+          "n_test_positives": 77
+        },
+        "a brown coloured leg": {
+          "auroc": 0.6738037378158481,
+          "n_test_positives": 446
+        },
+        "a iridescent coloured leg": {
+          "auroc": 0.6049914890934308,
+          "n_test_positives": 22
+        },
+        "a purple coloured leg": {
+          "auroc": 0.4327771955880912,
+          "n_test_positives": 23
+        },
+        "a rufous coloured leg": {
+          "auroc": 0.6819955318382992,
+          "n_test_positives": 66
+        },
+        "a grey coloured leg": {
+          "auroc": 0.745987797549639,
+          "n_test_positives": 1467
+        },
+        "a yellow coloured leg": {
+          "auroc": 0.7755595060526477,
+          "n_test_positives": 107
+        },
+        "a olive coloured leg": {
+          "auroc": 0.6893738515224249,
+          "n_test_positives": 29
+        },
+        "a green coloured leg": {
+          "auroc": 0.4467775005558163,
+          "n_test_positives": 7
+        },
+        "a pink coloured leg": {
+          "auroc": 0.7478761839664096,
+          "n_test_positives": 147
+        },
+        "a orange coloured leg": {
+          "auroc": 0.8506121767404345,
+          "n_test_positives": 478
+        },
+        "a black coloured leg": {
+          "auroc": 0.8071208947046122,
+          "n_test_positives": 1420
+        },
+        "a white coloured leg": {
+          "auroc": 0.6972664340771398,
+          "n_test_positives": 191
+        },
+        "a red coloured leg": {
+          "auroc": 0.8080999658161891,
+          "n_test_positives": 167
+        },
+        "a buff coloured leg": {
+          "auroc": 0.7603410547608838,
+          "n_test_positives": 957
+        },
+        "a blue coloured bill": {
+          "auroc": 0.7712618718503704,
+          "n_test_positives": 151
+        },
+        "a brown coloured bill": {
+          "auroc": 0.7162882395137005,
+          "n_test_positives": 488
+        },
+        "a iridescent coloured bill": {
+          "auroc": 0.5800809705947162,
+          "n_test_positives": 53
+        },
+        "a purple coloured bill": {
+          "auroc": 0.5485984450943031,
+          "n_test_positives": 17
+        },
+        "a rufous coloured bill": {
+          "auroc": 0.8155414128439176,
+          "n_test_positives": 81
+        },
+        "a grey coloured bill": {
+          "auroc": 0.6916255473891162,
+          "n_test_positives": 1582
+        },
+        "a yellow coloured bill": {
+          "auroc": 0.8559849040459601,
+          "n_test_positives": 336
+        },
+        "a olive coloured bill": {
+          "auroc": 0.7421054245186608,
+          "n_test_positives": 34
+        },
+        "a green coloured bill": {
+          "auroc": 0.7147432726553224,
+          "n_test_positives": 14
+        },
+        "a pink coloured bill": {
+          "auroc": 0.659759061504106,
+          "n_test_positives": 53
+        },
+        "a orange coloured bill": {
+          "auroc": 0.8622538770973376,
+          "n_test_positives": 392
+        },
+        "a black coloured bill": {
+          "auroc": 0.7840861860819826,
+          "n_test_positives": 2572
+        },
+        "a white coloured bill": {
+          "auroc": 0.6998382077546154,
+          "n_test_positives": 317
+        },
+        "a red coloured bill": {
+          "auroc": 0.8491755671630156,
+          "n_test_positives": 202
+        },
+        "a buff coloured bill": {
+          "auroc": 0.7823413386186008,
+          "n_test_positives": 823
+        },
+        "a blue coloured crown": {
+          "auroc": 0.9360156915998873,
+          "n_test_positives": 317
+        },
+        "a brown coloured crown": {
+          "auroc": 0.8502603387396014,
+          "n_test_positives": 1078
+        },
+        "a iridescent coloured crown": {
+          "auroc": 0.7319878017552436,
+          "n_test_positives": 129
+        },
+        "a purple coloured crown": {
+          "auroc": 0.6504557216236049,
+          "n_test_positives": 36
+        },
+        "a rufous coloured crown": {
+          "auroc": 0.8529085275641455,
+          "n_test_positives": 97
+        },
+        "a grey coloured crown": {
+          "auroc": 0.7733525450455543,
+          "n_test_positives": 1246
+        },
+        "a yellow coloured crown": {
+          "auroc": 0.9315211551882553,
+          "n_test_positives": 407
+        },
+        "a olive coloured crown": {
+          "auroc": 0.8585913497985077,
+          "n_test_positives": 142
+        },
+        "a green coloured crown": {
+          "auroc": 0.8250534697075577,
+          "n_test_positives": 66
+        },
+        "a pink coloured crown": {
+          "auroc": 0.6410564631367551,
+          "n_test_positives": 36
+        },
+        "a orange coloured crown": {
+          "auroc": 0.7894536680499176,
+          "n_test_positives": 153
+        },
+        "a black coloured crown": {
+          "auroc": 0.8717416801678719,
+          "n_test_positives": 1852
+        },
+        "a white coloured crown": {
+          "auroc": 0.8644369731795992,
+          "n_test_positives": 711
+        },
+        "a red coloured crown": {
+          "auroc": 0.9269048271414919,
+          "n_test_positives": 297
+        },
+        "a buff coloured crown": {
+          "auroc": 0.7894347853307909,
+          "n_test_positives": 718
+        },
+        "a solid wing pattern": {
+          "auroc": 0.7798289661202084,
+          "n_test_positives": 1648
+        },
+        "a spotted wing pattern": {
+          "auroc": 0.8090357080874696,
+          "n_test_positives": 430
+        },
+        "a striped wing pattern": {
+          "auroc": 0.7202952299651025,
+          "n_test_positives": 1303
+        },
+        "a multi-colored wing pattern": {
+          "auroc": 0.6716466246656583,
+          "n_test_positives": 1791
+        }
+      },
+      "n_skipped_constant_label": 0,
+      "mean_auroc": 0.7717036915720192,
+      "median_auroc": 0.7843770997749979,
+      "n_concepts_scored": 312
+    }
+  },
+  "head_to_head_vs_clip_zeroshot": {
+    "dinov2_vitb14": {
+      "n_shared_concepts": 312,
+      "wins": 289,
+      "losses": 23,
+      "ties": 0
+    },
+    "dinov2_vitl14": {
+      "n_shared_concepts": 312,
+      "wins": 287,
+      "losses": 25,
+      "ties": 0
+    }
+  }
+}
