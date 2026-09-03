@@ -1,5 +1,7 @@
 # Plan 08: does an LLM-generated concept bank beat the human-written one?
 
+**Done — results in [`results/llm_concept_bank_comparison.md`](../results/llm_concept_bank_comparison.md).** The LLM-generated bank won on every metric (in-domain and CUB-Painting shift, with and without DDO), by 1.6-3.2 points.
+
 ## 0. Where this comes from, and what it is
 
 The project's own architecture diagram has two branches feeding the concept bank: **"Human or LLM"** → "what are useful visual features for identifying an {class}" → concept bank `C = {c_i}`. Every dataset actually run in this project so far took the Human branch: CUB's 312 concepts are the original CUB-200-2011 paper's real, human-annotated attribute names; PACS/Office-Home/EuroSAT/Defactify's concept banks are "hand-written, first-draft lists (roughly 4 concepts per class)... rather than curated or validated against alternatives" (`docs/research_report.md` §_first-pass concept banks_); DomainNet's is template-generated, not written by anyone at all (`data/DomainNet/generate_domainnet_concepts.py`).
