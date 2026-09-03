@@ -29,7 +29,7 @@ class Processed_PACS_Dataset(Dataset):
 
     def __init__(self, args, data_root, domain, split, meta_root="data/PACS",
                  classname2id=None, concept2id=None,
-                 src_dm_texts=None, tgt_dm_texts=None):
+                 src_dm_texts=None, tgt_dm_texts=None, concept_file=None):
         if split not in ("train", "test"):
             raise ValueError("split must be train or test")
 
@@ -48,7 +48,15 @@ class Processed_PACS_Dataset(Dataset):
         self.classname2id = classname2id
 
         if concept2id is None:
-            with open(os.path.join(meta_root, "pacs_concepts.txt"), "r") as f:
+            # concept_file lets the LLM-vs-human concept bank comparison
+            # (planning/08) swap in an independently-generated PACS bank
+            # without touching anything else - defaults to the original
+            # human-written pacs_concepts.txt. Deliberately NOT falling back
+            # to args.concept_file here: that flag's own default is CUB's
+            # cub_concepts.txt (args.py), which would silently be wrong for
+            # PACS if reused - concept_file must be passed explicitly.
+            concept_file = concept_file or "pacs_concepts.txt"
+            with open(os.path.join(meta_root, concept_file), "r") as f:
                 concept2id = {x.rstrip(): c_id for c_id, x in enumerate(f.readlines())}
         self.concept2id = concept2id
 

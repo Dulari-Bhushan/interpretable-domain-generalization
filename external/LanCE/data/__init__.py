@@ -125,11 +125,17 @@ def get_dataset_classes(args):
     return train_dataset, train_loader, test_dataset, test_loader, target_test_dataset, target_test_loader
 
 
-def get_pacs_datasets(args, domains=PACS_DOMAINS):
+def get_pacs_datasets(args, domains=PACS_DOMAINS, concept_file=None):
     """PACS has 4 usable-as-either-train-or-eval domains, not one fixed
     source + one fixed target - get_dataset_classes' return signature can't
     express that, so this is a separate entry point rather than a new
     branch there. Used by experiments/domain_il.py's Domain-IL sweep.
+
+    concept_file: which concept bank to load (default pacs_concepts.txt,
+    the human-written bank) - only matters for the first domain built, since
+    every later domain reuses that domain's concept2id directly rather than
+    re-reading a file. Lets planning/08's LLM-vs-human comparison swap banks
+    without touching anything else.
 
     Returns:
         datasets: dict[domain] -> {"train": Dataset, "test": Dataset}
@@ -148,6 +154,7 @@ def get_pacs_datasets(args, domains=PACS_DOMAINS):
             meta_root="data/PACS", classname2id=classname2id, concept2id=concept2id,
             src_dm_texts=source_text_prompts if i == 0 else None,
             tgt_dm_texts=target_text_prompts if i == 0 else None,
+            concept_file=concept_file if i == 0 else None,
         )
         if i == 0:
             classname2id = train_dataset.classname2id
