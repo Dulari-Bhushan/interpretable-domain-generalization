@@ -24,14 +24,16 @@ def get_dataset_classes(args):
                                               split="train",
                                               meta_root="data/CUB",
                                               attr_name="CUBpath2attr.pkl",
-                                              src_dm_texts = source_text_prompts, tgt_dm_texts = target_text_prompts)
+                                              src_dm_texts = source_text_prompts, tgt_dm_texts = target_text_prompts,
+                                              concept_file=args.concept_file)
         train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, num_workers=8)
         # source test
         test_dataset = Processed_CUB_Dataset(args,
                                              data_root=os.path.join(args.data_dir,"CUB/CUB_200_2011/images"),
                                              split="test",
                                              meta_root="data/CUB",
-                                             attr_name="CUBpath2attr.pkl")
+                                             attr_name="CUBpath2attr.pkl",
+                                             concept_file=args.concept_file)
         test_loader = DataLoader(test_dataset, batch_size=args.batch_size, shuffle=False, num_workers=8)
         # target test
         target_test_dataset = Processed_CUBP_Dataset(args,

@@ -23,6 +23,9 @@ def get_args():
     parser.add_argument('--data_dir', type=str, default='./data')  # CUB, AWA2, LADA, LADV
     parser.add_argument('--CLIP_type', type=str, default='ViT-L/14') # ViT-B/32, ViT-L/14
     parser.add_argument('--CBM_type', type=str, default='clip_cbm') # clip_cbm, cliplp
+    parser.add_argument('--concept_file', type=str, default='cub_concepts.txt',
+                         help="concept bank filename within meta_root (CUB only) - e.g. cub_concepts.txt "
+                              "(human-written, default) or cub_concepts_llm.txt (LLM-generated, plan 08)")
     parser.add_argument('--model_save_path', type=str, default=r'logs')
     parser.add_argument('--prompt_type', type=str, default=r'origin') # origin, others
     parser.add_argument("--save_model", action="store_true", default=True)

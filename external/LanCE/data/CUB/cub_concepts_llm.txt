@@ -1,0 +1,311 @@
+a curved bill
+a straight bill
+a hooked bill
+a conical bill
+a spatulate bill
+a dagger shaped bill
+a needle like bill
+a stubby bill
+a thin bill
+a thick bill
+a long bill
+a short bill
+a downcurved bill
+an upcurved bill
+a hooked tip bill
+a slightly curved bill
+a stout bill
+a pointed bill
+a chunky bill
+a slender bill
+a flat bill
+a wide bill
+a all purpose bill
+a serrated bill
+a two toned bill
+a heavy bill
+a fine bill
+a decurved bill
+a chisel shaped bill
+a probing bill
+a black coloured crown
+a black coloured nape
+a black coloured throat
+a black coloured breast
+a black coloured belly
+a black coloured back
+a black coloured wing
+a black coloured tail
+a black coloured rump
+a black coloured eye
+a black coloured leg
+a black coloured bill
+a white coloured crown
+a white coloured nape
+a white coloured throat
+a white coloured breast
+a white coloured belly
+a white coloured back
+a white coloured wing
+a white coloured tail
+a white coloured rump
+a white coloured eye
+a white coloured bill
+a gray coloured crown
+a gray coloured nape
+a gray coloured throat
+a gray coloured breast
+a gray coloured belly
+a gray coloured back
+a gray coloured wing
+a gray coloured tail
+a gray coloured rump
+a gray coloured eye
+a gray coloured leg
+a gray coloured bill
+a brown coloured crown
+a brown coloured nape
+a brown coloured throat
+a brown coloured breast
+a brown coloured belly
+a brown coloured back
+a brown coloured wing
+a brown coloured tail
+a brown coloured rump
+a brown coloured eye
+a brown coloured bill
+a rufous coloured crown
+a rufous coloured nape
+a rufous coloured throat
+a rufous coloured breast
+a rufous coloured belly
+a rufous coloured back
+a rufous coloured wing
+a rufous coloured tail
+a rufous coloured rump
+a rufous coloured eye
+a rufous coloured bill
+a yellow coloured crown
+a yellow coloured nape
+a yellow coloured throat
+a yellow coloured breast
+a yellow coloured belly
+a yellow coloured back
+a yellow coloured wing
+a yellow coloured tail
+a yellow coloured rump
+a yellow coloured eye
+a yellow coloured leg
+a yellow coloured bill
+a orange coloured crown
+a orange coloured nape
+a orange coloured throat
+a orange coloured breast
+a orange coloured belly
+a orange coloured back
+a orange coloured wing
+a orange coloured tail
+a orange coloured rump
+a orange coloured eye
+a orange coloured leg
+a orange coloured bill
+a red coloured crown
+a red coloured nape
+a red coloured throat
+a red coloured breast
+a red coloured belly
+a red coloured back
+a red coloured wing
+a red coloured tail
+a red coloured rump
+a red coloured eye
+a red coloured bill
+a pink coloured crown
+a pink coloured nape
+a pink coloured throat
+a pink coloured breast
+a pink coloured belly
+a pink coloured back
+a pink coloured wing
+a pink coloured tail
+a pink coloured rump
+a pink coloured eye
+a pink coloured leg
+a pink coloured bill
+a blue coloured crown
+a blue coloured nape
+a blue coloured throat
+a blue coloured breast
+a blue coloured belly
+a blue coloured back
+a blue coloured wing
+a blue coloured tail
+a purple coloured crown
+a purple coloured nape
+a purple coloured throat
+a purple coloured breast
+a purple coloured belly
+a purple coloured back
+a purple coloured wing
+a purple coloured tail
+a green coloured crown
+a green coloured nape
+a green coloured throat
+a green coloured breast
+a green coloured belly
+a green coloured back
+a green coloured wing
+a green coloured tail
+a olive coloured crown
+a olive coloured nape
+a olive coloured throat
+a olive coloured breast
+a olive coloured belly
+a olive coloured back
+a olive coloured wing
+a olive coloured tail
+a olive coloured rump
+a olive coloured eye
+a buff coloured crown
+a buff coloured nape
+a buff coloured throat
+a buff coloured breast
+a buff coloured belly
+a buff coloured back
+a buff coloured wing
+a buff coloured tail
+a buff coloured rump
+a buff coloured eye
+a chestnut coloured crown
+a chestnut coloured nape
+a chestnut coloured throat
+a chestnut coloured breast
+a chestnut coloured belly
+a chestnut coloured back
+a chestnut coloured wing
+a chestnut coloured tail
+a chestnut coloured rump
+a streaked breast
+a streaked back
+a streaked belly
+a streaked wing
+a streaked tail
+a streaked throat
+a streaked flank
+a spotted breast
+a spotted back
+a spotted belly
+a spotted wing
+a spotted tail
+a spotted throat
+a spotted flank
+a barred breast
+a barred back
+a barred belly
+a barred wing
+a barred tail
+a barred throat
+a barred flank
+a mottled breast
+a mottled back
+a mottled belly
+a mottled wing
+a mottled tail
+a mottled throat
+a mottled flank
+a scaled breast
+a scaled back
+a scaled belly
+a scaled wing
+a scaled tail
+a scaled throat
+a scaled flank
+a speckled breast
+a speckled back
+a speckled belly
+a speckled wing
+a speckled tail
+a speckled throat
+a speckled flank
+a striped breast
+a striped back
+a striped belly
+a striped wing
+a striped tail
+a striped throat
+a crested crown
+a capped crown
+a masked face
+a bold eyebrow
+a thin eyering
+a bold eyering
+a dark eyeline
+a pale supercilium
+a streaked crown
+a plain face
+a tiny bird
+a very small bird
+a small bird
+a medium sized bird
+a large bird
+a very large bird
+a stocky bird
+a slender bird
+a plump bird
+a lanky bird
+pointed wings
+rounded wings
+long wings
+short wings
+broad wings
+narrow wings
+a forked tail
+a long tail
+a short tail
+a notched tail
+a squared tail
+a fan shaped tail
+a pointed tail
+a graduated tail
+a rounded tail
+a diving seabird
+a wading bird
+a woodland songbird
+a marsh dweller
+a desert bird
+an aerial insectivore
+a cavity nester
+a ground forager
+found near water
+a nocturnal bird
+a colonial nester
+a tree climbing bird
+a seed eating bird
+a nectar feeder
+a fish eating bird
+a bird of prey
+a shorebird
+a bird found in grassland
+a bird found in scrubland
+a bird found near cliffs
+a bird found in coniferous forest
+a bird found in deciduous forest
+a bird that forages on tree bark
+a bird that hovers while feeding
+a bird that catches insects in flight
+glossy plumage
+iridescent plumage
+dull plumage
+a webbed foot
+a long leg
+a short leg
+a hooked claw
+a bright plumage
+a drab plumage
+a white wingbar
+a dark wingbar
+a pale belly
+a dark belly
+a white eyering
+a black mask
+a red crown patch

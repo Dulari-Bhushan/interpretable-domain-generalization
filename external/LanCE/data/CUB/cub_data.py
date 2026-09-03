@@ -12,7 +12,8 @@ from args import get_args
 
 
 class Processed_CUB_Dataset(Dataset):
-    def __init__(self, args, data_root, split, meta_root=None,attr_name=None,src_dm_texts=None,tgt_dm_texts =None):
+    def __init__(self, args, data_root, split, meta_root=None,attr_name=None,src_dm_texts=None,tgt_dm_texts =None,
+                 concept_file=None):
 
         if split == "train":
             self.annos = open(os.path.join(meta_root, "cub_train.txt")).readlines()
@@ -28,7 +29,12 @@ class Processed_CUB_Dataset(Dataset):
         self.clip_model, self.preprocess = clip.load(args.CLIP_type, device=device)
         with open(data_root.replace("images","classes.txt"), "r") as f:
             self.classname2id = {x.split(" ")[1][4:].replace("_"," ").lower().rstrip():(int(x.split(" ")[0])-1) for x in f.readlines()}
-        with open(os.path.join(meta_root,"cub_concepts.txt"),"r") as f:
+        # concept_file lets plan 08 swap in an LLM-generated concept bank
+        # (cub_concepts_llm.txt) without touching anything else - defaults
+        # to args.concept_file, which itself defaults to the original
+        # human-written cub_concepts.txt, so existing callers are unaffected.
+        concept_file = concept_file or getattr(args, "concept_file", "cub_concepts.txt")
+        with open(os.path.join(meta_root,concept_file),"r") as f:
             self.concept2id = {x.rstrip():c_id for c_id, x in enumerate(f.readlines())}
 
         # concept_labels
