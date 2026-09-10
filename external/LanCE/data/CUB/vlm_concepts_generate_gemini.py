@@ -23,7 +23,7 @@ from vlm_concepts_common import (
     save_class_result,
 )
 
-MODEL = os.environ.get("GEMINI_VLM_MODEL", "gemini-3.6-flash")
+MODEL = os.environ.get("GEMINI_VLM_MODEL", "gemini-3.1-flash-lite")
 
 
 def main():
@@ -48,7 +48,7 @@ def main():
 
     for class_folder, info in items:
         if already_done("gemini", class_folder):
-            print(f"skip (done): {class_folder}")
+            print(f"skip (done): {class_folder}", flush=True)
             continue
 
         class_name = info["class_name"]
@@ -58,11 +58,23 @@ def main():
         ]
         parts.append(types.Part.from_text(text=build_prompt(class_name, len(image_paths))))
 
-        resp = client.models.generate_content(model=MODEL, contents=parts)
+        resp = None
+        for attempt in range(6):
+            try:
+                resp = client.models.generate_content(model=MODEL, contents=parts)
+                break
+            except Exception as e:
+                wait = min(60, args.sleep * (2 ** attempt))
+                print(f"{class_folder}: attempt {attempt + 1} failed ({e}); retrying in {wait:.0f}s", flush=True)
+                time.sleep(wait)
+        if resp is None:
+            print(f"{class_folder}: giving up after repeated failures, skipping for now", flush=True)
+            continue
+
         raw_text = resp.text or ""
         concepts = parse_concept_list(raw_text)
-        save_class_result("gemini", class_folder, class_name, image_paths, raw_text, concepts)
-        print(f"{class_folder}: {len(concepts)} concepts")
+        save_class_result("gemini", class_folder, class_name, image_paths, raw_text, concepts, model=MODEL)
+        print(f"{class_folder}: {len(concepts)} concepts", flush=True)
         time.sleep(args.sleep)
 
 

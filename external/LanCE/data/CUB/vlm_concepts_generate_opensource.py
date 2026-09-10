@@ -77,7 +77,7 @@ def main():
         raw_text = processor.batch_decode(trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
 
         concepts = parse_concept_list(raw_text)
-        save_class_result(VLM_NAME, class_folder, class_name, image_paths, raw_text, concepts)
+        save_class_result(VLM_NAME, class_folder, class_name, image_paths, raw_text, concepts, model=MODEL_ID)
         print(f"{class_folder}: {len(concepts)} concepts")
 
 

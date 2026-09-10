@@ -139,7 +139,10 @@ def main():
                 seen.add(c)
                 deduped.append(c)
 
-        save_class_result(VLM_NAME, class_folder, class_name, image_paths, raw_text=None, concepts=deduped)
+        save_class_result(
+            VLM_NAME, class_folder, class_name, image_paths, raw_text=None, concepts=deduped,
+            model=f"grounding-dino:{DINO_MODEL_ID}+clip:ViT-L/14",
+        )
         print(f"{class_folder}: {n_boxes_total} boxes across {len(image_paths)} images -> {len(deduped)} unique concepts")
 
 

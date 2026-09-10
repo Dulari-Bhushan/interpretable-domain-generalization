@@ -26,7 +26,7 @@ def normalize(phrase):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--vlm", required=True, choices=["claude", "gemini", "qwen2vl"])
+    parser.add_argument("--vlm", required=True, choices=["claude", "gemini", "qwen2vl", "dino_clip"])
     args = parser.parse_args()
 
     raw_dir = RAW_DIR / args.vlm

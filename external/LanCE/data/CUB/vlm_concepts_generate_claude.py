@@ -68,7 +68,7 @@ def main():
         )
         raw_text = "".join(block.text for block in resp.content if block.type == "text")
         concepts = parse_concept_list(raw_text)
-        save_class_result("claude", class_folder, class_name, image_paths, raw_text, concepts)
+        save_class_result("claude", class_folder, class_name, image_paths, raw_text, concepts, model=MODEL)
         print(f"{class_folder}: {len(concepts)} concepts")
         time.sleep(args.sleep)
 

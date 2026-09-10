@@ -142,7 +142,7 @@ def raw_output_path(vlm_name, class_folder):
     return out_dir / f"{class_folder}.json"
 
 
-def save_class_result(vlm_name, class_folder, class_name, image_paths, raw_text, concepts):
+def save_class_result(vlm_name, class_folder, class_name, image_paths, raw_text, concepts, model=None):
     path = raw_output_path(vlm_name, class_folder)
     with open(path, "w") as f:
         json.dump(
@@ -150,6 +150,7 @@ def save_class_result(vlm_name, class_folder, class_name, image_paths, raw_text,
                 "class_folder": class_folder,
                 "class_name": class_name,
                 "image_paths": image_paths,
+                "model": model,
                 "raw_response": raw_text,
                 "concepts": concepts,
             },
