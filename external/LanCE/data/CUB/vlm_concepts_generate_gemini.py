@@ -23,7 +23,7 @@ from vlm_concepts_common import (
     save_class_result,
 )
 
-MODEL = os.environ.get("GEMINI_VLM_MODEL", "gemini-2.5-pro")
+MODEL = os.environ.get("GEMINI_VLM_MODEL", "gemini-3.6-flash")
 
 
 def main():
