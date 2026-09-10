@@ -1,0 +1,27 @@
+{
+  "class_folder": "113.Baird_Sparrow",
+  "class_name": "Baird Sparrow",
+  "image_paths": [
+    "113.Baird_Sparrow/Baird_Sparrow_0002_794551.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0014_794549.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0043_794555.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0047_787318.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, pale-colored bill\",\n  \"a light-colored, buffy-toned crown\",\n  \"a dark-streaked nape and crown\",\n  \"a pale, unstreaked throat\",\n  \"a buffy wash across the breast and face\",\n  \"distinct dark brown streaks on the flanks and breast\",\n  \"a dark eye\",\n  \"a back with dark, feather-centered streaks\",\n  \"prominent light-edged wing feathers\",\n  \"a relatively short, notched tail\",\n  \"light-colored legs\",\n  \"a compact, sparrow-like body shape\"\n]",
+  "concepts": [
+    "a conical, pale-colored bill",
+    "a light-colored, buffy-toned crown",
+    "a dark-streaked nape and crown",
+    "a pale, unstreaked throat",
+    "a buffy wash across the breast and face",
+    "distinct dark brown streaks on the flanks and breast",
+    "a dark eye",
+    "a back with dark, feather-centered streaks",
+    "prominent light-edged wing feathers",
+    "a relatively short, notched tail",
+    "light-colored legs",
+    "a compact, sparrow-like body shape"
+  ]
+}

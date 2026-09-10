@@ -1,0 +1,26 @@
+{
+  "class_folder": "070.Green_Violetear",
+  "class_name": "Green Violetear",
+  "image_paths": [
+    "070.Green_Violetear/Green_Violetear_0005_795666.jpg",
+    "070.Green_Violetear/Green_Violetear_0017_795652.jpg",
+    "070.Green_Violetear/Green_Violetear_0027_60841.jpg",
+    "070.Green_Violetear/Green_Violetear_0062_60797.jpg",
+    "070.Green_Violetear/Green_Violetear_0103_795644.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"small, curved, black bill\", \"iridescent green crown and nape\", \"vibrant violet-blue ear patch\", \"shimmering green breast\", \"mostly green plumage\", \"dark, brownish-black wing feathers\", \"square-ended, dark-tipped tail\", \"metallic blue-green tail feathers\", \"small, dark, bead-like eye\", \"short, thin, dark legs\", \"compact, rounded body shape\"]",
+  "concepts": [
+    "small, curved, black bill",
+    "iridescent green crown and nape",
+    "vibrant violet-blue ear patch",
+    "shimmering green breast",
+    "mostly green plumage",
+    "dark, brownish-black wing feathers",
+    "square-ended, dark-tipped tail",
+    "metallic blue-green tail feathers",
+    "small, dark, bead-like eye",
+    "short, thin, dark legs",
+    "compact, rounded body shape"
+  ]
+}

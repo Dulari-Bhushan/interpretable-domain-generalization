@@ -1,0 +1,26 @@
+{
+  "class_folder": "001.Black_footed_Albatross",
+  "class_name": "Black footed Albatross",
+  "image_paths": [
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0032_796115.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0036_796127.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"uniformly dark brown body plumage\", \"hooked, dark-tipped bill\", \"pale area around the base of the bill\", \"pale area around the eye\", \"long, narrow wings\", \"short, dark, rounded tail\", \"dark, robust bill\", \"webbed feet\", \"large body size relative to wingspan\", \"dark brownish-grey head\", \"dark underwing coverts\"]",
+  "concepts": [
+    "uniformly dark brown body plumage",
+    "hooked, dark-tipped bill",
+    "pale area around the base of the bill",
+    "pale area around the eye",
+    "long, narrow wings",
+    "short, dark, rounded tail",
+    "dark, robust bill",
+    "webbed feet",
+    "large body size relative to wingspan",
+    "dark brownish-grey head",
+    "dark underwing coverts"
+  ]
+}

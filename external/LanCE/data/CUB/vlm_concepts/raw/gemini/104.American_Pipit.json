@@ -1,0 +1,25 @@
+{
+  "class_folder": "104.American_Pipit",
+  "class_name": "American Pipit",
+  "image_paths": [
+    "104.American_Pipit/American_Pipit_0037_99954.jpg",
+    "104.American_Pipit/American_Pipit_0082_99867.jpg",
+    "104.American_Pipit/American_Pipit_0085_100246.jpg",
+    "104.American_Pipit/American_Pipit_0087_99996.jpg",
+    "104.American_Pipit/American_Pipit_0113_99939.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"slender, pointed bill\",\n  \"thin, dark-coloured bill\",\n  \"pale eye-ring\",\n  \"dark eye\",\n  \"streaked breast\",\n  \"brown, mottled upperparts\",\n  \"white or light-coloured outer tail feathers\",\n  \"pale, thin legs\",\n  \"long, slender body shape\",\n  \"light eyebrow streak\"\n]",
+  "concepts": [
+    "slender, pointed bill",
+    "thin, dark-coloured bill",
+    "pale eye-ring",
+    "dark eye",
+    "streaked breast",
+    "brown, mottled upperparts",
+    "white or light-coloured outer tail feathers",
+    "pale, thin legs",
+    "long, slender body shape",
+    "light eyebrow streak"
+  ]
+}

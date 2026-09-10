@@ -1,0 +1,27 @@
+{
+  "class_folder": "074.Florida_Jay",
+  "class_name": "Florida Jay",
+  "image_paths": [
+    "074.Florida_Jay/Florida_Jay_0003_65036.jpg",
+    "074.Florida_Jay/Florida_Jay_0037_64515.jpg",
+    "074.Florida_Jay/Florida_Jay_0039_64576.jpg",
+    "074.Florida_Jay/Florida_Jay_0050_65099.jpg",
+    "074.Florida_Jay/Florida_Jay_0081_64859.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a medium-sized body\",\n  \"a long tail\",\n  \"a dark, stout bill\",\n  \"a blue crown and nape\",\n  \"a blue back\",\n  \"a blue tail\",\n  \"blue wings\",\n  \"a pale, brownish-grey breast\",\n  \"a pale throat\",\n  \"a dark eye\",\n  \"a dark legs\",\n  \"a rounded wing shape\"\n]",
+  "concepts": [
+    "a medium-sized body",
+    "a long tail",
+    "a dark, stout bill",
+    "a blue crown and nape",
+    "a blue back",
+    "a blue tail",
+    "blue wings",
+    "a pale, brownish-grey breast",
+    "a pale throat",
+    "a dark eye",
+    "a dark legs",
+    "a rounded wing shape"
+  ]
+}

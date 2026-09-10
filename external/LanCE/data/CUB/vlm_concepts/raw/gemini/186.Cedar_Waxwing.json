@@ -1,0 +1,26 @@
+{
+  "class_folder": "186.Cedar_Waxwing",
+  "class_name": "Cedar Waxwing",
+  "image_paths": [
+    "186.Cedar_Waxwing/Cedar_Waxwing_0004_179215.jpg",
+    "186.Cedar_Waxwing/Cedar_Waxwing_0060_178190.jpg",
+    "186.Cedar_Waxwing/Cedar_Waxwing_0096_178164.jpg",
+    "186.Cedar_Waxwing/Cedar_Waxwing_0118_178779.jpg",
+    "186.Cedar_Waxwing/Cedar_Waxwing_0130_178308.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a prominent crest on the crown\",\n  \"a distinct black mask around the eyes\",\n  \"a short, black, triangular-shaped bill\",\n  \"a pale, soft-brown or tan head and breast\",\n  \"a grayish-brown back and wings\",\n  \"bright red waxy tips on the wing feathers\",\n  \"a yellowish-colored belly\",\n  \"a pale-colored undertail\",\n  \"a tail with a bright yellow terminal band\",\n  \"a sleek, streamlined body shape\",\n  \"small, dark-colored feet and legs\"\n]",
+  "concepts": [
+    "a prominent crest on the crown",
+    "a distinct black mask around the eyes",
+    "a short, black, triangular-shaped bill",
+    "a pale, soft-brown or tan head and breast",
+    "a grayish-brown back and wings",
+    "bright red waxy tips on the wing feathers",
+    "a yellowish-colored belly",
+    "a pale-colored undertail",
+    "a tail with a bright yellow terminal band",
+    "a sleek, streamlined body shape",
+    "small, dark-colored feet and legs"
+  ]
+}

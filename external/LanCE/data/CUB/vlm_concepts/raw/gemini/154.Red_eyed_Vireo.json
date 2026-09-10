@@ -1,0 +1,28 @@
+{
+  "class_folder": "154.Red_eyed_Vireo",
+  "class_name": "Red eyed Vireo",
+  "image_paths": [
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0003_157226.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0019_156921.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0056_156968.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0101_156988.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0109_157176.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey crown\",\n  \"a dark line through the eye\",\n  \"a white eyebrow stripe\",\n  \"a dark border above the eyebrow\",\n  \"an olive-green back\",\n  \"an olive-green tail\",\n  \"a pale, whitish throat\",\n  \"a pale, whitish breast\",\n  \"a relatively thick bill\",\n  \"a slightly hooked bill tip\",\n  \"a greyish bill\",\n  \"a sleek, slender body shape\",\n  \"a reddish eye\"\n]",
+  "concepts": [
+    "a grey crown",
+    "a dark line through the eye",
+    "a white eyebrow stripe",
+    "a dark border above the eyebrow",
+    "an olive-green back",
+    "an olive-green tail",
+    "a pale, whitish throat",
+    "a pale, whitish breast",
+    "a relatively thick bill",
+    "a slightly hooked bill tip",
+    "a greyish bill",
+    "a sleek, slender body shape",
+    "a reddish eye"
+  ]
+}

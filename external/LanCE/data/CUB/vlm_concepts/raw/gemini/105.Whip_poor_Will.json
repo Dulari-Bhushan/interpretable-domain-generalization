@@ -1,0 +1,27 @@
+{
+  "class_folder": "105.Whip_poor_Will",
+  "class_name": "Whip poor Will",
+  "image_paths": [
+    "105.Whip_poor_Will/Whip_Poor_Will_0008_796420.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0011_796416.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0038_100443.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0040_100482.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0049_83621.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a very small, short, and slightly hooked bill\",\n  \"a flattened, horizontal, and elongated body profile\",\n  \"long, pointed, and slender wings\",\n  \"cryptic, mottled brown and gray plumage\",\n  \"intricate, dark, and light patterned back and wing feathers\",\n  \"prominent, stiff rictal bristles around the bill\",\n  \"a rounded and relatively short head\",\n  \"long, slender, and tapered tail feathers\",\n  \"dark brown or black eyes\",\n  \"a low-profile, hunched resting posture\",\n  \"plumage blending with the color and texture of wood or bark\",\n  \"short and thin, mostly concealed legs\"\n]",
+  "concepts": [
+    "a very small, short, and slightly hooked bill",
+    "a flattened, horizontal, and elongated body profile",
+    "long, pointed, and slender wings",
+    "cryptic, mottled brown and gray plumage",
+    "intricate, dark, and light patterned back and wing feathers",
+    "prominent, stiff rictal bristles around the bill",
+    "a rounded and relatively short head",
+    "long, slender, and tapered tail feathers",
+    "dark brown or black eyes",
+    "a low-profile, hunched resting posture",
+    "plumage blending with the color and texture of wood or bark",
+    "short and thin, mostly concealed legs"
+  ]
+}

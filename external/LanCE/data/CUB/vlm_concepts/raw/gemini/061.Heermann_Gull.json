@@ -1,0 +1,26 @@
+{
+  "class_folder": "061.Heermann_Gull",
+  "class_name": "Heermann Gull",
+  "image_paths": [
+    "061.Heermann_Gull/Heermann_Gull_0008_45839.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0015_41392.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0073_45714.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0100_45440.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0115_45797.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright red bill\",\n  \"distinctly dark distal tip on the bill\",\n  \"white head plumage\",\n  \"grey-brown body plumage\",\n  \"dark grey to blackish wing feathers\",\n  \"white trailing edge on wings\",\n  \"dark grey tail feathers\",\n  \"black legs and feet\",\n  \"stout, medium-sized gull body shape\",\n  \"dark eye color\",\n  \"solid grey breast and nape\"\n]",
+  "concepts": [
+    "bright red bill",
+    "distinctly dark distal tip on the bill",
+    "white head plumage",
+    "grey-brown body plumage",
+    "dark grey to blackish wing feathers",
+    "white trailing edge on wings",
+    "dark grey tail feathers",
+    "black legs and feet",
+    "stout, medium-sized gull body shape",
+    "dark eye color",
+    "solid grey breast and nape"
+  ]
+}

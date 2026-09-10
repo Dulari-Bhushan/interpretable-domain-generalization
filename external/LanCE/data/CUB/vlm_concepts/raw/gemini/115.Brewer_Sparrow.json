@@ -1,0 +1,28 @@
+{
+  "class_folder": "115.Brewer_Sparrow",
+  "class_name": "Brewer Sparrow",
+  "image_paths": [
+    "115.Brewer_Sparrow/Brewer_Sparrow_0023_107489.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0028_107467.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0041_796711.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0066_107510.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a small, conical bill\",\n  \"a pale brownish bill\",\n  \"a finely streaked crown\",\n  \"a light-coloured supercilium\",\n  \"a dark-streaked nape\",\n  \"a plain, unmarked throat\",\n  \"an unstreaked, pale breast\",\n  \"a brownish-grey chest\",\n  \"brown-streaked wings with pale edges\",\n  \"a plain, brownish back\",\n  \"a slender, notched tail\",\n  \"a dark eye\",\n  \"light pinkish legs\"\n]",
+  "concepts": [
+    "a small, conical bill",
+    "a pale brownish bill",
+    "a finely streaked crown",
+    "a light-coloured supercilium",
+    "a dark-streaked nape",
+    "a plain, unmarked throat",
+    "an unstreaked, pale breast",
+    "a brownish-grey chest",
+    "brown-streaked wings with pale edges",
+    "a plain, brownish back",
+    "a slender, notched tail",
+    "a dark eye",
+    "light pinkish legs"
+  ]
+}

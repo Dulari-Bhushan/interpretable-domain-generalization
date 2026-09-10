@@ -1,0 +1,26 @@
+{
+  "class_folder": "081.Pied_Kingfisher",
+  "class_name": "Pied Kingfisher",
+  "image_paths": [
+    "081.Pied_Kingfisher/Pied_Kingfisher_0011_72143.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0022_72247.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0073_72508.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0093_72465.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0122_71789.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a long, straight, black, dagger-like bill\", \"a prominent, spiky, dark-colored crest on the crown\", \"black and white mottled plumage\", \"a white throat\", \"a thick black band across the chest\", \"a black stripe extending through the eye\", \"white facial markings around the eye\", \"a checkered black and white wing pattern\", \"a white underbelly\", \"short, dark-colored legs\", \"a compact, streamlined body shape\"]",
+  "concepts": [
+    "a long, straight, black, dagger-like bill",
+    "a prominent, spiky, dark-colored crest on the crown",
+    "black and white mottled plumage",
+    "a white throat",
+    "a thick black band across the chest",
+    "a black stripe extending through the eye",
+    "white facial markings around the eye",
+    "a checkered black and white wing pattern",
+    "a white underbelly",
+    "short, dark-colored legs",
+    "a compact, streamlined body shape"
+  ]
+}

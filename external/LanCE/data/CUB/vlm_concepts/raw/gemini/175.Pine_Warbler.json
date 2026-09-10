@@ -1,0 +1,27 @@
+{
+  "class_folder": "175.Pine_Warbler",
+  "class_name": "Pine Warbler",
+  "image_paths": [
+    "175.Pine_Warbler/Pine_Warbler_0037_171649.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0046_171452.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0060_171635.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0126_171282.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0127_171742.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark-colored bill\",\n  \"a vibrant yellow throat\",\n  \"a yellow breast with faint, diffuse dark streaks\",\n  \"a grayish-olive head and nape\",\n  \"a grayish-olive back\",\n  \"darker gray-brown wings\",\n  \"two distinct white wing bars\",\n  \"a white patch or edge on the wings\",\n  \"an eye ring that is light or broken\",\n  \"dark brown eyes\",\n  \"light-colored legs and feet\",\n  \"a plump, rounded body shape\"\n]",
+  "concepts": [
+    "a thin, pointed, dark-colored bill",
+    "a vibrant yellow throat",
+    "a yellow breast with faint, diffuse dark streaks",
+    "a grayish-olive head and nape",
+    "a grayish-olive back",
+    "darker gray-brown wings",
+    "two distinct white wing bars",
+    "a white patch or edge on the wings",
+    "an eye ring that is light or broken",
+    "dark brown eyes",
+    "light-colored legs and feet",
+    "a plump, rounded body shape"
+  ]
+}

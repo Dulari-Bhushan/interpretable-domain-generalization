@@ -1,0 +1,28 @@
+{
+  "class_folder": "129.Song_Sparrow",
+  "class_name": "Song Sparrow",
+  "image_paths": [
+    "129.Song_Sparrow/Song_Sparrow_0007_121133.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0013_121056.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0020_121490.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0058_121832.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0092_121969.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, seed-eating bill\",\n  \"a grey-brown streaked breast\",\n  \"a central dark breast spot\",\n  \"a brown-streaked crown\",\n  \"a light brown supercilium\",\n  \"dark brown malar stripes\",\n  \"brown-streaked wings\",\n  \"a rounded tail\",\n  \"a slender body shape\",\n  \"brown-streaked flanks\",\n  \"pale pinkish-brown legs\",\n  \"a dark brown eye\",\n  \"a greyish supercilium\"\n]",
+  "concepts": [
+    "a conical, seed-eating bill",
+    "a grey-brown streaked breast",
+    "a central dark breast spot",
+    "a brown-streaked crown",
+    "a light brown supercilium",
+    "dark brown malar stripes",
+    "brown-streaked wings",
+    "a rounded tail",
+    "a slender body shape",
+    "brown-streaked flanks",
+    "pale pinkish-brown legs",
+    "a dark brown eye",
+    "a greyish supercilium"
+  ]
+}

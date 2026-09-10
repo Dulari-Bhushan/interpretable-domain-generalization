@@ -1,0 +1,28 @@
+{
+  "class_folder": "195.Carolina_Wren",
+  "class_name": "Carolina Wren",
+  "image_paths": [
+    "195.Carolina_Wren/Carolina_Wren_0065_186517.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0072_186309.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0099_186237.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0107_186972.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0141_186347.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender curved bill\",\n  \"a bold white eyebrow stripe\",\n  \"a dark eye line\",\n  \"a rich reddish-brown upper body\",\n  \"a buff-coloured breast\",\n  \"a buff-coloured belly\",\n  \"a plain unmarked throat\",\n  \"a short upward-cocked tail\",\n  \"a rounded body shape\",\n  \"a dark bar pattern on the wings\",\n  \"a dark barring pattern on the tail\",\n  \"thin pale legs\",\n  \"a brown crown\"\n]",
+  "concepts": [
+    "a long slender curved bill",
+    "a bold white eyebrow stripe",
+    "a dark eye line",
+    "a rich reddish-brown upper body",
+    "a buff-coloured breast",
+    "a buff-coloured belly",
+    "a plain unmarked throat",
+    "a short upward-cocked tail",
+    "a rounded body shape",
+    "a dark bar pattern on the wings",
+    "a dark barring pattern on the tail",
+    "thin pale legs",
+    "a brown crown"
+  ]
+}

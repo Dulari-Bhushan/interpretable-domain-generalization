@@ -1,0 +1,26 @@
+{
+  "class_folder": "041.Scissor_tailed_Flycatcher",
+  "class_name": "Scissor tailed Flycatcher",
+  "image_paths": [
+    "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0005_41727.jpg",
+    "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0021_41931.jpg",
+    "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0035_42025.jpg",
+    "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0089_41810.jpg",
+    "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0092_41767.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"exceptionally long, deeply forked tail\",\n  \"pale gray crown and nape\",\n  \"white throat\",\n  \"light gray to whitish breast\",\n  \"salmon-pink or peach-colored flanks\",\n  \"darker gray-brown wings with lighter edging\",\n  \"short, straight, dark-colored bill\",\n  \"slender body shape\",\n  \"dark eye\",\n  \"small, dark-colored legs and feet\",\n  \"faint reddish-orange patch on the shoulder\"\n]",
+  "concepts": [
+    "exceptionally long, deeply forked tail",
+    "pale gray crown and nape",
+    "white throat",
+    "light gray to whitish breast",
+    "salmon-pink or peach-colored flanks",
+    "darker gray-brown wings with lighter edging",
+    "short, straight, dark-colored bill",
+    "slender body shape",
+    "dark eye",
+    "small, dark-colored legs and feet",
+    "faint reddish-orange patch on the shoulder"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "class_folder": "162.Canada_Warbler",
+  "class_name": "Canada Warbler",
+  "image_paths": [
+    "162.Canada_Warbler/Canada_Warbler_0040_162352.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0075_162428.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0076_162393.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0112_162398.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0120_162415.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey crown\",\n  \"a grey back\",\n  \"a yellow throat\",\n  \"a yellow underside\",\n  \"a black necklace of streaks across the breast\",\n  \"a distinct white eye ring\",\n  \"a greyish nape\",\n  \"a thin, pointed bill\",\n  \"a dark upper bill and lighter lower bill\",\n  \"dark grey wings\",\n  \"a long tail\",\n  \"slender legs\",\n  \"a small, compact body shape\"\n]",
+  "concepts": [
+    "a grey crown",
+    "a grey back",
+    "a yellow throat",
+    "a yellow underside",
+    "a black necklace of streaks across the breast",
+    "a distinct white eye ring",
+    "a greyish nape",
+    "a thin, pointed bill",
+    "a dark upper bill and lighter lower bill",
+    "dark grey wings",
+    "a long tail",
+    "slender legs",
+    "a small, compact body shape"
+  ]
+}

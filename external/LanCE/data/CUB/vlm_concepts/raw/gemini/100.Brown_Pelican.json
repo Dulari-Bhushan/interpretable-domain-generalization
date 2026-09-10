@@ -1,0 +1,28 @@
+{
+  "class_folder": "100.Brown_Pelican",
+  "class_name": "Brown Pelican",
+  "image_paths": [
+    "100.Brown_Pelican/Brown_Pelican_0011_94683.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0025_95218.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0077_93464.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0118_93475.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0125_93461.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long, massive bill\",\n  \"a prominent gular pouch beneath the bill\",\n  \"a hooked tip on the upper mandible\",\n  \"a thick, S-shaped neck\",\n  \"a distinct crest of feathers on the crown\",\n  \"a dark, brownish eye\",\n  \"a varied plumage pattern with brown and grey tones\",\n  \"a white, yellow, or brown colored head\",\n  \"a stout, heavy-bodied shape\",\n  \"large, webbed feet\",\n  \"pointed wings folded against the body\",\n  \"a short, square-ended tail\",\n  \"a dark, brownish coloration on the back and wings\"\n]",
+  "concepts": [
+    "a long, massive bill",
+    "a prominent gular pouch beneath the bill",
+    "a hooked tip on the upper mandible",
+    "a thick, S-shaped neck",
+    "a distinct crest of feathers on the crown",
+    "a dark, brownish eye",
+    "a varied plumage pattern with brown and grey tones",
+    "a white, yellow, or brown colored head",
+    "a stout, heavy-bodied shape",
+    "large, webbed feet",
+    "pointed wings folded against the body",
+    "a short, square-ended tail",
+    "a dark, brownish coloration on the back and wings"
+  ]
+}

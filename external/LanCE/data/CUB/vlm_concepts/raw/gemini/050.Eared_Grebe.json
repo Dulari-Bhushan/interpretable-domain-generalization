@@ -1,0 +1,27 @@
+{
+  "class_folder": "050.Eared_Grebe",
+  "class_name": "Eared Grebe",
+  "image_paths": [
+    "050.Eared_Grebe/Eared_Grebe_0026_34383.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0040_34340.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0067_34416.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0073_34172.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0079_34342.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, sharp-pointed, blackish bill\",\n  \"a vivid red-orange iris\",\n  \"a dark, rounded crown\",\n  \"a dark, rounded nape\",\n  \"a white patch extending from the cheek to the throat\",\n  \"a dark, brownish-black upper neck\",\n  \"a dark, charcoal-colored back\",\n  \"a plumage transition from dark upperparts to white underparts\",\n  \"a compact, rounded body shape\",\n  \"fluffy white plumage on the flanks and rear\",\n  \"a small, upturned tuft of golden-yellow feathers behind the eye in one image\",\n  \"a dark, brownish-red coloration on the flanks in one image\"\n]",
+  "concepts": [
+    "a slender, sharp-pointed, blackish bill",
+    "a vivid red-orange iris",
+    "a dark, rounded crown",
+    "a dark, rounded nape",
+    "a white patch extending from the cheek to the throat",
+    "a dark, brownish-black upper neck",
+    "a dark, charcoal-colored back",
+    "a plumage transition from dark upperparts to white underparts",
+    "a compact, rounded body shape",
+    "fluffy white plumage on the flanks and rear",
+    "a small, upturned tuft of golden-yellow feathers behind the eye in one image",
+    "a dark, brownish-red coloration on the flanks in one image"
+  ]
+}

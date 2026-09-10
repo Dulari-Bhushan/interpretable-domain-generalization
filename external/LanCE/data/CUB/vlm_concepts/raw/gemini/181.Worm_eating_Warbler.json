@@ -1,0 +1,27 @@
+{
+  "class_folder": "181.Worm_eating_Warbler",
+  "class_name": "Worm eating Warbler",
+  "image_paths": [
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0013_795534.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0018_795546.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0023_176118.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0092_795524.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0102_176069.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a sharp, pointed, light-colored bill\",\n  \"a buff-colored face\",\n  \"two dark brown stripes on the crown\",\n  \"a dark brown line extending behind the eye\",\n  \"an olive-green back\",\n  \"olive-green wings\",\n  \"a pale, unstreaked buff breast\",\n  \"a pale, unstreaked buff throat\",\n  \"a relatively short, squared tail\",\n  \"faint, thin dark lines across the crown\",\n  \"light pinkish-colored legs\",\n  \"a small, compact, rounded body shape\"\n]",
+  "concepts": [
+    "a sharp, pointed, light-colored bill",
+    "a buff-colored face",
+    "two dark brown stripes on the crown",
+    "a dark brown line extending behind the eye",
+    "an olive-green back",
+    "olive-green wings",
+    "a pale, unstreaked buff breast",
+    "a pale, unstreaked buff throat",
+    "a relatively short, squared tail",
+    "faint, thin dark lines across the crown",
+    "light pinkish-colored legs",
+    "a small, compact, rounded body shape"
+  ]
+}

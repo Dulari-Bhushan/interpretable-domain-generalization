@@ -1,0 +1,27 @@
+{
+  "class_folder": "055.Evening_Grosbeak",
+  "class_name": "Evening Grosbeak",
+  "image_paths": [
+    "055.Evening_Grosbeak/Evening_Grosbeak_0033_37707.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0044_37938.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0057_37392.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0079_37979.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0112_37922.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large conical bill\",\n  \"a pale yellow-green bill\",\n  \"a bright yellow forehead stripe\",\n  \"a dark brown head and throat\",\n  \"a predominantly yellow underbelly\",\n  \"a yellow back\",\n  \"black wings with large white patches\",\n  \"a short black tail\",\n  \"a stocky, compact body shape\",\n  \"a prominent yellow eyebrow streak\",\n  \"a dark brown nape\",\n  \"pinkish-brown legs and feet\"\n]",
+  "concepts": [
+    "a large conical bill",
+    "a pale yellow-green bill",
+    "a bright yellow forehead stripe",
+    "a dark brown head and throat",
+    "a predominantly yellow underbelly",
+    "a yellow back",
+    "black wings with large white patches",
+    "a short black tail",
+    "a stocky, compact body shape",
+    "a prominent yellow eyebrow streak",
+    "a dark brown nape",
+    "pinkish-brown legs and feet"
+  ]
+}

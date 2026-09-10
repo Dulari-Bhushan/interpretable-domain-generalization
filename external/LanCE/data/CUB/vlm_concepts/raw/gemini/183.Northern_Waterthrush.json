@@ -1,0 +1,27 @@
+{
+  "class_folder": "183.Northern_Waterthrush",
+  "class_name": "Northern Waterthrush",
+  "image_paths": [
+    "183.Northern_Waterthrush/Northern_Waterthrush_0011_177311.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0016_177345.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0043_177070.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0089_177167.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0103_177162.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender pointed bill\",\n  \"a dark brown stripe through the eye\",\n  \"a prominent cream-colored supercilium\",\n  \"dark brown upperparts\",\n  \"heavily streaked underparts\",\n  \"white or yellowish throat\",\n  \"white or yellowish breast\",\n  \"white or yellowish belly\",\n  \"short tail\",\n  \"relatively long pale legs\",\n  \"compact rounded body shape\",\n  \"unpatterned dark wings\"\n]",
+  "concepts": [
+    "a slender pointed bill",
+    "a dark brown stripe through the eye",
+    "a prominent cream-colored supercilium",
+    "dark brown upperparts",
+    "heavily streaked underparts",
+    "white or yellowish throat",
+    "white or yellowish breast",
+    "white or yellowish belly",
+    "short tail",
+    "relatively long pale legs",
+    "compact rounded body shape",
+    "unpatterned dark wings"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "116.Chipping_Sparrow",
+  "class_name": "Chipping Sparrow",
+  "image_paths": [
+    "116.Chipping_Sparrow/Chipping_Sparrow_0032_108882.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0038_109234.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0053_109774.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0063_108139.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0076_108919.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, dark-coloured bill\",\n  \"a reddish-brown crown\",\n  \"a prominent white or light-coloured eyebrow stripe\",\n  \"a distinct dark line through the eye\",\n  \"a light-coloured throat\",\n  \"a plain, unstreaked grey or buff breast\",\n  \"a brownish, streaked back\",\n  \"white wing bars\",\n  \"a long, thin tail\",\n  \"a compact, rounded body shape\",\n  \"dark-coloured legs and feet\",\n  \"a greyish nape\"\n]",
+  "concepts": [
+    "a conical, dark-coloured bill",
+    "a reddish-brown crown",
+    "a prominent white or light-coloured eyebrow stripe",
+    "a distinct dark line through the eye",
+    "a light-coloured throat",
+    "a plain, unstreaked grey or buff breast",
+    "a brownish, streaked back",
+    "white wing bars",
+    "a long, thin tail",
+    "a compact, rounded body shape",
+    "dark-coloured legs and feet",
+    "a greyish nape"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "006.Least_Auklet",
+  "class_name": "Least Auklet",
+  "image_paths": [
+    "006.Least_Auklet/Least_Auklet_0011_795109.jpg",
+    "006.Least_Auklet/Least_Auklet_0017_795084.jpg",
+    "006.Least_Auklet/Least_Auklet_0024_795120.jpg",
+    "006.Least_Auklet/Least_Auklet_0026_795066.jpg",
+    "006.Least_Auklet/Least_Auklet_0060_795095.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a small, compact, round body\",\n  \"a short, stubby, conical-shaped bill\",\n  \"a dark reddish-orange bill color\",\n  \"distinct white, thin, hair-like plumes above the eye\",\n  \"a stark white iris\",\n  \"a dark grey to blackish crown and nape\",\n  \"mottled grey and white patterning on the breast and flanks\",\n  \"a dark grey back and wings\",\n  \"short, dark, webbed feet\",\n  \"prominent, white, streak-like markings around the face and ear coverts\",\n  \"a small, stout neck\",\n  \"a white throat patch\"\n]",
+  "concepts": [
+    "a small, compact, round body",
+    "a short, stubby, conical-shaped bill",
+    "a dark reddish-orange bill color",
+    "distinct white, thin, hair-like plumes above the eye",
+    "a stark white iris",
+    "a dark grey to blackish crown and nape",
+    "mottled grey and white patterning on the breast and flanks",
+    "a dark grey back and wings",
+    "short, dark, webbed feet",
+    "prominent, white, streak-like markings around the face and ear coverts",
+    "a small, stout neck",
+    "a white throat patch"
+  ]
+}

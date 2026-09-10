@@ -1,0 +1,26 @@
+{
+  "class_folder": "093.Clark_Nutcracker",
+  "class_name": "Clark Nutcracker",
+  "image_paths": [
+    "093.Clark_Nutcracker/Clark_Nutcracker_0067_85302.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0073_85343.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0082_85477.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0087_84898.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0101_85656.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey body plumage\",\n  \"a sharp, black, pointed bill\",\n  \"black wings with white patches\",\n  \"a black tail with white outer feathers\",\n  \"a grey-coloured head and crown\",\n  \"a dark-coloured eye\",\n  \"a medium-sized, stout body shape\",\n  \"black-coloured legs and feet\",\n  \"a dark, distinct loral area\",\n  \"a rounded tail tip\",\n  \"grey-toned underparts\"\n]",
+  "concepts": [
+    "a grey body plumage",
+    "a sharp, black, pointed bill",
+    "black wings with white patches",
+    "a black tail with white outer feathers",
+    "a grey-coloured head and crown",
+    "a dark-coloured eye",
+    "a medium-sized, stout body shape",
+    "black-coloured legs and feet",
+    "a dark, distinct loral area",
+    "a rounded tail tip",
+    "grey-toned underparts"
+  ]
+}

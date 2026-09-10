@@ -1,0 +1,27 @@
+{
+  "class_folder": "159.Black_and_white_Warbler",
+  "class_name": "Black and white Warbler",
+  "image_paths": [
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0007_160758.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0021_160686.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0022_160512.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0057_160037.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0060_160764.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, sharp, pointed bill\",\n  \"a mostly black and white striped plumage pattern\",\n  \"bold white stripes on the crown\",\n  \"a distinct white stripe above the eye\",\n  \"a black cheek patch\",\n  \"a white throat\",\n  \"black streaks on the white breast and flanks\",\n  \"black and white barred wings\",\n  \"white wing bars\",\n  \"a small, rounded body shape\",\n  \"dark grey to black legs\",\n  \"an eye that appears dark\"\n]",
+  "concepts": [
+    "a slender, sharp, pointed bill",
+    "a mostly black and white striped plumage pattern",
+    "bold white stripes on the crown",
+    "a distinct white stripe above the eye",
+    "a black cheek patch",
+    "a white throat",
+    "black streaks on the white breast and flanks",
+    "black and white barred wings",
+    "white wing bars",
+    "a small, rounded body shape",
+    "dark grey to black legs",
+    "an eye that appears dark"
+  ]
+}

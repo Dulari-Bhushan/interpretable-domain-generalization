@@ -1,0 +1,27 @@
+{
+  "class_folder": "085.Horned_Lark",
+  "class_name": "Horned Lark",
+  "image_paths": [
+    "085.Horned_Lark/Horned_Lark_0025_75003.jpg",
+    "085.Horned_Lark/Horned_Lark_0028_74408.jpg",
+    "085.Horned_Lark/Horned_Lark_0035_74555.jpg",
+    "085.Horned_Lark/Horned_Lark_0072_74067.jpg",
+    "085.Horned_Lark/Horned_Lark_0076_73931.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, conical, dark-colored bill\",\n  \"a distinctive black mask across the eyes\",\n  \"a bold black crescent or band across the chest\",\n  \"a bright yellow throat and forehead\",\n  \"small, pointed, horn-like feather tufts on the crown\",\n  \"a dark-colored stripe or crown patch\",\n  \"a pale, whitish-colored belly\",\n  \"brownish or tan-colored upperparts with streaks\",\n  \"a dark, brownish-black tail\",\n  \"slender, dark-colored legs and feet\",\n  \"a compact and rounded body shape\",\n  \"a small, rounded head\"\n]",
+  "concepts": [
+    "a short, conical, dark-colored bill",
+    "a distinctive black mask across the eyes",
+    "a bold black crescent or band across the chest",
+    "a bright yellow throat and forehead",
+    "small, pointed, horn-like feather tufts on the crown",
+    "a dark-colored stripe or crown patch",
+    "a pale, whitish-colored belly",
+    "brownish or tan-colored upperparts with streaks",
+    "a dark, brownish-black tail",
+    "slender, dark-colored legs and feet",
+    "a compact and rounded body shape",
+    "a small, rounded head"
+  ]
+}

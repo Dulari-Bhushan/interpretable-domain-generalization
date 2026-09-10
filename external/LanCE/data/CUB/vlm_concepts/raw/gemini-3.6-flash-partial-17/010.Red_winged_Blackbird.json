@@ -1,0 +1,24 @@
+{
+  "class_folder": "010.Red_winged_Blackbird",
+  "class_name": "Red winged Blackbird",
+  "image_paths": [
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0020_4050.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0049_5598.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0054_4625.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0061_4196.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0079_4527.jpg"
+  ],
+  "raw_response": "[\n  \"entirely glossy black body plumage\",\n  \"a sharp, pointed conical bill\",\n  \"a black or dark grey bill\",\n  \"a vibrant red patch on the shoulder of the wing\",\n  \"a yellow to light-buff stripe directly below the red wing patch\",\n  \"dark black or dark brown eyes\",\n  \"black legs and feet\",\n  \"a medium-length black tail\",\n  \"a smooth black crown and head\",\n  \"a sleek songbird body profile\"\n]",
+  "concepts": [
+    "entirely glossy black body plumage",
+    "a sharp, pointed conical bill",
+    "a black or dark grey bill",
+    "a vibrant red patch on the shoulder of the wing",
+    "a yellow to light-buff stripe directly below the red wing patch",
+    "dark black or dark brown eyes",
+    "black legs and feet",
+    "a medium-length black tail",
+    "a smooth black crown and head",
+    "a sleek songbird body profile"
+  ]
+}

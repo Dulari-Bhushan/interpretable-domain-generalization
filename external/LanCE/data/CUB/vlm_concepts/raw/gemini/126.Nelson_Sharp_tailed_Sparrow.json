@@ -1,0 +1,28 @@
+{
+  "class_folder": "126.Nelson_Sharp_tailed_Sparrow",
+  "class_name": "Nelson Sharp tailed Sparrow",
+  "image_paths": [
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0013_796942.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0019_118066.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0033_118024.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0051_796902.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0079_796934.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, conical bill\",\n  \"a distinct orange-buff wash on the face and breast\",\n  \"a dark-streaked gray crown\",\n  \"a gray patch on the nape\",\n  \"a thin, pale eye ring\",\n  \"a dark eye stripe\",\n  \"streaked brown and buff upperparts\",\n  \"dark brown, white-edged wing feathers\",\n  \"a small, pointed tail\",\n  \"dark, finely streaked flanks\",\n  \"a plain white belly\",\n  \"a compact, rounded body shape\",\n  \"pale, thin legs\"\n]",
+  "concepts": [
+    "a short, conical bill",
+    "a distinct orange-buff wash on the face and breast",
+    "a dark-streaked gray crown",
+    "a gray patch on the nape",
+    "a thin, pale eye ring",
+    "a dark eye stripe",
+    "streaked brown and buff upperparts",
+    "dark brown, white-edged wing feathers",
+    "a small, pointed tail",
+    "dark, finely streaked flanks",
+    "a plain white belly",
+    "a compact, rounded body shape",
+    "pale, thin legs"
+  ]
+}

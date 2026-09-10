@@ -1,0 +1,27 @@
+{
+  "class_folder": "171.Myrtle_Warbler",
+  "class_name": "Myrtle Warbler",
+  "image_paths": [
+    "171.Myrtle_Warbler/Myrtle_Warbler_0009_166752.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0036_166833.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0069_166914.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0102_166725.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0103_166963.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin pointed bill\",\n  \"a dark eye stripe\",\n  \"a distinct yellow rump patch\",\n  \"yellow patches on the sides of the breast\",\n  \"a dark breast and flank plumage\",\n  \"white throat and underparts\",\n  \"a yellow crown patch\",\n  \"white wing bars\",\n  \"dark grey or black upperparts\",\n  \"a small, compact body shape\",\n  \"dark thin legs and feet\",\n  \"a broken white eye ring\"\n]",
+  "concepts": [
+    "a thin pointed bill",
+    "a dark eye stripe",
+    "a distinct yellow rump patch",
+    "yellow patches on the sides of the breast",
+    "a dark breast and flank plumage",
+    "white throat and underparts",
+    "a yellow crown patch",
+    "white wing bars",
+    "dark grey or black upperparts",
+    "a small, compact body shape",
+    "dark thin legs and feet",
+    "a broken white eye ring"
+  ]
+}

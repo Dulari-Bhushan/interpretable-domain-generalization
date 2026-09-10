@@ -1,0 +1,27 @@
+{
+  "class_folder": "194.Cactus_Wren",
+  "class_name": "Cactus Wren",
+  "image_paths": [
+    "194.Cactus_Wren/Cactus_Wren_0008_186083.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0028_185795.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0041_185691.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0069_186033.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0080_185901.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long curved bill\",\n  \"a dark brown crown\",\n  \"a prominent white eyebrow stripe\",\n  \"a mottled brown and white back\",\n  \"a dark throat with dense spotting\",\n  \"a breast covered in dark brown spots\",\n  \"a pale, light-brown underbelly\",\n  \"wings with barred black and white patterns\",\n  \"a long, black and white banded tail\",\n  \"sturdy, pale-coloured legs\",\n  \"a dark eye\",\n  \"a somewhat large and robust body shape\"\n]",
+  "concepts": [
+    "a long curved bill",
+    "a dark brown crown",
+    "a prominent white eyebrow stripe",
+    "a mottled brown and white back",
+    "a dark throat with dense spotting",
+    "a breast covered in dark brown spots",
+    "a pale, light-brown underbelly",
+    "wings with barred black and white patterns",
+    "a long, black and white banded tail",
+    "sturdy, pale-coloured legs",
+    "a dark eye",
+    "a somewhat large and robust body shape"
+  ]
+}

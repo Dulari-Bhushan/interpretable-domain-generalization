@@ -1,0 +1,27 @@
+{
+  "class_folder": "165.Chestnut_sided_Warbler",
+  "class_name": "Chestnut sided Warbler",
+  "image_paths": [
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0006_163858.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0053_163615.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0069_163921.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0124_164109.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0128_163696.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark-colored bill\",\n  \"a yellow crown\",\n  \"a grey face and neck\",\n  \"a distinct dark eye\",\n  \"a white throat and underbelly\",\n  \"a chestnut-colored streak along the flanks\",\n  \"a black-streaked yellow back\",\n  \"dark wings with two white wing bars\",\n  \"white-tipped outer tail feathers\",\n  \"light-colored legs and feet\",\n  \"a small, compact body shape\",\n  \"a short, thin tail\"\n]",
+  "concepts": [
+    "a thin, pointed, dark-colored bill",
+    "a yellow crown",
+    "a grey face and neck",
+    "a distinct dark eye",
+    "a white throat and underbelly",
+    "a chestnut-colored streak along the flanks",
+    "a black-streaked yellow back",
+    "dark wings with two white wing bars",
+    "white-tipped outer tail feathers",
+    "light-colored legs and feet",
+    "a small, compact body shape",
+    "a short, thin tail"
+  ]
+}

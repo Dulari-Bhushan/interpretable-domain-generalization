@@ -1,0 +1,27 @@
+{
+  "class_folder": "039.Least_Flycatcher",
+  "class_name": "Least Flycatcher",
+  "image_paths": [
+    "039.Least_Flycatcher/Least_Flycatcher_0021_30355.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0036_30213.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0065_30357.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0077_30296.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0096_30233.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a small, compact body shape\",\n  \"a thin, pointed, bicolored bill\",\n  \"a prominent, pale white eye ring\",\n  \"a dark, brownish-olive head and crown\",\n  \"two distinct, whitish wing bars\",\n  \"a pale, whitish-grey throat\",\n  \"a faintly yellowish or olive-tinged breast\",\n  \"olive-brown upperparts\",\n  \"darker, grayish-brown flight feathers\",\n  \"a relatively short, squared-off tail\",\n  \"dark-colored, thin legs\",\n  \"an upright, alert posture\"\n]",
+  "concepts": [
+    "a small, compact body shape",
+    "a thin, pointed, bicolored bill",
+    "a prominent, pale white eye ring",
+    "a dark, brownish-olive head and crown",
+    "two distinct, whitish wing bars",
+    "a pale, whitish-grey throat",
+    "a faintly yellowish or olive-tinged breast",
+    "olive-brown upperparts",
+    "darker, grayish-brown flight feathers",
+    "a relatively short, squared-off tail",
+    "dark-colored, thin legs",
+    "an upright, alert posture"
+  ]
+}

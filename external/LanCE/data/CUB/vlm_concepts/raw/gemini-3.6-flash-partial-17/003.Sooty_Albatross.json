@@ -1,0 +1,24 @@
+{
+  "class_folder": "003.Sooty_Albatross",
+  "class_name": "Sooty Albatross",
+  "image_paths": [
+    "003.Sooty_Albatross/Sooty_Albatross_0001_1071.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0022_796398.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0068_796353.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0072_796371.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0075_796352.jpg"
+  ],
+  "raw_response": "[\n  \"a long black hooked bill\",\n  \"a pale line along the lower bill groove\",\n  \"a prominent white crescent behind the eye\",\n  \"dark brown to blackish head and face\",\n  \"ashy-grey body plumage\",\n  \"paler grey back contrasting with a darker head\",\n  \"extremely long, narrow wings\",\n  \"a pointed, wedge-shaped tail\",\n  \"pale pinkish webbed feet\",\n  \"darker greyish-brown upperwings\"\n]",
+  "concepts": [
+    "a long black hooked bill",
+    "a pale line along the lower bill groove",
+    "a prominent white crescent behind the eye",
+    "dark brown to blackish head and face",
+    "ashy-grey body plumage",
+    "paler grey back contrasting with a darker head",
+    "extremely long, narrow wings",
+    "a pointed, wedge-shaped tail",
+    "pale pinkish webbed feet",
+    "darker greyish-brown upperwings"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "132.White_crowned_Sparrow",
+  "class_name": "White crowned Sparrow",
+  "image_paths": [
+    "132.White_crowned_Sparrow/White_Crowned_Sparrow_0001_127115.jpg",
+    "132.White_crowned_Sparrow/White_Crowned_Sparrow_0061_126315.jpg",
+    "132.White_crowned_Sparrow/White_Crowned_Sparrow_0078_127603.jpg",
+    "132.White_crowned_Sparrow/White_Crowned_Sparrow_0100_126267.jpg",
+    "132.White_crowned_Sparrow/White_Crowned_Sparrow_0122_128577.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short conical bill\",\n  \"a pinkish-orange bill color\",\n  \"a crown with black and white stripes\",\n  \"a dark line through the eye\",\n  \"a plain grey throat\",\n  \"a plain grey breast\",\n  \"a light grey underbelly\",\n  \"a brown back with white wing bars\",\n  \"a brownish wing plumage\",\n  \"a relatively long tail\",\n  \"light pinkish legs\",\n  \"a rounded body shape\"\n]",
+  "concepts": [
+    "a short conical bill",
+    "a pinkish-orange bill color",
+    "a crown with black and white stripes",
+    "a dark line through the eye",
+    "a plain grey throat",
+    "a plain grey breast",
+    "a light grey underbelly",
+    "a brown back with white wing bars",
+    "a brownish wing plumage",
+    "a relatively long tail",
+    "light pinkish legs",
+    "a rounded body shape"
+  ]
+}

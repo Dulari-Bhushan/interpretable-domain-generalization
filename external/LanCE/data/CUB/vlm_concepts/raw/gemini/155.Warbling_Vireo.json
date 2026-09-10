@@ -1,0 +1,26 @@
+{
+  "class_folder": "155.Warbling_Vireo",
+  "class_name": "Warbling Vireo",
+  "image_paths": [
+    "155.Warbling_Vireo/Warbling_Vireo_0022_158144.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0029_158679.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0067_158283.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0077_158427.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0118_158285.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a straight and pointed bill\", \"a dull grayish-brown crown\", \"a pale white supercilium above the eye\", \"a dark eyeline through the lores\", \"a plain grayish-olive back\", \"a pale yellowish-white breast\", \"a pale throat\", \"rounded wings with indistinct wing bars\", \"a short and square-ended tail\", \"grayish legs\", \"a compact and rounded body shape\"]",
+  "concepts": [
+    "a straight and pointed bill",
+    "a dull grayish-brown crown",
+    "a pale white supercilium above the eye",
+    "a dark eyeline through the lores",
+    "a plain grayish-olive back",
+    "a pale yellowish-white breast",
+    "a pale throat",
+    "rounded wings with indistinct wing bars",
+    "a short and square-ended tail",
+    "grayish legs",
+    "a compact and rounded body shape"
+  ]
+}

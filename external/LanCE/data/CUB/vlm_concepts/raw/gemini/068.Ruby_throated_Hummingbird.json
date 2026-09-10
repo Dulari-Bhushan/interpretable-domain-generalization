@@ -1,0 +1,27 @@
+{
+  "class_folder": "068.Ruby_throated_Hummingbird",
+  "class_name": "Ruby throated Hummingbird",
+  "image_paths": [
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0027_58191.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0030_57422.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0042_57431.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0064_57387.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0079_58075.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"an iridescent emerald green back\", \"a brilliant metallic ruby red throat\", \"a long thin straight black bill\", \"a white band across the upper chest\", \"a greyish white belly\", \"dark brown to black wings\", \"a small dark eye\", \"a short dark tail\", \"tiny black legs\", \"a small rounded head\", \"a slender body shape\", \"rapid wing motion blur\"]",
+  "concepts": [
+    "an iridescent emerald green back",
+    "a brilliant metallic ruby red throat",
+    "a long thin straight black bill",
+    "a white band across the upper chest",
+    "a greyish white belly",
+    "dark brown to black wings",
+    "a small dark eye",
+    "a short dark tail",
+    "tiny black legs",
+    "a small rounded head",
+    "a slender body shape",
+    "rapid wing motion blur"
+  ]
+}

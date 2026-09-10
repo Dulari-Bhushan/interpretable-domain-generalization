@@ -1,0 +1,27 @@
+{
+  "class_folder": "045.Northern_Fulmar",
+  "class_name": "Northern Fulmar",
+  "image_paths": [
+    "045.Northern_Fulmar/Northern_Fulmar_0029_44049.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0048_43672.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0058_44114.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0061_43653.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0065_44081.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a stout yellow bill\",\n  \"a prominent tubular nostril structure on the upper bill\",\n  \"a thick neck\",\n  \"a large rounded head\",\n  \"a robust body shape\",\n  \"a dark eye\",\n  \"a distinct dark patch around the eye\",\n  \"greyish upperwings with darker primary feathers\",\n  \"white or greyish underwing coverts\",\n  \"a slightly rounded tail\",\n  \"variable plumage coloration ranging from light grey to dark grey\",\n  \"webbed feet visible while perched\"\n]",
+  "concepts": [
+    "a stout yellow bill",
+    "a prominent tubular nostril structure on the upper bill",
+    "a thick neck",
+    "a large rounded head",
+    "a robust body shape",
+    "a dark eye",
+    "a distinct dark patch around the eye",
+    "greyish upperwings with darker primary feathers",
+    "white or greyish underwing coverts",
+    "a slightly rounded tail",
+    "variable plumage coloration ranging from light grey to dark grey",
+    "webbed feet visible while perched"
+  ]
+}

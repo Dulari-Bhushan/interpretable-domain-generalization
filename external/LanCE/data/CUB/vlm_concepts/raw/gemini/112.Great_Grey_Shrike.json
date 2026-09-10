@@ -1,0 +1,27 @@
+{
+  "class_folder": "112.Great_Grey_Shrike",
+  "class_name": "Great Grey Shrike",
+  "image_paths": [
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0004_797041.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0008_797053.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0016_106720.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0058_106634.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0083_797051.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, hooked bill\",\n  \"a dark, mask-like stripe through the eye\",\n  \"a light grey crown and nape\",\n  \"a pale, whitish throat\",\n  \"a clean, light-coloured breast\",\n  \"a grey-coloured back\",\n  \"black primary wing feathers\",\n  \"a long, narrow tail\",\n  \"prominent white patches on the wings\",\n  \"dark-coloured, sturdy legs\",\n  \"a compact, thick-necked body\",\n  \"a solid, dark-coloured bill\"\n]",
+  "concepts": [
+    "a thick, hooked bill",
+    "a dark, mask-like stripe through the eye",
+    "a light grey crown and nape",
+    "a pale, whitish throat",
+    "a clean, light-coloured breast",
+    "a grey-coloured back",
+    "black primary wing feathers",
+    "a long, narrow tail",
+    "prominent white patches on the wings",
+    "dark-coloured, sturdy legs",
+    "a compact, thick-necked body",
+    "a solid, dark-coloured bill"
+  ]
+}

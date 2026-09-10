@@ -1,0 +1,29 @@
+{
+  "class_folder": "037.Acadian_Flycatcher",
+  "class_name": "Acadian Flycatcher",
+  "image_paths": [
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0004_795623.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0010_29199.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0017_795598.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0039_795606.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0055_795609.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a relatively broad, flat bill\",\n  \"a pale, yellowish-colored lower mandible\",\n  \"a dark, brownish-colored upper mandible\",\n  \"a prominent, pale-colored eye ring\",\n  \"a dark eye\",\n  \"a small, peaked crest on the crown\",\n  \"prominent, light-colored wing bars\",\n  \"light-colored edges on the flight feathers\",\n  \"an overall olive-brown upperbody\",\n  \"a pale, whitish throat\",\n  \"a light, washed-out breast\",\n  \"a slender, compact body shape\",\n  \"a medium-length, squared-off tail\",\n  \"dark-colored legs\"\n]",
+  "concepts": [
+    "a relatively broad, flat bill",
+    "a pale, yellowish-colored lower mandible",
+    "a dark, brownish-colored upper mandible",
+    "a prominent, pale-colored eye ring",
+    "a dark eye",
+    "a small, peaked crest on the crown",
+    "prominent, light-colored wing bars",
+    "light-colored edges on the flight feathers",
+    "an overall olive-brown upperbody",
+    "a pale, whitish throat",
+    "a light, washed-out breast",
+    "a slender, compact body shape",
+    "a medium-length, squared-off tail",
+    "dark-colored legs"
+  ]
+}

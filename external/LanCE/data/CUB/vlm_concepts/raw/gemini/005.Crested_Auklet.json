@@ -1,0 +1,26 @@
+{
+  "class_folder": "005.Crested_Auklet",
+  "class_name": "Crested Auklet",
+  "image_paths": [
+    "005.Crested_Auklet/Crested_Auklet_0019_794925.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0033_794964.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0061_794904.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0062_794968.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0067_785249.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a prominent crest of forward-curving feathers\",\n  \"a bright orange, thick bill\",\n  \"a distinctive upward-curved tip on the lower mandible\",\n  \"a small, round, white eye\",\n  \"a thin white whisker-like plume extending back from the eye\",\n  \"solid slate-grey to black plumage\",\n  \"a compact, thick-set body shape\",\n  \"short, webbed, dark-colored feet\",\n  \"a short, stubby tail\",\n  \"a rounded head\",\n  \"a medium-length, thick neck\"\n]",
+  "concepts": [
+    "a prominent crest of forward-curving feathers",
+    "a bright orange, thick bill",
+    "a distinctive upward-curved tip on the lower mandible",
+    "a small, round, white eye",
+    "a thin white whisker-like plume extending back from the eye",
+    "solid slate-grey to black plumage",
+    "a compact, thick-set body shape",
+    "short, webbed, dark-colored feet",
+    "a short, stubby tail",
+    "a rounded head",
+    "a medium-length, thick neck"
+  ]
+}

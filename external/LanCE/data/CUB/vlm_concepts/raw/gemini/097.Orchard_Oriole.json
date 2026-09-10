@@ -1,0 +1,27 @@
+{
+  "class_folder": "097.Orchard_Oriole",
+  "class_name": "Orchard Oriole",
+  "image_paths": [
+    "097.Orchard_Oriole/Orchard_Oriole_0011_91592.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0032_91201.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0033_91532.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0046_91646.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0084_91658.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender pointed bill\",\n  \"a dark-colored head\",\n  \"a black throat patch\",\n  \"a vibrant chestnut-colored breast\",\n  \"a chestnut-colored belly and underparts\",\n  \"a dark tail\",\n  \"a small dark eye\",\n  \"distinct white wing bars\",\n  \"a dark mantle and back\",\n  \"a yellow-green head and body in some plumages\",\n  \"a yellowish-olive rump and tail\",\n  \"dark legs and feet\"\n]",
+  "concepts": [
+    "a slender pointed bill",
+    "a dark-colored head",
+    "a black throat patch",
+    "a vibrant chestnut-colored breast",
+    "a chestnut-colored belly and underparts",
+    "a dark tail",
+    "a small dark eye",
+    "distinct white wing bars",
+    "a dark mantle and back",
+    "a yellow-green head and body in some plumages",
+    "a yellowish-olive rump and tail",
+    "dark legs and feet"
+  ]
+}

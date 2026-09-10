@@ -1,0 +1,25 @@
+{
+  "class_folder": "030.Fish_Crow",
+  "class_name": "Fish Crow",
+  "image_paths": [
+    "030.Fish_Crow/Fish_Crow_0004_25936.jpg",
+    "030.Fish_Crow/Fish_Crow_0025_25893.jpg",
+    "030.Fish_Crow/Fish_Crow_0033_25915.jpg",
+    "030.Fish_Crow/Fish_Crow_0049_26040.jpg",
+    "030.Fish_Crow/Fish_Crow_0069_26008.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"entirely black plumage\",\n  \"stout black bill\",\n  \"rounded head profile\",\n  \"black legs and feet\",\n  \"short, dark eye\",\n  \"straight, medium-length tail\",\n  \"rounded wing tips\",\n  \"uniform dark coloration across body\",\n  \"prominent throat feathers\",\n  \"sharp, slightly hooked bill tip\"\n]",
+  "concepts": [
+    "entirely black plumage",
+    "stout black bill",
+    "rounded head profile",
+    "black legs and feet",
+    "short, dark eye",
+    "straight, medium-length tail",
+    "rounded wing tips",
+    "uniform dark coloration across body",
+    "prominent throat feathers",
+    "sharp, slightly hooked bill tip"
+  ]
+}

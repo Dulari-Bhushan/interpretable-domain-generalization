@@ -1,0 +1,27 @@
+{
+  "class_folder": "004.Groove_billed_Ani",
+  "class_name": "Groove billed Ani",
+  "image_paths": [
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0002_1670.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0033_1494.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0036_1604.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0069_1546.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0071_1559.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long tail\",\n  \"an entirely black plumage\",\n  \"a deeply curved upper mandible\",\n  \"distinct grooves on the upper bill\",\n  \"a high arched bill\",\n  \"scalloped feather pattern on the neck and breast\",\n  \"dark brown to blackish eyes\",\n  \"glossy sheen on wing feathers\",\n  \"a slender body shape\",\n  \"dark coloured legs\",\n  \"feathers with a textured, scaly appearance\",\n  \"a relatively large bill relative to head size\"\n]",
+  "concepts": [
+    "a long tail",
+    "an entirely black plumage",
+    "a deeply curved upper mandible",
+    "distinct grooves on the upper bill",
+    "a high arched bill",
+    "scalloped feather pattern on the neck and breast",
+    "dark brown to blackish eyes",
+    "glossy sheen on wing feathers",
+    "a slender body shape",
+    "dark coloured legs",
+    "feathers with a textured, scaly appearance",
+    "a relatively large bill relative to head size"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "067.Anna_Hummingbird",
+  "class_name": "Anna Hummingbird",
+  "image_paths": [
+    "067.Anna_Hummingbird/Anna_Hummingbird_0029_55823.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0047_56049.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0069_56933.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0091_56004.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0112_56353.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender straight black bill\",\n  \"an iridescent pinkish-red crown\",\n  \"an iridescent pinkish-red throat gorget\",\n  \"a metallic green back\",\n  \"a light greyish breast\",\n  \"a white patch behind the eye\",\n  \"a small compact body shape\",\n  \"short dark-colored legs\",\n  \"a dark-colored eye\",\n  \"pointed wing tips\",\n  \"a short squared tail\"\n]",
+  "concepts": [
+    "a long slender straight black bill",
+    "an iridescent pinkish-red crown",
+    "an iridescent pinkish-red throat gorget",
+    "a metallic green back",
+    "a light greyish breast",
+    "a white patch behind the eye",
+    "a small compact body shape",
+    "short dark-colored legs",
+    "a dark-colored eye",
+    "pointed wing tips",
+    "a short squared tail"
+  ]
+}

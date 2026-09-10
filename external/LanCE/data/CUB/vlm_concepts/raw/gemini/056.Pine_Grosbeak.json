@@ -1,0 +1,27 @@
+{
+  "class_folder": "056.Pine_Grosbeak",
+  "class_name": "Pine Grosbeak",
+  "image_paths": [
+    "056.Pine_Grosbeak/Pine_Grosbeak_0006_38421.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0036_38968.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0058_38431.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0078_38242.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0114_38259.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a thick, stubby, conical bill\", \"a dark grey or blackish bill\", \"a rounded head shape\", \"a relatively long, notched tail\", \"two distinct white wing bars\", \"a greyish belly and vent\", \"a rounded body profile\", \"a dark eye\", \"a short, dark, greyish leg\", \"a dusky, brownish or greyish wing pattern\", \"a pinkish-red or orange-red plumage on the head, breast, and back in some individuals\", \"a greyish plumage on the breast, back, and wings in other individuals\"]",
+  "concepts": [
+    "a thick, stubby, conical bill",
+    "a dark grey or blackish bill",
+    "a rounded head shape",
+    "a relatively long, notched tail",
+    "two distinct white wing bars",
+    "a greyish belly and vent",
+    "a rounded body profile",
+    "a dark eye",
+    "a short, dark, greyish leg",
+    "a dusky, brownish or greyish wing pattern",
+    "a pinkish-red or orange-red plumage on the head, breast, and back in some individuals",
+    "a greyish plumage on the breast, back, and wings in other individuals"
+  ]
+}

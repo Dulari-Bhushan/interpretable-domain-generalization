@@ -1,0 +1,27 @@
+{
+  "class_folder": "188.Pileated_Woodpecker",
+  "class_name": "Pileated Woodpecker",
+  "image_paths": [
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0025_180253.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0057_180612.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0072_180006.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0088_180054.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0124_180168.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large, pointed, greyish bill\",\n  \"a prominent red crest\",\n  \"a black eye streak\",\n  \"a white stripe extending from the base of the bill\",\n  \"a white throat\",\n  \"a largely black body plumage\",\n  \"a black back\",\n  \"white patch visible on the folded wing\",\n  \"stiff, pointed tail feathers\",\n  \"sharp, curved claws for gripping bark\",\n  \"a large, muscular body build\",\n  \"a long neck\"\n]",
+  "concepts": [
+    "a large, pointed, greyish bill",
+    "a prominent red crest",
+    "a black eye streak",
+    "a white stripe extending from the base of the bill",
+    "a white throat",
+    "a largely black body plumage",
+    "a black back",
+    "white patch visible on the folded wing",
+    "stiff, pointed tail feathers",
+    "sharp, curved claws for gripping bark",
+    "a large, muscular body build",
+    "a long neck"
+  ]
+}

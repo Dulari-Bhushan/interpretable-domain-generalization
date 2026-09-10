@@ -1,0 +1,25 @@
+{
+  "class_folder": "166.Golden_winged_Warbler",
+  "class_name": "Golden winged Warbler",
+  "image_paths": [
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0018_164558.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0024_794807.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0030_164462.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0083_794801.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0092_164465.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a sharp pointed bill\", \"a bright yellow crown\", \"a black eye mask\", \"a black throat patch\", \"a grey back\", \"a white breast\", \"yellow wing patches\", \"a grey tail\", \"a slender body shape\", \"thin dark legs\"]",
+  "concepts": [
+    "a sharp pointed bill",
+    "a bright yellow crown",
+    "a black eye mask",
+    "a black throat patch",
+    "a grey back",
+    "a white breast",
+    "yellow wing patches",
+    "a grey tail",
+    "a slender body shape",
+    "thin dark legs"
+  ]
+}

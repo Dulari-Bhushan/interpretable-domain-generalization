@@ -1,0 +1,27 @@
+{
+  "class_folder": "168.Kentucky_Warbler",
+  "class_name": "Kentucky Warbler",
+  "image_paths": [
+    "168.Kentucky_Warbler/Kentucky_Warbler_0025_165304.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0027_795917.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0031_165363.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0062_795897.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0078_795889.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"solid olive-green back\",\n  \"bright yellow underparts\",\n  \"black facial mask\",\n  \"bright yellow eye-stripe\",\n  \"solid greyish-black crown\",\n  \"thin pointed dark bill\",\n  \"yellow throat\",\n  \"light pink legs\",\n  \"stout rounded body shape\",\n  \"plain olive-colored wings\",\n  \"short tail\",\n  \"dark brown eye\"\n]",
+  "concepts": [
+    "solid olive-green back",
+    "bright yellow underparts",
+    "black facial mask",
+    "bright yellow eye-stripe",
+    "solid greyish-black crown",
+    "thin pointed dark bill",
+    "yellow throat",
+    "light pink legs",
+    "stout rounded body shape",
+    "plain olive-colored wings",
+    "short tail",
+    "dark brown eye"
+  ]
+}

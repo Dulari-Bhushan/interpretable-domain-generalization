@@ -1,0 +1,27 @@
+{
+  "class_folder": "021.Eastern_Towhee",
+  "class_name": "Eastern Towhee",
+  "image_paths": [
+    "021.Eastern_Towhee/Eastern_Towhee_0073_22247.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0099_22566.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0117_22741.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0120_22189.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0124_22585.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short conical bill\",\n  \"a solid black hood covering the head and throat\",\n  \"a red or rufous colored patch on the flanks\",\n  \"a white belly patch\",\n  \"a dark brown or black back\",\n  \"white wing patches\",\n  \"a long tail\",\n  \"a bright red or orange eye\",\n  \"a prominent crest on the head\",\n  \"white outer tail feathers\",\n  \"pale pinkish legs\",\n  \"a dark upper tail surface\"\n]",
+  "concepts": [
+    "a short conical bill",
+    "a solid black hood covering the head and throat",
+    "a red or rufous colored patch on the flanks",
+    "a white belly patch",
+    "a dark brown or black back",
+    "white wing patches",
+    "a long tail",
+    "a bright red or orange eye",
+    "a prominent crest on the head",
+    "white outer tail feathers",
+    "pale pinkish legs",
+    "a dark upper tail surface"
+  ]
+}

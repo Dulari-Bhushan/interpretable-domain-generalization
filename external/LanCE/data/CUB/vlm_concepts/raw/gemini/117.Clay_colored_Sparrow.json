@@ -1,0 +1,27 @@
+{
+  "class_folder": "117.Clay_colored_Sparrow",
+  "class_name": "Clay colored Sparrow",
+  "image_paths": [
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0036_110924.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0064_110664.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0080_797253.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0091_110768.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0106_797247.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, pale-colored bill\",\n  \"a dark-streaked, brown crown\",\n  \"a pale central crown stripe\",\n  \"a light-colored supercilium\",\n  \"a dark eye line\",\n  \"a dark malar stripe\",\n  \"a grayish-colored nape\",\n  \"a plain, unstreaked buffy-colored breast\",\n  \"dark brown streaking on a lighter back\",\n  \"dark, white-edged feathers on the wings\",\n  \"a notched tail\",\n  \"flesh-colored legs\"\n]",
+  "concepts": [
+    "a conical, pale-colored bill",
+    "a dark-streaked, brown crown",
+    "a pale central crown stripe",
+    "a light-colored supercilium",
+    "a dark eye line",
+    "a dark malar stripe",
+    "a grayish-colored nape",
+    "a plain, unstreaked buffy-colored breast",
+    "dark brown streaking on a lighter back",
+    "dark, white-edged feathers on the wings",
+    "a notched tail",
+    "flesh-colored legs"
+  ]
+}

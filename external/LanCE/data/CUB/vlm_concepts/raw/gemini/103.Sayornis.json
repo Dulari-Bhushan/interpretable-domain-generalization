@@ -1,0 +1,27 @@
+{
+  "class_folder": "103.Sayornis",
+  "class_name": "Sayornis",
+  "image_paths": [
+    "103.Sayornis/Sayornis_0010_98611.jpg",
+    "103.Sayornis/Sayornis_0070_99354.jpg",
+    "103.Sayornis/Sayornis_0098_98419.jpg",
+    "103.Sayornis/Sayornis_0111_98406.jpg",
+    "103.Sayornis/Sayornis_0113_98630.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender black bill\",\n  \"an upright posture\",\n  \"a medium-length tail\",\n  \"dark eyes\",\n  \"a rounded head profile\",\n  \"pointed wings\",\n  \"a dark grey or blackish head\",\n  \"a contrast between the head and body\",\n  \"a whitish or pale belly\",\n  \"a tawny or brownish-orange breast\",\n  \"dark grey legs\",\n  \"a mostly plain, unstreaked plumage\"\n]",
+  "concepts": [
+    "a slender black bill",
+    "an upright posture",
+    "a medium-length tail",
+    "dark eyes",
+    "a rounded head profile",
+    "pointed wings",
+    "a dark grey or blackish head",
+    "a contrast between the head and body",
+    "a whitish or pale belly",
+    "a tawny or brownish-orange breast",
+    "dark grey legs",
+    "a mostly plain, unstreaked plumage"
+  ]
+}

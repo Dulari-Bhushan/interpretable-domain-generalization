@@ -1,0 +1,26 @@
+{
+  "class_folder": "046.Gadwall",
+  "class_name": "Gadwall",
+  "image_paths": [
+    "046.Gadwall/Gadwall_0024_30942.jpg",
+    "046.Gadwall/Gadwall_0034_31212.jpg",
+    "046.Gadwall/Gadwall_0083_30959.jpg",
+    "046.Gadwall/Gadwall_0086_31346.jpg",
+    "046.Gadwall/Gadwall_0091_30941.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a greyish-brown head\",\n  \"a dark, narrow bill\",\n  \"a black bill tip\",\n  \"a mottled, scaly patterned breast\",\n  \"a brownish-grey overall plumage\",\n  \"a white patch on the wing\",\n  \"a black patch on the rear flank\",\n  \"a rounded, compact body shape\",\n  \"a dark eye\",\n  \"vermiculated grey-brown back feathers\",\n  \"a relatively small, flat-crowned head\"\n]",
+  "concepts": [
+    "a greyish-brown head",
+    "a dark, narrow bill",
+    "a black bill tip",
+    "a mottled, scaly patterned breast",
+    "a brownish-grey overall plumage",
+    "a white patch on the wing",
+    "a black patch on the rear flank",
+    "a rounded, compact body shape",
+    "a dark eye",
+    "vermiculated grey-brown back feathers",
+    "a relatively small, flat-crowned head"
+  ]
+}

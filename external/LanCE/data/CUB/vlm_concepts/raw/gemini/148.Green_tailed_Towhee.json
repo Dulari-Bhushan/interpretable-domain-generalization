@@ -1,0 +1,27 @@
+{
+  "class_folder": "148.Green_tailed_Towhee",
+  "class_name": "Green tailed Towhee",
+  "image_paths": [
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0001_797412.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0036_154875.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0058_797399.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0060_154820.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0069_797441.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a distinct rufous-colored crown\",\n  \"a conical, grey-colored bill\",\n  \"a pale grey throat\",\n  \"a white malar stripe\",\n  \"grey-colored head and breast\",\n  \"a greenish-yellow wing panel\",\n  \"an olive-green back\",\n  \"a greenish-toned tail\",\n  \"a slender body shape\",\n  \"long, thin legs\",\n  \"dark brown eye\",\n  \"a grey-colored eye ring\"\n]",
+  "concepts": [
+    "a distinct rufous-colored crown",
+    "a conical, grey-colored bill",
+    "a pale grey throat",
+    "a white malar stripe",
+    "grey-colored head and breast",
+    "a greenish-yellow wing panel",
+    "an olive-green back",
+    "a greenish-toned tail",
+    "a slender body shape",
+    "long, thin legs",
+    "dark brown eye",
+    "a grey-colored eye ring"
+  ]
+}

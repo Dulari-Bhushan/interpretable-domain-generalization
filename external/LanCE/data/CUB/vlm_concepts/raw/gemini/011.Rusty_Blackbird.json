@@ -1,0 +1,27 @@
+{
+  "class_folder": "011.Rusty_Blackbird",
+  "class_name": "Rusty Blackbird",
+  "image_paths": [
+    "011.Rusty_Blackbird/Rusty_Blackbird_0016_6684.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0023_6752.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0036_6550.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0073_6744.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0093_6628.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, sharp, black-coloured bill\",\n  \"a striking, light-yellow to pale-eyed iris\",\n  \"a dark, thin, eye-ring\",\n  \"a dark, pointed, conical bill shape\",\n  \"a plumage with mottled, rusty-brown edges on feathers\",\n  \"a medium-sized, somewhat compact body shape\",\n  \"a dark, uniform, blackish-grey head and underbelly\",\n  \"a rounded to slightly squared-off tail shape\",\n  \"dark, slender, relatively long legs\",\n  \"a solid, non-patterned, dark wing\",\n  \"a relatively short, tapered tail\",\n  \"smooth, rounded crown\"\n]",
+  "concepts": [
+    "a slender, sharp, black-coloured bill",
+    "a striking, light-yellow to pale-eyed iris",
+    "a dark, thin, eye-ring",
+    "a dark, pointed, conical bill shape",
+    "a plumage with mottled, rusty-brown edges on feathers",
+    "a medium-sized, somewhat compact body shape",
+    "a dark, uniform, blackish-grey head and underbelly",
+    "a rounded to slightly squared-off tail shape",
+    "dark, slender, relatively long legs",
+    "a solid, non-patterned, dark wing",
+    "a relatively short, tapered tail",
+    "smooth, rounded crown"
+  ]
+}

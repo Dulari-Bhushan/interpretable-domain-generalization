@@ -1,0 +1,27 @@
+{
+  "class_folder": "120.Fox_Sparrow",
+  "class_name": "Fox Sparrow",
+  "image_paths": [
+    "120.Fox_Sparrow/Fox_Sparrow_0035_114866.jpg",
+    "120.Fox_Sparrow/Fox_Sparrow_0039_114816.jpg",
+    "120.Fox_Sparrow/Fox_Sparrow_0078_114582.jpg",
+    "120.Fox_Sparrow/Fox_Sparrow_0116_115311.jpg",
+    "120.Fox_Sparrow/Fox_Sparrow_0124_114662.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a relatively thick, conical bill\", \"a bicoloured bill\", \"a heavily streaked breast\", \"a mottled, brown and white plumage\", \"a reddish-brown tail\", \"brown and rufous upperparts\", \"a rounded head shape\", \"prominent white edges on the wing feathers\", \"a light-coloured throat\", \"a defined greyish patch on the neck\", \"a white belly with dark markings\", \"pinkish-brown legs\"]",
+  "concepts": [
+    "a relatively thick, conical bill",
+    "a bicoloured bill",
+    "a heavily streaked breast",
+    "a mottled, brown and white plumage",
+    "a reddish-brown tail",
+    "brown and rufous upperparts",
+    "a rounded head shape",
+    "prominent white edges on the wing feathers",
+    "a light-coloured throat",
+    "a defined greyish patch on the neck",
+    "a white belly with dark markings",
+    "pinkish-brown legs"
+  ]
+}

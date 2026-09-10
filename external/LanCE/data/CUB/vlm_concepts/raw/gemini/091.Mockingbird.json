@@ -1,0 +1,26 @@
+{
+  "class_folder": "091.Mockingbird",
+  "class_name": "Mockingbird",
+  "image_paths": [
+    "091.Mockingbird/Mockingbird_0008_81226.jpg",
+    "091.Mockingbird/Mockingbird_0035_79635.jpg",
+    "091.Mockingbird/Mockingbird_0077_81470.jpg",
+    "091.Mockingbird/Mockingbird_0094_80232.jpg",
+    "091.Mockingbird/Mockingbird_0108_81908.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, dark, straight bill\",\n  \"a pale yellow or yellowish-orange eye\",\n  \"a light gray crown and nape\",\n  \"a white throat\",\n  \"a light gray or off-white breast and underbelly\",\n  \"a dark gray back\",\n  \"prominent white wing bars\",\n  \"white patches on dark wings visible in flight\",\n  \"a long tail with white outer feathers\",\n  \"a slender body shape\",\n  \"relatively long, dark legs\"\n]",
+  "concepts": [
+    "a slender, dark, straight bill",
+    "a pale yellow or yellowish-orange eye",
+    "a light gray crown and nape",
+    "a white throat",
+    "a light gray or off-white breast and underbelly",
+    "a dark gray back",
+    "prominent white wing bars",
+    "white patches on dark wings visible in flight",
+    "a long tail with white outer feathers",
+    "a slender body shape",
+    "relatively long, dark legs"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "133.White_throated_Sparrow",
+  "class_name": "White throated Sparrow",
+  "image_paths": [
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0002_129057.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0042_128899.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0056_128906.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0085_129180.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0123_129009.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, greyish bill\",\n  \"a distinct white throat patch\",\n  \"a yellow patch between the bill and eye\",\n  \"black and white striped crown\",\n  \"a greyish breast and belly\",\n  \"a brownish-streaked back\",\n  \"dark brown and buff wing bars\",\n  \"a relatively long, thin tail\",\n  \"a dark eye\",\n  \"pale pinkish legs\",\n  \"a compact, rounded body shape\"\n]",
+  "concepts": [
+    "a conical, greyish bill",
+    "a distinct white throat patch",
+    "a yellow patch between the bill and eye",
+    "black and white striped crown",
+    "a greyish breast and belly",
+    "a brownish-streaked back",
+    "dark brown and buff wing bars",
+    "a relatively long, thin tail",
+    "a dark eye",
+    "pale pinkish legs",
+    "a compact, rounded body shape"
+  ]
+}

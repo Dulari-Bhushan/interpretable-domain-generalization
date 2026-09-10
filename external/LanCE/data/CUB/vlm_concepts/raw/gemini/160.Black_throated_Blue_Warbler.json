@@ -1,0 +1,26 @@
+{
+  "class_folder": "160.Black_throated_Blue_Warbler",
+  "class_name": "Black throated Blue Warbler",
+  "image_paths": [
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0010_161169.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0024_161619.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0037_161707.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0063_161213.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0090_161507.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a small, thin, pointed bill\", \"a dark, solid-coloured eye\", \"a slate-blue crown and nape\", \"a distinct, solid black throat\", \"a black cheek patch\", \"a stark white belly and underparts\", \"a dark grey to slate-blue back\", \"a prominent white wing patch\", \"a thin, dark, slightly notched tail\", \"slender, dark-coloured legs and feet\", \"a compact, sparrow-sized body shape\"]",
+  "concepts": [
+    "a small, thin, pointed bill",
+    "a dark, solid-coloured eye",
+    "a slate-blue crown and nape",
+    "a distinct, solid black throat",
+    "a black cheek patch",
+    "a stark white belly and underparts",
+    "a dark grey to slate-blue back",
+    "a prominent white wing patch",
+    "a thin, dark, slightly notched tail",
+    "slender, dark-coloured legs and feet",
+    "a compact, sparrow-sized body shape"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_folder": "015.Lazuli_Bunting",
+  "class_name": "Lazuli Bunting",
+  "image_paths": [
+    "015.Lazuli_Bunting/Lazuli_Bunting_0010_14915.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0020_14837.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0039_15081.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0080_14893.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0081_14709.jpg"
+  ],
+  "raw_response": "[\n  \"a bright turquoise-blue head and throat\",\n  \"a short, conical dark bill\",\n  \"a rufous or orange band across the upper breast\",\n  \"a clean white lower belly and undertail coverts\",\n  \"conspicuous white wing bars\",\n  \"dark brown to blackish flight feathers on the wings\",\n  \"a turquoise-blue back and rump\",\n  \"a dark line from the bill to the eye\",\n  \"dark grey or blackish legs and feet\",\n  \"a dark, medium-length tail\",\n  \"dark, rounded eyes\"\n]",
+  "concepts": [
+    "a bright turquoise-blue head and throat",
+    "a short, conical dark bill",
+    "a rufous or orange band across the upper breast",
+    "a clean white lower belly and undertail coverts",
+    "conspicuous white wing bars",
+    "dark brown to blackish flight feathers on the wings",
+    "a turquoise-blue back and rump",
+    "a dark line from the bill to the eye",
+    "dark grey or blackish legs and feet",
+    "a dark, medium-length tail",
+    "dark, rounded eyes"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "185.Bohemian_Waxwing",
+  "class_name": "Bohemian Waxwing",
+  "image_paths": [
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0006_796651.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0010_796672.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0075_796678.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0091_796634.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0096_177969.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a prominent crest on the head\",\n  \"a sharp, black, conical bill\",\n  \"a black eye mask extending from the bill\",\n  \"a black patch on the throat\",\n  \"a cinnamon-colored forehead\",\n  \"predominantly soft, greyish-brown plumage\",\n  \"bright yellow tips on the tail feathers\",\n  \"white markings on the dark grey wings\",\n  \"bright red waxy tips on the secondary wing feathers\",\n  \"a bright yellow stripe on the wing edge\",\n  \"a cinnamon-toned undertail area\",\n  \"short, dark, sturdy legs and feet\"\n]",
+  "concepts": [
+    "a prominent crest on the head",
+    "a sharp, black, conical bill",
+    "a black eye mask extending from the bill",
+    "a black patch on the throat",
+    "a cinnamon-colored forehead",
+    "predominantly soft, greyish-brown plumage",
+    "bright yellow tips on the tail feathers",
+    "white markings on the dark grey wings",
+    "bright red waxy tips on the secondary wing feathers",
+    "a bright yellow stripe on the wing edge",
+    "a cinnamon-toned undertail area",
+    "short, dark, sturdy legs and feet"
+  ]
+}

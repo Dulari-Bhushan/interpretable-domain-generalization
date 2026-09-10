@@ -1,0 +1,25 @@
+{
+  "class_folder": "002.Laysan_Albatross",
+  "class_name": "Laysan Albatross",
+  "image_paths": [
+    "002.Laysan_Albatross/Laysan_Albatross_0040_472.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0071_792.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0073_927.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0081_800.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0085_564.jpg"
+  ],
+  "raw_response": "[\n  \"a white head and neck\",\n  \"a dark patch around the eye\",\n  \"a long hooked bill\",\n  \"a pale bill with a dark tip\",\n  \"dark brown upperwings\",\n  \"a dark brown upper back\",\n  \"a white belly and breast\",\n  \"white underwings bordered with dark edges\",\n  \"a white rump\",\n  \"a short dark tail\",\n  \"long, narrow wings\"\n]",
+  "concepts": [
+    "a white head and neck",
+    "a dark patch around the eye",
+    "a long hooked bill",
+    "a pale bill with a dark tip",
+    "dark brown upperwings",
+    "a dark brown upper back",
+    "a white belly and breast",
+    "white underwings bordered with dark edges",
+    "a white rump",
+    "a short dark tail",
+    "long, narrow wings"
+  ]
+}

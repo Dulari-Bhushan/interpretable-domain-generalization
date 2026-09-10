@@ -1,0 +1,27 @@
+{
+  "class_folder": "180.Wilson_Warbler",
+  "class_name": "Wilson Warbler",
+  "image_paths": [
+    "180.Wilson_Warbler/Wilson_Warbler_0033_175259.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0045_175623.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0059_175249.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0100_175726.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0129_175256.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright yellow underparts\",\n  \"distinctive black cap on the crown\",\n  \"small thin bill\",\n  \"dark beady eyes\",\n  \"olive-green back and wings\",\n  \"short pointed wings\",\n  \"light-colored legs\",\n  \"small overall body size\",\n  \"rounded head shape\",\n  \"yellow face surrounding the black cap\",\n  \"thin dark line bordering the base of the bill\",\n  \"yellowish-brown feet\"\n]",
+  "concepts": [
+    "bright yellow underparts",
+    "distinctive black cap on the crown",
+    "small thin bill",
+    "dark beady eyes",
+    "olive-green back and wings",
+    "short pointed wings",
+    "light-colored legs",
+    "small overall body size",
+    "rounded head shape",
+    "yellow face surrounding the black cap",
+    "thin dark line bordering the base of the bill",
+    "yellowish-brown feet"
+  ]
+}

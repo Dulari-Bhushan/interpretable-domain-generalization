@@ -1,0 +1,27 @@
+{
+  "class_folder": "107.Common_Raven",
+  "class_name": "Common Raven",
+  "image_paths": [
+    "107.Common_Raven/Common_Raven_0002_102582.jpg",
+    "107.Common_Raven/Common_Raven_0066_101461.jpg",
+    "107.Common_Raven/Common_Raven_0078_101148.jpg",
+    "107.Common_Raven/Common_Raven_0099_102534.jpg",
+    "107.Common_Raven/Common_Raven_0117_101833.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a large and stout black bill\", \"a shaggy-looking throat plumage\", \"an overall solid black plumage\", \"a robust body shape\", \"a rounded head shape\", \"a strong and sturdy pair of legs\", \"a sharp curved hook at the bill tip\", \"a visible iridescent sheen on the back feathers\", \"long and dark primary wing feathers\", \"a slightly wedge-shaped tail profile\", \"a dark-colored eye\", \"a thick and heavy bill base\"]",
+  "concepts": [
+    "a large and stout black bill",
+    "a shaggy-looking throat plumage",
+    "an overall solid black plumage",
+    "a robust body shape",
+    "a rounded head shape",
+    "a strong and sturdy pair of legs",
+    "a sharp curved hook at the bill tip",
+    "a visible iridescent sheen on the back feathers",
+    "long and dark primary wing feathers",
+    "a slightly wedge-shaped tail profile",
+    "a dark-colored eye",
+    "a thick and heavy bill base"
+  ]
+}

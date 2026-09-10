@@ -1,0 +1,27 @@
+{
+  "class_folder": "017.Cardinal",
+  "class_name": "Cardinal",
+  "image_paths": [
+    "017.Cardinal/Cardinal_0012_18638.jpg",
+    "017.Cardinal/Cardinal_0019_17368.jpg",
+    "017.Cardinal/Cardinal_0025_17239.jpg",
+    "017.Cardinal/Cardinal_0045_18021.jpg",
+    "017.Cardinal/Cardinal_0060_17139.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick conical bill\",\n  \"a bright orange-red bill\",\n  \"a prominent crest on the crown\",\n  \"a distinct black mask around the eyes and throat\",\n  \"brilliant red body plumage on males\",\n  \"muted tan and grey plumage on females\",\n  \"red highlights on female wings and tail\",\n  \"a long tail\",\n  \"tapered tail feathers\",\n  \"a compact, rounded body shape\",\n  \"dark eyes\",\n  \"small greyish legs\"\n]",
+  "concepts": [
+    "a thick conical bill",
+    "a bright orange-red bill",
+    "a prominent crest on the crown",
+    "a distinct black mask around the eyes and throat",
+    "brilliant red body plumage on males",
+    "muted tan and grey plumage on females",
+    "red highlights on female wings and tail",
+    "a long tail",
+    "tapered tail feathers",
+    "a compact, rounded body shape",
+    "dark eyes",
+    "small greyish legs"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "class_folder": "147.Least_Tern",
+  "class_name": "Least Tern",
+  "image_paths": [
+    "147.Least_Tern/Least_Tern_0016_153560.jpg",
+    "147.Least_Tern/Least_Tern_0036_153658.jpg",
+    "147.Least_Tern/Least_Tern_0088_152941.jpg",
+    "147.Least_Tern/Least_Tern_0109_154127.jpg",
+    "147.Least_Tern/Least_Tern_0114_153840.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender yellow bill\",\n  \"a black tip on the bill\",\n  \"a black cap extending from the forehead to the nape\",\n  \"a white forehead patch\",\n  \"a white face, throat, and breast\",\n  \"light grey wings and mantle\",\n  \"white undersides\",\n  \"a short, forked tail\",\n  \"small yellow to orange-yellow legs\",\n  \"a dark, distinct eye\",\n  \"a compact, small body shape\",\n  \"juvenile plumage with brown mottled patterning on wings\",\n  \"a blackish bar across the shoulder of the wing\"\n]",
+  "concepts": [
+    "a slender yellow bill",
+    "a black tip on the bill",
+    "a black cap extending from the forehead to the nape",
+    "a white forehead patch",
+    "a white face, throat, and breast",
+    "light grey wings and mantle",
+    "white undersides",
+    "a short, forked tail",
+    "small yellow to orange-yellow legs",
+    "a dark, distinct eye",
+    "a compact, small body shape",
+    "juvenile plumage with brown mottled patterning on wings",
+    "a blackish bar across the shoulder of the wing"
+  ]
+}

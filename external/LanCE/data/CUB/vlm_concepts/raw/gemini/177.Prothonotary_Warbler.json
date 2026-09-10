@@ -1,0 +1,27 @@
+{
+  "class_folder": "177.Prothonotary_Warbler",
+  "class_name": "Prothonotary Warbler",
+  "image_paths": [
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0021_173816.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0045_173536.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0062_174412.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0070_174650.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0112_174594.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"vibrant yellow head\",\n  \"vibrant yellow breast\",\n  \"vibrant yellow throat\",\n  \"olive green back\",\n  \"grey wings\",\n  \"blackish eye\",\n  \"pointed dark bill\",\n  \"short tail with white undertail feathers\",\n  \"greyish legs\",\n  \"compact, round body shape\",\n  \"white patch on the underside of the tail\",\n  \"dark wing feathers with greyish edges\"\n]",
+  "concepts": [
+    "vibrant yellow head",
+    "vibrant yellow breast",
+    "vibrant yellow throat",
+    "olive green back",
+    "grey wings",
+    "blackish eye",
+    "pointed dark bill",
+    "short tail with white undertail feathers",
+    "greyish legs",
+    "compact, round body shape",
+    "white patch on the underside of the tail",
+    "dark wing feathers with greyish edges"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "153.Philadelphia_Vireo",
+  "class_name": "Philadelphia Vireo",
+  "image_paths": [
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0049_794756.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0052_794774.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0061_156613.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0070_794758.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0071_794796.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, short, greyish bill\",\n  \"a greyish-brown crown\",\n  \"a dark stripe through the eye\",\n  \"a pale supercilium above the eye\",\n  \"yellowish throat and breast\",\n  \"pale, olive-grey back\",\n  \"rounded body shape\",\n  \"small overall size\",\n  \"dark greyish-brown wings\",\n  \"short, squared-off tail\",\n  \"light-coloured under-tail coverts\",\n  \"greyish legs and feet\"\n]",
+  "concepts": [
+    "a thick, short, greyish bill",
+    "a greyish-brown crown",
+    "a dark stripe through the eye",
+    "a pale supercilium above the eye",
+    "yellowish throat and breast",
+    "pale, olive-grey back",
+    "rounded body shape",
+    "small overall size",
+    "dark greyish-brown wings",
+    "short, squared-off tail",
+    "light-coloured under-tail coverts",
+    "greyish legs and feet"
+  ]
+}

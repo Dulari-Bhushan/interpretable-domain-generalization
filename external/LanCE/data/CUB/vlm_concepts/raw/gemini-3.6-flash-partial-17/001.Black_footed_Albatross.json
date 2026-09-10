@@ -1,0 +1,25 @@
+{
+  "class_folder": "001.Black_footed_Albatross",
+  "class_name": "Black footed Albatross",
+  "image_paths": [
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0032_796115.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0036_796127.jpg",
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069.jpg"
+  ],
+  "raw_response": "[\n  \"a large, dark, strongly hooked bill\",\n  \"a distinct white patch around the base of the bill\",\n  \"overall dark sooty-brown plumage\",\n  \"long, narrow wings\",\n  \"dark grey to black legs and webbed feet\",\n  \"a white patch at the rump and base of the tail\",\n  \"tubular nostrils on the upper bill\",\n  \"a dark eye\",\n  \"a short, dark tail\",\n  \"dark brown upperwings and underwings\",\n  \"whitish undertail coverts\"\n]",
+  "concepts": [
+    "a large, dark, strongly hooked bill",
+    "a distinct white patch around the base of the bill",
+    "overall dark sooty-brown plumage",
+    "long, narrow wings",
+    "dark grey to black legs and webbed feet",
+    "a white patch at the rump and base of the tail",
+    "tubular nostrils on the upper bill",
+    "a dark eye",
+    "a short, dark tail",
+    "dark brown upperwings and underwings",
+    "whitish undertail coverts"
+  ]
+}

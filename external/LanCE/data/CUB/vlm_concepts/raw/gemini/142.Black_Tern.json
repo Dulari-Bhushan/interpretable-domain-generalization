@@ -1,0 +1,27 @@
+{
+  "class_folder": "142.Black_Tern",
+  "class_name": "Black Tern",
+  "image_paths": [
+    "142.Black_Tern/Black_Tern_0015_143979.jpg",
+    "142.Black_Tern/Black_Tern_0046_144229.jpg",
+    "142.Black_Tern/Black_Tern_0059_144159.jpg",
+    "142.Black_Tern/Black_Tern_0082_144372.jpg",
+    "142.Black_Tern/Black_Tern_0099_144242.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a slender, pointed black bill\", \"a dark grey to black crown\", \"a dark grey to black nape\", \"a black throat and breast\", \"a dark grey back\", \"a uniform dark grey wing\", \"a short, shallowly forked grey tail\", \"a distinct white patch on the lower belly and undertail\", \"reddish-colored legs and feet\", \"a dark eye\", \"a small, compact body shape\", \"long, pointed wings\"]",
+  "concepts": [
+    "a slender, pointed black bill",
+    "a dark grey to black crown",
+    "a dark grey to black nape",
+    "a black throat and breast",
+    "a dark grey back",
+    "a uniform dark grey wing",
+    "a short, shallowly forked grey tail",
+    "a distinct white patch on the lower belly and undertail",
+    "reddish-colored legs and feet",
+    "a dark eye",
+    "a small, compact body shape",
+    "long, pointed wings"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "023.Brandt_Cormorant",
+  "class_name": "Brandt Cormorant",
+  "image_paths": [
+    "023.Brandt_Cormorant/Brandt_Cormorant_0006_22925.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0045_22916.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0062_23038.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0074_22881.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0082_22978.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender hooked bill\",\n  \"a dark-colored iridescent body\",\n  \"a distinct blue gular pouch\",\n  \"webbed feet\",\n  \"a long neck\",\n  \"a slender body profile\",\n  \"blue eyes\",\n  \"a pointed tail\",\n  \"dark brown juvenile plumage\",\n  \"pale lighter-colored chest plumage in juveniles\",\n  \"black legs\",\n  \"prominent plumage texture on the neck and wings\"\n]",
+  "concepts": [
+    "a long slender hooked bill",
+    "a dark-colored iridescent body",
+    "a distinct blue gular pouch",
+    "webbed feet",
+    "a long neck",
+    "a slender body profile",
+    "blue eyes",
+    "a pointed tail",
+    "dark brown juvenile plumage",
+    "pale lighter-colored chest plumage in juveniles",
+    "black legs",
+    "prominent plumage texture on the neck and wings"
+  ]
+}

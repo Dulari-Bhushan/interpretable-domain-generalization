@@ -1,0 +1,26 @@
+{
+  "class_folder": "184.Louisiana_Waterthrush",
+  "class_name": "Louisiana Waterthrush",
+  "image_paths": [
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0004_177455.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0041_795279.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0042_177551.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0049_795244.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0062_177285.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender pointed bill\",\n  \"a dark eye line\",\n  \"a prominent white eyebrow\",\n  \"a brown colored back\",\n  \"a white throat\",\n  \"dark brown streaks on the breast\",\n  \"dark brown streaks on the flanks\",\n  \"a light coloured belly\",\n  \"pinkish coloured legs\",\n  \"short tail\",\n  \"compact body shape\"\n]",
+  "concepts": [
+    "a slender pointed bill",
+    "a dark eye line",
+    "a prominent white eyebrow",
+    "a brown colored back",
+    "a white throat",
+    "dark brown streaks on the breast",
+    "dark brown streaks on the flanks",
+    "a light coloured belly",
+    "pinkish coloured legs",
+    "short tail",
+    "compact body shape"
+  ]
+}

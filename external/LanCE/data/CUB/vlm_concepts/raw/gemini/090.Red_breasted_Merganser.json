@@ -1,0 +1,28 @@
+{
+  "class_folder": "090.Red_breasted_Merganser",
+  "class_name": "Red breasted Merganser",
+  "image_paths": [
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0022_79274.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0049_79432.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0074_79497.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0078_79393.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0081_79396.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, serrated-looking bill\",\n  \"a bright orange to reddish bill\",\n  \"a shaggy, multi-pointed crest\",\n  \"a dark, metallic green or brown crown\",\n  \"a white collar separating the head from the breast\",\n  \"a streaked or mottled reddish-brown breast\",\n  \"a dark or greyish patterned back\",\n  \"a red iris\",\n  \"a long, streamlined, low-profile body shape\",\n  \"white patches visible on folded wings\",\n  \"a slender neck\",\n  \"a light-colored, mottled throat\",\n  \"a relatively small, rounded eye\"\n]",
+  "concepts": [
+    "a slender, serrated-looking bill",
+    "a bright orange to reddish bill",
+    "a shaggy, multi-pointed crest",
+    "a dark, metallic green or brown crown",
+    "a white collar separating the head from the breast",
+    "a streaked or mottled reddish-brown breast",
+    "a dark or greyish patterned back",
+    "a red iris",
+    "a long, streamlined, low-profile body shape",
+    "white patches visible on folded wings",
+    "a slender neck",
+    "a light-colored, mottled throat",
+    "a relatively small, rounded eye"
+  ]
+}

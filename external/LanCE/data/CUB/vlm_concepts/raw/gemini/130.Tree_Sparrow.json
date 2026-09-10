@@ -1,0 +1,27 @@
+{
+  "class_folder": "130.Tree_Sparrow",
+  "class_name": "Tree Sparrow",
+  "image_paths": [
+    "130.Tree_Sparrow/Tree_Sparrow_0034_123799.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0057_123665.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0101_124104.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0122_123927.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0130_124932.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a dark rufous crown\",\n  \"a light gray eyebrow stripe\",\n  \"a dark eye-line\",\n  \"a pale gray face\",\n  \"a dark spot on the side of the breast\",\n  \"a smooth unstreaked light gray throat and breast\",\n  \"a small, pointed, bi-colored bill\",\n  \"a rufous and brown streaked back\",\n  \"dark wings with distinct white wing bars\",\n  \"a long, thin, dark-colored tail\",\n  \"a compact, rounded body shape\",\n  \"thin, dark legs\"\n]",
+  "concepts": [
+    "a dark rufous crown",
+    "a light gray eyebrow stripe",
+    "a dark eye-line",
+    "a pale gray face",
+    "a dark spot on the side of the breast",
+    "a smooth unstreaked light gray throat and breast",
+    "a small, pointed, bi-colored bill",
+    "a rufous and brown streaked back",
+    "dark wings with distinct white wing bars",
+    "a long, thin, dark-colored tail",
+    "a compact, rounded body shape",
+    "thin, dark legs"
+  ]
+}

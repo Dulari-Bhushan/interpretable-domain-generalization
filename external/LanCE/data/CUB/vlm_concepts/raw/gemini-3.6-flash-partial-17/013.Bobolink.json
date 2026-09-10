@@ -1,0 +1,25 @@
+{
+  "class_folder": "013.Bobolink",
+  "class_name": "Bobolink",
+  "image_paths": [
+    "013.Bobolink/Bobolink_0001_9261.jpg",
+    "013.Bobolink/Bobolink_0019_10552.jpg",
+    "013.Bobolink/Bobolink_0047_9204.jpg",
+    "013.Bobolink/Bobolink_0102_10807.jpg",
+    "013.Bobolink/Bobolink_0119_10430.jpg"
+  ],
+  "raw_response": "[\n  \"a stout, conical dark bill\",\n  \"a black face, crown, and throat\",\n  \"a contrasting buff-yellow or creamy nape\",\n  \"solid black breast and belly\",\n  \"a bold white patch on the upper back and scapulars\",\n  \"a white lower back and rump\",\n  \"black wings with light buffy or white feather edges\",\n  \"a black tail\",\n  \"pinkish to light-brown legs\",\n  \"long, slender claws\",\n  \"dark eyes\"\n]",
+  "concepts": [
+    "a stout, conical dark bill",
+    "a black face, crown, and throat",
+    "a contrasting buff-yellow or creamy nape",
+    "solid black breast and belly",
+    "a bold white patch on the upper back and scapulars",
+    "a white lower back and rump",
+    "black wings with light buffy or white feather edges",
+    "a black tail",
+    "pinkish to light-brown legs",
+    "long, slender claws",
+    "dark eyes"
+  ]
+}

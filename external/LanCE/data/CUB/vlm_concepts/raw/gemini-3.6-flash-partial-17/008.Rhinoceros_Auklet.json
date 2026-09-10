@@ -1,0 +1,24 @@
+{
+  "class_folder": "008.Rhinoceros_Auklet",
+  "class_name": "Rhinoceros Auklet",
+  "image_paths": [
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0010_797545.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0012_2161.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0016_2114.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0017_2155.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0028_2056.jpg"
+  ],
+  "raw_response": "[\n  \"a small pale horn projection at the base of the upper bill\",\n  \"a bright orange-yellow bill\",\n  \"a thin white facial plume extending behind the eye\",\n  \"a thin white facial plume extending from the gape along the cheek\",\n  \"pale yellow or light-colored eyes\",\n  \"dark greyish-brown head, back, and wings\",\n  \"pale greyish-white belly and lower breast\",\n  \"a compact, stocky body shape\",\n  \"short pointed dark wings\",\n  \"pale yellowish to greyish legs and webbed feet\"\n]",
+  "concepts": [
+    "a small pale horn projection at the base of the upper bill",
+    "a bright orange-yellow bill",
+    "a thin white facial plume extending behind the eye",
+    "a thin white facial plume extending from the gape along the cheek",
+    "pale yellow or light-colored eyes",
+    "dark greyish-brown head, back, and wings",
+    "pale greyish-white belly and lower breast",
+    "a compact, stocky body shape",
+    "short pointed dark wings",
+    "pale yellowish to greyish legs and webbed feet"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "197.Marsh_Wren",
+  "class_name": "Marsh Wren",
+  "image_paths": [
+    "197.Marsh_Wren/Marsh_Wren_0019_188460.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0056_188241.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0094_188710.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0095_188371.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0141_188796.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, slightly decurved bill\",\n  \"a dark brown, solid-colored crown\",\n  \"a prominent, bold white supercilium\",\n  \"a dark brown line through the eye\",\n  \"a plain, unstreaked off-white or light buff throat\",\n  \"a light buff or brownish breast\",\n  \"a back with a conspicuous patch of longitudinal white streaking\",\n  \"a brown wing with faint barring\",\n  \"a short, rounded tail with dark barring\",\n  \"long, slender, light-colored legs\",\n  \"a small, compact, round body shape\",\n  \"dark brown eye color\"\n]",
+  "concepts": [
+    "a thin, pointed, slightly decurved bill",
+    "a dark brown, solid-colored crown",
+    "a prominent, bold white supercilium",
+    "a dark brown line through the eye",
+    "a plain, unstreaked off-white or light buff throat",
+    "a light buff or brownish breast",
+    "a back with a conspicuous patch of longitudinal white streaking",
+    "a brown wing with faint barring",
+    "a short, rounded tail with dark barring",
+    "long, slender, light-colored legs",
+    "a small, compact, round body shape",
+    "dark brown eye color"
+  ]
+}

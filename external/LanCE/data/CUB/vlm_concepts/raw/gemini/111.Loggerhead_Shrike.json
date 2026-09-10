@@ -1,0 +1,27 @@
+{
+  "class_folder": "111.Loggerhead_Shrike",
+  "class_name": "Loggerhead Shrike",
+  "image_paths": [
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0018_26407.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0029_104849.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0046_104998.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0052_105120.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0127_105742.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick black mask extending through the eye\",\n  \"a hooked, raptor-like bill\",\n  \"a grey crown and nape\",\n  \"a dark, nearly black bill\",\n  \"a bright white throat\",\n  \"a pale grey to white breast and belly\",\n  \"a slate-grey back\",\n  \"prominent black wings with white patches\",\n  \"a long, thin, dark-colored tail\",\n  \"dark-colored, relatively stout legs\",\n  \"a large, blocky-shaped head\",\n  \"a compact and stocky body profile\"\n]",
+  "concepts": [
+    "a thick black mask extending through the eye",
+    "a hooked, raptor-like bill",
+    "a grey crown and nape",
+    "a dark, nearly black bill",
+    "a bright white throat",
+    "a pale grey to white breast and belly",
+    "a slate-grey back",
+    "prominent black wings with white patches",
+    "a long, thin, dark-colored tail",
+    "dark-colored, relatively stout legs",
+    "a large, blocky-shaped head",
+    "a compact and stocky body profile"
+  ]
+}

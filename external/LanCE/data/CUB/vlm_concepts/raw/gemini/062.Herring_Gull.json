@@ -1,0 +1,28 @@
+{
+  "class_folder": "062.Herring_Gull",
+  "class_name": "Herring Gull",
+  "image_paths": [
+    "062.Herring_Gull/Herring_Gull_0014_47814.jpg",
+    "062.Herring_Gull/Herring_Gull_0026_48041.jpg",
+    "062.Herring_Gull/Herring_Gull_0052_46810.jpg",
+    "062.Herring_Gull/Herring_Gull_0100_46677.jpg",
+    "062.Herring_Gull/Herring_Gull_0141_47184.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick yellow bill\",\n  \"a red spot on the lower mandible\",\n  \"a pale yellow eye\",\n  \"a white head and neck\",\n  \"a light grey mantle\",\n  \"black wingtips with white spots\",\n  \"a mottled brown and grey juvenile plumage\",\n  \"a dark brown streaked head\",\n  \"a white breast and underparts\",\n  \"fleshy pink legs\",\n  \"a robust body shape\",\n  \"a rounded crown\",\n  \"a straight culmen\"\n]",
+  "concepts": [
+    "a thick yellow bill",
+    "a red spot on the lower mandible",
+    "a pale yellow eye",
+    "a white head and neck",
+    "a light grey mantle",
+    "black wingtips with white spots",
+    "a mottled brown and grey juvenile plumage",
+    "a dark brown streaked head",
+    "a white breast and underparts",
+    "fleshy pink legs",
+    "a robust body shape",
+    "a rounded crown",
+    "a straight culmen"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "class_folder": "161.Blue_winged_Warbler",
+  "class_name": "Blue winged Warbler",
+  "image_paths": [
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0014_161783.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0021_161858.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0036_161758.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0077_162021.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0082_161772.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin pointed bill\",\n  \"a black line through the eye\",\n  \"a vibrant yellow crown\",\n  \"a yellow throat\",\n  \"a yellow breast\",\n  \"a yellow belly\",\n  \"an olive-green back\",\n  \"a grey wing\",\n  \"two white wing bars\",\n  \"a white patch on the wing coverts\",\n  \"a small, compact body shape\",\n  \"a slender tail\",\n  \"dark grey legs\"\n]",
+  "concepts": [
+    "a thin pointed bill",
+    "a black line through the eye",
+    "a vibrant yellow crown",
+    "a yellow throat",
+    "a yellow breast",
+    "a yellow belly",
+    "an olive-green back",
+    "a grey wing",
+    "two white wing bars",
+    "a white patch on the wing coverts",
+    "a small, compact body shape",
+    "a slender tail",
+    "dark grey legs"
+  ]
+}

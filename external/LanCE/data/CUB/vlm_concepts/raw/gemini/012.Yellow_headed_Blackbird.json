@@ -1,0 +1,27 @@
+{
+  "class_folder": "012.Yellow_headed_Blackbird",
+  "class_name": "Yellow headed Blackbird",
+  "image_paths": [
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0007_8366.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0025_8262.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0031_8456.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0051_8387.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0091_8555.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright yellow head\",\n  \"solid black body plumage\",\n  \"black facial mask surrounding eyes\",\n  \"pointed black bill\",\n  \"distinct white wing patch\",\n  \"yellow throat and upper breast\",\n  \"dark brown or black eyes\",\n  \"sharp, dark-colored claws\",\n  \"black tail feathers\",\n  \"slender, medium-sized body\",\n  \"long, pointed wings\",\n  \"stiff, tapered tail\"\n]",
+  "concepts": [
+    "bright yellow head",
+    "solid black body plumage",
+    "black facial mask surrounding eyes",
+    "pointed black bill",
+    "distinct white wing patch",
+    "yellow throat and upper breast",
+    "dark brown or black eyes",
+    "sharp, dark-colored claws",
+    "black tail feathers",
+    "slender, medium-sized body",
+    "long, pointed wings",
+    "stiff, tapered tail"
+  ]
+}

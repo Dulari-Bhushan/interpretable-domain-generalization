@@ -1,0 +1,27 @@
+{
+  "class_folder": "174.Palm_Warbler",
+  "class_name": "Palm Warbler",
+  "image_paths": [
+    "174.Palm_Warbler/Palm_Warbler_0054_169175.jpg",
+    "174.Palm_Warbler/Palm_Warbler_0055_170219.jpg",
+    "174.Palm_Warbler/Palm_Warbler_0092_170604.jpg",
+    "174.Palm_Warbler/Palm_Warbler_0093_170499.jpg",
+    "174.Palm_Warbler/Palm_Warbler_0133_169575.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"slender, pointed, dark-colored bill\",\n  \"rufous or brownish crown\",\n  \"prominent pale supercilium\",\n  \"dark eye-line\",\n  \"streaked breast and flanks\",\n  \"yellow undertail coverts\",\n  \"olive-brown to greyish upperparts\",\n  \"thin, dark legs\",\n  \"yellowish wash on the throat and breast\",\n  \"relatively long, thin tail\",\n  \"white or pale outer tail feathers\",\n  \"small, compact, warbler-like body shape\"\n]",
+  "concepts": [
+    "slender, pointed, dark-colored bill",
+    "rufous or brownish crown",
+    "prominent pale supercilium",
+    "dark eye-line",
+    "streaked breast and flanks",
+    "yellow undertail coverts",
+    "olive-brown to greyish upperparts",
+    "thin, dark legs",
+    "yellowish wash on the throat and breast",
+    "relatively long, thin tail",
+    "white or pale outer tail feathers",
+    "small, compact, warbler-like body shape"
+  ]
+}

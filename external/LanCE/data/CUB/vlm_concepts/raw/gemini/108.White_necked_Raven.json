@@ -1,0 +1,27 @@
+{
+  "class_folder": "108.White_necked_Raven",
+  "class_name": "White necked Raven",
+  "image_paths": [
+    "108.White_necked_Raven/White_Necked_Raven_0004_102714.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0007_102676.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0042_797356.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0044_797348.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, heavy bill\",\n  \"a white patch on the hindneck\",\n  \"black plumage\",\n  \"a pronounced arched culmen\",\n  \"an all-black bill\",\n  \"dark coloured legs\",\n  \"dark coloured feet\",\n  \"a large, robust body\",\n  \"a relatively short, squared tail\",\n  \"an iridescent sheen on the feathers\",\n  \"pointed wings\",\n  \"a dark iris\"\n]",
+  "concepts": [
+    "a thick, heavy bill",
+    "a white patch on the hindneck",
+    "black plumage",
+    "a pronounced arched culmen",
+    "an all-black bill",
+    "dark coloured legs",
+    "dark coloured feet",
+    "a large, robust body",
+    "a relatively short, squared tail",
+    "an iridescent sheen on the feathers",
+    "pointed wings",
+    "a dark iris"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "class_folder": "118.House_Sparrow",
+  "class_name": "House Sparrow",
+  "image_paths": [
+    "118.House_Sparrow/House_Sparrow_0006_111034.jpg",
+    "118.House_Sparrow/House_Sparrow_0086_111385.jpg",
+    "118.House_Sparrow/House_Sparrow_0093_110990.jpg",
+    "118.House_Sparrow/House_Sparrow_0106_111564.jpg",
+    "118.House_Sparrow/House_Sparrow_0128_110971.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short conical bill\",\n  \"a dark grey or black bill\",\n  \"a light brown or buffy stripe behind the eye\",\n  \"a chestnut or rufous patch on the side of the head\",\n  \"a grey or slate-colored crown\",\n  \"a black patch on the throat\",\n  \"a black patch on the upper breast\",\n  \"a pale greyish-brown breast and belly\",\n  \"a mottled brown and black patterned back\",\n  \"a distinct white bar on the wing\",\n  \"brown and black streaked wings\",\n  \"short, pale brown legs\",\n  \"a small, compact, round-bodied shape\"\n]",
+  "concepts": [
+    "a short conical bill",
+    "a dark grey or black bill",
+    "a light brown or buffy stripe behind the eye",
+    "a chestnut or rufous patch on the side of the head",
+    "a grey or slate-colored crown",
+    "a black patch on the throat",
+    "a black patch on the upper breast",
+    "a pale greyish-brown breast and belly",
+    "a mottled brown and black patterned back",
+    "a distinct white bar on the wing",
+    "brown and black streaked wings",
+    "short, pale brown legs",
+    "a small, compact, round-bodied shape"
+  ]
+}

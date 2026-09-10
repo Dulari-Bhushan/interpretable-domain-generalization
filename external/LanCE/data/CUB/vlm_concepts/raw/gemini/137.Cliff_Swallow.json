@@ -1,0 +1,27 @@
+{
+  "class_folder": "137.Cliff_Swallow",
+  "class_name": "Cliff Swallow",
+  "image_paths": [
+    "137.Cliff_Swallow/Cliff_Swallow_0005_133696.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0023_134314.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0046_133165.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0049_132965.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0071_133742.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, dark, pointed bill\",\n  \"a dark-coloured crown\",\n  \"a pale, off-white forehead patch\",\n  \"a deep, reddish-brown throat and face patch\",\n  \"dark brown or blackish wings\",\n  \"a dark, bluish-toned back\",\n  \"a brownish-buff coloured nape\",\n  \"a pale, whitish underbelly\",\n  \"a compact, teardrop-shaped body\",\n  \"long, pointed wings\",\n  \"a short, squared-off tail\",\n  \"small, dark-coloured legs and feet\"\n]",
+  "concepts": [
+    "a short, dark, pointed bill",
+    "a dark-coloured crown",
+    "a pale, off-white forehead patch",
+    "a deep, reddish-brown throat and face patch",
+    "dark brown or blackish wings",
+    "a dark, bluish-toned back",
+    "a brownish-buff coloured nape",
+    "a pale, whitish underbelly",
+    "a compact, teardrop-shaped body",
+    "long, pointed wings",
+    "a short, squared-off tail",
+    "small, dark-coloured legs and feet"
+  ]
+}

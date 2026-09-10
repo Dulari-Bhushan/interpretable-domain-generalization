@@ -1,0 +1,27 @@
+{
+  "class_folder": "009.Brewer_Blackbird",
+  "class_name": "Brewer Blackbird",
+  "image_paths": [
+    "009.Brewer_Blackbird/Brewer_Blackbird_0026_2625.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0078_2659.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0095_2610.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0109_2232.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0132_2293.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, sharp, black bill\",\n  \"a pale yellow or cream-colored iris\",\n  \"a smallish, rounded head\",\n  \"an iridescent, glossy black plumage in males\",\n  \"a dull, brownish-gray plumage in females\",\n  \"a metallic violet sheen on the head of males\",\n  \"a subtle green sheen on the body of males\",\n  \"a fairly long, squared or slightly rounded tail\",\n  \"moderately long, thin legs and feet\",\n  \"a stout, compact body shape\",\n  \"plain, dark-colored legs and feet\",\n  \"uniform coloration across the wings\"\n]",
+  "concepts": [
+    "a slender, sharp, black bill",
+    "a pale yellow or cream-colored iris",
+    "a smallish, rounded head",
+    "an iridescent, glossy black plumage in males",
+    "a dull, brownish-gray plumage in females",
+    "a metallic violet sheen on the head of males",
+    "a subtle green sheen on the body of males",
+    "a fairly long, squared or slightly rounded tail",
+    "moderately long, thin legs and feet",
+    "a stout, compact body shape",
+    "plain, dark-colored legs and feet",
+    "uniform coloration across the wings"
+  ]
+}

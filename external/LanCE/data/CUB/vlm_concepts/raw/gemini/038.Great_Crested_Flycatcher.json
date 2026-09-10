@@ -1,0 +1,25 @@
+{
+  "class_folder": "038.Great_Crested_Flycatcher",
+  "class_name": "Great Crested Flycatcher",
+  "image_paths": [
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0040_29447.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0058_29523.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0099_29305.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0105_29456.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0136_29490.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a crested crown\", \"a dark eye\", \"a bicolored bill\", \"a gray throat and breast\", \"a bright yellow belly\", \"a reddish-brown tail\", \"brownish wings with white or pale wing bars\", \"an olive-brown back\", \"an upright posture\", \"a medium-sized body shape\"]",
+  "concepts": [
+    "a crested crown",
+    "a dark eye",
+    "a bicolored bill",
+    "a gray throat and breast",
+    "a bright yellow belly",
+    "a reddish-brown tail",
+    "brownish wings with white or pale wing bars",
+    "an olive-brown back",
+    "an upright posture",
+    "a medium-sized body shape"
+  ]
+}

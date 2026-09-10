@@ -1,0 +1,27 @@
+{
+  "class_folder": "027.Shiny_Cowbird",
+  "class_name": "Shiny Cowbird",
+  "image_paths": [
+    "027.Shiny_Cowbird/Shiny_Cowbird_0006_796864.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0010_24439.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0024_24281.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0034_796849.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0036_24274.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, conical, black bill\",\n  \"an iridescent, glossy, dark-violet to blue-black plumage in males\",\n  \"a plain, dull, brownish-grey plumage in females\",\n  \"a dark-colored iris\",\n  \"a compact, sparrow-like body shape\",\n  \"rounded wings\",\n  \"a medium-length, square-tipped tail\",\n  \"dark-colored, thin legs\",\n  \"dark-colored feet\",\n  \"a relatively small, rounded head\",\n  \"a plain, unstreaked breast\",\n  \"an absence of bright or contrasting color markings\"\n]",
+  "concepts": [
+    "a short, conical, black bill",
+    "an iridescent, glossy, dark-violet to blue-black plumage in males",
+    "a plain, dull, brownish-grey plumage in females",
+    "a dark-colored iris",
+    "a compact, sparrow-like body shape",
+    "rounded wings",
+    "a medium-length, square-tipped tail",
+    "dark-colored, thin legs",
+    "dark-colored feet",
+    "a relatively small, rounded head",
+    "a plain, unstreaked breast",
+    "an absence of bright or contrasting color markings"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "191.Red_headed_Woodpecker",
+  "class_name": "Red headed Woodpecker",
+  "image_paths": [
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0041_182788.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0052_182702.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0066_183322.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0076_183288.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0108_183403.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a fully red head\",\n  \"a solid black back\",\n  \"a bright white breast and belly\",\n  \"a solid black tail\",\n  \"large white patches on the wings\",\n  \"a sharp, pointed, light-colored bill\",\n  \"dark, round eyes\",\n  \"sturdy, sharp, hooked claws for gripping\",\n  \"a stout, compact body shape\",\n  \"a stiff, pointed tail for bracing\",\n  \"strong, zygodactyl foot arrangement\"\n]",
+  "concepts": [
+    "a fully red head",
+    "a solid black back",
+    "a bright white breast and belly",
+    "a solid black tail",
+    "large white patches on the wings",
+    "a sharp, pointed, light-colored bill",
+    "dark, round eyes",
+    "sturdy, sharp, hooked claws for gripping",
+    "a stout, compact body shape",
+    "a stiff, pointed tail for bracing",
+    "strong, zygodactyl foot arrangement"
+  ]
+}

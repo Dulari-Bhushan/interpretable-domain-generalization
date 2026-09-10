@@ -1,0 +1,26 @@
+{
+  "class_folder": "008.Rhinoceros_Auklet",
+  "class_name": "Rhinoceros Auklet",
+  "image_paths": [
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0010_797545.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0012_2161.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0016_2114.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0017_2155.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0028_2056.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a greyish-brown head and upper body\",\n  \"a paler greyish-white belly and breast\",\n  \"a stout, orange-yellow bill\",\n  \"a prominent, upright horn-like projection at the base of the upper mandible\",\n  \"white, thin, plume-like feathers extending from behind the eye and from the gape\",\n  \"a dark, brownish-grey eye\",\n  \"a medium-sized, stocky, compact body\",\n  \"a short, thick neck\",\n  \"pointed, dark wings\",\n  \"short, webbed feet\",\n  \"a short, dark tail\"\n]",
+  "concepts": [
+    "a greyish-brown head and upper body",
+    "a paler greyish-white belly and breast",
+    "a stout, orange-yellow bill",
+    "a prominent, upright horn-like projection at the base of the upper mandible",
+    "white, thin, plume-like feathers extending from behind the eye and from the gape",
+    "a dark, brownish-grey eye",
+    "a medium-sized, stocky, compact body",
+    "a short, thick neck",
+    "pointed, dark wings",
+    "short, webbed feet",
+    "a short, dark tail"
+  ]
+}

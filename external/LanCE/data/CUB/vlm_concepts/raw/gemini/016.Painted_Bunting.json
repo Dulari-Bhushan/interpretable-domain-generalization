@@ -1,0 +1,26 @@
+{
+  "class_folder": "016.Painted_Bunting",
+  "class_name": "Painted Bunting",
+  "image_paths": [
+    "016.Painted_Bunting/Painted_Bunting_0046_16535.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0050_16670.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0061_16930.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0073_16737.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0084_16531.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, seed-eating bill\",\n  \"a vibrant blue head\",\n  \"a red breast and underparts\",\n  \"a bright lime-green back\",\n  \"a dark-colored eye\",\n  \"dark grey or black legs and feet\",\n  \"a chunky, sparrow-like body shape\",\n  \"wing feathers with green and dark edges\",\n  \"a short to medium-length tail\",\n  \"a short neck\",\n  \"a distinct contrast between the blue head and red breast\"\n]",
+  "concepts": [
+    "a conical, seed-eating bill",
+    "a vibrant blue head",
+    "a red breast and underparts",
+    "a bright lime-green back",
+    "a dark-colored eye",
+    "dark grey or black legs and feet",
+    "a chunky, sparrow-like body shape",
+    "wing feathers with green and dark edges",
+    "a short to medium-length tail",
+    "a short neck",
+    "a distinct contrast between the blue head and red breast"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "class_folder": "144.Common_Tern",
+  "class_name": "Common Tern",
+  "image_paths": [
+    "144.Common_Tern/Common_Tern_0025_147728.jpg",
+    "144.Common_Tern/Common_Tern_0029_148035.jpg",
+    "144.Common_Tern/Common_Tern_0033_148675.jpg",
+    "144.Common_Tern/Common_Tern_0064_148761.jpg",
+    "144.Common_Tern/Common_Tern_0077_149196.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a black cap on the crown\",\n  \"a thin, pointed, red-orange bill\",\n  \"a black tip on the bill\",\n  \"a white neck and throat\",\n  \"light grey wings and back\",\n  \"a white breast and underparts\",\n  \"a deeply forked tail\",\n  \"a slender body shape\",\n  \"long, pointed, narrow wings\",\n  \"bright orange-red legs\",\n  \"small, dark-colored feet\",\n  \"a dark eye\",\n  \"an overall streamlined silhouette\"\n]",
+  "concepts": [
+    "a black cap on the crown",
+    "a thin, pointed, red-orange bill",
+    "a black tip on the bill",
+    "a white neck and throat",
+    "light grey wings and back",
+    "a white breast and underparts",
+    "a deeply forked tail",
+    "a slender body shape",
+    "long, pointed, narrow wings",
+    "bright orange-red legs",
+    "small, dark-colored feet",
+    "a dark eye",
+    "an overall streamlined silhouette"
+  ]
+}

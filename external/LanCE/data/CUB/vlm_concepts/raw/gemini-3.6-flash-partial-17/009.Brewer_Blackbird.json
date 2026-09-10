@@ -1,0 +1,24 @@
+{
+  "class_folder": "009.Brewer_Blackbird",
+  "class_name": "Brewer Blackbird",
+  "image_paths": [
+    "009.Brewer_Blackbird/Brewer_Blackbird_0026_2625.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0078_2659.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0095_2610.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0109_2232.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0132_2293.jpg"
+  ],
+  "raw_response": "[\n  \"a sharp, straight, pointed black bill\",\n  \"a bright pale yellow eye in males\",\n  \"a dark eye in females\",\n  \"iridescent purplish gloss on the head and neck of males\",\n  \"glossy black plumage with a greenish-blue sheen on the body and wings\",\n  \"overall brownish-gray plumage in females\",\n  \"slender black legs and feet\",\n  \"a medium-long black tail that can fan out\",\n  \"a slightly paler brown head and throat in females\",\n  \"a compact body with a rounded crown\"\n]",
+  "concepts": [
+    "a sharp, straight, pointed black bill",
+    "a bright pale yellow eye in males",
+    "a dark eye in females",
+    "iridescent purplish gloss on the head and neck of males",
+    "glossy black plumage with a greenish-blue sheen on the body and wings",
+    "overall brownish-gray plumage in females",
+    "slender black legs and feet",
+    "a medium-long black tail that can fan out",
+    "a slightly paler brown head and throat in females",
+    "a compact body with a rounded crown"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "class_folder": "011.Rusty_Blackbird",
+  "class_name": "Rusty Blackbird",
+  "image_paths": [
+    "011.Rusty_Blackbird/Rusty_Blackbird_0016_6684.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0023_6752.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0036_6550.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0073_6744.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0093_6628.jpg"
+  ],
+  "raw_response": "[\n  \"a pale yellow eye\",\n  \"a straight, pointed black bill\",\n  \"rusty-brown edging on the back and wing feathers\",\n  \"a cinnamon or rusty-brown crown and nape\",\n  \"dark grey to black lower underparts\",\n  \"a medium-length dark blackish tail\",\n  \"mottled brownish-buff throat and breast\",\n  \"dark blackish legs and feet\",\n  \"a dark smudge or mask around the eye\",\n  \"a sleek blackbird body shape\"\n]",
+  "concepts": [
+    "a pale yellow eye",
+    "a straight, pointed black bill",
+    "rusty-brown edging on the back and wing feathers",
+    "a cinnamon or rusty-brown crown and nape",
+    "dark grey to black lower underparts",
+    "a medium-length dark blackish tail",
+    "mottled brownish-buff throat and breast",
+    "dark blackish legs and feet",
+    "a dark smudge or mask around the eye",
+    "a sleek blackbird body shape"
+  ]
+}

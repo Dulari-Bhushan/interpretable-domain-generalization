@@ -1,0 +1,27 @@
+{
+  "class_folder": "121.Grasshopper_Sparrow",
+  "class_name": "Grasshopper Sparrow",
+  "image_paths": [
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0001_115938.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0003_115676.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0020_116289.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0039_115980.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, conical, pale-colored bill\",\n  \"a flat-crowned head profile\",\n  \"a dark eye\",\n  \"a buffy-colored face and breast\",\n  \"distinctly streaked brown back and wing feathers\",\n  \"a yellow patch at the bend of the wing\",\n  \"a pale, thin line running down the center of the crown\",\n  \"a dark-bordered pale supercilium\",\n  \"short, pointed tail feathers\",\n  \"light-colored, slender legs\",\n  \"a compact, chunky overall body shape\",\n  \"dark lateral crown stripes\"\n]",
+  "concepts": [
+    "a thick, conical, pale-colored bill",
+    "a flat-crowned head profile",
+    "a dark eye",
+    "a buffy-colored face and breast",
+    "distinctly streaked brown back and wing feathers",
+    "a yellow patch at the bend of the wing",
+    "a pale, thin line running down the center of the crown",
+    "a dark-bordered pale supercilium",
+    "short, pointed tail feathers",
+    "light-colored, slender legs",
+    "a compact, chunky overall body shape",
+    "dark lateral crown stripes"
+  ]
+}

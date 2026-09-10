@@ -1,0 +1,28 @@
+{
+  "class_folder": "125.Lincoln_Sparrow",
+  "class_name": "Lincoln Sparrow",
+  "image_paths": [
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0014_117883.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0032_117747.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0059_117271.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0084_117492.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0108_117773.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, pointed bill\",\n  \"a grey supercilium\",\n  \"a finely streaked buffy breast\",\n  \"dark brown streaks on the flanks\",\n  \"a brown and grey striped crown\",\n  \"a white throat patch\",\n  \"a distinct dark malar stripe\",\n  \"dark brown streaking on the back\",\n  \"dark brown wing feathers with lighter edges\",\n  \"pale pinkish-brown legs\",\n  \"a medium-length, pointed tail\",\n  \"a small, compact body shape\",\n  \"a dark eye with a narrow, pale eye-ring\"\n]",
+  "concepts": [
+    "a conical, pointed bill",
+    "a grey supercilium",
+    "a finely streaked buffy breast",
+    "dark brown streaks on the flanks",
+    "a brown and grey striped crown",
+    "a white throat patch",
+    "a distinct dark malar stripe",
+    "dark brown streaking on the back",
+    "dark brown wing feathers with lighter edges",
+    "pale pinkish-brown legs",
+    "a medium-length, pointed tail",
+    "a small, compact body shape",
+    "a dark eye with a narrow, pale eye-ring"
+  ]
+}

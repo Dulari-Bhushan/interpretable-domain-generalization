@@ -1,0 +1,27 @@
+{
+  "class_folder": "102.Western_Wood_Pewee",
+  "class_name": "Western Wood Pewee",
+  "image_paths": [
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0003_795050.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0011_98205.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0016_98082.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0021_98101.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0081_98270.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"peaked crown\",\n  \"relatively long primary feathers\",\n  \"grey-brown upperparts\",\n  \"lighter greyish-white throat\",\n  \"faintly streaked breast\",\n  \"prominent pale wing bars\",\n  \"straight, thin, dark bill\",\n  \"yellowish-orange base of lower mandible\",\n  \"dark eye\",\n  \"rounded tail tip\",\n  \"upright, perched posture\",\n  \"small body size\"\n]",
+  "concepts": [
+    "peaked crown",
+    "relatively long primary feathers",
+    "grey-brown upperparts",
+    "lighter greyish-white throat",
+    "faintly streaked breast",
+    "prominent pale wing bars",
+    "straight, thin, dark bill",
+    "yellowish-orange base of lower mandible",
+    "dark eye",
+    "rounded tail tip",
+    "upright, perched posture",
+    "small body size"
+  ]
+}

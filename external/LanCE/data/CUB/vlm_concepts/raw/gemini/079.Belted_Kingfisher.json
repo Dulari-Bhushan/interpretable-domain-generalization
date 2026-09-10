@@ -1,0 +1,27 @@
+{
+  "class_folder": "079.Belted_Kingfisher",
+  "class_name": "Belted Kingfisher",
+  "image_paths": [
+    "079.Belted_Kingfisher/Belted_Kingfisher_0011_70923.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0055_70517.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0072_70924.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0073_70326.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0085_70503.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large shaggy crest on the head\",\n  \"a long thick pointed black bill\",\n  \"a dark blue-grey back and wings\",\n  \"a solid white throat\",\n  \"a broad blue-grey breast band\",\n  \"a rufous band across the belly\",\n  \"white underparts\",\n  \"a small white spot near the eye\",\n  \"short dark legs\",\n  \"a short square tail\",\n  \"a stocky body shape\",\n  \"dark eyes\"\n]",
+  "concepts": [
+    "a large shaggy crest on the head",
+    "a long thick pointed black bill",
+    "a dark blue-grey back and wings",
+    "a solid white throat",
+    "a broad blue-grey breast band",
+    "a rufous band across the belly",
+    "white underparts",
+    "a small white spot near the eye",
+    "short dark legs",
+    "a short square tail",
+    "a stocky body shape",
+    "dark eyes"
+  ]
+}

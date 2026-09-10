@@ -1,0 +1,28 @@
+{
+  "class_folder": "123.Henslow_Sparrow",
+  "class_name": "Henslow Sparrow",
+  "image_paths": [
+    "123.Henslow_Sparrow/Henslow_Sparrow_0002_116930.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0018_116834.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0027_796543.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0058_796616.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0096_116758.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a relatively large, thick, pale-colored bill\",\n  \"a flat, wide head profile\",\n  \"a pale, olive-greenish crown with a darker central stripe\",\n  \"dark lateral crown stripes\",\n  \"a distinct dark line behind the eye\",\n  \"a buff-colored face and throat\",\n  \"distinct dark malar streaks on the sides of the throat\",\n  \"a buff-colored chest and upper breast\",\n  \"narrow, crisp dark streaks on the breast and flanks\",\n  \"rich rufous-colored wings with dark centers on the feathers\",\n  \"a short, thin, pointed tail\",\n  \"pale, light-colored legs and feet\",\n  \"a compact, somewhat plump body shape\"\n]",
+  "concepts": [
+    "a relatively large, thick, pale-colored bill",
+    "a flat, wide head profile",
+    "a pale, olive-greenish crown with a darker central stripe",
+    "dark lateral crown stripes",
+    "a distinct dark line behind the eye",
+    "a buff-colored face and throat",
+    "distinct dark malar streaks on the sides of the throat",
+    "a buff-colored chest and upper breast",
+    "narrow, crisp dark streaks on the breast and flanks",
+    "rich rufous-colored wings with dark centers on the feathers",
+    "a short, thin, pointed tail",
+    "pale, light-colored legs and feet",
+    "a compact, somewhat plump body shape"
+  ]
+}

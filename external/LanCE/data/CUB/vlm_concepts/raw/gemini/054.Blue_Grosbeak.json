@@ -1,0 +1,27 @@
+{
+  "class_folder": "054.Blue_Grosbeak",
+  "class_name": "Blue Grosbeak",
+  "image_paths": [
+    "054.Blue_Grosbeak/Blue_Grosbeak_0009_36992.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0031_37173.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0053_36709.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0093_37107.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0094_36995.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large, thick, cone-shaped bill\",\n  \"a deep blue head\",\n  \"a deep blue breast\",\n  \"a deep blue back\",\n  \"two distinct, wide rufous wing bars\",\n  \"dark flight feathers with light edges\",\n  \"a dark, blue-tinged tail\",\n  \"small, dark-colored feet\",\n  \"a dark, round eye\",\n  \"a relatively stocky, robust body shape\",\n  \"a short, thick neck\",\n  \"uniformly dark-colored legs\"\n]",
+  "concepts": [
+    "a large, thick, cone-shaped bill",
+    "a deep blue head",
+    "a deep blue breast",
+    "a deep blue back",
+    "two distinct, wide rufous wing bars",
+    "dark flight feathers with light edges",
+    "a dark, blue-tinged tail",
+    "small, dark-colored feet",
+    "a dark, round eye",
+    "a relatively stocky, robust body shape",
+    "a short, thick neck",
+    "uniformly dark-colored legs"
+  ]
+}

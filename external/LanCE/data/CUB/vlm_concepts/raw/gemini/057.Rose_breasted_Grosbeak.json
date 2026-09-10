@@ -1,0 +1,26 @@
+{
+  "class_folder": "057.Rose_breasted_Grosbeak",
+  "class_name": "Rose breasted Grosbeak",
+  "image_paths": [
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0077_39613.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0088_39035.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0097_39514.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0114_39770.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0135_39227.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, conical, pale-colored bill\",\n  \"a solid black head and face\",\n  \"a bright rose-red patch on the upper breast\",\n  \"a white belly and underparts\",\n  \"a black back with white wing markings\",\n  \"rounded wings with visible white patches\",\n  \"a short, black tail\",\n  \"small, dark-colored legs and feet\",\n  \"a dark-colored eye\",\n  \"a compact, chunky body shape\",\n  \"a short, thick neck\"\n]",
+  "concepts": [
+    "a thick, conical, pale-colored bill",
+    "a solid black head and face",
+    "a bright rose-red patch on the upper breast",
+    "a white belly and underparts",
+    "a black back with white wing markings",
+    "rounded wings with visible white patches",
+    "a short, black tail",
+    "small, dark-colored legs and feet",
+    "a dark-colored eye",
+    "a compact, chunky body shape",
+    "a short, thick neck"
+  ]
+}

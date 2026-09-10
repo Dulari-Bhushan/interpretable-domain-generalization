@@ -1,0 +1,27 @@
+{
+  "class_folder": "049.Boat_tailed_Grackle",
+  "class_name": "Boat tailed Grackle",
+  "image_paths": [
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0040_33417.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0050_33501.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0100_33985.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0112_33841.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0113_33490.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a long, pointed black bill\", \"a sharp, slender bill\", \"iridescent dark blue-black plumage\", \"a metallic purple sheen on the head\", \"a glossy green-blue sheen on the wings\", \"a dull brown uniform plumage\", \"a pale yellow iris\", \"a long, graduated, wedge-shaped tail\", \"a broad tail with a central crease\", \"a slender body shape\", \"long, dark, strong legs\", \"sharp, curved claws\"]",
+  "concepts": [
+    "a long, pointed black bill",
+    "a sharp, slender bill",
+    "iridescent dark blue-black plumage",
+    "a metallic purple sheen on the head",
+    "a glossy green-blue sheen on the wings",
+    "a dull brown uniform plumage",
+    "a pale yellow iris",
+    "a long, graduated, wedge-shaped tail",
+    "a broad tail with a central crease",
+    "a slender body shape",
+    "long, dark, strong legs",
+    "sharp, curved claws"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_folder": "014.Indigo_Bunting",
+  "class_name": "Indigo Bunting",
+  "image_paths": [
+    "014.Indigo_Bunting/Indigo_Bunting_0041_13987.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0047_12966.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0049_13641.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0076_12950.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0085_11991.jpg"
+  ],
+  "raw_response": "[\n  \"vibrant indigo-blue plumage overall\",\n  \"a bright blue head and crown\",\n  \"a short, conical bill\",\n  \"a dark upper mandible with a paler silvery lower mandible\",\n  \"dark brownish-black wing feathers edged in blue\",\n  \"a bright blue throat, breast, and belly\",\n  \"a blue back and rump\",\n  \"a dark slender tail\",\n  \"small dark eyes\",\n  \"dark grey legs and feet\",\n  \"a compact songbird body shape\"\n]",
+  "concepts": [
+    "vibrant indigo-blue plumage overall",
+    "a bright blue head and crown",
+    "a short, conical bill",
+    "a dark upper mandible with a paler silvery lower mandible",
+    "dark brownish-black wing feathers edged in blue",
+    "a bright blue throat, breast, and belly",
+    "a blue back and rump",
+    "a dark slender tail",
+    "small dark eyes",
+    "dark grey legs and feet",
+    "a compact songbird body shape"
+  ]
+}

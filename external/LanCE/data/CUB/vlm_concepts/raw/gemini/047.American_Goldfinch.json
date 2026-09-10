@@ -1,0 +1,26 @@
+{
+  "class_folder": "047.American_Goldfinch",
+  "class_name": "American Goldfinch",
+  "image_paths": [
+    "047.American_Goldfinch/American_Goldfinch_0026_32222.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0092_32910.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0104_32540.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0133_32802.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0135_32107.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright yellow plumage on head and body\",\n  \"solid black cap on forehead\",\n  \"conical orange-yellow bill\",\n  \"black wings with prominent white wing bars\",\n  \"black and white patterned tail\",\n  \"small, stout body shape\",\n  \"dark brown or blackish eyes\",\n  \"light-colored legs and feet\",\n  \"distinctly rounded breast\",\n  \"short, notched tail\",\n  \"white tips on secondary wing feathers\"\n]",
+  "concepts": [
+    "bright yellow plumage on head and body",
+    "solid black cap on forehead",
+    "conical orange-yellow bill",
+    "black wings with prominent white wing bars",
+    "black and white patterned tail",
+    "small, stout body shape",
+    "dark brown or blackish eyes",
+    "light-colored legs and feet",
+    "distinctly rounded breast",
+    "short, notched tail",
+    "white tips on secondary wing feathers"
+  ]
+}

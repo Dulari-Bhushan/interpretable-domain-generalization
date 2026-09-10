@@ -1,0 +1,25 @@
+{
+  "class_folder": "099.Ovenbird",
+  "class_name": "Ovenbird",
+  "image_paths": [
+    "099.Ovenbird/Ovenbird_0003_92910.jpg",
+    "099.Ovenbird/Ovenbird_0024_92583.jpg",
+    "099.Ovenbird/Ovenbird_0027_93086.jpg",
+    "099.Ovenbird/Ovenbird_0064_93208.jpg",
+    "099.Ovenbird/Ovenbird_0128_93366.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, light-colored pointed bill\",\n  \"a prominent white eye-ring\",\n  \"a dark-bordered rufous or orange crown stripe\",\n  \"an olive-green back and wings\",\n  \"a white throat\",\n  \"a white breast with heavy black streaks\",\n  \"dark lateral throat stripes\",\n  \"a short-tailed, chunky body shape\",\n  \"light pinkish or flesh-colored legs\",\n  \"a white belly\"\n]",
+  "concepts": [
+    "a slender, light-colored pointed bill",
+    "a prominent white eye-ring",
+    "a dark-bordered rufous or orange crown stripe",
+    "an olive-green back and wings",
+    "a white throat",
+    "a white breast with heavy black streaks",
+    "dark lateral throat stripes",
+    "a short-tailed, chunky body shape",
+    "light pinkish or flesh-colored legs",
+    "a white belly"
+  ]
+}

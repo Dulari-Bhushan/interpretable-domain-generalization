@@ -1,0 +1,27 @@
+{
+  "class_folder": "032.Mangrove_Cuckoo",
+  "class_name": "Mangrove Cuckoo",
+  "image_paths": [
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0014_26388.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0028_26358.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0034_26415.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0039_26348.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0042_794628.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey crown\",\n  \"a dark grey or blackish mask through the eye\",\n  \"a curved, two-toned bill\",\n  \"a yellowish or orange lower mandible\",\n  \"a light buff or white throat and breast\",\n  \"a grey-brown back\",\n  \"a long, slender tail\",\n  \"white, circular spots on the underside of the tail\",\n  \"a dark subterminal band on the tail\",\n  \"a slender body shape\",\n  \"a brownish-grey wing coloration\",\n  \"dark grey or blackish tail feathers\"\n]",
+  "concepts": [
+    "a grey crown",
+    "a dark grey or blackish mask through the eye",
+    "a curved, two-toned bill",
+    "a yellowish or orange lower mandible",
+    "a light buff or white throat and breast",
+    "a grey-brown back",
+    "a long, slender tail",
+    "white, circular spots on the underside of the tail",
+    "a dark subterminal band on the tail",
+    "a slender body shape",
+    "a brownish-grey wing coloration",
+    "dark grey or blackish tail feathers"
+  ]
+}

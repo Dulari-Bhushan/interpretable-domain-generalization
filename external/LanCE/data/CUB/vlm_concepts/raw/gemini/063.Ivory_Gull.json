@@ -1,0 +1,26 @@
+{
+  "class_folder": "063.Ivory_Gull",
+  "class_name": "Ivory Gull",
+  "image_paths": [
+    "063.Ivory_Gull/Ivory_Gull_0036_49754.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0055_49353.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0061_49416.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0098_49810.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0117_49227.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"entirely white plumage\",\n  \"small, stout bill\",\n  \"bicolored bill with a dark base and a yellowish tip\",\n  \"short, dark-colored legs\",\n  \"round, pigeon-like head shape\",\n  \"compact, chunky body\",\n  \"black eye\",\n  \"short, square-ended tail\",\n  \"broad, rounded wings\",\n  \"lack of wingtip markings\",\n  \"short neck\"\n]",
+  "concepts": [
+    "entirely white plumage",
+    "small, stout bill",
+    "bicolored bill with a dark base and a yellowish tip",
+    "short, dark-colored legs",
+    "round, pigeon-like head shape",
+    "compact, chunky body",
+    "black eye",
+    "short, square-ended tail",
+    "broad, rounded wings",
+    "lack of wingtip markings",
+    "short neck"
+  ]
+}

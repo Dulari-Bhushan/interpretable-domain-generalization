@@ -1,0 +1,27 @@
+{
+  "class_folder": "071.Long_tailed_Jaeger",
+  "class_name": "Long tailed Jaeger",
+  "image_paths": [
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0011_60963.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0012_797101.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0032_61177.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0041_60891.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0070_797090.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender dark bill\",\n  \"a distinct dark cap on the crown\",\n  \"a yellowish wash on the sides of the neck\",\n  \"white throat and breast\",\n  \"elongated central tail feathers\",\n  \"grey-brown back and wing plumage\",\n  \"dark flight feathers\",\n  \"barred pattern on the underwing coverts\",\n  \"white wing patches visible in flight\",\n  \"a light overall body structure\",\n  \"greyish barred underparts in some individuals\",\n  \"dark eyes\"\n]",
+  "concepts": [
+    "a slender dark bill",
+    "a distinct dark cap on the crown",
+    "a yellowish wash on the sides of the neck",
+    "white throat and breast",
+    "elongated central tail feathers",
+    "grey-brown back and wing plumage",
+    "dark flight feathers",
+    "barred pattern on the underwing coverts",
+    "white wing patches visible in flight",
+    "a light overall body structure",
+    "greyish barred underparts in some individuals",
+    "dark eyes"
+  ]
+}

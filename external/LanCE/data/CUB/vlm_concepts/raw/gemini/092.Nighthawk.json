@@ -1,0 +1,27 @@
+{
+  "class_folder": "092.Nighthawk",
+  "class_name": "Nighthawk",
+  "image_paths": [
+    "092.Nighthawk/Nighthawk_0019_83850.jpg",
+    "092.Nighthawk/Nighthawk_0027_84697.jpg",
+    "092.Nighthawk/Nighthawk_0035_84077.jpg",
+    "092.Nighthawk/Nighthawk_0050_84094.jpg",
+    "092.Nighthawk/Nighthawk_0082_82242.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a very short, tiny bill\",\n  \"a large, dark, prominent eye\",\n  \"mottled brown, black, and grey plumage\",\n  \"a broad, flat head shape\",\n  \"long, pointed wings\",\n  \"a distinct white bar across the primary feathers\",\n  \"a white throat patch\",\n  \"finely barred, dark brown and white breast\",\n  \"long, slightly forked tail\",\n  \"cryptic, camouflaged feather patterns\",\n  \"short, dark, inconspicuous legs\",\n  \"a compact, thick-bodied profile\"\n]",
+  "concepts": [
+    "a very short, tiny bill",
+    "a large, dark, prominent eye",
+    "mottled brown, black, and grey plumage",
+    "a broad, flat head shape",
+    "long, pointed wings",
+    "a distinct white bar across the primary feathers",
+    "a white throat patch",
+    "finely barred, dark brown and white breast",
+    "long, slightly forked tail",
+    "cryptic, camouflaged feather patterns",
+    "short, dark, inconspicuous legs",
+    "a compact, thick-bodied profile"
+  ]
+}

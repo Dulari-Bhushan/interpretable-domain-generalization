@@ -1,0 +1,27 @@
+{
+  "class_folder": "015.Lazuli_Bunting",
+  "class_name": "Lazuli Bunting",
+  "image_paths": [
+    "015.Lazuli_Bunting/Lazuli_Bunting_0010_14915.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0020_14837.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0039_15081.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0080_14893.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0081_14709.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a conical, greyish bill\",\n  \"a vibrant blue head\",\n  \"a vibrant blue nape\",\n  \"a dark eye\",\n  \"a distinct rufous-colored breast\",\n  \"a white-colored belly\",\n  \"a blue back\",\n  \"blue and black wing feathers\",\n  \"a noticeable white wing bar\",\n  \"a greyish-blue tail\",\n  \"a compact, plump body shape\",\n  \"thin, dark legs\"\n]",
+  "concepts": [
+    "a conical, greyish bill",
+    "a vibrant blue head",
+    "a vibrant blue nape",
+    "a dark eye",
+    "a distinct rufous-colored breast",
+    "a white-colored belly",
+    "a blue back",
+    "blue and black wing feathers",
+    "a noticeable white wing bar",
+    "a greyish-blue tail",
+    "a compact, plump body shape",
+    "thin, dark legs"
+  ]
+}

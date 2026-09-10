@@ -1,0 +1,26 @@
+{
+  "class_folder": "065.Slaty_backed_Gull",
+  "class_name": "Slaty backed Gull",
+  "image_paths": [
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0025_796047.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0030_796003.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0058_796024.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0072_53314.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0087_786374.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick yellow bill\",\n  \"a red spot on the lower mandible\",\n  \"a light-colored iris\",\n  \"a dark-colored mantle and wing\",\n  \"a white trailing edge on the secondaries\",\n  \"a white-headed adult plumage\",\n  \"a mottled brown juvenile plumage\",\n  \"a sturdy overall body shape\",\n  \"pink-colored legs\",\n  \"webbed feet\",\n  \"a white rump and tail in adults\"\n]",
+  "concepts": [
+    "a thick yellow bill",
+    "a red spot on the lower mandible",
+    "a light-colored iris",
+    "a dark-colored mantle and wing",
+    "a white trailing edge on the secondaries",
+    "a white-headed adult plumage",
+    "a mottled brown juvenile plumage",
+    "a sturdy overall body shape",
+    "pink-colored legs",
+    "webbed feet",
+    "a white rump and tail in adults"
+  ]
+}

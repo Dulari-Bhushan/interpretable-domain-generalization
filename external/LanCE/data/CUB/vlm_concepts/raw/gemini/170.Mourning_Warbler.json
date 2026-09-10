@@ -1,0 +1,27 @@
+{
+  "class_folder": "170.Mourning_Warbler",
+  "class_name": "Mourning Warbler",
+  "image_paths": [
+    "170.Mourning_Warbler/Mourning_Warbler_0021_166560.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0029_166530.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0037_795381.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0052_166537.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0074_795367.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark bill\",\n  \"a grey crown\",\n  \"a grey nape\",\n  \"a dark grey to black throat\",\n  \"a black patch on the upper breast\",\n  \"a bright yellow belly\",\n  \"an olive-green back\",\n  \"olive-green wings\",\n  \"a dark eye\",\n  \"a slender body shape\",\n  \"pale pinkish legs and feet\",\n  \"a short, thin tail\"\n]",
+  "concepts": [
+    "a thin, pointed, dark bill",
+    "a grey crown",
+    "a grey nape",
+    "a dark grey to black throat",
+    "a black patch on the upper breast",
+    "a bright yellow belly",
+    "an olive-green back",
+    "olive-green wings",
+    "a dark eye",
+    "a slender body shape",
+    "pale pinkish legs and feet",
+    "a short, thin tail"
+  ]
+}

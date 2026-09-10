@@ -1,0 +1,28 @@
+{
+  "class_folder": "138.Tree_Swallow",
+  "class_name": "Tree Swallow",
+  "image_paths": [
+    "138.Tree_Swallow/Tree_Swallow_0041_136439.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0043_136878.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0058_134987.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0060_134961.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0108_135068.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, thin, black, pointed bill\",\n  \"a dark, metallic blue-green crown\",\n  \"a dark, metallic blue-green nape\",\n  \"a dark, metallic blue-green back\",\n  \"a dark, metallic blue-green upper-wing surface\",\n  \"a pure white throat\",\n  \"a pure white breast\",\n  \"a pure white underbelly\",\n  \"a dark, blackish eye\",\n  \"a dark, blackish area around the eye\",\n  \"a slender, streamlined body shape\",\n  \"pointed wing tips that extend near the tail\",\n  \"short, dark-coloured legs and feet\"\n]",
+  "concepts": [
+    "a short, thin, black, pointed bill",
+    "a dark, metallic blue-green crown",
+    "a dark, metallic blue-green nape",
+    "a dark, metallic blue-green back",
+    "a dark, metallic blue-green upper-wing surface",
+    "a pure white throat",
+    "a pure white breast",
+    "a pure white underbelly",
+    "a dark, blackish eye",
+    "a dark, blackish area around the eye",
+    "a slender, streamlined body shape",
+    "pointed wing tips that extend near the tail",
+    "short, dark-coloured legs and feet"
+  ]
+}

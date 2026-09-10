@@ -1,0 +1,27 @@
+{
+  "class_folder": "040.Olive_sided_Flycatcher",
+  "class_name": "Olive sided Flycatcher",
+  "image_paths": [
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0017_30704.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0018_796882.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0020_796881.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0033_30532.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0040_30620.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"prominent, peaked crown\",\n  \"sturdy, relatively large bill\",\n  \"bicolored bill with dark upper and pale lower mandible\",\n  \"distinctly dark, broad vest-like markings on sides\",\n  \"clean white throat and central breast\",\n  \"overall dark brownish-gray upperparts\",\n  \"dark wings with faint, lighter edges\",\n  \"white or pale patch on sides of rump\",\n  \"relatively short, squared-off tail\",\n  \"dark legs and feet\",\n  \"large, dark eye\",\n  \"stout, flycatcher-like body posture\"\n]",
+  "concepts": [
+    "prominent, peaked crown",
+    "sturdy, relatively large bill",
+    "bicolored bill with dark upper and pale lower mandible",
+    "distinctly dark, broad vest-like markings on sides",
+    "clean white throat and central breast",
+    "overall dark brownish-gray upperparts",
+    "dark wings with faint, lighter edges",
+    "white or pale patch on sides of rump",
+    "relatively short, squared-off tail",
+    "dark legs and feet",
+    "large, dark eye",
+    "stout, flycatcher-like body posture"
+  ]
+}

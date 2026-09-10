@@ -1,0 +1,26 @@
+{
+  "class_folder": "014.Indigo_Bunting",
+  "class_name": "Indigo Bunting",
+  "image_paths": [
+    "014.Indigo_Bunting/Indigo_Bunting_0041_13987.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0047_12966.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0049_13641.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0076_12950.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0085_11991.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"vibrant blue plumage\",\n  \"conical grey bill\",\n  \"small compact body shape\",\n  \"short tail\",\n  \"dark grey or black legs\",\n  \"dark eyes\",\n  \"dark wing feathers\",\n  \"blue crown\",\n  \"blue breast\",\n  \"rounded head shape\",\n  \"darker, brownish tones on wing edges\"\n]",
+  "concepts": [
+    "vibrant blue plumage",
+    "conical grey bill",
+    "small compact body shape",
+    "short tail",
+    "dark grey or black legs",
+    "dark eyes",
+    "dark wing feathers",
+    "blue crown",
+    "blue breast",
+    "rounded head shape",
+    "darker, brownish tones on wing edges"
+  ]
+}

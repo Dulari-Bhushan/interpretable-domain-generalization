@@ -1,0 +1,27 @@
+{
+  "class_folder": "018.Spotted_Catbird",
+  "class_name": "Spotted Catbird",
+  "image_paths": [
+    "018.Spotted_Catbird/Spotted_Catbird_0004_796804.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0020_796794.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0022_796821.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0028_796813.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0029_796825.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a stout, pale-colored bill\",\n  \"a dark, mottled crown\",\n  \"prominent white spotting on the breast\",\n  \"white-spotted, yellowish-brown underparts\",\n  \"a bright green back\",\n  \"bright green wings with white markings\",\n  \"a short, rounded tail\",\n  \"a dark patch of feathers extending behind the eye\",\n  \"prominent, deep red eyes\",\n  \"a thick-set, plump body shape\",\n  \"grey-colored legs\",\n  \"a pale, light-colored throat\"\n]",
+  "concepts": [
+    "a stout, pale-colored bill",
+    "a dark, mottled crown",
+    "prominent white spotting on the breast",
+    "white-spotted, yellowish-brown underparts",
+    "a bright green back",
+    "bright green wings with white markings",
+    "a short, rounded tail",
+    "a dark patch of feathers extending behind the eye",
+    "prominent, deep red eyes",
+    "a thick-set, plump body shape",
+    "grey-colored legs",
+    "a pale, light-colored throat"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "150.Sage_Thrasher",
+  "class_name": "Sage Thrasher",
+  "image_paths": [
+    "150.Sage_Thrasher/Sage_Thrasher_0021_155548.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0051_155464.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0076_796445.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0083_796450.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0092_155482.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, straight, dark bill\",\n  \"a greyish-brown crown and nape with fine streaking\",\n  \"a bright yellow to amber-coloured eye\",\n  \"a light-coloured throat\",\n  \"a heavily streaked breast and belly\",\n  \"a brownish-grey back with subtle mottling\",\n  \"wings featuring white wing bars\",\n  \"a medium-length tail\",\n  \"tail feathers with white tips\",\n  \"a slender, streamlined body shape\",\n  \"a relatively small head\",\n  \"long, slender, greyish-brown legs\"\n]",
+  "concepts": [
+    "a short, straight, dark bill",
+    "a greyish-brown crown and nape with fine streaking",
+    "a bright yellow to amber-coloured eye",
+    "a light-coloured throat",
+    "a heavily streaked breast and belly",
+    "a brownish-grey back with subtle mottling",
+    "wings featuring white wing bars",
+    "a medium-length tail",
+    "tail feathers with white tips",
+    "a slender, streamlined body shape",
+    "a relatively small head",
+    "long, slender, greyish-brown legs"
+  ]
+}

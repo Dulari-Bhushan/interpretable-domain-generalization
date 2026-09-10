@@ -1,0 +1,27 @@
+{
+  "class_folder": "172.Nashville_Warbler",
+  "class_name": "Nashville Warbler",
+  "image_paths": [
+    "172.Nashville_Warbler/Nashville_Warbler_0032_167385.jpg",
+    "172.Nashville_Warbler/Nashville_Warbler_0053_167403.jpg",
+    "172.Nashville_Warbler/Nashville_Warbler_0076_167389.jpg",
+    "172.Nashville_Warbler/Nashville_Warbler_0100_167226.jpg",
+    "172.Nashville_Warbler/Nashville_Warbler_0108_167259.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark bill\",\n  \"a grey head\",\n  \"a white eye-ring\",\n  \"a bright yellow throat\",\n  \"a bright yellow breast\",\n  \"a bright yellow belly\",\n  \"an olive-green back\",\n  \"olive-green wings\",\n  \"a faint rufous patch on the crown\",\n  \"a small, slender body shape\",\n  \"dark legs\",\n  \"a short, thin tail\"\n]",
+  "concepts": [
+    "a thin, pointed, dark bill",
+    "a grey head",
+    "a white eye-ring",
+    "a bright yellow throat",
+    "a bright yellow breast",
+    "a bright yellow belly",
+    "an olive-green back",
+    "olive-green wings",
+    "a faint rufous patch on the crown",
+    "a small, slender body shape",
+    "dark legs",
+    "a short, thin tail"
+  ]
+}

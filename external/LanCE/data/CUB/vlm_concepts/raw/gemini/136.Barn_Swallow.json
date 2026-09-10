@@ -1,0 +1,27 @@
+{
+  "class_folder": "136.Barn_Swallow",
+  "class_name": "Barn Swallow",
+  "image_paths": [
+    "136.Barn_Swallow/Barn_Swallow_0017_132951.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0018_130709.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0047_130016.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0070_130127.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0076_130757.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a small dark bill\",\n  \"a deep rufous or chestnut throat\",\n  \"a deep rufous or chestnut forehead\",\n  \"a dark blue iridescent crown\",\n  \"a dark blue iridescent back\",\n  \"a dark blue iridescent mantle\",\n  \"a pale or cinnamon-toned breast and underparts\",\n  \"long pointed wings\",\n  \"a long deeply forked tail\",\n  \"short legs and small feet\",\n  \"a streamlined compact body shape\",\n  \"a dark brown or black eye\"\n]",
+  "concepts": [
+    "a small dark bill",
+    "a deep rufous or chestnut throat",
+    "a deep rufous or chestnut forehead",
+    "a dark blue iridescent crown",
+    "a dark blue iridescent back",
+    "a dark blue iridescent mantle",
+    "a pale or cinnamon-toned breast and underparts",
+    "long pointed wings",
+    "a long deeply forked tail",
+    "short legs and small feet",
+    "a streamlined compact body shape",
+    "a dark brown or black eye"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "095.Baltimore_Oriole",
+  "class_name": "Baltimore Oriole",
+  "image_paths": [
+    "095.Baltimore_Oriole/Baltimore_Oriole_0024_89720.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0027_87561.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0039_88027.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0091_88487.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0120_88403.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a pointed, conical bill\", \"a solid black head and throat\", \"a vibrant orange breast\", \"a vibrant orange belly\", \"black wings with white wing bars\", \"a black back\", \"a yellow-orange tail\", \"a slender, rounded body shape\", \"dark grey legs and feet\", \"a dark, circular eye\", \"orange rump feathers\"]",
+  "concepts": [
+    "a pointed, conical bill",
+    "a solid black head and throat",
+    "a vibrant orange breast",
+    "a vibrant orange belly",
+    "black wings with white wing bars",
+    "a black back",
+    "a yellow-orange tail",
+    "a slender, rounded body shape",
+    "dark grey legs and feet",
+    "a dark, circular eye",
+    "orange rump feathers"
+  ]
+}

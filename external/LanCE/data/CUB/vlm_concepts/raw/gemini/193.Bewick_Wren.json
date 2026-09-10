@@ -1,0 +1,26 @@
+{
+  "class_folder": "193.Bewick_Wren",
+  "class_name": "Bewick Wren",
+  "image_paths": [
+    "193.Bewick_Wren/Bewick_Wren_0004_185202.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0023_185400.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0062_185063.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0088_184733.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0107_184908.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"slender slightly down-curved bill\",\n  \"conspicuous white supercilium stripe\",\n  \"brown crown\",\n  \"plain brown upperparts\",\n  \"white throat\",\n  \"pale greyish-white breast and underparts\",\n  \"long tail with dark barring\",\n  \"thin legs and feet\",\n  \"small compact body\",\n  \"dark line through the eye\",\n  \"rounded wing shape with faint barring\"\n]",
+  "concepts": [
+    "slender slightly down-curved bill",
+    "conspicuous white supercilium stripe",
+    "brown crown",
+    "plain brown upperparts",
+    "white throat",
+    "pale greyish-white breast and underparts",
+    "long tail with dark barring",
+    "thin legs and feet",
+    "small compact body",
+    "dark line through the eye",
+    "rounded wing shape with faint barring"
+  ]
+}

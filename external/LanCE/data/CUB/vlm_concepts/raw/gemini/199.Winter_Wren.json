@@ -1,0 +1,27 @@
+{
+  "class_folder": "199.Winter_Wren",
+  "class_name": "Winter Wren",
+  "image_paths": [
+    "199.Winter_Wren/Winter_Wren_0015_190099.jpg",
+    "199.Winter_Wren/Winter_Wren_0072_189521.jpg",
+    "199.Winter_Wren/Winter_Wren_0087_190135.jpg",
+    "199.Winter_Wren/Winter_Wren_0109_189850.jpg",
+    "199.Winter_Wren/Winter_Wren_0128_190093.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a very small, plump body\",\n  \"a short, thin, slightly decurved bill\",\n  \"a short, erect tail\",\n  \"a distinct pale supercilium stripe\",\n  \"a dark-colored eye\",\n  \"a brown-toned plumage\",\n  \"a mottled or barred pattern on the wings\",\n  \"a fine dark barring on the flanks\",\n  \"a light-colored, plain throat\",\n  \"a plain breast\",\n  \"thin, pale-colored legs\",\n  \"a rounded head shape\"\n]",
+  "concepts": [
+    "a very small, plump body",
+    "a short, thin, slightly decurved bill",
+    "a short, erect tail",
+    "a distinct pale supercilium stripe",
+    "a dark-colored eye",
+    "a brown-toned plumage",
+    "a mottled or barred pattern on the wings",
+    "a fine dark barring on the flanks",
+    "a light-colored, plain throat",
+    "a plain breast",
+    "thin, pale-colored legs",
+    "a rounded head shape"
+  ]
+}

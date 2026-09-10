@@ -1,0 +1,26 @@
+{
+  "class_folder": "019.Gray_Catbird",
+  "class_name": "Gray Catbird",
+  "image_paths": [
+    "019.Gray_Catbird/Gray_Catbird_0074_19601.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0100_20674.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0118_20476.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0125_19833.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0134_20596.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slate gray overall plumage\",\n  \"a distinct black cap\",\n  \"a black, slender, and pointed bill\",\n  \"a chestnut-brown patch under the tail\",\n  \"a dark, solid-colored eye\",\n  \"a long, rounded, and blackish tail\",\n  \"a slightly darker gray tone on the wings\",\n  \"a uniform grayish throat and breast\",\n  \"a slender and streamlined body shape\",\n  \"relatively long, dark, and thin legs\",\n  \"an unstreaked, plain body coloration\"\n]",
+  "concepts": [
+    "a slate gray overall plumage",
+    "a distinct black cap",
+    "a black, slender, and pointed bill",
+    "a chestnut-brown patch under the tail",
+    "a dark, solid-colored eye",
+    "a long, rounded, and blackish tail",
+    "a slightly darker gray tone on the wings",
+    "a uniform grayish throat and breast",
+    "a slender and streamlined body shape",
+    "relatively long, dark, and thin legs",
+    "an unstreaked, plain body coloration"
+  ]
+}

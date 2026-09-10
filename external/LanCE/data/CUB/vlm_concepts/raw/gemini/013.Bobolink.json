@@ -1,0 +1,27 @@
+{
+  "class_folder": "013.Bobolink",
+  "class_name": "Bobolink",
+  "image_paths": [
+    "013.Bobolink/Bobolink_0001_9261.jpg",
+    "013.Bobolink/Bobolink_0019_10552.jpg",
+    "013.Bobolink/Bobolink_0047_9204.jpg",
+    "013.Bobolink/Bobolink_0102_10807.jpg",
+    "013.Bobolink/Bobolink_0119_10430.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, conical, dark bill\",\n  \"a creamy-yellow to buff-coloured patch on the back of the head and nape\",\n  \"a black face and throat\",\n  \"a mostly black underbelly\",\n  \"a black back with white patches on the shoulders\",\n  \"black wings with white and greyish-brown detailing\",\n  \"a white patch on the rump and lower back\",\n  \"pointed, dark tail feathers\",\n  \"long, slender, greyish-pink legs\",\n  \"long, sharp, curved claws\",\n  \"a small, compact, songbird-like body shape\",\n  \"a dark, round eye\"\n]",
+  "concepts": [
+    "a short, conical, dark bill",
+    "a creamy-yellow to buff-coloured patch on the back of the head and nape",
+    "a black face and throat",
+    "a mostly black underbelly",
+    "a black back with white patches on the shoulders",
+    "black wings with white and greyish-brown detailing",
+    "a white patch on the rump and lower back",
+    "pointed, dark tail feathers",
+    "long, slender, greyish-pink legs",
+    "long, sharp, curved claws",
+    "a small, compact, songbird-like body shape",
+    "a dark, round eye"
+  ]
+}

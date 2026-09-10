@@ -1,0 +1,27 @@
+{
+  "class_folder": "169.Magnolia_Warbler",
+  "class_name": "Magnolia Warbler",
+  "image_paths": [
+    "169.Magnolia_Warbler/Magnolia_Warbler_0001_166266.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0011_166382.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0023_165827.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0032_165960.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0112_166406.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark bill\",\n  \"a grey crown\",\n  \"a grey nape\",\n  \"a bright yellow throat\",\n  \"a bright yellow breast\",\n  \"heavy black streaking on yellow sides\",\n  \"a broad white supercilium\",\n  \"a dark mask extending from the eye to the ear\",\n  \"dark grey back with black markings\",\n  \"prominent white wing patches\",\n  \"a black tail with a broad white band\",\n  \"dark, thin legs\"\n]",
+  "concepts": [
+    "a thin, pointed, dark bill",
+    "a grey crown",
+    "a grey nape",
+    "a bright yellow throat",
+    "a bright yellow breast",
+    "heavy black streaking on yellow sides",
+    "a broad white supercilium",
+    "a dark mask extending from the eye to the ear",
+    "dark grey back with black markings",
+    "prominent white wing patches",
+    "a black tail with a broad white band",
+    "dark, thin legs"
+  ]
+}

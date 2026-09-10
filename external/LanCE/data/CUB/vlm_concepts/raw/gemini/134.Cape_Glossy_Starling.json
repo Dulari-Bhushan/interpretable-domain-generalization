@@ -1,0 +1,26 @@
+{
+  "class_folder": "134.Cape_Glossy_Starling",
+  "class_name": "Cape Glossy Starling",
+  "image_paths": [
+    "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0039_129469.jpg",
+    "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0043_129358.jpg",
+    "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0046_129434.jpg",
+    "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0070_129322.jpg",
+    "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0088_129437.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright yellow-orange eye\",\n  \"metallic blue-green iridescence on body\",\n  \"dark grey to black beak\",\n  \"short, slightly curved bill\",\n  \"dark eye-mask area\",\n  \"tapered tail\",\n  \"slender body shape\",\n  \"prominent, sturdy black legs\",\n  \"short, rounded wings\",\n  \"distinctly dark, non-iridescent throat\",\n  \"uniform plumage color across crown and nape\"\n]",
+  "concepts": [
+    "bright yellow-orange eye",
+    "metallic blue-green iridescence on body",
+    "dark grey to black beak",
+    "short, slightly curved bill",
+    "dark eye-mask area",
+    "tapered tail",
+    "slender body shape",
+    "prominent, sturdy black legs",
+    "short, rounded wings",
+    "distinctly dark, non-iridescent throat",
+    "uniform plumage color across crown and nape"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "073.Blue_Jay",
+  "class_name": "Blue Jay",
+  "image_paths": [
+    "073.Blue_Jay/Blue_Jay_0048_62433.jpg",
+    "073.Blue_Jay/Blue_Jay_0051_63339.jpg",
+    "073.Blue_Jay/Blue_Jay_0078_62351.jpg",
+    "073.Blue_Jay/Blue_Jay_0086_63394.jpg",
+    "073.Blue_Jay/Blue_Jay_0102_61494.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a prominent crest on the crown\",\n  \"a sharp, pointed black bill\",\n  \"a black eye line extending from the bill\",\n  \"a white throat\",\n  \"a black collar encircling the neck\",\n  \"a white breast and underbelly\",\n  \"vibrant blue upper wing feathers\",\n  \"black and white checkered wing bars\",\n  \"a long tail with blue, black, and white markings\",\n  \"a distinct black or dark blue crown\",\n  \"sturdy black legs and feet\",\n  \"a medium-sized, stocky body shape\"\n]",
+  "concepts": [
+    "a prominent crest on the crown",
+    "a sharp, pointed black bill",
+    "a black eye line extending from the bill",
+    "a white throat",
+    "a black collar encircling the neck",
+    "a white breast and underbelly",
+    "vibrant blue upper wing feathers",
+    "black and white checkered wing bars",
+    "a long tail with blue, black, and white markings",
+    "a distinct black or dark blue crown",
+    "sturdy black legs and feet",
+    "a medium-sized, stocky body shape"
+  ]
+}

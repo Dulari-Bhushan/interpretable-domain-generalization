@@ -1,0 +1,28 @@
+{
+  "class_folder": "196.House_Wren",
+  "class_name": "House Wren",
+  "image_paths": [
+    "196.House_Wren/House_Wren_0035_187708.jpg",
+    "196.House_Wren/House_Wren_0071_187399.jpg",
+    "196.House_Wren/House_Wren_0085_187723.jpg",
+    "196.House_Wren/House_Wren_0087_187946.jpg",
+    "196.House_Wren/House_Wren_0122_187331.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, slightly decurved bill\",\n  \"a light-colored, indistinct supercilium\",\n  \"a mostly plain, brownish-gray head\",\n  \"a dark-colored, round eye\",\n  \"a brownish-gray throat and upper breast\",\n  \"a pale, grayish-white belly\",\n  \"a reddish-brown back and wings\",\n  \"dark horizontal barring on the wings\",\n  \"a relatively short, barred tail\",\n  \"a frequently cocked tail position\",\n  \"a small, compact body shape\",\n  \"light-colored, slender legs\",\n  \"a uniform, dull brown overall plumage\"\n]",
+  "concepts": [
+    "a slender, slightly decurved bill",
+    "a light-colored, indistinct supercilium",
+    "a mostly plain, brownish-gray head",
+    "a dark-colored, round eye",
+    "a brownish-gray throat and upper breast",
+    "a pale, grayish-white belly",
+    "a reddish-brown back and wings",
+    "dark horizontal barring on the wings",
+    "a relatively short, barred tail",
+    "a frequently cocked tail position",
+    "a small, compact body shape",
+    "light-colored, slender legs",
+    "a uniform, dull brown overall plumage"
+  ]
+}

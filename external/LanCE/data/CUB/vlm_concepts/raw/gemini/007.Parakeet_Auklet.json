@@ -1,0 +1,27 @@
+{
+  "class_folder": "007.Parakeet_Auklet",
+  "class_name": "Parakeet Auklet",
+  "image_paths": [
+    "007.Parakeet_Auklet/Parakeet_Auklet_0032_795986.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0038_795935.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0047_795956.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0065_795969.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0069_795936.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, stout, orange-red bill\",\n  \"a small, white plume behind the eye\",\n  \"a dark charcoal or blackish head\",\n  \"a dark charcoal or blackish breast\",\n  \"a white belly and underparts\",\n  \"a dark gray or blackish back\",\n  \"a white iris\",\n  \"a small, compact body shape\",\n  \"a short neck\",\n  \"webbed, grayish feet\",\n  \"a short tail\",\n  \"a dark, rounded crown\"\n]",
+  "concepts": [
+    "a short, stout, orange-red bill",
+    "a small, white plume behind the eye",
+    "a dark charcoal or blackish head",
+    "a dark charcoal or blackish breast",
+    "a white belly and underparts",
+    "a dark gray or blackish back",
+    "a white iris",
+    "a small, compact body shape",
+    "a short neck",
+    "webbed, grayish feet",
+    "a short tail",
+    "a dark, rounded crown"
+  ]
+}

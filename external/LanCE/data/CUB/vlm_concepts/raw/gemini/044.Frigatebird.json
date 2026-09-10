@@ -1,0 +1,25 @@
+{
+  "class_folder": "044.Frigatebird",
+  "class_name": "Frigatebird",
+  "image_paths": [
+    "044.Frigatebird/Frigatebird_0005_42828.jpg",
+    "044.Frigatebird/Frigatebird_0022_43457.jpg",
+    "044.Frigatebird/Frigatebird_0057_43016.jpg",
+    "044.Frigatebird/Frigatebird_0059_42838.jpg",
+    "044.Frigatebird/Frigatebird_0070_43516.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long, deeply forked tail\",\n  \"a distinct, inflatable red throat pouch\",\n  \"a long, hooked, greyish bill\",\n  \"broad, angular wings\",\n  \"blackish plumage\",\n  \"an iridescent greenish sheen on the upper wings\",\n  \"a light, off-white throat and breast in some individuals\",\n  \"a slender body profile\",\n  \"a slightly peaked crown\",\n  \"a dark, inconspicuous eye\"\n]",
+  "concepts": [
+    "a long, deeply forked tail",
+    "a distinct, inflatable red throat pouch",
+    "a long, hooked, greyish bill",
+    "broad, angular wings",
+    "blackish plumage",
+    "an iridescent greenish sheen on the upper wings",
+    "a light, off-white throat and breast in some individuals",
+    "a slender body profile",
+    "a slightly peaked crown",
+    "a dark, inconspicuous eye"
+  ]
+}

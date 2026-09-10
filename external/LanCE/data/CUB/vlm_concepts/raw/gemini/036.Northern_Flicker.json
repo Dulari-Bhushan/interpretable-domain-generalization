@@ -1,0 +1,27 @@
+{
+  "class_folder": "036.Northern_Flicker",
+  "class_name": "Northern Flicker",
+  "image_paths": [
+    "036.Northern_Flicker/Northern_Flicker_0036_28681.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0078_28338.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0095_28938.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0096_28623.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0106_28441.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, slightly curved, dark-colored bill\",\n  \"a patterned crown with a red patch on the nape\",\n  \"a brownish-grey face and throat\",\n  \"a prominent black crescent-shaped patch on the upper breast\",\n  \"a light-colored underbelly with distinct black spots\",\n  \"brownish wings with black horizontal bars\",\n  \"a light brown back with black horizontal bars\",\n  \"a rounded body shape\",\n  \"stiff, pointed tail feathers\",\n  \"legs adapted for vertical clinging\",\n  \"dark brown eyes\",\n  \"yellowish or reddish wing/tail shaft coloring\"\n]",
+  "concepts": [
+    "a slender, slightly curved, dark-colored bill",
+    "a patterned crown with a red patch on the nape",
+    "a brownish-grey face and throat",
+    "a prominent black crescent-shaped patch on the upper breast",
+    "a light-colored underbelly with distinct black spots",
+    "brownish wings with black horizontal bars",
+    "a light brown back with black horizontal bars",
+    "a rounded body shape",
+    "stiff, pointed tail feathers",
+    "legs adapted for vertical clinging",
+    "dark brown eyes",
+    "yellowish or reddish wing/tail shaft coloring"
+  ]
+}

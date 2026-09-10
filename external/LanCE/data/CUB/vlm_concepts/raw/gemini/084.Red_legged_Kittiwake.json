@@ -1,0 +1,26 @@
+{
+  "class_folder": "084.Red_legged_Kittiwake",
+  "class_name": "Red legged Kittiwake",
+  "image_paths": [
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0006_795436.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0010_73789.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0019_795398.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0054_795396.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0071_73800.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short yellow bill\",\n  \"bright red legs and feet\",\n  \"a solid slate-grey back\",\n  \"a solid slate-grey upper wing surface\",\n  \"a white head\",\n  \"a white neck\",\n  \"a white breast\",\n  \"a dark eye\",\n  \"a compact body shape\",\n  \"a black wingtip pattern\",\n  \"a rounded head profile\"\n]",
+  "concepts": [
+    "a short yellow bill",
+    "bright red legs and feet",
+    "a solid slate-grey back",
+    "a solid slate-grey upper wing surface",
+    "a white head",
+    "a white neck",
+    "a white breast",
+    "a dark eye",
+    "a compact body shape",
+    "a black wingtip pattern",
+    "a rounded head profile"
+  ]
+}

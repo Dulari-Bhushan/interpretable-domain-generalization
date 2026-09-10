@@ -1,0 +1,26 @@
+{
+  "class_folder": "089.Hooded_Merganser",
+  "class_name": "Hooded Merganser",
+  "image_paths": [
+    "089.Hooded_Merganser/Hooded_Merganser_0006_796778.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0015_79132.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0079_796768.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0085_79146.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0093_79075.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, dark, slightly tapered bill\",\n  \"a prominent, semi-circular white crest patch on the head\",\n  \"a black head, neck, and throat\",\n  \"bright yellow iris\",\n  \"white breast with two distinct black vertical stripes\",\n  \"rich brown-colored flanks\",\n  \"a black back\",\n  \"white secondary feathers on the wings\",\n  \"a small, compact, duck-like body shape\",\n  \"webbed feet\",\n  \"a mostly dark-colored tail\"\n]",
+  "concepts": [
+    "a thin, dark, slightly tapered bill",
+    "a prominent, semi-circular white crest patch on the head",
+    "a black head, neck, and throat",
+    "bright yellow iris",
+    "white breast with two distinct black vertical stripes",
+    "rich brown-colored flanks",
+    "a black back",
+    "white secondary feathers on the wings",
+    "a small, compact, duck-like body shape",
+    "webbed feet",
+    "a mostly dark-colored tail"
+  ]
+}

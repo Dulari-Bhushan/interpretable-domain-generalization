@@ -1,0 +1,28 @@
+{
+  "class_folder": "189.Red_bellied_Woodpecker",
+  "class_name": "Red bellied Woodpecker",
+  "image_paths": [
+    "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0042_181062.jpg",
+    "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0058_182317.jpg",
+    "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0086_181891.jpg",
+    "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0099_180766.jpg",
+    "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0120_181420.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long pointed bill\",\n  \"a vibrant red nape\",\n  \"a red crown patch\",\n  \"a pale greyish face\",\n  \"a buff-colored throat\",\n  \"a light tan breast\",\n  \"a black and white barred back\",\n  \"a black and white barred wing pattern\",\n  \"a dark tail with white markings\",\n  \"a zygodactyl foot arrangement\",\n  \"a sturdy, medium-sized body\",\n  \"a dark iris\",\n  \"sharp, curved claws\"\n]",
+  "concepts": [
+    "a long pointed bill",
+    "a vibrant red nape",
+    "a red crown patch",
+    "a pale greyish face",
+    "a buff-colored throat",
+    "a light tan breast",
+    "a black and white barred back",
+    "a black and white barred wing pattern",
+    "a dark tail with white markings",
+    "a zygodactyl foot arrangement",
+    "a sturdy, medium-sized body",
+    "a dark iris",
+    "sharp, curved claws"
+  ]
+}

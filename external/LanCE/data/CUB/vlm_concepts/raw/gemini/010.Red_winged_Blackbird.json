@@ -1,0 +1,25 @@
+{
+  "class_folder": "010.Red_winged_Blackbird",
+  "class_name": "Red winged Blackbird",
+  "image_paths": [
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0020_4050.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0049_5598.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0054_4625.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0061_4196.jpg",
+    "010.Red_winged_Blackbird/Red_Winged_Blackbird_0079_4527.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a mostly black body\",\n  \"a bright red patch on the shoulder\",\n  \"a yellow or cream-colored band below the red shoulder patch\",\n  \"a sharp, conical, black bill\",\n  \"a slightly rounded tail\",\n  \"long, slender, dark-colored legs\",\n  \"a dark-colored eye\",\n  \"a relatively stocky body shape\",\n  \"uniform black plumage across the head and chest\",\n  \"distinctly pointed wing tips\"\n]",
+  "concepts": [
+    "a mostly black body",
+    "a bright red patch on the shoulder",
+    "a yellow or cream-colored band below the red shoulder patch",
+    "a sharp, conical, black bill",
+    "a slightly rounded tail",
+    "long, slender, dark-colored legs",
+    "a dark-colored eye",
+    "a relatively stocky body shape",
+    "uniform black plumage across the head and chest",
+    "distinctly pointed wing tips"
+  ]
+}

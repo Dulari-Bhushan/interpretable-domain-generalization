@@ -1,0 +1,27 @@
+{
+  "class_folder": "086.Pacific_Loon",
+  "class_name": "Pacific Loon",
+  "image_paths": [
+    "086.Pacific_Loon/Pacific_Loon_0014_75468.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0017_75835.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0021_75859.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0052_75451.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0066_75547.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"slender, straight, dagger-like bill\",\n  \"dark, uniform crown\",\n  \"distinct white patch on the throat\",\n  \"prominent vertical dark stripes on the side of the neck\",\n  \"dark-colored back\",\n  \"white-spotted or checkered pattern on the wings and back\",\n  \"red-colored eye\",\n  \"low-profile, streamlined body shape\",\n  \"pointed, dark bill color\",\n  \"dark upper neck and face\",\n  \"light-colored belly and breast\",\n  \"absence of a crest on the head\"\n]",
+  "concepts": [
+    "slender, straight, dagger-like bill",
+    "dark, uniform crown",
+    "distinct white patch on the throat",
+    "prominent vertical dark stripes on the side of the neck",
+    "dark-colored back",
+    "white-spotted or checkered pattern on the wings and back",
+    "red-colored eye",
+    "low-profile, streamlined body shape",
+    "pointed, dark bill color",
+    "dark upper neck and face",
+    "light-colored belly and breast",
+    "absence of a crest on the head"
+  ]
+}

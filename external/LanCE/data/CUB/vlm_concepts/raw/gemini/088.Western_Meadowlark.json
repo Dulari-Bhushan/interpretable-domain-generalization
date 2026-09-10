@@ -1,0 +1,27 @@
+{
+  "class_folder": "088.Western_Meadowlark",
+  "class_name": "Western Meadowlark",
+  "image_paths": [
+    "088.Western_Meadowlark/Western_Meadowlark_0001_78676.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0015_78610.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0017_78940.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0052_77781.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0118_78820.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright yellow throat and breast\",\n  \"distinctive black V-shaped chest patch\",\n  \"long, slender, pointed, light-colored bill\",\n  \"streaked brown and buff upperparts\",\n  \"dark eye with a light supercilium\",\n  \"alternating light and dark stripes on the crown\",\n  \"mottled brown and black wing plumage\",\n  \"light-colored, thin legs and feet\",\n  \"compact, stout body shape\",\n  \"white-edged dark tail feathers\",\n  \"yellow patch on the malar area\",\n  \"dark brown eye\"\n]",
+  "concepts": [
+    "bright yellow throat and breast",
+    "distinctive black V-shaped chest patch",
+    "long, slender, pointed, light-colored bill",
+    "streaked brown and buff upperparts",
+    "dark eye with a light supercilium",
+    "alternating light and dark stripes on the crown",
+    "mottled brown and black wing plumage",
+    "light-colored, thin legs and feet",
+    "compact, stout body shape",
+    "white-edged dark tail feathers",
+    "yellow patch on the malar area",
+    "dark brown eye"
+  ]
+}

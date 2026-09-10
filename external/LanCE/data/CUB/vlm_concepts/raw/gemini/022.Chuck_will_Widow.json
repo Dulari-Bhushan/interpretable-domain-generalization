@@ -1,0 +1,27 @@
+{
+  "class_folder": "022.Chuck_will_Widow",
+  "class_name": "Chuck will Widow",
+  "image_paths": [
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0001_796975.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0017_796960.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0026_796963.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0048_796995.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0055_796973.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, wide, flat bill\",\n  \"cryptic, mottled brown and black plumage\",\n  \"a patterned back with alternating light and dark streaks\",\n  \"a rounded head shape without visible ear tufts\",\n  \"dark horizontal barring on the breast\",\n  \"large, prominent, dark eyes\",\n  \"short, weak-looking feet and legs\",\n  \"a long tail relative to body size\",\n  \"elongated, pointed wings that reach towards the tail\",\n  \"stiff bristles at the base of the bill\",\n  \"a compact, low-profile resting posture\",\n  \"a rounded, camouflaged body shape\"\n]",
+  "concepts": [
+    "a short, wide, flat bill",
+    "cryptic, mottled brown and black plumage",
+    "a patterned back with alternating light and dark streaks",
+    "a rounded head shape without visible ear tufts",
+    "dark horizontal barring on the breast",
+    "large, prominent, dark eyes",
+    "short, weak-looking feet and legs",
+    "a long tail relative to body size",
+    "elongated, pointed wings that reach towards the tail",
+    "stiff bristles at the base of the bill",
+    "a compact, low-profile resting posture",
+    "a rounded, camouflaged body shape"
+  ]
+}

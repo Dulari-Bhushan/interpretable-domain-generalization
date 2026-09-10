@@ -1,0 +1,26 @@
+{
+  "class_folder": "042.Vermilion_Flycatcher",
+  "class_name": "Vermilion Flycatcher",
+  "image_paths": [
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0003_42316.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0040_42398.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0053_42184.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0067_42185.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0072_42218.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a vibrant red crown\",\n  \"a thin dark brown or black bill\",\n  \"a black eye streak\",\n  \"a brilliant red throat and breast\",\n  \"a dark brown or dusky grey back\",\n  \"dark brown wings with lighter feather edges\",\n  \"a dark grey or brownish tail\",\n  \"small dark-colored feet\",\n  \"a compact, upright body shape\",\n  \"a dark-colored eye\",\n  \"a crested head silhouette\"\n]",
+  "concepts": [
+    "a vibrant red crown",
+    "a thin dark brown or black bill",
+    "a black eye streak",
+    "a brilliant red throat and breast",
+    "a dark brown or dusky grey back",
+    "dark brown wings with lighter feather edges",
+    "a dark grey or brownish tail",
+    "small dark-colored feet",
+    "a compact, upright body shape",
+    "a dark-colored eye",
+    "a crested head silhouette"
+  ]
+}

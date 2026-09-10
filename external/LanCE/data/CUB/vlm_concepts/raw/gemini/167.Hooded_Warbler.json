@@ -1,0 +1,26 @@
+{
+  "class_folder": "167.Hooded_Warbler",
+  "class_name": "Hooded Warbler",
+  "image_paths": [
+    "167.Hooded_Warbler/Hooded_Warbler_0012_164891.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0013_164627.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0021_165057.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0040_165173.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0053_164631.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a sharp, pointed dark bill\",\n  \"a bright yellow facial mask\",\n  \"a broad black hood encircling the crown and throat\",\n  \"a dark eye embedded in the yellow mask\",\n  \"an olive-green back and wings\",\n  \"a bright yellow breast and belly\",\n  \"a slender body shape\",\n  \"a relatively long, narrow tail\",\n  \"pale, thin legs and feet\",\n  \"uniform olive-colored wing feathers\",\n  \"a rounded head shape\"\n]",
+  "concepts": [
+    "a sharp, pointed dark bill",
+    "a bright yellow facial mask",
+    "a broad black hood encircling the crown and throat",
+    "a dark eye embedded in the yellow mask",
+    "an olive-green back and wings",
+    "a bright yellow breast and belly",
+    "a slender body shape",
+    "a relatively long, narrow tail",
+    "pale, thin legs and feet",
+    "uniform olive-colored wing feathers",
+    "a rounded head shape"
+  ]
+}

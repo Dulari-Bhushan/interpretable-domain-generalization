@@ -1,0 +1,26 @@
+{
+  "class_folder": "082.Ringed_Kingfisher",
+  "class_name": "Ringed Kingfisher",
+  "image_paths": [
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0011_72982.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0016_73029.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0021_72848.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0027_72948.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0103_72894.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large, heavy, pointed bill\",\n  \"a dark, shaggy crest on the head\",\n  \"a white collar around the neck\",\n  \"a blue-grey crown\",\n  \"a dark-coloured upper back and wings\",\n  \"a rufous-coloured breast and belly\",\n  \"a white throat\",\n  \"a dark, blue-grey back\",\n  \"a short, dark-coloured tail\",\n  \"a stout, compact body shape\",\n  \"a dark eye\"\n]",
+  "concepts": [
+    "a large, heavy, pointed bill",
+    "a dark, shaggy crest on the head",
+    "a white collar around the neck",
+    "a blue-grey crown",
+    "a dark-coloured upper back and wings",
+    "a rufous-coloured breast and belly",
+    "a white throat",
+    "a dark, blue-grey back",
+    "a short, dark-coloured tail",
+    "a stout, compact body shape",
+    "a dark eye"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "145.Elegant_Tern",
+  "class_name": "Elegant Tern",
+  "image_paths": [
+    "145.Elegant_Tern/Elegant_Tern_0046_150905.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0064_150822.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0065_151021.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0076_150519.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0103_150493.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender orange bill\",\n  \"a black cap extending over the eyes\",\n  \"a deeply forked tail\",\n  \"white underparts\",\n  \"light grey upperwings\",\n  \"long pointed wings\",\n  \"a white forehead patch\",\n  \"blackish wingtips\",\n  \"a slightly shaggy crest at the back of the head\",\n  \"a slender body shape\",\n  \"black legs and feet\"\n]",
+  "concepts": [
+    "a long slender orange bill",
+    "a black cap extending over the eyes",
+    "a deeply forked tail",
+    "white underparts",
+    "light grey upperwings",
+    "long pointed wings",
+    "a white forehead patch",
+    "blackish wingtips",
+    "a slightly shaggy crest at the back of the head",
+    "a slender body shape",
+    "black legs and feet"
+  ]
+}

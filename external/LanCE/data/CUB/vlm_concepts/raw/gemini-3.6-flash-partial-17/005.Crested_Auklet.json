@@ -1,0 +1,24 @@
+{
+  "class_folder": "005.Crested_Auklet",
+  "class_name": "Crested Auklet",
+  "image_paths": [
+    "005.Crested_Auklet/Crested_Auklet_0019_794925.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0033_794964.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0061_794904.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0062_794968.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0067_785249.jpg"
+  ],
+  "raw_response": "[\n  \"a forward-curving crest of black feathers on the forehead\",\n  \"a bright orange bill\",\n  \"orange plates at the base of the bill\",\n  \"a thin white stripe extending backward from the eye\",\n  \"a white iris with a dark pupil\",\n  \"dark charcoal-gray body plumage\",\n  \"bluish-gray webbed feet\",\n  \"a compact stocky body shape\",\n  \"a short thick bill shape\",\n  \"an upright perched posture\"\n]",
+  "concepts": [
+    "a forward-curving crest of black feathers on the forehead",
+    "a bright orange bill",
+    "orange plates at the base of the bill",
+    "a thin white stripe extending backward from the eye",
+    "a white iris with a dark pupil",
+    "dark charcoal-gray body plumage",
+    "bluish-gray webbed feet",
+    "a compact stocky body shape",
+    "a short thick bill shape",
+    "an upright perched posture"
+  ]
+}

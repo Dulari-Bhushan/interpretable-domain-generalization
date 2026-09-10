@@ -1,0 +1,27 @@
+{
+  "class_folder": "146.Forsters_Tern",
+  "class_name": "Forsters Tern",
+  "image_paths": [
+    "146.Forsters_Tern/Forsters_Tern_0034_152667.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0035_151757.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0077_152255.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0088_151893.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0121_151385.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a pointed orange bill with a black tip\",\n  \"a distinct black cap\",\n  \"white throat\",\n  \"white breast and belly\",\n  \"pale grey back\",\n  \"pale grey wings\",\n  \"white outer tail feathers\",\n  \"long forked tail\",\n  \"bright orange legs\",\n  \"webbed feet\",\n  \"slender body shape\",\n  \"long, narrow wings\"\n]",
+  "concepts": [
+    "a pointed orange bill with a black tip",
+    "a distinct black cap",
+    "white throat",
+    "white breast and belly",
+    "pale grey back",
+    "pale grey wings",
+    "white outer tail feathers",
+    "long forked tail",
+    "bright orange legs",
+    "webbed feet",
+    "slender body shape",
+    "long, narrow wings"
+  ]
+}

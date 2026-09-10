@@ -1,0 +1,27 @@
+{
+  "class_folder": "157.Yellow_throated_Vireo",
+  "class_name": "Yellow throated Vireo",
+  "image_paths": [
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0006_159693.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0017_794988.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0025_795009.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0058_794994.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0070_159602.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, notched bill\",\n  \"a slate-grey crown and nape\",\n  \"a bright yellow throat\",\n  \"a bright yellow breast\",\n  \"a white belly and underparts\",\n  \"a distinct yellow eye-ring\",\n  \"an olive-green back\",\n  \"two prominent white wing bars\",\n  \"dark greyish-black wing feathers\",\n  \"a moderately sized, compact body shape\",\n  \"dark greyish-colored legs\",\n  \"a relatively short, squared tail\"\n]",
+  "concepts": [
+    "a thick, notched bill",
+    "a slate-grey crown and nape",
+    "a bright yellow throat",
+    "a bright yellow breast",
+    "a white belly and underparts",
+    "a distinct yellow eye-ring",
+    "an olive-green back",
+    "two prominent white wing bars",
+    "dark greyish-black wing feathers",
+    "a moderately sized, compact body shape",
+    "dark greyish-colored legs",
+    "a relatively short, squared tail"
+  ]
+}

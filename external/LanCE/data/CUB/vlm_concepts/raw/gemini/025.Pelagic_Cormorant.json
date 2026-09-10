@@ -1,0 +1,25 @@
+{
+  "class_folder": "025.Pelagic_Cormorant",
+  "class_name": "Pelagic Cormorant",
+  "image_paths": [
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0017_23875.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0019_23546.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0053_23760.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0057_24002.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0083_23557.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender body shape\",\n  \"a thin, sharp, dark bill\",\n  \"an iridescent dark green and purple sheen on plumage\",\n  \"a thin neck\",\n  \"a distinct red patch of bare skin around the base of the bill\",\n  \"a dark-colored eye\",\n  \"short, webbed feet positioned far back on the body\",\n  \"dark-colored legs\",\n  \"a long, stiff tail\",\n  \"wings that are narrow and pointed\"\n]",
+  "concepts": [
+    "a slender body shape",
+    "a thin, sharp, dark bill",
+    "an iridescent dark green and purple sheen on plumage",
+    "a thin neck",
+    "a distinct red patch of bare skin around the base of the bill",
+    "a dark-colored eye",
+    "short, webbed feet positioned far back on the body",
+    "dark-colored legs",
+    "a long, stiff tail",
+    "wings that are narrow and pointed"
+  ]
+}

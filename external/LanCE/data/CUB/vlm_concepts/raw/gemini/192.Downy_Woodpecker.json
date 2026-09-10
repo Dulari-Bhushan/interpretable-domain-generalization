@@ -1,0 +1,26 @@
+{
+  "class_folder": "192.Downy_Woodpecker",
+  "class_name": "Downy Woodpecker",
+  "image_paths": [
+    "192.Downy_Woodpecker/Downy_Woodpecker_0031_184120.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0043_184314.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0066_183953.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0115_184096.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0121_184002.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a short, sharp, dark-colored bill\", \"a black crown with a small red patch on the nape\", \"a white throat\", \"a white breast and underparts\", \"black and white checkered wings\", \"black and white spotted wing coverts\", \"a black back with a vertical white stripe\", \"a predominantly black tail with white outer feathers\", \"dark legs with sharp claws\", \"a compact, upright body posture\", \"prominent black and white facial stripes\"]",
+  "concepts": [
+    "a short, sharp, dark-colored bill",
+    "a black crown with a small red patch on the nape",
+    "a white throat",
+    "a white breast and underparts",
+    "black and white checkered wings",
+    "black and white spotted wing coverts",
+    "a black back with a vertical white stripe",
+    "a predominantly black tail with white outer feathers",
+    "dark legs with sharp claws",
+    "a compact, upright body posture",
+    "prominent black and white facial stripes"
+  ]
+}

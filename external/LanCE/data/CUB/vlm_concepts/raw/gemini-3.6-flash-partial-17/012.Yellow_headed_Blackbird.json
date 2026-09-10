@@ -1,0 +1,24 @@
+{
+  "class_folder": "012.Yellow_headed_Blackbird",
+  "class_name": "Yellow headed Blackbird",
+  "image_paths": [
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0007_8366.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0025_8262.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0031_8456.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0051_8387.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0091_8555.jpg"
+  ],
+  "raw_response": "[\n  \"bright yellow head, nape, and throat\",\n  \"black facial mask extending from bill to around the eye\",\n  \"bright yellow upper breast\",\n  \"sharp contrast between yellow chest and black belly\",\n  \"conical, sharp-pointed black bill\",\n  \"solid black back, belly, and rump\",\n  \"black wings with a prominent white wing patch\",\n  \"long, straight black tail\",\n  \"dark, slender legs and feet with sharp claws\",\n  \"dark eye situated within the black eye patch\"\n]",
+  "concepts": [
+    "bright yellow head, nape, and throat",
+    "black facial mask extending from bill to around the eye",
+    "bright yellow upper breast",
+    "sharp contrast between yellow chest and black belly",
+    "conical, sharp-pointed black bill",
+    "solid black back, belly, and rump",
+    "black wings with a prominent white wing patch",
+    "long, straight black tail",
+    "dark, slender legs and feet with sharp claws",
+    "dark eye situated within the black eye patch"
+  ]
+}

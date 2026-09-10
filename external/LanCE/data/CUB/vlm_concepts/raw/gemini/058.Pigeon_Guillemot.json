@@ -1,0 +1,26 @@
+{
+  "class_folder": "058.Pigeon_Guillemot",
+  "class_name": "Pigeon Guillemot",
+  "image_paths": [
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0028_40046.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0055_40171.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0058_40184.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0069_40278.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0073_40209.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a dark, pointed, slender bill\",\n  \"a mostly black or dark brown body\",\n  \"a prominent white patch on the wings\",\n  \"vibrant red legs and feet\",\n  \"webbed feet\",\n  \"a sleek, streamlined body shape\",\n  \"dark eyes\",\n  \"white underwing coverts visible in flight\",\n  \"a relatively small, compact stature\",\n  \"a slightly hunched posture while perched\",\n  \"dark brown to black plumage on the head and neck\"\n]",
+  "concepts": [
+    "a dark, pointed, slender bill",
+    "a mostly black or dark brown body",
+    "a prominent white patch on the wings",
+    "vibrant red legs and feet",
+    "webbed feet",
+    "a sleek, streamlined body shape",
+    "dark eyes",
+    "white underwing coverts visible in flight",
+    "a relatively small, compact stature",
+    "a slightly hunched posture while perched",
+    "dark brown to black plumage on the head and neck"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_folder": "076.Dark_eyed_Junco",
+  "class_name": "Dark eyed Junco",
+  "image_paths": [
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0048_66981.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0084_66455.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0089_68498.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0091_67304.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0115_68840.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"conical-shaped bill\", \"pale or light-colored bill\", \"dark-colored head\", \"contrasting light-colored belly\", \"white outer tail feathers\", \"dark-colored eyes\", \"small, rounded body shape\", \"uniform dark gray or brown upperparts\", \"lack of obvious wing bars\", \"thin, light-colored legs\", \"pointed tail shape\"]",
+  "concepts": [
+    "conical-shaped bill",
+    "pale or light-colored bill",
+    "dark-colored head",
+    "contrasting light-colored belly",
+    "white outer tail feathers",
+    "dark-colored eyes",
+    "small, rounded body shape",
+    "uniform dark gray or brown upperparts",
+    "lack of obvious wing bars",
+    "thin, light-colored legs",
+    "pointed tail shape"
+  ]
+}

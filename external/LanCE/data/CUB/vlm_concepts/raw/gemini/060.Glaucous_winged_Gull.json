@@ -1,0 +1,27 @@
+{
+  "class_folder": "060.Glaucous_winged_Gull",
+  "class_name": "Glaucous winged Gull",
+  "image_paths": [
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0002_44612.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0032_44594.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0051_44543.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0073_44253.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0091_44848.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick and deep bill\",\n  \"a slightly hooked bill tip\",\n  \"a predominantly pale or greyish bill\",\n  \"a greyish or brownish body plumage with mottling\",\n  \"a lack of strong contrast in wing patterning\",\n  \"a medium-sized build with a rounded head\",\n  \"a stout neck\",\n  \"pale or flesh-colored legs\",\n  \"a broad wing shape\",\n  \"a white or pale rump and underparts in older individuals\",\n  \"a uniform grey tone on the back and wings\",\n  \"a dark eye\"\n]",
+  "concepts": [
+    "a thick and deep bill",
+    "a slightly hooked bill tip",
+    "a predominantly pale or greyish bill",
+    "a greyish or brownish body plumage with mottling",
+    "a lack of strong contrast in wing patterning",
+    "a medium-sized build with a rounded head",
+    "a stout neck",
+    "pale or flesh-colored legs",
+    "a broad wing shape",
+    "a white or pale rump and underparts in older individuals",
+    "a uniform grey tone on the back and wings",
+    "a dark eye"
+  ]
+}

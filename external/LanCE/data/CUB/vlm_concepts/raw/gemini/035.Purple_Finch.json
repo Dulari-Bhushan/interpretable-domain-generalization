@@ -1,0 +1,27 @@
+{
+  "class_folder": "035.Purple_Finch",
+  "class_name": "Purple Finch",
+  "image_paths": [
+    "035.Purple_Finch/Purple_Finch_0006_27950.jpg",
+    "035.Purple_Finch/Purple_Finch_0053_27543.jpg",
+    "035.Purple_Finch/Purple_Finch_0071_27443.jpg",
+    "035.Purple_Finch/Purple_Finch_0081_27913.jpg",
+    "035.Purple_Finch/Purple_Finch_0096_27688.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, conical, seed-eating bill\",\n  \"a pale, horn-colored to grayish bill\",\n  \"a deep rose-red head and breast\",\n  \"a raspberry-colored crown and nape\",\n  \"a whitish to light-colored belly\",\n  \"brownish wings with faint pale wing bars\",\n  \"streaked flanks on the lower underparts\",\n  \"a notched tail\",\n  \"dark brown to black eyes\",\n  \"dark-colored feet and legs\",\n  \"compact, robust body shape\",\n  \"fine streaking on the sides and back\"\n]",
+  "concepts": [
+    "a thick, conical, seed-eating bill",
+    "a pale, horn-colored to grayish bill",
+    "a deep rose-red head and breast",
+    "a raspberry-colored crown and nape",
+    "a whitish to light-colored belly",
+    "brownish wings with faint pale wing bars",
+    "streaked flanks on the lower underparts",
+    "a notched tail",
+    "dark brown to black eyes",
+    "dark-colored feet and legs",
+    "compact, robust body shape",
+    "fine streaking on the sides and back"
+  ]
+}

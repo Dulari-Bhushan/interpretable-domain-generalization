@@ -1,0 +1,27 @@
+{
+  "class_folder": "158.Bay_breasted_Warbler",
+  "class_name": "Bay breasted Warbler",
+  "image_paths": [
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0020_159737.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0045_797135.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0078_797163.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0079_159998.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0087_797122.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, pointed, dark bill\",\n  \"a dark, blackish face\",\n  \"a reddish-brown or chestnut colored crown\",\n  \"a reddish-brown or chestnut throat\",\n  \"a reddish-brown or chestnut breast\",\n  \"a pale cream or yellowish patch on the side of the neck\",\n  \"a white belly\",\n  \"grey-brown wings with blackish streaking\",\n  \"two distinct white wing bars\",\n  \"a small, compact body shape\",\n  \"thin, dark legs and feet\",\n  \"a dark eye\"\n]",
+  "concepts": [
+    "a slender, pointed, dark bill",
+    "a dark, blackish face",
+    "a reddish-brown or chestnut colored crown",
+    "a reddish-brown or chestnut throat",
+    "a reddish-brown or chestnut breast",
+    "a pale cream or yellowish patch on the side of the neck",
+    "a white belly",
+    "grey-brown wings with blackish streaking",
+    "two distinct white wing bars",
+    "a small, compact body shape",
+    "thin, dark legs and feet",
+    "a dark eye"
+  ]
+}

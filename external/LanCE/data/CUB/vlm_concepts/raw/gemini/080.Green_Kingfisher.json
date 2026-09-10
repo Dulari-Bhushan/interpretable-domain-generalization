@@ -1,0 +1,25 @@
+{
+  "class_folder": "080.Green_Kingfisher",
+  "class_name": "Green Kingfisher",
+  "image_paths": [
+    "080.Green_Kingfisher/Green_Kingfisher_0018_71189.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0032_71050.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0048_71164.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0065_71132.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0081_70953.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a long, straight, blackish bill\", \"a shaggy crest on the back of the head\", \"dark green upperparts\", \"prominent white spotting on the wings\", \"a white throat\", \"a broad, white collar around the neck\", \"a wide, rufous-brown breast band\", \"white underparts below the breast band\", \"dark green flanks with white spots\", \"a short, dark tail with white edges\"]",
+  "concepts": [
+    "a long, straight, blackish bill",
+    "a shaggy crest on the back of the head",
+    "dark green upperparts",
+    "prominent white spotting on the wings",
+    "a white throat",
+    "a broad, white collar around the neck",
+    "a wide, rufous-brown breast band",
+    "white underparts below the breast band",
+    "dark green flanks with white spots",
+    "a short, dark tail with white edges"
+  ]
+}

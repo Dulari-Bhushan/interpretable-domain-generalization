@@ -1,0 +1,27 @@
+{
+  "class_folder": "176.Prairie_Warbler",
+  "class_name": "Prairie Warbler",
+  "image_paths": [
+    "176.Prairie_Warbler/Prairie_Warbler_0051_172585.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0054_172602.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0080_172724.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0086_172534.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0112_173383.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, dark-colored bill\",\n  \"a bold black stripe through the eye\",\n  \"a distinct yellow eyebrow stripe\",\n  \"a yellow throat\",\n  \"olive-green coloration on the crown and nape\",\n  \"black streaks along the sides and flanks\",\n  \"yellow breast and underparts\",\n  \"olive-green back with faint reddish-brown markings\",\n  \"two faint wing bars\",\n  \"a small, slender body shape\",\n  \"proportionately long, thin legs\",\n  \"dark-colored eyes\"\n]",
+  "concepts": [
+    "a thin, pointed, dark-colored bill",
+    "a bold black stripe through the eye",
+    "a distinct yellow eyebrow stripe",
+    "a yellow throat",
+    "olive-green coloration on the crown and nape",
+    "black streaks along the sides and flanks",
+    "yellow breast and underparts",
+    "olive-green back with faint reddish-brown markings",
+    "two faint wing bars",
+    "a small, slender body shape",
+    "proportionately long, thin legs",
+    "dark-colored eyes"
+  ]
+}

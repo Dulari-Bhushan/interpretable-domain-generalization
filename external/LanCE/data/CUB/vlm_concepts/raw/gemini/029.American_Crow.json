@@ -1,0 +1,25 @@
+{
+  "class_folder": "029.American_Crow",
+  "class_name": "American Crow",
+  "image_paths": [
+    "029.American_Crow/American_Crow_0059_25599.jpg",
+    "029.American_Crow/American_Crow_0068_25198.jpg",
+    "029.American_Crow/American_Crow_0074_25350.jpg",
+    "029.American_Crow/American_Crow_0111_25127.jpg",
+    "029.American_Crow/American_Crow_0136_25117.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"entirely black plumage\",\n  \"a sturdy black bill\",\n  \"a straight culmen\",\n  \"short, dark, scaly legs\",\n  \"pointed wings\",\n  \"a squared tail\",\n  \"robust body shape\",\n  \"smooth feathers without iridescent patches\",\n  \"a prominent dark eye\",\n  \"no visible color patches on throat or wings\"\n]",
+  "concepts": [
+    "entirely black plumage",
+    "a sturdy black bill",
+    "a straight culmen",
+    "short, dark, scaly legs",
+    "pointed wings",
+    "a squared tail",
+    "robust body shape",
+    "smooth feathers without iridescent patches",
+    "a prominent dark eye",
+    "no visible color patches on throat or wings"
+  ]
+}

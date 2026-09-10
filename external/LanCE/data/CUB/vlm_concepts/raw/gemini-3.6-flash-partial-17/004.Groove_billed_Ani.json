@@ -1,0 +1,24 @@
+{
+  "class_folder": "004.Groove_billed_Ani",
+  "class_name": "Groove billed Ani",
+  "image_paths": [
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0002_1670.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0033_1494.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0036_1604.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0069_1546.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0071_1559.jpg"
+  ],
+  "raw_response": "[\n  \"a large, strongly arched black bill\",\n  \"conspicuous longitudinal grooves along the bill\",\n  \"entirely black plumage\",\n  \"scalloped feathering on the crown and nape\",\n  \"scaly-patterned feathers on the throat and breast\",\n  \"a very long, broad tail\",\n  \"dark black eyes\",\n  \"dark grey or black legs and feet\",\n  \"a slender body shape\",\n  \"scalloped texture on the mantle and back\"\n]",
+  "concepts": [
+    "a large, strongly arched black bill",
+    "conspicuous longitudinal grooves along the bill",
+    "entirely black plumage",
+    "scalloped feathering on the crown and nape",
+    "scaly-patterned feathers on the throat and breast",
+    "a very long, broad tail",
+    "dark black eyes",
+    "dark grey or black legs and feet",
+    "a slender body shape",
+    "scalloped texture on the mantle and back"
+  ]
+}

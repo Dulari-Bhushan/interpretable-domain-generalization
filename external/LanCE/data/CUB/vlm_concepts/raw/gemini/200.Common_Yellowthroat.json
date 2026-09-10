@@ -1,0 +1,27 @@
+{
+  "class_folder": "200.Common_Yellowthroat",
+  "class_name": "Common Yellowthroat",
+  "image_paths": [
+    "200.Common_Yellowthroat/Common_Yellowthroat_0032_190592.jpg",
+    "200.Common_Yellowthroat/Common_Yellowthroat_0037_190698.jpg",
+    "200.Common_Yellowthroat/Common_Yellowthroat_0069_190400.jpg",
+    "200.Common_Yellowthroat/Common_Yellowthroat_0075_190900.jpg",
+    "200.Common_Yellowthroat/Common_Yellowthroat_0098_190430.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"distinctive black facial mask\",\n  \"white or light grey border above the black mask\",\n  \"bright yellow throat\",\n  \"bright yellow breast\",\n  \"olive-brown back\",\n  \"olive-brown wings\",\n  \"olive-brown tail\",\n  \"thin, pointed, dark-coloured bill\",\n  \"small, rounded body shape\",\n  \"dark eyes\",\n  \"pale pinkish legs\",\n  \"relatively long, slender tail\"\n]",
+  "concepts": [
+    "distinctive black facial mask",
+    "white or light grey border above the black mask",
+    "bright yellow throat",
+    "bright yellow breast",
+    "olive-brown back",
+    "olive-brown wings",
+    "olive-brown tail",
+    "thin, pointed, dark-coloured bill",
+    "small, rounded body shape",
+    "dark eyes",
+    "pale pinkish legs",
+    "relatively long, slender tail"
+  ]
+}

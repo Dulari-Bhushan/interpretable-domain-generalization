@@ -1,0 +1,27 @@
+{
+  "class_folder": "087.Mallard",
+  "class_name": "Mallard",
+  "image_paths": [
+    "087.Mallard/Mallard_0055_77102.jpg",
+    "087.Mallard/Mallard_0077_75911.jpg",
+    "087.Mallard/Mallard_0093_77419.jpg",
+    "087.Mallard/Mallard_0095_76080.jpg",
+    "087.Mallard/Mallard_0098_77490.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a yellow-green bill\",\n  \"a glossy iridescent green head\",\n  \"a white neck ring\",\n  \"a chestnut-brown breast\",\n  \"a greyish-white body plumage\",\n  \"a brown back\",\n  \"a dark-colored rump and tail\",\n  \"a distinct blue wing patch with white borders\",\n  \"bright orange feet\",\n  \"a rounded body shape\",\n  \"brown mottled plumage on the female\",\n  \"a dark streak through the eye of the female\"\n]",
+  "concepts": [
+    "a yellow-green bill",
+    "a glossy iridescent green head",
+    "a white neck ring",
+    "a chestnut-brown breast",
+    "a greyish-white body plumage",
+    "a brown back",
+    "a dark-colored rump and tail",
+    "a distinct blue wing patch with white borders",
+    "bright orange feet",
+    "a rounded body shape",
+    "brown mottled plumage on the female",
+    "a dark streak through the eye of the female"
+  ]
+}

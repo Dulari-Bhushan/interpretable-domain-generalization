@@ -1,0 +1,27 @@
+{
+  "class_folder": "072.Pomarine_Jaeger",
+  "class_name": "Pomarine Jaeger",
+  "image_paths": [
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0022_795747.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0041_61305.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0071_795769.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0075_61349.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0078_795758.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, bicolored bill with a dark tip\",\n  \"a dark-capped appearance\",\n  \"a white breast\",\n  \"a broad, elongated central tail feather projection\",\n  \"dark brown upperwing coloration\",\n  \"white primary feather shafts\",\n  \"a dark breast band or streaking\",\n  \"a heavy, robust body shape\",\n  \"a pointed, angular wing shape\",\n  \"dark underwing coverts\",\n  \"a mottled brown and white belly pattern\",\n  \"dark legs and feet\"\n]",
+  "concepts": [
+    "a thick, bicolored bill with a dark tip",
+    "a dark-capped appearance",
+    "a white breast",
+    "a broad, elongated central tail feather projection",
+    "dark brown upperwing coloration",
+    "white primary feather shafts",
+    "a dark breast band or streaking",
+    "a heavy, robust body shape",
+    "a pointed, angular wing shape",
+    "dark underwing coverts",
+    "a mottled brown and white belly pattern",
+    "dark legs and feet"
+  ]
+}

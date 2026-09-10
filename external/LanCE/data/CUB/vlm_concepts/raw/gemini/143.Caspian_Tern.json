@@ -1,0 +1,26 @@
+{
+  "class_folder": "143.Caspian_Tern",
+  "class_name": "Caspian Tern",
+  "image_paths": [
+    "143.Caspian_Tern/Caspian_Tern_0072_147667.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0101_145164.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0107_145639.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0114_145612.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0116_145607.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, bright orange-red bill\",\n  \"a dark, mottled black crown\",\n  \"a white throat\",\n  \"a white breast\",\n  \"a pale grey back\",\n  \"pale grey wings\",\n  \"a short, slightly forked tail\",\n  \"black legs\",\n  \"a stout, heavy body shape\",\n  \"a dark eye\",\n  \"dark wingtips\"\n]",
+  "concepts": [
+    "a thick, bright orange-red bill",
+    "a dark, mottled black crown",
+    "a white throat",
+    "a white breast",
+    "a pale grey back",
+    "pale grey wings",
+    "a short, slightly forked tail",
+    "black legs",
+    "a stout, heavy body shape",
+    "a dark eye",
+    "dark wingtips"
+  ]
+}

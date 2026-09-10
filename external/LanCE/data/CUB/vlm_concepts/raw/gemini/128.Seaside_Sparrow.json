@@ -1,0 +1,28 @@
+{
+  "class_folder": "128.Seaside_Sparrow",
+  "class_name": "Seaside Sparrow",
+  "image_paths": [
+    "128.Seaside_Sparrow/Seaside_Sparrow_0017_796513.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0042_796528.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0045_120696.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0049_120735.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0067_796532.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a relatively large, sharp, conical bill\",\n  \"a dull, greyish-brown coloured crown\",\n  \"a distinct, bright yellow patch before the eye\",\n  \"a white, unmarked throat\",\n  \"a greyish-coloured malar stripe\",\n  \"a dark-streaked, greyish-brown breast\",\n  \"a greyish, mostly unstreaked belly\",\n  \"a greyish-brown back with darker streaking\",\n  \"brown wings with rufous-toned primary coverts\",\n  \"a short, pointed, greyish-brown tail\",\n  \"pale, flesh-coloured legs and feet\",\n  \"a dark, round eye\",\n  \"a compact, thick-bodied sparrow shape\"\n]",
+  "concepts": [
+    "a relatively large, sharp, conical bill",
+    "a dull, greyish-brown coloured crown",
+    "a distinct, bright yellow patch before the eye",
+    "a white, unmarked throat",
+    "a greyish-coloured malar stripe",
+    "a dark-streaked, greyish-brown breast",
+    "a greyish, mostly unstreaked belly",
+    "a greyish-brown back with darker streaking",
+    "brown wings with rufous-toned primary coverts",
+    "a short, pointed, greyish-brown tail",
+    "pale, flesh-coloured legs and feet",
+    "a dark, round eye",
+    "a compact, thick-bodied sparrow shape"
+  ]
+}

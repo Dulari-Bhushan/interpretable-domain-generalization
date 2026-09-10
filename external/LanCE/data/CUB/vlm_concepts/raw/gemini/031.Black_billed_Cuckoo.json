@@ -1,0 +1,26 @@
+{
+  "class_folder": "031.Black_billed_Cuckoo",
+  "class_name": "Black billed Cuckoo",
+  "image_paths": [
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0001_26242.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0054_26313.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0057_795323.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0062_795309.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0082_26241.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender body shape\",\n  \"a long tail\",\n  \"a dark-colored bill\",\n  \"a mostly white throat\",\n  \"a white breast\",\n  \"a pale underbelly\",\n  \"brown upperparts\",\n  \"a greyish-brown head\",\n  \"a dark eye\",\n  \"subtle light-colored tail tips\",\n  \"relatively short legs\"\n]",
+  "concepts": [
+    "a slender body shape",
+    "a long tail",
+    "a dark-colored bill",
+    "a mostly white throat",
+    "a white breast",
+    "a pale underbelly",
+    "brown upperparts",
+    "a greyish-brown head",
+    "a dark eye",
+    "subtle light-colored tail tips",
+    "relatively short legs"
+  ]
+}

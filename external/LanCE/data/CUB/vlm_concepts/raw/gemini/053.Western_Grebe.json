@@ -1,0 +1,27 @@
+{
+  "class_folder": "053.Western_Grebe",
+  "class_name": "Western Grebe",
+  "image_paths": [
+    "053.Western_Grebe/Western_Grebe_0014_36185.jpg",
+    "053.Western_Grebe/Western_Grebe_0017_36218.jpg",
+    "053.Western_Grebe/Western_Grebe_0075_36435.jpg",
+    "053.Western_Grebe/Western_Grebe_0086_36478.jpg",
+    "053.Western_Grebe/Western_Grebe_0088_36428.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender neck\",\n  \"a sharp pointed yellow bill\",\n  \"a red eye\",\n  \"a black cap extending below the eye\",\n  \"a solid white throat\",\n  \"a white neck\",\n  \"a black nape\",\n  \"dark grey upperparts\",\n  \"light grey or white underparts\",\n  \"a sleek streamlined body\",\n  \"a flat crown profile\",\n  \"mottled grey flanks\"\n]",
+  "concepts": [
+    "a long slender neck",
+    "a sharp pointed yellow bill",
+    "a red eye",
+    "a black cap extending below the eye",
+    "a solid white throat",
+    "a white neck",
+    "a black nape",
+    "dark grey upperparts",
+    "light grey or white underparts",
+    "a sleek streamlined body",
+    "a flat crown profile",
+    "mottled grey flanks"
+  ]
+}

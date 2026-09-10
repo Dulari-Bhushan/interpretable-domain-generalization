@@ -1,0 +1,27 @@
+{
+  "class_folder": "187.American_Three_toed_Woodpecker",
+  "class_name": "American Three toed Woodpecker",
+  "image_paths": [
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0004_179908.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0007_179932.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0008_179850.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0033_796169.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0043_796187.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a straight, dark, chisel-shaped bill\",\n  \"a yellow patch on the crown\",\n  \"a predominantly black and white plumage\",\n  \"black and white horizontal barring on the flanks\",\n  \"a mostly black back\",\n  \"a solid black patch on the cheek\",\n  \"a white throat\",\n  \"a white chest\",\n  \"black and white spotted patterns on the wing feathers\",\n  \"a stiff, pointed tail used for support\",\n  \"a compact, stocky body shape\",\n  \"short, dark legs with sharp claws\"\n]",
+  "concepts": [
+    "a straight, dark, chisel-shaped bill",
+    "a yellow patch on the crown",
+    "a predominantly black and white plumage",
+    "black and white horizontal barring on the flanks",
+    "a mostly black back",
+    "a solid black patch on the cheek",
+    "a white throat",
+    "a white chest",
+    "black and white spotted patterns on the wing feathers",
+    "a stiff, pointed tail used for support",
+    "a compact, stocky body shape",
+    "short, dark legs with sharp claws"
+  ]
+}

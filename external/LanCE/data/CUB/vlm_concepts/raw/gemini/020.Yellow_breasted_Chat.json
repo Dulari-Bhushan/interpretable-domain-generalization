@@ -1,0 +1,27 @@
+{
+  "class_folder": "020.Yellow_breasted_Chat",
+  "class_name": "Yellow breasted Chat",
+  "image_paths": [
+    "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0012_21961.jpg",
+    "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0013_22008.jpg",
+    "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0068_21860.jpg",
+    "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0105_21714.jpg",
+    "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0107_21698.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey crown\",\n  \"a distinct white eye ring\",\n  \"a white line extending from the lores\",\n  \"a bright yellow throat\",\n  \"a vibrant yellow breast\",\n  \"a white lower belly\",\n  \"a thick, dark-colored bill\",\n  \"an olive-green back\",\n  \"olive-green wings\",\n  \"a relatively long, rounded tail\",\n  \"stout, greyish-colored legs\",\n  \"a heavy, stocky body shape\"\n]",
+  "concepts": [
+    "a grey crown",
+    "a distinct white eye ring",
+    "a white line extending from the lores",
+    "a bright yellow throat",
+    "a vibrant yellow breast",
+    "a white lower belly",
+    "a thick, dark-colored bill",
+    "an olive-green back",
+    "olive-green wings",
+    "a relatively long, rounded tail",
+    "stout, greyish-colored legs",
+    "a heavy, stocky body shape"
+  ]
+}

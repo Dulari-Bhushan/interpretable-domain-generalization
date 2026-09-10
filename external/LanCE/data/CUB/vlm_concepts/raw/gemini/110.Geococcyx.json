@@ -1,0 +1,26 @@
+{
+  "class_folder": "110.Geococcyx",
+  "class_name": "Geococcyx",
+  "image_paths": [
+    "110.Geococcyx/Geococcyx_0068_104149.jpg",
+    "110.Geococcyx/Geococcyx_0084_104574.jpg",
+    "110.Geococcyx/Geococcyx_0086_104755.jpg",
+    "110.Geococcyx/Geococcyx_0096_104369.jpg",
+    "110.Geococcyx/Geococcyx_0131_104300.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender body\",\n  \"a long dark tail with light tips\",\n  \"a prominent crest on the head\",\n  \"a long sharp pointed bill\",\n  \"dark streaked plumage on the breast\",\n  \"mottled brown and white spotted wings\",\n  \"a pale throat\",\n  \"long thin legs\",\n  \"a dark stripe through the eye area\",\n  \"a patch of blue or orange skin behind the eye\",\n  \"brown and cream patterned feathers on the back\"\n]",
+  "concepts": [
+    "a long slender body",
+    "a long dark tail with light tips",
+    "a prominent crest on the head",
+    "a long sharp pointed bill",
+    "dark streaked plumage on the breast",
+    "mottled brown and white spotted wings",
+    "a pale throat",
+    "long thin legs",
+    "a dark stripe through the eye area",
+    "a patch of blue or orange skin behind the eye",
+    "brown and cream patterned feathers on the back"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "002.Laysan_Albatross",
+  "class_name": "Laysan Albatross",
+  "image_paths": [
+    "002.Laysan_Albatross/Laysan_Albatross_0040_472.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0071_792.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0073_927.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0081_800.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0085_564.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender pale pinkish bill\",\n  \"a dark patch around the eye\",\n  \"a starkly white head\",\n  \"a dark brown nape and mantle\",\n  \"a dark brown back and upper wing surface\",\n  \"a contrasting white underbody\",\n  \"white underwing coverts\",\n  \"dark brown primary flight feathers\",\n  \"a short white tail with a dark tip\",\n  \"a robust and elongated body shape\",\n  \"very long narrow wings\",\n  \"uniform dark brown tail feathers\"\n]",
+  "concepts": [
+    "a long slender pale pinkish bill",
+    "a dark patch around the eye",
+    "a starkly white head",
+    "a dark brown nape and mantle",
+    "a dark brown back and upper wing surface",
+    "a contrasting white underbody",
+    "white underwing coverts",
+    "dark brown primary flight feathers",
+    "a short white tail with a dark tip",
+    "a robust and elongated body shape",
+    "very long narrow wings",
+    "uniform dark brown tail feathers"
+  ]
+}

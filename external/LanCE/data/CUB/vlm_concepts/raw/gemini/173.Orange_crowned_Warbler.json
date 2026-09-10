@@ -1,0 +1,27 @@
+{
+  "class_folder": "173.Orange_crowned_Warbler",
+  "class_name": "Orange crowned Warbler",
+  "image_paths": [
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0001_167660.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0057_168424.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0062_168119.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0079_168372.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0118_167640.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed bill\",\n  \"a yellowish-olive upper body\",\n  \"a yellow-washed breast and belly\",\n  \"indistinct, blurry streaking on the breast\",\n  \"a pale yellow undertail\",\n  \"a faint, broken eye-ring\",\n  \"a dark, thin line through the eye\",\n  \"a dull olive-grey crown\",\n  \"a small patch of orange feathers on the crown\",\n  \"dark brown or blackish legs\",\n  \"a small, compact, round-bodied shape\",\n  \"plain, unbarred wings\"\n]",
+  "concepts": [
+    "a thin, pointed bill",
+    "a yellowish-olive upper body",
+    "a yellow-washed breast and belly",
+    "indistinct, blurry streaking on the breast",
+    "a pale yellow undertail",
+    "a faint, broken eye-ring",
+    "a dark, thin line through the eye",
+    "a dull olive-grey crown",
+    "a small patch of orange feathers on the crown",
+    "dark brown or blackish legs",
+    "a small, compact, round-bodied shape",
+    "plain, unbarred wings"
+  ]
+}

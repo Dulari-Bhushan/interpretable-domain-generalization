@@ -1,0 +1,26 @@
+{
+  "class_folder": "198.Rock_Wren",
+  "class_name": "Rock Wren",
+  "image_paths": [
+    "198.Rock_Wren/Rock_Wren_0001_189289.jpg",
+    "198.Rock_Wren/Rock_Wren_0021_189175.jpg",
+    "198.Rock_Wren/Rock_Wren_0043_188933.jpg",
+    "198.Rock_Wren/Rock_Wren_0069_188969.jpg",
+    "198.Rock_Wren/Rock_Wren_0080_189340.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender slightly down-curved bill\",\n  \"a light brown to greyish-brown crown\",\n  \"finely speckled or spotted head and back plumage\",\n  \"a pale whitish-buff throat\",\n  \"a lighter buff-colored breast and belly\",\n  \"fine dusky streaking on the breast\",\n  \"a greyish-brown back\",\n  \"a short tail with a distinct pale terminal band\",\n  \"long thin dark-colored legs\",\n  \"a small compact body shape\",\n  \"a dark eye with a faint light-colored eyebrow mark\"\n]",
+  "concepts": [
+    "a slender slightly down-curved bill",
+    "a light brown to greyish-brown crown",
+    "finely speckled or spotted head and back plumage",
+    "a pale whitish-buff throat",
+    "a lighter buff-colored breast and belly",
+    "fine dusky streaking on the breast",
+    "a greyish-brown back",
+    "a short tail with a distinct pale terminal band",
+    "long thin dark-colored legs",
+    "a small compact body shape",
+    "a dark eye with a faint light-colored eyebrow mark"
+  ]
+}

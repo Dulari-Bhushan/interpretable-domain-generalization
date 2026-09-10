@@ -1,0 +1,24 @@
+{
+  "class_folder": "006.Least_Auklet",
+  "class_name": "Least Auklet",
+  "image_paths": [
+    "006.Least_Auklet/Least_Auklet_0011_795109.jpg",
+    "006.Least_Auklet/Least_Auklet_0017_795084.jpg",
+    "006.Least_Auklet/Least_Auklet_0024_795120.jpg",
+    "006.Least_Auklet/Least_Auklet_0026_795066.jpg",
+    "006.Least_Auklet/Least_Auklet_0060_795095.jpg"
+  ],
+  "raw_response": "[\n  \"bright white eyes with small dark pupils\",\n  \"a short, stubby bill with a red-tinted tip\",\n  \"a small bump at the base of the upper bill\",\n  \"thin white facial plumes extending behind the eye\",\n  \"fine white facial feathers across the forehead\",\n  \"a clean white throat patch contrasting with a dark head\",\n  \"a white breast and belly heavily mottled with dark gray spots\",\n  \"dark gray to blackish upperparts including the crown, nape, and back\",\n  \"dark webbed feet\",\n  \"a small, compact, plump body shape\"\n]",
+  "concepts": [
+    "bright white eyes with small dark pupils",
+    "a short, stubby bill with a red-tinted tip",
+    "a small bump at the base of the upper bill",
+    "thin white facial plumes extending behind the eye",
+    "fine white facial feathers across the forehead",
+    "a clean white throat patch contrasting with a dark head",
+    "a white breast and belly heavily mottled with dark gray spots",
+    "dark gray to blackish upperparts including the crown, nape, and back",
+    "dark webbed feet",
+    "a small, compact, plump body shape"
+  ]
+}

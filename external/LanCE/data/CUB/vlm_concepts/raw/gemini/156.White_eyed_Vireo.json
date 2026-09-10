@@ -1,0 +1,27 @@
+{
+  "class_folder": "156.White_eyed_Vireo",
+  "class_name": "White eyed Vireo",
+  "image_paths": [
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0016_158978.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0033_159079.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0042_159012.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0071_159072.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0128_158993.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, slightly hooked grey bill\",\n  \"a distinct white iris\",\n  \"a yellowish-green patch on the lores\",\n  \"a greyish crown and nape\",\n  \"an olive-green back\",\n  \"a pale, off-white throat\",\n  \"a yellow wash on the flanks and breast\",\n  \"two white wing bars\",\n  \"olive-green wing feathers with darker centers\",\n  \"a relatively short, squared tail\",\n  \"dark grey legs and feet\",\n  \"a compact, plump body shape\"\n]",
+  "concepts": [
+    "a thick, slightly hooked grey bill",
+    "a distinct white iris",
+    "a yellowish-green patch on the lores",
+    "a greyish crown and nape",
+    "an olive-green back",
+    "a pale, off-white throat",
+    "a yellow wash on the flanks and breast",
+    "two white wing bars",
+    "olive-green wing feathers with darker centers",
+    "a relatively short, squared tail",
+    "dark grey legs and feet",
+    "a compact, plump body shape"
+  ]
+}

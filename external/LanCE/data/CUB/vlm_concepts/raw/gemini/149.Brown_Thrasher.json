@@ -1,0 +1,27 @@
+{
+  "class_folder": "149.Brown_Thrasher",
+  "class_name": "Brown Thrasher",
+  "image_paths": [
+    "149.Brown_Thrasher/Brown_Thrasher_0001_155380.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0012_155121.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0045_155182.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0052_155254.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0074_155339.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long curved bill\",\n  \"a rufous brown upper body\",\n  \"a pale throat\",\n  \"heavily streaked dark brown breast\",\n  \"spotted dark brown flanks\",\n  \"two white wing bars\",\n  \"a very long brown tail\",\n  \"a bright yellow eye\",\n  \"a light-coloured facial area surrounding the eye\",\n  \"a sleek and slender body shape\",\n  \"sturdy legs and feet\",\n  \"a white belly\"\n]",
+  "concepts": [
+    "a long curved bill",
+    "a rufous brown upper body",
+    "a pale throat",
+    "heavily streaked dark brown breast",
+    "spotted dark brown flanks",
+    "two white wing bars",
+    "a very long brown tail",
+    "a bright yellow eye",
+    "a light-coloured facial area surrounding the eye",
+    "a sleek and slender body shape",
+    "sturdy legs and feet",
+    "a white belly"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_folder": "069.Rufous_Hummingbird",
+  "class_name": "Rufous Hummingbird",
+  "image_paths": [
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0037_60415.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0045_59533.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0089_59524.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0095_60360.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0102_59414.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender straight bill\",\n  \"a dark-coloured bill\",\n  \"a dark eye\",\n  \"a rufous-coloured back\",\n  \"a rufous-coloured belly\",\n  \"a rufous-coloured tail\",\n  \"an iridescent gorget\",\n  \"a white breast patch\",\n  \"greenish feathers on the crown\",\n  \"pointed wing shape\",\n  \"small visible feet\",\n  \"compact body shape\"\n]",
+  "concepts": [
+    "a long slender straight bill",
+    "a dark-coloured bill",
+    "a dark eye",
+    "a rufous-coloured back",
+    "a rufous-coloured belly",
+    "a rufous-coloured tail",
+    "an iridescent gorget",
+    "a white breast patch",
+    "greenish feathers on the crown",
+    "pointed wing shape",
+    "small visible feet",
+    "compact body shape"
+  ]
+}

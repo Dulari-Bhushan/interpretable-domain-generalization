@@ -1,0 +1,27 @@
+{
+  "class_folder": "098.Scott_Oriole",
+  "class_name": "Scott Oriole",
+  "image_paths": [
+    "098.Scott_Oriole/Scott_Oriole_0031_90270.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0042_795844.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0051_795807.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0069_92271.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0077_795831.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a sharply pointed, black bill\",\n  \"a curved upper mandible\",\n  \"a solid black head and throat\",\n  \"a bright yellow breast and belly\",\n  \"a black back\",\n  \"prominent white wing bars\",\n  \"yellow-edged black flight feathers\",\n  \"a long, dark tail\",\n  \"dark-colored feet and legs\",\n  \"a sleek, slender body shape\",\n  \"a mottled, lighter-colored crown and back in some individuals\",\n  \"a dark-colored eye\"\n]",
+  "concepts": [
+    "a sharply pointed, black bill",
+    "a curved upper mandible",
+    "a solid black head and throat",
+    "a bright yellow breast and belly",
+    "a black back",
+    "prominent white wing bars",
+    "yellow-edged black flight feathers",
+    "a long, dark tail",
+    "dark-colored feet and legs",
+    "a sleek, slender body shape",
+    "a mottled, lighter-colored crown and back in some individuals",
+    "a dark-colored eye"
+  ]
+}

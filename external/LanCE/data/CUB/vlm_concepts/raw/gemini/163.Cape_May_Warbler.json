@@ -1,0 +1,26 @@
+{
+  "class_folder": "163.Cape_May_Warbler",
+  "class_name": "Cape May Warbler",
+  "image_paths": [
+    "163.Cape_May_Warbler/Cape_May_Warbler_0032_162659.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0077_162979.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0088_163149.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0101_163169.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0108_163108.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n\"a thin pointed bill\",\n\"a chestnut cheek patch\",\n\"a yellow throat\",\n\"a yellow breast with dark streaks\",\n\"a dark crown\",\n\"a greenish yellow back with darker streaks\",\n\"distinctive white wing patches\",\n\"a yellow neck patch\",\n\"black streaking along the flanks\",\n\"a small overall body size\",\n\"a moderately short tail\"\n]",
+  "concepts": [
+    "a thin pointed bill",
+    "a chestnut cheek patch",
+    "a yellow throat",
+    "a yellow breast with dark streaks",
+    "a dark crown",
+    "a greenish yellow back with darker streaks",
+    "distinctive white wing patches",
+    "a yellow neck patch",
+    "black streaking along the flanks",
+    "a small overall body size",
+    "a moderately short tail"
+  ]
+}

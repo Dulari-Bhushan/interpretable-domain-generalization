@@ -1,0 +1,27 @@
+{
+  "class_folder": "122.Harris_Sparrow",
+  "class_name": "Harris Sparrow",
+  "image_paths": [
+    "122.Harris_Sparrow/Harris_Sparrow_0016_116661.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0018_116402.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0026_116620.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0056_116532.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0073_116577.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"conical pink-orange bill\",\n  \"black crown\",\n  \"black face mask\",\n  \"black throat patch\",\n  \"pale grey nape\",\n  \"streaked brown and buff wings\",\n  \"white underparts\",\n  \"dark streaking on the flanks\",\n  \"brown tail feathers\",\n  \"small body size\",\n  \"stout, rounded body shape\",\n  \"brown eye\"\n]",
+  "concepts": [
+    "conical pink-orange bill",
+    "black crown",
+    "black face mask",
+    "black throat patch",
+    "pale grey nape",
+    "streaked brown and buff wings",
+    "white underparts",
+    "dark streaking on the flanks",
+    "brown tail feathers",
+    "small body size",
+    "stout, rounded body shape",
+    "brown eye"
+  ]
+}

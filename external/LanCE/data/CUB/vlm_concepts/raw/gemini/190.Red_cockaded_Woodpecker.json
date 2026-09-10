@@ -1,0 +1,27 @@
+{
+  "class_folder": "190.Red_cockaded_Woodpecker",
+  "class_name": "Red cockaded Woodpecker",
+  "image_paths": [
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0015_182459.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0020_182683.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0032_182376.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0037_794733.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0058_794739.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a straight, pointed black bill\",\n  \"a black crown\",\n  \"a black nape\",\n  \"large white patches on the sides of the face\",\n  \"a clean white throat\",\n  \"a spotted or barred white breast\",\n  \"black and white horizontal barred flanks\",\n  \"a black back with white horizontal bars\",\n  \"black wings with white spots\",\n  \"a black tail with some white barring\",\n  \"a small-bodied, compact shape\",\n  \"colored identification leg bands\"\n]",
+  "concepts": [
+    "a straight, pointed black bill",
+    "a black crown",
+    "a black nape",
+    "large white patches on the sides of the face",
+    "a clean white throat",
+    "a spotted or barred white breast",
+    "black and white horizontal barred flanks",
+    "a black back with white horizontal bars",
+    "black wings with white spots",
+    "a black tail with some white barring",
+    "a small-bodied, compact shape",
+    "colored identification leg bands"
+  ]
+}

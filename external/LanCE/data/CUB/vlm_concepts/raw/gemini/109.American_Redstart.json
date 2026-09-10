@@ -1,0 +1,26 @@
+{
+  "class_folder": "109.American_Redstart",
+  "class_name": "American Redstart",
+  "image_paths": [
+    "109.American_Redstart/American_Redstart_0031_102890.jpg",
+    "109.American_Redstart/American_Redstart_0045_102823.jpg",
+    "109.American_Redstart/American_Redstart_0087_103371.jpg",
+    "109.American_Redstart/American_Redstart_0111_102945.jpg",
+    "109.American_Redstart/American_Redstart_0138_102869.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"black head\", \"black throat\", \"black breast\", \"black back\", \"pointed black bill\", \"vivid orange wing patches\", \"vivid orange tail patches\", \"white underbelly\", \"dark brown or black eyes\", \"slender body shape\", \"thin greyish legs\"]",
+  "concepts": [
+    "black head",
+    "black throat",
+    "black breast",
+    "black back",
+    "pointed black bill",
+    "vivid orange wing patches",
+    "vivid orange tail patches",
+    "white underbelly",
+    "dark brown or black eyes",
+    "slender body shape",
+    "thin greyish legs"
+  ]
+}

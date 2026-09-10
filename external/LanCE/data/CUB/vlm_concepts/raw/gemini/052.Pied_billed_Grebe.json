@@ -1,0 +1,26 @@
+{
+  "class_folder": "052.Pied_billed_Grebe",
+  "class_name": "Pied billed Grebe",
+  "image_paths": [
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0044_35425.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0052_35937.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0063_35529.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0081_35409.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0120_35764.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short, thick, chicken-like bill\",\n  \"a dark vertical band on the bill\",\n  \"a brownish-grey overall plumage\",\n  \"a darker, brownish crown and nape\",\n  \"a lighter, brownish throat\",\n  \"a short, stubby tail\",\n  \"a compact, rounded body shape\",\n  \"a prominent, dark eye with a light ring\",\n  \"a pale, whitish patch under the tail\",\n  \"white-tipped secondary feathers on the wings\",\n  \"a small, rounded head on a relatively short neck\"\n]",
+  "concepts": [
+    "a short, thick, chicken-like bill",
+    "a dark vertical band on the bill",
+    "a brownish-grey overall plumage",
+    "a darker, brownish crown and nape",
+    "a lighter, brownish throat",
+    "a short, stubby tail",
+    "a compact, rounded body shape",
+    "a prominent, dark eye with a light ring",
+    "a pale, whitish patch under the tail",
+    "white-tipped secondary feathers on the wings",
+    "a small, rounded head on a relatively short neck"
+  ]
+}

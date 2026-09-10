@@ -1,0 +1,27 @@
+{
+  "class_folder": "114.Black_throated_Sparrow",
+  "class_name": "Black throated Sparrow",
+  "image_paths": [
+    "114.Black_throated_Sparrow/Black_Throated_Sparrow_0001_107233.jpg",
+    "114.Black_throated_Sparrow/Black_Throated_Sparrow_0046_107339.jpg",
+    "114.Black_throated_Sparrow/Black_Throated_Sparrow_0069_107116.jpg",
+    "114.Black_throated_Sparrow/Black_Throated_Sparrow_0078_107298.jpg",
+    "114.Black_throated_Sparrow/Black_Throated_Sparrow_0095_107268.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"conical grey bill\", \"white supercilium\", \"black throat patch\", \"black loral stripe\", \"white malar stripe\", \"grey crown\", \"grey nape\", \"grey breast\", \"brownish-grey back\", \"greyish-brown wings\", \"long tail\", \"greyish legs\"]",
+  "concepts": [
+    "conical grey bill",
+    "white supercilium",
+    "black throat patch",
+    "black loral stripe",
+    "white malar stripe",
+    "grey crown",
+    "grey nape",
+    "grey breast",
+    "brownish-grey back",
+    "greyish-brown wings",
+    "long tail",
+    "greyish legs"
+  ]
+}

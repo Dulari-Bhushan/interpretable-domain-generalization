@@ -1,0 +1,26 @@
+{
+  "class_folder": "139.Scarlet_Tanager",
+  "class_name": "Scarlet Tanager",
+  "image_paths": [
+    "139.Scarlet_Tanager/Scarlet_Tanager_0017_138484.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0060_138384.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0075_137602.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0090_137703.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0107_138577.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a vibrant red head\",\n  \"a vibrant red breast\",\n  \"a vibrant red underbody\",\n  \"black wings\",\n  \"a black tail\",\n  \"a short, thick, pale-colored bill\",\n  \"a stout, compact body shape\",\n  \"dark-colored eyes\",\n  \"a solid red mantle\",\n  \"thin, dark legs\",\n  \"a rounded head shape\"\n]",
+  "concepts": [
+    "a vibrant red head",
+    "a vibrant red breast",
+    "a vibrant red underbody",
+    "black wings",
+    "a black tail",
+    "a short, thick, pale-colored bill",
+    "a stout, compact body shape",
+    "dark-colored eyes",
+    "a solid red mantle",
+    "thin, dark legs",
+    "a rounded head shape"
+  ]
+}

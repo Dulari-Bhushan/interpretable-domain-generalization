@@ -1,0 +1,27 @@
+{
+  "class_folder": "131.Vesper_Sparrow",
+  "class_name": "Vesper Sparrow",
+  "image_paths": [
+    "131.Vesper_Sparrow/Vesper_Sparrow_0018_125651.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0022_125719.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0053_125641.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0079_125579.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0080_125606.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender conical bill\",\n  \"a distinct white eye ring\",\n  \"brown streaks on the breast\",\n  \"streaked brown plumage on the back\",\n  \"a white malar stripe\",\n  \"brown-streaked crown\",\n  \"a light-coloured throat\",\n  \"a dark patch on the ear coverts\",\n  \"light-coloured legs\",\n  \"dark brown wing feathers with pale edges\",\n  \"a relatively long and slender tail\",\n  \"overall compact body shape\"\n]",
+  "concepts": [
+    "a slender conical bill",
+    "a distinct white eye ring",
+    "brown streaks on the breast",
+    "streaked brown plumage on the back",
+    "a white malar stripe",
+    "brown-streaked crown",
+    "a light-coloured throat",
+    "a dark patch on the ear coverts",
+    "light-coloured legs",
+    "dark brown wing feathers with pale edges",
+    "a relatively long and slender tail",
+    "overall compact body shape"
+  ]
+}

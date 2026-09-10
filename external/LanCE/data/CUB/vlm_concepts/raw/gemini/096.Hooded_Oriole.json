@@ -1,0 +1,25 @@
+{
+  "class_folder": "096.Hooded_Oriole",
+  "class_name": "Hooded Oriole",
+  "image_paths": [
+    "096.Hooded_Oriole/Hooded_Oriole_0038_90575.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0049_89955.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0075_90788.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0091_90821.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0104_90264.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender, downward-curved black bill\",\n  \"a bright yellow or orange crown and nape\",\n  \"a distinct black throat patch\",\n  \"a black eye area\",\n  \"a yellow or orange chest and belly\",\n  \"a mostly black back\",\n  \"black wings with two white wing bars\",\n  \"a long, thin, dark-colored tail\",\n  \"thin, dark-colored legs\",\n  \"a slender, perching body shape\"\n]",
+  "concepts": [
+    "a slender, downward-curved black bill",
+    "a bright yellow or orange crown and nape",
+    "a distinct black throat patch",
+    "a black eye area",
+    "a yellow or orange chest and belly",
+    "a mostly black back",
+    "black wings with two white wing bars",
+    "a long, thin, dark-colored tail",
+    "thin, dark-colored legs",
+    "a slender, perching body shape"
+  ]
+}

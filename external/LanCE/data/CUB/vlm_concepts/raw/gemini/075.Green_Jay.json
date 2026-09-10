@@ -1,0 +1,27 @@
+{
+  "class_folder": "075.Green_Jay",
+  "class_name": "Green Jay",
+  "image_paths": [
+    "075.Green_Jay/Green_Jay_0006_65788.jpg",
+    "075.Green_Jay/Green_Jay_0016_65864.jpg",
+    "075.Green_Jay/Green_Jay_0044_66228.jpg",
+    "075.Green_Jay/Green_Jay_0066_65902.jpg",
+    "075.Green_Jay/Green_Jay_0100_65786.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"bright blue forehead\",\n  \"black face mask\",\n  \"vibrant green back\",\n  \"bright yellow underparts\",\n  \"distinct yellow tail tips\",\n  \"long green tail feathers\",\n  \"sturdy dark bill\",\n  \"dark eye color\",\n  \"slender dark legs\",\n  \"rounded wing shape\",\n  \"medium-sized songbird body\",\n  \"blue patches above the eye\"\n]",
+  "concepts": [
+    "bright blue forehead",
+    "black face mask",
+    "vibrant green back",
+    "bright yellow underparts",
+    "distinct yellow tail tips",
+    "long green tail feathers",
+    "sturdy dark bill",
+    "dark eye color",
+    "slender dark legs",
+    "rounded wing shape",
+    "medium-sized songbird body",
+    "blue patches above the eye"
+  ]
+}

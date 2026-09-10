@@ -1,0 +1,26 @@
+{
+  "class_folder": "064.Ring_billed_Gull",
+  "class_name": "Ring billed Gull",
+  "image_paths": [
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0003_51480.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0018_51505.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0028_51454.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0050_51567.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0074_52258.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a yellow bill with a distinct black band\",\n  \"a yellow iris\",\n  \"a light gray mantle and wings\",\n  \"white underparts\",\n  \"white head with light gray streaking on the crown and nape\",\n  \"black wingtips with white spots\",\n  \"yellow legs and feet\",\n  \"a medium-sized, compact body shape\",\n  \"a white tail with a black subterminal band\",\n  \"a straight, medium-length bill\",\n  \"a rounded head shape\"\n]",
+  "concepts": [
+    "a yellow bill with a distinct black band",
+    "a yellow iris",
+    "a light gray mantle and wings",
+    "white underparts",
+    "white head with light gray streaking on the crown and nape",
+    "black wingtips with white spots",
+    "yellow legs and feet",
+    "a medium-sized, compact body shape",
+    "a white tail with a black subterminal band",
+    "a straight, medium-length bill",
+    "a rounded head shape"
+  ]
+}

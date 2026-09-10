@@ -1,0 +1,25 @@
+{
+  "class_folder": "106.Horned_Puffin",
+  "class_name": "Horned Puffin",
+  "image_paths": [
+    "106.Horned_Puffin/Horned_Puffin_0004_100733.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0022_100766.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0024_100620.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0031_100804.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0040_100891.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large, multi-colored, triangular bill\",\n  \"a prominent yellow and red bill tip\",\n  \"a distinct dark line extending backward from the eye\",\n  \"a black crown, nape, and back\",\n  \"a white throat, breast, and belly\",\n  \"a small, dark, possibly reddish eye\",\n  \"stout, orange-colored webbed feet\",\n  \"a stocky, rounded body shape\",\n  \"short, dark, pointed wings\",\n  \"a short, dark tail\"\n]",
+  "concepts": [
+    "a large, multi-colored, triangular bill",
+    "a prominent yellow and red bill tip",
+    "a distinct dark line extending backward from the eye",
+    "a black crown, nape, and back",
+    "a white throat, breast, and belly",
+    "a small, dark, possibly reddish eye",
+    "stout, orange-colored webbed feet",
+    "a stocky, rounded body shape",
+    "short, dark, pointed wings",
+    "a short, dark tail"
+  ]
+}

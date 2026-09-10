@@ -1,265 +1,3 @@
-A long beak
-Dark brown head feathers
-Brown wings
-Gray underparts
-White ring around eyes
-A white head
-Black wings
-White underbelly
-black beak
-grey head
-white underparts
-black feathers
-long black beak
-short legs
-feather texture
-orange beak
-feather tuft
-black head
-white neck ring
-gray feathers
-short wings
-black head feathers
-white stripe above eyes
-dark brown wings
-brown
-dark eyes
-curved beak
-orange-red patch
-red eyes
-"rusty" brown head
-black legs
-Orange-yellow neck
-Long legs
-yellowish-orange crest
-A blue head
-Blue feathers
-White beak
-orange chest
-Red underbelly
-β-shaped green wings
-A bright red head
-Red crest
-Orange-red feathers
-A green head
-black eyes
-Grey wings
-Black tail
-Small beak
-yellow underbelly
-gray head
-Orange underbelly
-A brownish-grey head
-Brown spotted wings
-Spotted chest
-Blue eyes
-A red face
-Orange eyes
-A long orange beak
-blue underparts
-brown head feathers
-black spots
-A black American crow
-The bird has a dark brown head.
-Its beak appears to have some white or light-colored markings around its base.
-A black-billed cuckoo has a distinctive long pointed beak
-The head appears to have dark brown feathers
-Chest area seems light colored
-Grey neck ring
-Orange underparts
-yellow beak
-'Red' head
-Short beak
-Red chest
-Brown feathers
-Red patches above eyes
-Black spot below beak
-Spotted brown wings
-Brown spotted underparts
-Grey legs
-Yellow underparts
-Brownish-orange tail feathers
-A small brownish-grey head
-Brown eyes
-Gray-brown wings
-grayish-brown head
-long forked tail
-gray wings
-Orange-red underparts
-A yellow belly
-A large red pouch
-beak
-beige
-Grey neck feathers
-yellow feathers
-black head patch
-Black markings around eyes
-Brown upper parts
-White cheeks
-Blue-black feathers
-white neck
-orange neck ring
-A brown head
-Brown neck feathers
-Grayish-brown wings
-Dark brown eyes
-Orange-brown wings
-Small legs
-yellow head
-black face
-orange legs
-Red feathers around eyes
-White belly
-white underwing
-red legs
-yellow
-black
-'Herrmann gulls' have red bills
-The 'herring gull's' legs appear to be black.
-'white' plumage
-long black legs
-short pointed wings
-Grayish-black wings.
-Black tips to primary feathers.
-Yellow legs.
-Curved black beak.
-legs
-bill
-orange
-A greenish-brown head
-Orange-red head patch
-Green wings
-Orange head feathers
-green head feathers
-blue-purple neck patch
-feathered legs
-head
-tail
-Dark gray legs
-'gray-blue' neck
-short black beak
-brownish-grey underparts
-light blue wings
-pink beak
-Dark blue head feathers
-Dark green head feathers
-Orange chest patch
-Black head stripes
-Spotted wings
-A long pointed beak
-Gray head feathers
-White neck stripe
-A long red beak
-Blue wings
-{'feature':
-yellow face
-black head stripe
-White cheek
-black chest patch
-white face patch
-brown chest
-A red-billed duck
-"s white underparts
-long dark beak
-small stature
-eyes
-black' + 'and white
-Black head markings.
-Blue-gray upperparts.
-Short blue beak.
-Orange belly
-White markings
-Bird has yellow eyes
-Spotted white underparts
-Yellow eyes
-Large white wings
-Grayish-black underwings
-short dark beak
-small brown speckles
-long wingspan relative to body length
-Sayornis have an orange-buff underparts
-Sayorns have black wings
-A large orange beak
-Black feathers covering most of its head except white tuft above eyes
-White underparts including belly and chest
-Dark grey wings with black tips
-Yellow feet
-Brown legs
-Orange webbed toes
-Small yellow spot near base of beak
-white patch under beak
-yellow-orange wings
-Grey underparts
-Black wing tips
-bill length
-beak width
-chipping sparrow
-A small brown speckled head
-Grayish-brown upper parts
-striped
-Grayish-brown underparts
-White speckled chest
-A yellow-billed bird
-Brownish-grey feathers
-Yellow-orange legs
-Black face stripe
-Dark legs
-A yellowish-buff head
-Brown streaks across face
-Yellow-orange beak
-Brown stripes across chest
-"head" has brown stripes
-A yellow-orange head
-Black stripe above eyes
-A yellow stripe above its eyes
-Dark brown legs
-Gray legs
-A white face
-A blue-green head
-Orange-red neck patch
-Red feathers covering most of its body
-Orange-red beak
-red beak
-black cap
-Black tips to white feathers
-Greyish brown wings
-beige underbelly
-gray upper parts
-bill is black
-Yellow wings
-White eyes
-green upper parts
-eye
-grayish-blue upper parts
-tail feathers
-grayish upper parts
-dark gray wings
-bright yellow patches
-black stripes across yellow belly
-dark grey wings
-Black face patch
-white face stripe
-greenish-yellow wings
-'orange' colored face
-'pale yellow' head
-yellow 'throat'
-black stripes above eyes
-A yellowish-brown head
-Pink legs
-"green" beak
-black stripe through eyes
-water thrush
-Black spots on white belly
-An orange-red face
-Orange-tipped black beak
-Red spots
-Red head patch
-red spot
-spotted feathers
-A small brown wren
-A small brown bird
-Lighter colored underparts
-black face mask
 uniformly dark brown body plumage
 hooked, dark-tipped bill
 pale area around the base of the bill
@@ -412,6 +150,7 @@ a dark, round eye
 vibrant blue plumage
 conical grey bill
 dark grey or black legs
+dark eyes
 dark wing feathers
 blue crown
 blue breast
@@ -510,9 +249,11 @@ a dark-colored iridescent body
 a distinct blue gular pouch
 a long neck
 a slender body profile
+blue eyes
 a pointed tail
 dark brown juvenile plumage
 pale lighter-colored chest plumage in juveniles
+black legs
 prominent plumage texture on the neck and wings
 a long slender neck
 a thin pointed bill
@@ -643,6 +384,7 @@ a light brown back with black horizontal bars
 a rounded body shape
 stiff, pointed tail feathers
 legs adapted for vertical clinging
+dark brown eyes
 yellowish or reddish wing/tail shaft coloring
 a relatively broad, flat bill
 a pale, yellowish-colored lower mandible
@@ -806,6 +548,7 @@ a sharp pointed yellow bill
 a red eye
 a black cap extending below the eye
 a solid white throat
+a white neck
 dark grey upperparts
 light grey or white underparts
 a sleek streamlined body
@@ -910,6 +653,7 @@ broad, rounded wings
 lack of wingtip markings
 a yellow bill with a distinct black band
 a light gray mantle and wings
+white underparts
 white head with light gray streaking on the crown and nape
 yellow legs and feet
 a medium-sized, compact body shape
@@ -997,10 +741,13 @@ a medium-sized body
 a dark, stout bill
 a blue crown and nape
 a blue tail
+blue wings
 a pale, brownish-grey breast
 a pale throat
+a dark legs
 a rounded wing shape
 bright blue forehead
+black face mask
 vibrant green back
 bright yellow underparts
 distinct yellow tail tips
@@ -1022,6 +769,7 @@ a grey nape
 a stout and relatively long bill
 a dark, solid-coloured eye stripe
 a bright yellow breast
+a yellow belly
 an olive-greyish back
 dark brown wings with pale edgings
 dark-coloured legs and feet
@@ -1061,6 +809,7 @@ a thick black band across the chest
 a black stripe extending through the eye
 white facial markings around the eye
 a checkered black and white wing pattern
+a white underbelly
 a compact, streamlined body shape
 a large, heavy, pointed bill
 a dark, shaggy crest on the head
@@ -1084,6 +833,7 @@ a short yellow bill
 bright red legs and feet
 a solid slate-grey back
 a solid slate-grey upper wing surface
+a white head
 a black wingtip pattern
 a short, conical, dark-colored bill
 a distinctive black mask across the eyes
@@ -1109,6 +859,7 @@ light-colored belly and breast
 absence of a crest on the head
 a yellow-green bill
 a glossy iridescent green head
+a white neck ring
 a chestnut-brown breast
 a greyish-white body plumage
 a dark-colored rump and tail
@@ -1234,6 +985,7 @@ a white breast with heavy black streaks
 dark lateral throat stripes
 a short-tailed, chunky body shape
 light pinkish or flesh-colored legs
+a white belly
 a long, massive bill
 a prominent gular pouch beneath the bill
 a hooked tip on the upper mandible
@@ -1322,6 +1074,7 @@ a large, robust body
 a relatively short, squared tail
 an iridescent sheen on the feathers
 a dark iris
+black head
 black throat
 black breast
 vivid orange wing patches
@@ -1606,6 +1359,8 @@ short, dark-coloured legs and feet
 a vibrant red head
 a vibrant red breast
 a vibrant red underbody
+black wings
+a black tail
 a short, thick, pale-colored bill
 a solid red mantle
 entirely red plumage
@@ -1614,6 +1369,7 @@ uniform red throat
 thick conical bill shape
 monochromatic body coloration
 relatively short tail
+a black cap
 a solid red bill
 a light grey breast
 pale grey back plumage
@@ -1651,6 +1407,7 @@ blackish wingtips
 a slightly shaggy crest at the back of the head
 a pointed orange bill with a black tip
 white breast and belly
+long forked tail
 bright orange legs
 a slender yellow bill
 a black cap extending from the forehead to the nape
@@ -1770,6 +1527,7 @@ slender, dark-coloured legs and feet
 a compact, sparrow-sized body shape
 a black line through the eye
 a vibrant yellow crown
+a yellow throat
 a yellow breast
 a grey wing
 a white patch on the wing coverts
@@ -1778,6 +1536,7 @@ a grey back
 a yellow underside
 a black necklace of streaks across the breast
 a dark upper bill and lighter lower bill
+dark grey wings
 slender legs
 a chestnut cheek patch
 a yellow breast with dark streaks
@@ -1835,6 +1594,7 @@ a yellow crown patch
 dark grey or black upperparts
 dark thin legs and feet
 a broken white eye ring
+a grey head
 a white eye-ring
 a faint rufous patch on the crown
 a small, slender body shape
@@ -1874,6 +1634,7 @@ two faint wing bars
 proportionately long, thin legs
 vibrant yellow head
 olive green back
+grey wings
 blackish eye
 pointed dark bill
 short tail with white undertail feathers
@@ -1897,6 +1658,7 @@ a somewhat rounded head shape
 distinctive black cap on the crown
 small thin bill
 dark beady eyes
+short pointed wings
 yellow face surrounding the black cap
 thin dark line bordering the base of the bill
 yellowish-brown feet
@@ -2078,541 +1840,3 @@ olive-brown wings
 olive-brown tail
 thin, pointed, dark-coloured bill
 relatively long, slender tail
-a curved bill
-a straight bill
-a hooked bill
-a conical bill
-a spatulate bill
-a dagger shaped bill
-a needle like bill
-a stubby bill
-a thin bill
-a thick bill
-a short bill
-a downcurved bill
-an upcurved bill
-a hooked tip bill
-a slightly curved bill
-a stout bill
-a pointed bill
-a chunky bill
-a flat bill
-a wide bill
-a all purpose bill
-a serrated bill
-a two toned bill
-a heavy bill
-a fine bill
-a decurved bill
-a chisel shaped bill
-a probing bill
-a black coloured crown
-a black coloured nape
-a black coloured throat
-a black coloured breast
-a black coloured belly
-a black coloured back
-a black coloured wing
-a black coloured tail
-a black coloured rump
-a black coloured eye
-a black coloured leg
-a black coloured bill
-a white coloured crown
-a white coloured nape
-a white coloured throat
-a white coloured breast
-a white coloured belly
-a white coloured back
-a white coloured wing
-a white coloured tail
-a white coloured rump
-a white coloured eye
-a white coloured bill
-a gray coloured crown
-a gray coloured nape
-a gray coloured throat
-a gray coloured breast
-a gray coloured belly
-a gray coloured back
-a gray coloured wing
-a gray coloured tail
-a gray coloured rump
-a gray coloured eye
-a gray coloured leg
-a gray coloured bill
-a brown coloured crown
-a brown coloured nape
-a brown coloured throat
-a brown coloured breast
-a brown coloured belly
-a brown coloured back
-a brown coloured wing
-a brown coloured tail
-a brown coloured rump
-a brown coloured eye
-a brown coloured bill
-a rufous coloured nape
-a rufous coloured throat
-a rufous coloured breast
-a rufous coloured belly
-a rufous coloured back
-a rufous coloured wing
-a rufous coloured tail
-a rufous coloured rump
-a rufous coloured eye
-a rufous coloured bill
-a yellow coloured crown
-a yellow coloured nape
-a yellow coloured throat
-a yellow coloured breast
-a yellow coloured belly
-a yellow coloured back
-a yellow coloured wing
-a yellow coloured tail
-a yellow coloured rump
-a yellow coloured eye
-a yellow coloured leg
-a yellow coloured bill
-a orange coloured crown
-a orange coloured nape
-a orange coloured throat
-a orange coloured breast
-a orange coloured belly
-a orange coloured back
-a orange coloured wing
-a orange coloured tail
-a orange coloured rump
-a orange coloured eye
-a orange coloured leg
-a orange coloured bill
-a red coloured crown
-a red coloured nape
-a red coloured throat
-a red coloured breast
-a red coloured belly
-a red coloured back
-a red coloured wing
-a red coloured tail
-a red coloured rump
-a red coloured eye
-a red coloured bill
-a pink coloured crown
-a pink coloured nape
-a pink coloured throat
-a pink coloured breast
-a pink coloured belly
-a pink coloured back
-a pink coloured wing
-a pink coloured tail
-a pink coloured rump
-a pink coloured eye
-a pink coloured leg
-a pink coloured bill
-a blue coloured crown
-a blue coloured nape
-a blue coloured throat
-a blue coloured breast
-a blue coloured belly
-a blue coloured back
-a blue coloured wing
-a blue coloured tail
-a purple coloured crown
-a purple coloured nape
-a purple coloured throat
-a purple coloured breast
-a purple coloured belly
-a purple coloured back
-a purple coloured wing
-a purple coloured tail
-a green coloured crown
-a green coloured nape
-a green coloured throat
-a green coloured breast
-a green coloured belly
-a green coloured back
-a green coloured wing
-a green coloured tail
-a olive coloured crown
-a olive coloured nape
-a olive coloured throat
-a olive coloured breast
-a olive coloured belly
-a olive coloured back
-a olive coloured wing
-a olive coloured tail
-a olive coloured rump
-a olive coloured eye
-a buff coloured crown
-a buff coloured nape
-a buff coloured throat
-a buff coloured breast
-a buff coloured belly
-a buff coloured back
-a buff coloured wing
-a buff coloured tail
-a buff coloured rump
-a buff coloured eye
-a chestnut coloured crown
-a chestnut coloured nape
-a chestnut coloured throat
-a chestnut coloured breast
-a chestnut coloured belly
-a chestnut coloured back
-a chestnut coloured wing
-a chestnut coloured tail
-a chestnut coloured rump
-a streaked back
-a streaked belly
-a streaked wing
-a streaked tail
-a streaked throat
-a streaked flank
-a spotted breast
-a spotted back
-a spotted belly
-a spotted wing
-a spotted tail
-a spotted throat
-a spotted flank
-a barred breast
-a barred back
-a barred belly
-a barred wing
-a barred tail
-a barred throat
-a barred flank
-a mottled breast
-a mottled back
-a mottled belly
-a mottled wing
-a mottled tail
-a mottled throat
-a mottled flank
-a scaled breast
-a scaled back
-a scaled belly
-a scaled wing
-a scaled tail
-a scaled throat
-a scaled flank
-a speckled breast
-a speckled back
-a speckled belly
-a speckled wing
-a speckled tail
-a speckled throat
-a speckled flank
-a striped breast
-a striped back
-a striped belly
-a striped wing
-a striped tail
-a striped throat
-a capped crown
-a masked face
-a bold eyebrow
-a thin eyering
-a bold eyering
-a pale supercilium
-a streaked crown
-a plain face
-a tiny bird
-a very small bird
-a small bird
-a medium sized bird
-a large bird
-a very large bird
-a stocky bird
-a slender bird
-a plump bird
-a lanky bird
-long wings
-broad wings
-narrow wings
-a fan shaped tail
-a graduated tail
-a diving seabird
-a wading bird
-a woodland songbird
-a marsh dweller
-a desert bird
-an aerial insectivore
-a cavity nester
-a ground forager
-found near water
-a nocturnal bird
-a colonial nester
-a tree climbing bird
-a seed eating bird
-a nectar feeder
-a fish eating bird
-a bird of prey
-a shorebird
-a bird found in grassland
-a bird found in scrubland
-a bird found near cliffs
-a bird found in coniferous forest
-a bird found in deciduous forest
-a bird that forages on tree bark
-a bird that hovers while feeding
-a bird that catches insects in flight
-glossy plumage
-iridescent plumage
-dull plumage
-a webbed foot
-a long leg
-a short leg
-a hooked claw
-a bright plumage
-a drab plumage
-a white wingbar
-a dark wingbar
-a pale belly
-a dark belly
-a black mask
-a tufted crest
-a long thin bill
-a short stout bill
-a strongly curved bill
-a straight slender bill
-a fine pointed bill
-a downward curved bill
-an upturned bill
-a broad flat bill
-a heavy crushing bill
-a tiny delicate bill
-an oversized bill
-a spatula shaped bill
-a serrated edged bill
-a hooked upper mandible
-a wedge shaped bill
-a straight dagger bill
-a long probing bill
-a stout crossbill shaped bill
-a sharply pointed bill
-a broad based bill
-a narrow tapered bill
-a black bill
-a yellow bill
-an orange bill
-a red bill
-a pink bill
-a grey bill
-a horn colored bill
-a dark tipped bill
-a pale ivory bill
-a bright yellow bill tip
-a blackish bill with a pale base
-a reddish orange bill
-a dusky bill
-a bill with a black tip
-a red crown
-a striped crown
-a white crown patch
-a rufous crown
-an orange crown stripe
-a bare crown
-a crown with a central stripe
-a blue grey crown
-a chestnut crown
-a speckled crown
-a glossy black crown
-a flat crown
-a buff nape
-a white nape patch
-a rufous nape
-a speckled nape
-a golden nape
-a nape with a pale collar
-a streaked nape
-a dark olive nape
-a red throat patch
-an orange throat
-an iridescent throat patch
-a throat with a dark bib
-a rufous throat
-a throat bordered by a black band
-a plain white throat
-a buffy throat
-a throat with fine streaks
-a solid orange breast
-a rusty breast band
-a black breast band
-a pale buff breast
-a scaly patterned breast
-a pink flushed breast
-a breast with dark speckles
-a breast with a central spot
-a breast streaked with brown
-a breast marked with chevrons
-a deep chestnut breast
-a breast washed with rufous
-a buff belly
-a black belly patch
-a pale grey belly
-a belly with faint streaks
-an off white belly
-a rufous tinged belly
-a belly washed with yellow
-a brown back with fine streaks
-an iridescent back
-a chestnut back
-a back with a pale rump patch
-a scaly patterned back
-a plain slate colored back
-a back marked with dark bars
-a golden brown back
-a back with a greenish sheen
-a two toned back
-a blue wing
-a black wing with white patches
-a rufous wing patch
-an iridescent wing patch
-a wing with a white speculum
-speckled wing coverts
-a wing edged in white
-a chestnut wing panel
-a wing with a yellow patch
-dark primaries with pale edges
-a wing bar formed by pale tips
-a wing with a metallic sheen
-a mottled wing pattern
-a wing marked with a red patch
-a plain brown wing
-a wing with contrasting stripes
-orange tinged wing feathers
-a wing with a black leading edge
-a wing patch that flashes in flight
-buffy wing bars
-a long pointed wing
-a rounded wing
-a broad rounded wing
-a short stubby wing
-a narrow swept wing
-a wing built for soaring
-a wing built for rapid wingbeats
-a wing that extends past the tail
-a long graduated tail
-a stiff pointed tail
-a wedge shaped tail
-a very short tail
-a tail that is often cocked upward
-a tail longer than the body
-a pointed spike like tail
-a broad tail
-a slightly notched tail
-a tail with elongated central feathers
-a white outer tail feather
-a black tail with a white tip
-a rufous tail
-a tail edged in white
-a dark tail with a pale band
-a tail with a white terminal band
-an iridescent tail
-a tail marked with dark spots
-a chestnut tail
-a tail flashing white when spread
-a plain grey tail
-short stout legs
-long wading legs
-legs feathered to the toes
-long toes for grasping branches
-strong grasping talons
-legs adapted for perching on cattails
-short legs suited for hopping
-a pale eyebrow stripe
-a yellow eye
-a bold white eyebrow
-a thin dark line through the eye
-a bright orange eye
-a pale eye ring contrasting with dark plumage
-a broken eye ring
-a dark eye with no visible ring
-a golden eye
-a plump rounded body
-a slender body
-a stocky build
-a long necked bird
-a short necked bird
-a compact body
-an elongated body
-a tiny bird barely bigger than a bee
-a bird about the size of a sparrow
-a bird about the size of a crow
-a large heavy bodied bird
-a small delicate bird
-a robust barrel chested bird
-a slim streamlined body
-a top heavy bill relative to body size
-a ground foraging bird
-a nocturnal hunter
-a shorebird that probes mud
-a bird that perches on wires
-a bird found in dense forest
-a bird found in open grassland
-a bird with a distinctive undulating flight
-a bird that walks rather than hops
-a cavity nesting bird
-a migratory songbird
-a bird found along rocky coastlines
-a bird that forages in mixed flocks
-a bird that flicks its tail while perched
-a bird that bobs its head while walking
-a bird that catches insects on the wing
-a bird often seen near backyard feeders
-a bird that nests in tree cavities
-a bird that builds a hanging nest
-a wetland wading bird
-a bird that skims the water surface
-a bird that dives from the air for fish
-a songbird known for its loud call
-a bird that forages on tree trunks
-a bird found in dry scrubland
-a bird that nests on cliff ledges
-a bird that flocks in large numbers
-a bird that mimics other species calls
-a rufous ear patch
-a grey cheek
-streaked ear coverts
-a yellow forehead
-a facial disk typical of owls
-a bold facial pattern
-a plain unmarked face
-a dark mask across the face
-a white cheek patch bordered in black
-a rufous face
-a pale lore
-a bright red forehead patch
-a white rump patch
-a yellow rump
-a bright rump patch visible in flight
-a streaked vent
-a buff colored undertail
-a dark rump
-contrasting white undertail coverts
-a chestnut rump
-a plain grey vent
-a bird with a distinctive silhouette in flight
-a bird with a slight crest at the back of the head
-a bird with a bushy crest
-a bird with iridescent gorget feathers
-a bird with a ruff around the neck
-a bird with elongated tail streamers
-a bird with a shaggy throat feather tuft
-a bird with a bare colorful facial patch
-has a heavily streaked plumage
-has a spotted plumage overall
-has a barred plumage overall
-has a mottled brown plumage
-has a plain unmarked plumage
-has strongly contrasting black and white plumage
-has a scaly patterned plumage
-has a uniformly dark plumage
-has a pale washed out plumage
-has bright iridescent plumage
-has a boldly patterned plumage
-has counter shaded plumage darker above than below
-has a subtly patterned plumage
-has a glossy sheen to the plumage
-has cryptic camouflage plumage

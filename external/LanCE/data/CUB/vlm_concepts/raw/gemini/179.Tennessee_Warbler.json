@@ -1,0 +1,27 @@
+{
+  "class_folder": "179.Tennessee_Warbler",
+  "class_name": "Tennessee Warbler",
+  "image_paths": [
+    "179.Tennessee_Warbler/Tennessee_Warbler_0004_174997.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0030_172338.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0052_175089.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0095_174903.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0096_174993.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thin, pointed, sharp bill\",\n  \"a pale, light-colored eyebrow stripe\",\n  \"a dark stripe through the eye\",\n  \"a greenish-olive upper back\",\n  \"a plain, unstreaked breast\",\n  \"a yellowish-white wash on the underparts\",\n  \"a small, compact body size\",\n  \"light-colored legs and feet\",\n  \"a short, thin tail\",\n  \"a plain-looking wing without prominent bars\",\n  \"a relatively large eye\",\n  \"a somewhat rounded head shape\"\n]",
+  "concepts": [
+    "a thin, pointed, sharp bill",
+    "a pale, light-colored eyebrow stripe",
+    "a dark stripe through the eye",
+    "a greenish-olive upper back",
+    "a plain, unstreaked breast",
+    "a yellowish-white wash on the underparts",
+    "a small, compact body size",
+    "light-colored legs and feet",
+    "a short, thin tail",
+    "a plain-looking wing without prominent bars",
+    "a relatively large eye",
+    "a somewhat rounded head shape"
+  ]
+}

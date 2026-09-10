@@ -1,0 +1,26 @@
+{
+  "class_folder": "066.Western_Gull",
+  "class_name": "Western Gull",
+  "image_paths": [
+    "066.Western_Gull/Western_Gull_0042_53843.jpg",
+    "066.Western_Gull/Western_Gull_0080_53445.jpg",
+    "066.Western_Gull/Western_Gull_0093_54925.jpg",
+    "066.Western_Gull/Western_Gull_0115_54950.jpg",
+    "066.Western_Gull/Western_Gull_0122_40866.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a stout yellow bill\",\n  \"a red spot on the lower mandible\",\n  \"a light-colored iris\",\n  \"a white head and neck\",\n  \"a dark grey mantle\",\n  \"dark grey upper wings\",\n  \"white underparts\",\n  \"black wingtips with white spots\",\n  \"fleshy pink legs\",\n  \"a heavy, stocky body shape\",\n  \"a rounded crown\"\n]",
+  "concepts": [
+    "a stout yellow bill",
+    "a red spot on the lower mandible",
+    "a light-colored iris",
+    "a white head and neck",
+    "a dark grey mantle",
+    "dark grey upper wings",
+    "white underparts",
+    "black wingtips with white spots",
+    "fleshy pink legs",
+    "a heavy, stocky body shape",
+    "a rounded crown"
+  ]
+}

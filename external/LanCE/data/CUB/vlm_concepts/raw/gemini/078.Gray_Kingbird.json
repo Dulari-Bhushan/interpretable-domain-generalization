@@ -1,0 +1,28 @@
+{
+  "class_folder": "078.Gray_Kingbird",
+  "class_name": "Gray Kingbird",
+  "image_paths": [
+    "078.Gray_Kingbird/Gray_Kingbird_0003_70305.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0022_70155.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0026_70089.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0037_70050.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0045_70256.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"thick dark bill\",\n  \"straight bill shape\",\n  \"grey crown\",\n  \"dark grey patch across the eye\",\n  \"white throat\",\n  \"pale grey breast\",\n  \"greyish-brown back\",\n  \"dark brownish wing feathers with lighter edges\",\n  \"squared or slightly notched tail tip\",\n  \"grey-brown tail\",\n  \"stout overall body shape\",\n  \"dark thin legs\",\n  \"large-headed profile\"\n]",
+  "concepts": [
+    "thick dark bill",
+    "straight bill shape",
+    "grey crown",
+    "dark grey patch across the eye",
+    "white throat",
+    "pale grey breast",
+    "greyish-brown back",
+    "dark brownish wing feathers with lighter edges",
+    "squared or slightly notched tail tip",
+    "grey-brown tail",
+    "stout overall body shape",
+    "dark thin legs",
+    "large-headed profile"
+  ]
+}

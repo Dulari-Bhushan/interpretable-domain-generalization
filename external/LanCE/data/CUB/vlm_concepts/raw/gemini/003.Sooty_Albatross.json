@@ -1,0 +1,26 @@
+{
+  "class_folder": "003.Sooty_Albatross",
+  "class_name": "Sooty Albatross",
+  "image_paths": [
+    "003.Sooty_Albatross/Sooty_Albatross_0001_1071.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0022_796398.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0068_796353.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0072_796371.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0075_796352.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a dark-colored, hooked bill\",\n  \"a distinct white crescent mark behind the eye\",\n  \"a dark, uniform head\",\n  \"a slender body shape\",\n  \"long, narrow, pointed wings\",\n  \"a pale, greyish-brown plumage\",\n  \"darker-colored wings compared to the body\",\n  \"a pale, whitish nape and back\",\n  \"short, light-colored legs\",\n  \"webbed feet visible while standing\",\n  \"a wedge-shaped tail\"\n]",
+  "concepts": [
+    "a dark-colored, hooked bill",
+    "a distinct white crescent mark behind the eye",
+    "a dark, uniform head",
+    "a slender body shape",
+    "long, narrow, pointed wings",
+    "a pale, greyish-brown plumage",
+    "darker-colored wings compared to the body",
+    "a pale, whitish nape and back",
+    "short, light-colored legs",
+    "webbed feet visible while standing",
+    "a wedge-shaped tail"
+  ]
+}

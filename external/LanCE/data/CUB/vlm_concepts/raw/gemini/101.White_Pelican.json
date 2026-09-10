@@ -1,0 +1,28 @@
+{
+  "class_folder": "101.White_Pelican",
+  "class_name": "White Pelican",
+  "image_paths": [
+    "101.White_Pelican/White_Pelican_0013_96901.jpg",
+    "101.White_Pelican/White_Pelican_0024_96554.jpg",
+    "101.White_Pelican/White_Pelican_0053_96236.jpg",
+    "101.White_Pelican/White_Pelican_0056_97071.jpg",
+    "101.White_Pelican/White_Pelican_0059_96675.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long bill\",\n  \"a yellow-orange bill\",\n  \"a large throat pouch\",\n  \"predominantly white plumage\",\n  \"black flight feathers on wings\",\n  \"a small crest on the crown\",\n  \"bright yellow skin around the eye\",\n  \"dark colored eye\",\n  \"webbed feet\",\n  \"a thick neck\",\n  \"short, sturdy legs\",\n  \"orange leg and foot color\",\n  \"large, bulky body shape\"\n]",
+  "concepts": [
+    "a long bill",
+    "a yellow-orange bill",
+    "a large throat pouch",
+    "predominantly white plumage",
+    "black flight feathers on wings",
+    "a small crest on the crown",
+    "bright yellow skin around the eye",
+    "dark colored eye",
+    "webbed feet",
+    "a thick neck",
+    "short, sturdy legs",
+    "orange leg and foot color",
+    "large, bulky body shape"
+  ]
+}

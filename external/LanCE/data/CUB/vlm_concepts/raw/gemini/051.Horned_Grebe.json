@@ -1,0 +1,27 @@
+{
+  "class_folder": "051.Horned_Grebe",
+  "class_name": "Horned Grebe",
+  "image_paths": [
+    "051.Horned_Grebe/Horned_Grebe_0011_34687.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0033_34736.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0099_34989.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0102_34448.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0112_34864.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a sharp pointed bill\",\n  \"a dark-colored crown\",\n  \"a golden-orange patch extending from the eye\",\n  \"a dark-colored back\",\n  \"a white-colored throat\",\n  \"a chestnut-colored neck\",\n  \"red-colored eyes\",\n  \"a white-colored belly\",\n  \"a compact, low-to-the-water body shape\",\n  \"a short, stubby tail\",\n  \"mottled brown and white plumage\",\n  \"a dark-colored cap reaching down to the eye level\"\n]",
+  "concepts": [
+    "a sharp pointed bill",
+    "a dark-colored crown",
+    "a golden-orange patch extending from the eye",
+    "a dark-colored back",
+    "a white-colored throat",
+    "a chestnut-colored neck",
+    "red-colored eyes",
+    "a white-colored belly",
+    "a compact, low-to-the-water body shape",
+    "a short, stubby tail",
+    "mottled brown and white plumage",
+    "a dark-colored cap reaching down to the eye level"
+  ]
+}

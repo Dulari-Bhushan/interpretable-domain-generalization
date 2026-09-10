@@ -1,0 +1,27 @@
+{
+  "class_folder": "151.Black_capped_Vireo",
+  "class_name": "Black capped Vireo",
+  "image_paths": [
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0009_797493.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0013_155815.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0016_797489.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0018_155868.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0024_155905.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a black crown\",\n  \"a white eye ring\",\n  \"a thick, dark, straight bill\",\n  \"a white loral spot\",\n  \"a bright white throat\",\n  \"olive-green back and wings\",\n  \"white wing bars\",\n  \"yellowish wash on the flanks\",\n  \"reddish-brown iris\",\n  \"dark grey legs and feet\",\n  \"a stout, compact body shape\",\n  \"dark grey nape\"\n]",
+  "concepts": [
+    "a black crown",
+    "a white eye ring",
+    "a thick, dark, straight bill",
+    "a white loral spot",
+    "a bright white throat",
+    "olive-green back and wings",
+    "white wing bars",
+    "yellowish wash on the flanks",
+    "reddish-brown iris",
+    "dark grey legs and feet",
+    "a stout, compact body shape",
+    "dark grey nape"
+  ]
+}

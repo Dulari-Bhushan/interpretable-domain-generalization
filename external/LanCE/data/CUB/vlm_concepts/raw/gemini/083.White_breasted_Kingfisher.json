@@ -1,0 +1,27 @@
+{
+  "class_folder": "083.White_breasted_Kingfisher",
+  "class_name": "White breasted Kingfisher",
+  "image_paths": [
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0022_73459.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0036_73403.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0084_73247.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0087_73264.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0109_73683.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a large, stout, red bill\",\n  \"a dark chocolate-brown head\",\n  \"a dark brown nape\",\n  \"a vibrant, brilliant blue back\",\n  \"a bright blue tail\",\n  \"a bright blue upper wing\",\n  \"a contrasting white throat patch\",\n  \"a contrasting white chest patch\",\n  \"a deep chestnut-brown belly and flanks\",\n  \"a black patch near the wing base\",\n  \"dark brown eyes\",\n  \"short, reddish-orange legs\"\n]",
+  "concepts": [
+    "a large, stout, red bill",
+    "a dark chocolate-brown head",
+    "a dark brown nape",
+    "a vibrant, brilliant blue back",
+    "a bright blue tail",
+    "a bright blue upper wing",
+    "a contrasting white throat patch",
+    "a contrasting white chest patch",
+    "a deep chestnut-brown belly and flanks",
+    "a black patch near the wing base",
+    "dark brown eyes",
+    "short, reddish-orange legs"
+  ]
+}

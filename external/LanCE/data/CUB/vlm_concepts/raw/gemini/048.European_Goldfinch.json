@@ -1,0 +1,27 @@
+{
+  "class_folder": "048.European_Goldfinch",
+  "class_name": "European Goldfinch",
+  "image_paths": [
+    "048.European_Goldfinch/European_Goldfinch_0008_33153.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0012_794646.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0013_794687.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0045_794690.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0078_33170.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a distinct red mask covering the face\",\n  \"a stark white patch surrounding the red mask\",\n  \"a black crown\",\n  \"a black nape\",\n  \"a conical-shaped bill\",\n  \"an ivory-coloured bill\",\n  \"a broad yellow band across the wing\",\n  \"black wing feathers with white spots\",\n  \"a brown back\",\n  \"a brown breast\",\n  \"a slender body shape\",\n  \"short, thin legs\"\n]",
+  "concepts": [
+    "a distinct red mask covering the face",
+    "a stark white patch surrounding the red mask",
+    "a black crown",
+    "a black nape",
+    "a conical-shaped bill",
+    "an ivory-coloured bill",
+    "a broad yellow band across the wing",
+    "black wing feathers with white spots",
+    "a brown back",
+    "a brown breast",
+    "a slender body shape",
+    "short, thin legs"
+  ]
+}

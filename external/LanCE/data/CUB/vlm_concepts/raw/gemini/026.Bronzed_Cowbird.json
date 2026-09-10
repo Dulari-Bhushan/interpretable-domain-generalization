@@ -1,0 +1,26 @@
+{
+  "class_folder": "026.Bronzed_Cowbird",
+  "class_name": "Bronzed Cowbird",
+  "image_paths": [
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0001_796219.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0012_796247.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0032_796233.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0056_796222.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0092_796215.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a thick, conical, black bill\",\n  \"an intense red eye\",\n  \"a dark, glossy black plumage\",\n  \"an iridescent blue-green sheen on the wings\",\n  \"a distinct, raised, or ruffled appearance on the nape\",\n  \"a proportionally large, wide head\",\n  \"a short, squared tail\",\n  \"slender, black legs and feet\",\n  \"a stout, compact body shape\",\n  \"a relatively flat forehead profile\",\n  \"a solid black throat and breast\"\n]",
+  "concepts": [
+    "a thick, conical, black bill",
+    "an intense red eye",
+    "a dark, glossy black plumage",
+    "an iridescent blue-green sheen on the wings",
+    "a distinct, raised, or ruffled appearance on the nape",
+    "a proportionally large, wide head",
+    "a short, squared tail",
+    "slender, black legs and feet",
+    "a stout, compact body shape",
+    "a relatively flat forehead profile",
+    "a solid black throat and breast"
+  ]
+}

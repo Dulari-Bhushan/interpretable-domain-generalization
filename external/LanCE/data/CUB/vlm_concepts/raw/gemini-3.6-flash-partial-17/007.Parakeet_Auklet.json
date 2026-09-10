@@ -1,0 +1,25 @@
+{
+  "class_folder": "007.Parakeet_Auklet",
+  "class_name": "Parakeet Auklet",
+  "image_paths": [
+    "007.Parakeet_Auklet/Parakeet_Auklet_0032_795986.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0038_795935.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0047_795956.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0065_795969.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0069_795936.jpg"
+  ],
+  "raw_response": "[\n  \"a bright orange-red upturned bill\",\n  \"a short, thick bill shape\",\n  \"a pale white iris\",\n  \"a thin white plume extending backwards behind the eye\",\n  \"a dark grey to black head, crown, and throat\",\n  \"a white belly and lower underparts\",\n  \"mottled greyish-black speckling across the chest and flanks\",\n  \"dark grey to black upperparts, back, and wings\",\n  \"bluish-grey webbed feet\",\n  \"a short dark tail\",\n  \"a stocky, compact seabird body shape\"\n]",
+  "concepts": [
+    "a bright orange-red upturned bill",
+    "a short, thick bill shape",
+    "a pale white iris",
+    "a thin white plume extending backwards behind the eye",
+    "a dark grey to black head, crown, and throat",
+    "a white belly and lower underparts",
+    "mottled greyish-black speckling across the chest and flanks",
+    "dark grey to black upperparts, back, and wings",
+    "bluish-grey webbed feet",
+    "a short dark tail",
+    "a stocky, compact seabird body shape"
+  ]
+}

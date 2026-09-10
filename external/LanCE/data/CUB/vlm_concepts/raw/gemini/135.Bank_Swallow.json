@@ -1,0 +1,27 @@
+{
+  "class_folder": "135.Bank_Swallow",
+  "class_name": "Bank Swallow",
+  "image_paths": [
+    "135.Bank_Swallow/Bank_Swallow_0002_129654.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0023_129878.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0024_129779.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0045_129483.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0052_129575.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a slender bill\",\n  \"a dark-colored back\",\n  \"a dark-colored wing\",\n  \"a white throat\",\n  \"a white belly\",\n  \"a dark breast band\",\n  \"a forked tail\",\n  \"a dark eye\",\n  \"pointed wing tips\",\n  \"a compact body shape\",\n  \"a dark crown\",\n  \"small feet\"\n]",
+  "concepts": [
+    "a slender bill",
+    "a dark-colored back",
+    "a dark-colored wing",
+    "a white throat",
+    "a white belly",
+    "a dark breast band",
+    "a forked tail",
+    "a dark eye",
+    "pointed wing tips",
+    "a compact body shape",
+    "a dark crown",
+    "small feet"
+  ]
+}

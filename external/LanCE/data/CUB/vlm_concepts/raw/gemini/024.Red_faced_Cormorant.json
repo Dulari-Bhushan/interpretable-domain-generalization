@@ -1,0 +1,27 @@
+{
+  "class_folder": "024.Red_faced_Cormorant",
+  "class_name": "Red faced Cormorant",
+  "image_paths": [
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0007_796280.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0032_796334.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0035_796294.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0036_796329.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0045_796324.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long slender neck\",\n  \"a thin pointed bill\",\n  \"a patch of bare red skin around the eye\",\n  \"a patch of blue skin at the base of the lower bill\",\n  \"an upright crest of dark feathers on the crown\",\n  \"solid dark or black plumage\",\n  \"a metallic or iridescent sheen on the back and wing feathers\",\n  \"a rounded or blunt-tipped tail\",\n  \"a generally slender body shape\",\n  \"webbed feet visible in one image\",\n  \"a light-colored bill\",\n  \"a dark eye\"\n]",
+  "concepts": [
+    "a long slender neck",
+    "a thin pointed bill",
+    "a patch of bare red skin around the eye",
+    "a patch of blue skin at the base of the lower bill",
+    "an upright crest of dark feathers on the crown",
+    "solid dark or black plumage",
+    "a metallic or iridescent sheen on the back and wing feathers",
+    "a rounded or blunt-tipped tail",
+    "a generally slender body shape",
+    "webbed feet visible in one image",
+    "a light-colored bill",
+    "a dark eye"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "class_folder": "016.Painted_Bunting",
+  "class_name": "Painted Bunting",
+  "image_paths": [
+    "016.Painted_Bunting/Painted_Bunting_0046_16535.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0050_16670.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0061_16930.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0073_16737.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0084_16531.jpg"
+  ],
+  "raw_response": "[\n  \"a bright blue head and crown\",\n  \"a thin red eye-ring surrounding a dark eye\",\n  \"a short, stout conical grey bill\",\n  \"a bright red to orange-red throat\",\n  \"a vibrant red to orange-red breast and belly\",\n  \"a bright lime-green upper back and mantle\",\n  \"dark green to brownish-green wings\",\n  \"a brownish-red tail\",\n  \"dark greyish-brown legs and feet\",\n  \"a compact, finch-like body shape\"\n]",
+  "concepts": [
+    "a bright blue head and crown",
+    "a thin red eye-ring surrounding a dark eye",
+    "a short, stout conical grey bill",
+    "a bright red to orange-red throat",
+    "a vibrant red to orange-red breast and belly",
+    "a bright lime-green upper back and mantle",
+    "dark green to brownish-green wings",
+    "a brownish-red tail",
+    "dark greyish-brown legs and feet",
+    "a compact, finch-like body shape"
+  ]
+}

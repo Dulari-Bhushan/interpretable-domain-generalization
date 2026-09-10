@@ -1,0 +1,28 @@
+{
+  "class_folder": "077.Tropical_Kingbird",
+  "class_name": "Tropical Kingbird",
+  "image_paths": [
+    "077.Tropical_Kingbird/Tropical_Kingbird_0017_69715.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0049_69933.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0081_69656.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0103_69311.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0122_69687.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a grey crown\",\n  \"a grey nape\",\n  \"a dark grey or blackish bill\",\n  \"a stout and relatively long bill\",\n  \"a dark, solid-coloured eye stripe\",\n  \"a bright yellow breast\",\n  \"a yellow belly\",\n  \"an olive-greyish back\",\n  \"dark brown wings with pale edgings\",\n  \"a dark, notched tail\",\n  \"a pale, whitish throat\",\n  \"a slender body shape\",\n  \"dark-coloured legs and feet\"\n]",
+  "concepts": [
+    "a grey crown",
+    "a grey nape",
+    "a dark grey or blackish bill",
+    "a stout and relatively long bill",
+    "a dark, solid-coloured eye stripe",
+    "a bright yellow breast",
+    "a yellow belly",
+    "an olive-greyish back",
+    "dark brown wings with pale edgings",
+    "a dark, notched tail",
+    "a pale, whitish throat",
+    "a slender body shape",
+    "dark-coloured legs and feet"
+  ]
+}

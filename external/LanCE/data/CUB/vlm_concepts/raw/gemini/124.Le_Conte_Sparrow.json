@@ -1,0 +1,27 @@
+{
+  "class_folder": "124.Le_Conte_Sparrow",
+  "class_name": "Le Conte Sparrow",
+  "image_paths": [
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0016_795223.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0072_795230.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0073_117127.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0078_117052.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0099_795182.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a short conical bill\",\n  \"a bright buffy-orange face\",\n  \"a dark-streaked crown\",\n  \"a greyish-white central crown stripe\",\n  \"a distinct dark line behind the eye\",\n  \"a buffy breast with fine dark streaking\",\n  \"a white belly\",\n  \"brown-streaked wings with pale edges\",\n  \"a patterned back with dark brown streaks\",\n  \"a dark pointed tail\",\n  \"flesh-colored legs\",\n  \"a small, round-bodied shape\"\n]",
+  "concepts": [
+    "a short conical bill",
+    "a bright buffy-orange face",
+    "a dark-streaked crown",
+    "a greyish-white central crown stripe",
+    "a distinct dark line behind the eye",
+    "a buffy breast with fine dark streaking",
+    "a white belly",
+    "brown-streaked wings with pale edges",
+    "a patterned back with dark brown streaks",
+    "a dark pointed tail",
+    "flesh-colored legs",
+    "a small, round-bodied shape"
+  ]
+}

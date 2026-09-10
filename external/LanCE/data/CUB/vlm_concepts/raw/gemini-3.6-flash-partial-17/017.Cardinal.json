@@ -1,0 +1,24 @@
+{
+  "class_folder": "017.Cardinal",
+  "class_name": "Cardinal",
+  "image_paths": [
+    "017.Cardinal/Cardinal_0012_18638.jpg",
+    "017.Cardinal/Cardinal_0019_17368.jpg",
+    "017.Cardinal/Cardinal_0025_17239.jpg",
+    "017.Cardinal/Cardinal_0045_18021.jpg",
+    "017.Cardinal/Cardinal_0060_17139.jpg"
+  ],
+  "raw_response": "[\n  \"a prominent pointed head crest\",\n  \"a thick conical orange-red bill\",\n  \"a black facial mask surrounding the bill and eye\",\n  \"a dark black throat patch\",\n  \"bright red plumage on the head and breast\",\n  \"darker brownish-red wing feathers\",\n  \"a long reddish-brown tail\",\n  \"tan to olive-brown body feathers with red wing and crest accents\",\n  \"small dark brown eyes\",\n  \"thin greyish-pink legs and feet\"\n]",
+  "concepts": [
+    "a prominent pointed head crest",
+    "a thick conical orange-red bill",
+    "a black facial mask surrounding the bill and eye",
+    "a dark black throat patch",
+    "bright red plumage on the head and breast",
+    "darker brownish-red wing feathers",
+    "a long reddish-brown tail",
+    "tan to olive-brown body feathers with red wing and crest accents",
+    "small dark brown eyes",
+    "thin greyish-pink legs and feet"
+  ]
+}

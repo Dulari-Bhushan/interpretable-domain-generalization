@@ -1,0 +1,26 @@
+{
+  "class_folder": "028.Brown_Creeper",
+  "class_name": "Brown Creeper",
+  "image_paths": [
+    "028.Brown_Creeper/Brown_Creeper_0053_24451.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0058_24933.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0072_24977.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0110_24866.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0113_24560.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a long, thin, down-curved bill\",\n  \"a brownish, patterned, camouflaging plumage\",\n  \"a white, plain-colored throat\",\n  \"a white, plain-colored breast and belly\",\n  \"a streaked and spotted brown crown and nape\",\n  \"a dark, distinct eye\",\n  \"a stiff, pointed, wedge-shaped tail\",\n  \"long, slender toes with sharp claws\",\n  \"a mottled, brown-and-white upper wing pattern\",\n  \"a slender, elongated body shape\",\n  \"an upright, clinging posture on tree trunks\"\n]",
+  "concepts": [
+    "a long, thin, down-curved bill",
+    "a brownish, patterned, camouflaging plumage",
+    "a white, plain-colored throat",
+    "a white, plain-colored breast and belly",
+    "a streaked and spotted brown crown and nape",
+    "a dark, distinct eye",
+    "a stiff, pointed, wedge-shaped tail",
+    "long, slender toes with sharp claws",
+    "a mottled, brown-and-white upper wing pattern",
+    "a slender, elongated body shape",
+    "an upright, clinging posture on tree trunks"
+  ]
+}

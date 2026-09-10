@@ -1,0 +1,27 @@
+{
+  "class_folder": "043.Yellow_bellied_Flycatcher",
+  "class_name": "Yellow bellied Flycatcher",
+  "image_paths": [
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0006_795473.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0031_42580.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0045_42575.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0057_795485.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0068_42701.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a distinct yellow throat\",\n  \"a vibrant yellow wash on the breast and belly\",\n  \"a dark olive-green back\",\n  \"a large eye with a prominent pale eye ring\",\n  \"a two-toned bill with a yellow lower mandible\",\n  \"two distinct, pale, yellowish-white wing bars\",\n  \"dark brown primary wing feathers with light edging\",\n  \"a small, slightly crested head\",\n  \"a compact, rounded body shape\",\n  \"thin, dark legs and feet\",\n  \"short, rounded wings\",\n  \"a relatively short, dark tail\"\n]",
+  "concepts": [
+    "a distinct yellow throat",
+    "a vibrant yellow wash on the breast and belly",
+    "a dark olive-green back",
+    "a large eye with a prominent pale eye ring",
+    "a two-toned bill with a yellow lower mandible",
+    "two distinct, pale, yellowish-white wing bars",
+    "dark brown primary wing feathers with light edging",
+    "a small, slightly crested head",
+    "a compact, rounded body shape",
+    "thin, dark legs and feet",
+    "short, rounded wings",
+    "a relatively short, dark tail"
+  ]
+}

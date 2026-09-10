@@ -1,0 +1,27 @@
+{
+  "class_folder": "059.California_Gull",
+  "class_name": "California Gull",
+  "image_paths": [
+    "059.California_Gull/California_Gull_0006_41079.jpg",
+    "059.California_Gull/California_Gull_0046_41209.jpg",
+    "059.California_Gull/California_Gull_0064_41562.jpg",
+    "059.California_Gull/California_Gull_0076_40788.jpg",
+    "059.California_Gull/California_Gull_0121_41196.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a medium-sized gull body\",\n  \"a relatively slender yellow bill\",\n  \"a small red spot on the lower mandible\",\n  \"a white head and neck\",\n  \"a medium gray mantle\",\n  \"white tips on the flight feathers\",\n  \"black wingtips with white spots\",\n  \"a white breast and underparts\",\n  \"a squared white tail\",\n  \"pale yellow or greenish-yellow legs\",\n  \"a yellow iris\",\n  \"a thin dark eye ring\"\n]",
+  "concepts": [
+    "a medium-sized gull body",
+    "a relatively slender yellow bill",
+    "a small red spot on the lower mandible",
+    "a white head and neck",
+    "a medium gray mantle",
+    "white tips on the flight feathers",
+    "black wingtips with white spots",
+    "a white breast and underparts",
+    "a squared white tail",
+    "pale yellow or greenish-yellow legs",
+    "a yellow iris",
+    "a thin dark eye ring"
+  ]
+}

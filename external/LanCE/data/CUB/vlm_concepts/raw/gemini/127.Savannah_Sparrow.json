@@ -1,0 +1,26 @@
+{
+  "class_folder": "127.Savannah_Sparrow",
+  "class_name": "Savannah Sparrow",
+  "image_paths": [
+    "127.Savannah_Sparrow/Savannah_Sparrow_0001_118956.jpg",
+    "127.Savannah_Sparrow/Savannah_Sparrow_0052_118583.jpg",
+    "127.Savannah_Sparrow/Savannah_Sparrow_0067_118491.jpg",
+    "127.Savannah_Sparrow/Savannah_Sparrow_0080_118120.jpg",
+    "127.Savannah_Sparrow/Savannah_Sparrow_0109_119674.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\"a conical, sharp-tipped bill\", \"a yellowish-colored eyebrow\", \"a brown and tan striped crown\", \"a dark eyeline\", \"finely streaked brown and white underparts\", \"a dark-streaked brown and buff back\", \"rounded wings with distinct dark brown and white wing bars\", \"a short, notched, brown tail\", \"light-colored, slender legs\", \"a small, rounded body shape\", \"a pale-colored throat\"]",
+  "concepts": [
+    "a conical, sharp-tipped bill",
+    "a yellowish-colored eyebrow",
+    "a brown and tan striped crown",
+    "a dark eyeline",
+    "finely streaked brown and white underparts",
+    "a dark-streaked brown and buff back",
+    "rounded wings with distinct dark brown and white wing bars",
+    "a short, notched, brown tail",
+    "light-colored, slender legs",
+    "a small, rounded body shape",
+    "a pale-colored throat"
+  ]
+}

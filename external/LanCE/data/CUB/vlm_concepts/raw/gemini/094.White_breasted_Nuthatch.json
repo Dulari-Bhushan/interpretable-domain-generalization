@@ -1,0 +1,27 @@
+{
+  "class_folder": "094.White_breasted_Nuthatch",
+  "class_name": "White breasted Nuthatch",
+  "image_paths": [
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0047_85819.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0065_85829.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0094_86156.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0097_85940.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0142_86805.jpg"
+  ],
+  "model": "gemini-3.1-flash-lite",
+  "raw_response": "[\n  \"a sharp, thin, pointed bill\",\n  \"a black patch extending from the crown to the upper back\",\n  \"a white face, cheeks, and throat\",\n  \"a gray back\",\n  \"a white breast and underparts\",\n  \"a dark eye\",\n  \"a short tail\",\n  \"prominent white and black wing feather patterns\",\n  \"rufous-colored undertail coverts\",\n  \"a compact, thick-necked body shape\",\n  \"prominent, long, curved claws\",\n  \"dark colored legs and feet\"\n]",
+  "concepts": [
+    "a sharp, thin, pointed bill",
+    "a black patch extending from the crown to the upper back",
+    "a white face, cheeks, and throat",
+    "a gray back",
+    "a white breast and underparts",
+    "a dark eye",
+    "a short tail",
+    "prominent white and black wing feather patterns",
+    "rufous-colored undertail coverts",
+    "a compact, thick-necked body shape",
+    "prominent, long, curved claws",
+    "dark colored legs and feet"
+  ]
+}
