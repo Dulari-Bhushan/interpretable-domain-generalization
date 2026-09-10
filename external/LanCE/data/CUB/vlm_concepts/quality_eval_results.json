@@ -1,0 +1,368 @@
+{
+  "cub_concepts_llm": {
+    "n_candidates": 312,
+    "n_reference": 312,
+    "coverage_mean_best_similarity": 0.9113497734069824,
+    "precision_mean_best_similarity": 0.9039177894592285,
+    "thresholded": {
+      "0.85": {
+        "coverage_at_t": 0.6698718070983887,
+        "precision_at_t": 0.6442307829856873
+      },
+      "0.9": {
+        "coverage_at_t": 0.5544871687889099,
+        "precision_at_t": 0.5256410241127014
+      }
+    },
+    "sample_pairs": {
+      "best_precision_matches": [
+        {
+          "candidate": "a blue coloured back",
+          "matched_reference": "a blue coloured back",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a purple coloured breast",
+          "matched_reference": "a purple coloured breast",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a green coloured belly",
+          "matched_reference": "a green coloured belly",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a olive coloured breast",
+          "matched_reference": "a olive coloured breast",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a olive coloured wing",
+          "matched_reference": "a olive coloured wing",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a buff coloured nape",
+          "matched_reference": "a buff coloured nape",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a brown coloured back",
+          "matched_reference": "a brown coloured back",
+          "similarity": 1.0000003576278687
+        },
+        {
+          "candidate": "a green coloured wing",
+          "matched_reference": "a green coloured wing",
+          "similarity": 1.0000003576278687
+        },
+        {
+          "candidate": "a buff coloured eye",
+          "matched_reference": "a buff coloured eye",
+          "similarity": 1.0000004768371582
+        },
+        {
+          "candidate": "a rounded tail",
+          "matched_reference": "a rounded tail",
+          "similarity": 1.0000004768371582
+        }
+      ],
+      "worst_precision_matches": [
+        {
+          "candidate": "a barred wing",
+          "matched_reference": "a striped wing pattern",
+          "similarity": 0.6285961866378784
+        },
+        {
+          "candidate": "a colonial nester",
+          "matched_reference": "a small bird",
+          "similarity": 0.6364671587944031
+        },
+        {
+          "candidate": "a mottled flank",
+          "matched_reference": "a forked tail",
+          "similarity": 0.6700006723403931
+        },
+        {
+          "candidate": "a cavity nester",
+          "matched_reference": "a all-purpose",
+          "similarity": 0.6931625604629517
+        },
+        {
+          "candidate": "a tufted crest",
+          "matched_reference": "a crested pattern in the head",
+          "similarity": 0.7093799114227295
+        },
+        {
+          "candidate": "a scaled flank",
+          "matched_reference": "a pointed tail",
+          "similarity": 0.7112322449684143
+        },
+        {
+          "candidate": "a marsh dweller",
+          "matched_reference": "a small bird",
+          "similarity": 0.7136011123657227
+        },
+        {
+          "candidate": "a spotted flank",
+          "matched_reference": "a spotted pattern in the belly",
+          "similarity": 0.7155635952949524
+        },
+        {
+          "candidate": "a barred flank",
+          "matched_reference": "a forked tail",
+          "similarity": 0.7169670462608337
+        },
+        {
+          "candidate": "a streaked flank",
+          "matched_reference": "a forked tail",
+          "similarity": 0.7179255485534668
+        }
+      ]
+    }
+  },
+  "cub_concepts_llm2": {
+    "n_candidates": 312,
+    "n_reference": 312,
+    "coverage_mean_best_similarity": 0.8205790519714355,
+    "precision_mean_best_similarity": 0.8179751038551331,
+    "thresholded": {
+      "0.85": {
+        "coverage_at_t": 0.2884615361690521,
+        "precision_at_t": 0.32371795177459717
+      },
+      "0.9": {
+        "coverage_at_t": 0.11858974397182465,
+        "precision_at_t": 0.14423076808452606
+      }
+    },
+    "sample_pairs": {
+      "best_precision_matches": [
+        {
+          "candidate": "a slightly notched tail",
+          "matched_reference": "a notched tail",
+          "similarity": 0.9568778276443481
+        },
+        {
+          "candidate": "a medium sized bird",
+          "matched_reference": "a medium bird",
+          "similarity": 0.9582198262214661
+        },
+        {
+          "candidate": "a slightly curved bill",
+          "matched_reference": "a curved bill",
+          "similarity": 0.9596471786499023
+        },
+        {
+          "candidate": "a deeply forked tail",
+          "matched_reference": "a forked tail",
+          "similarity": 0.9616186022758484
+        },
+        {
+          "candidate": "a fan shaped tail",
+          "matched_reference": "a fan-shaped tail",
+          "similarity": 0.9676657319068909
+        },
+        {
+          "candidate": "a hooked bill",
+          "matched_reference": "a hooked bill",
+          "similarity": 0.9999998807907104
+        },
+        {
+          "candidate": "a large bird",
+          "matched_reference": "a large bird",
+          "similarity": 0.9999998807907104
+        },
+        {
+          "candidate": "a small bird",
+          "matched_reference": "a small bird",
+          "similarity": 1.0
+        },
+        {
+          "candidate": "a notched tail",
+          "matched_reference": "a notched tail",
+          "similarity": 1.0000001192092896
+        },
+        {
+          "candidate": "a rounded tail",
+          "matched_reference": "a rounded tail",
+          "similarity": 1.0000004768371582
+        }
+      ],
+      "worst_precision_matches": [
+        {
+          "candidate": "speckled wing coverts",
+          "matched_reference": "a grey coloured wing",
+          "similarity": 0.5158458948135376
+        },
+        {
+          "candidate": "legs adapted for perching on cattails",
+          "matched_reference": "a perching-like body shape",
+          "similarity": 0.5863970518112183
+        },
+        {
+          "candidate": "a stout crossbill shaped bill",
+          "matched_reference": "a black coloured bill",
+          "similarity": 0.5866519808769226
+        },
+        {
+          "candidate": "a chestnut wing panel",
+          "matched_reference": "a striped wing pattern",
+          "similarity": 0.6201424598693848
+        },
+        {
+          "candidate": "streaked ear coverts",
+          "matched_reference": "a striped pattern in the back",
+          "similarity": 0.6233586072921753
+        },
+        {
+          "candidate": "a barred wing",
+          "matched_reference": "a striped wing pattern",
+          "similarity": 0.6285961866378784
+        },
+        {
+          "candidate": "a colonial nester",
+          "matched_reference": "a small bird",
+          "similarity": 0.6364671587944031
+        },
+        {
+          "candidate": "a shorebird that probes mud",
+          "matched_reference": "a sandpiper-like body shape",
+          "similarity": 0.6495629549026489
+        },
+        {
+          "candidate": "a streaked vent",
+          "matched_reference": "a striped pattern in the back",
+          "similarity": 0.6509877443313599
+        },
+        {
+          "candidate": "a bird with a bare colorful facial patch",
+          "matched_reference": "a small bird",
+          "similarity": 0.6612419486045837
+        }
+      ]
+    }
+  },
+  "cub_concepts_qwen2vl_grounded": {
+    "n_candidates": 263,
+    "n_reference": 312,
+    "coverage_mean_best_similarity": 0.7692200541496277,
+    "precision_mean_best_similarity": 0.7814181447029114,
+    "thresholded": {
+      "0.85": {
+        "coverage_at_t": 0.10256410390138626,
+        "precision_at_t": 0.12547528743743896
+      },
+      "0.9": {
+        "coverage_at_t": 0.006410256493836641,
+        "precision_at_t": 0.0076045626774430275
+      }
+    },
+    "sample_pairs": {
+      "best_precision_matches": [
+        {
+          "candidate": "A small brown bird",
+          "matched_reference": "a small bird",
+          "similarity": 0.8728077411651611
+        },
+        {
+          "candidate": "Blue eyes",
+          "matched_reference": "a blue coloured eye",
+          "similarity": 0.8742489218711853
+        },
+        {
+          "candidate": "Orange eyes",
+          "matched_reference": "a orange coloured eye",
+          "similarity": 0.8742885589599609
+        },
+        {
+          "candidate": "Small beak",
+          "matched_reference": "a small bird",
+          "similarity": 0.8816558122634888
+        },
+        {
+          "candidate": "Blue wings",
+          "matched_reference": "a blue coloured wing",
+          "similarity": 0.8863868713378906
+        },
+        {
+          "candidate": "Orange belly",
+          "matched_reference": "a orange coloured belly",
+          "similarity": 0.8916220664978027
+        },
+        {
+          "candidate": "Yellow wings",
+          "matched_reference": "a yellow coloured wing",
+          "similarity": 0.8921990990638733
+        },
+        {
+          "candidate": "tail",
+          "matched_reference": "a pointed tail",
+          "similarity": 0.8988474607467651
+        },
+        {
+          "candidate": "A yellow belly",
+          "matched_reference": "a yellow coloured belly",
+          "similarity": 0.9018518924713135
+        },
+        {
+          "candidate": "long forked tail",
+          "matched_reference": "a forked tail",
+          "similarity": 0.9459187388420105
+        }
+      ],
+      "worst_precision_matches": [
+        {
+          "candidate": "chipping sparrow",
+          "matched_reference": "a red coloured throat",
+          "similarity": 0.5303465723991394
+        },
+        {
+          "candidate": "water thrush",
+          "matched_reference": "a sandpiper-like body shape",
+          "similarity": 0.543647050857544
+        },
+        {
+          "candidate": "A black-billed cuckoo has a distinctive long pointed beak",
+          "matched_reference": "a brown coloured throat",
+          "similarity": 0.551476001739502
+        },
+        {
+          "candidate": "black chest patch",
+          "matched_reference": "a black coloured breast",
+          "similarity": 0.5640682578086853
+        },
+        {
+          "candidate": "Sayornis have an orange-buff underparts",
+          "matched_reference": "a orange coloured upper tail",
+          "similarity": 0.5886785387992859
+        },
+        {
+          "candidate": "'Herrmann gulls' have red bills",
+          "matched_reference": "a red coloured bill",
+          "similarity": 0.625479519367218
+        },
+        {
+          "candidate": "White speckled chest",
+          "matched_reference": "a spotted pattern in the breast",
+          "similarity": 0.6276658773422241
+        },
+        {
+          "candidate": "A red-billed duck",
+          "matched_reference": "a duck-like body shape",
+          "similarity": 0.6503629684448242
+        },
+        {
+          "candidate": "white underwing",
+          "matched_reference": "a white coloured wing",
+          "similarity": 0.6599459648132324
+        },
+        {
+          "candidate": "Black head markings.",
+          "matched_reference": "a spotted pattern in the head",
+          "similarity": 0.6599600315093994
+        }
+      ]
+    }
+  }
+}
