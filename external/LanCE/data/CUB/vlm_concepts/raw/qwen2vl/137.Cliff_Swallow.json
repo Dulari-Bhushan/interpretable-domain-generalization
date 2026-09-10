@@ -1,0 +1,18 @@
+{
+  "class_folder": "137.Cliff_Swallow",
+  "class_name": "Cliff Swallow",
+  "image_paths": [
+    "137.Cliff_Swallow/Cliff_Swallow_0005_133696.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0023_134314.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0046_133165.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0049_132965.jpg",
+    "137.Cliff_Swallow/Cliff_Swallow_0071_133742.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Orange-red neck patch\" \n   },  \n     {\"feature\": 'Gray wings' } ,   \n      {'feature': 'White underbelly'},\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A black head",
+    "Orange-red neck patch",
+    "Gray wings",
+    "White underbelly"
+  ]
+}

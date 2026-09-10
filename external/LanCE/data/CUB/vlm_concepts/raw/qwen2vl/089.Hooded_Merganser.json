@@ -1,0 +1,17 @@
+{
+  "class_folder": "089.Hooded_Merganser",
+  "class_name": "Hooded Merganser",
+  "image_paths": [
+    "089.Hooded_Merganser/Hooded_Merganser_0006_796778.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0015_79132.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0079_796768.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0085_79146.jpg",
+    "089.Hooded_Merganser/Hooded_Merganser_0093_79075.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white face patch\" \n   },  \n     {\"feature\": 'yellow eyes' } ,   \n      { \"feature\":\"\"beak\"\"} ,\n         {\"feature\":\"\",\"brown chest\"}    \n]",
+  "concepts": [
+    "black head",
+    "white face patch",
+    "brown chest"
+  ]
+}

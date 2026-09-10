@@ -1,0 +1,16 @@
+{
+  "class_folder": "103.Sayornis",
+  "class_name": "Sayornis",
+  "image_paths": [
+    "103.Sayornis/Sayornis_0010_98611.jpg",
+    "103.Sayornis/Sayornis_0070_99354.jpg",
+    "103.Sayornis/Sayornis_0098_98419.jpg",
+    "103.Sayornis/Sayornis_0111_98406.jpg",
+    "103.Sayornis/Sayornis_0113_98630.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s Sayornis have an orange-buff underparts\"\n    },\n    {\n      \"feature\":\"'s Sayorns have black wings\",\n     }\n]",
+  "concepts": [
+    "Sayornis have an orange-buff underparts",
+    "Sayorns have black wings"
+  ]
+}

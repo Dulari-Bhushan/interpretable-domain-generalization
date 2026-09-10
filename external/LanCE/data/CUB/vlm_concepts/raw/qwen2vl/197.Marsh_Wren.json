@@ -1,0 +1,18 @@
+{
+  "class_folder": "197.Marsh_Wren",
+  "class_name": "Marsh Wren",
+  "image_paths": [
+    "197.Marsh_Wren/Marsh_Wren_0019_188460.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0056_188241.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0094_188710.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0095_188371.jpg",
+    "197.Marsh_Wren/Marsh_Wren_0141_188796.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brownish-grey head\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'Lighter colored underparts'},\n      {'feature': 'Long legs'}\n]",
+  "concepts": [
+    "A brownish-grey head",
+    "Brown wings",
+    "Lighter colored underparts",
+    "Long legs"
+  ]
+}

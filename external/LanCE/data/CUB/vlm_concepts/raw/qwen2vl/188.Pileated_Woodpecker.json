@@ -1,0 +1,18 @@
+{
+  "class_folder": "188.Pileated_Woodpecker",
+  "class_name": "Pileated Woodpecker",
+  "image_paths": [
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0025_180253.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0057_180612.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0072_180006.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0088_180054.jpg",
+    "188.Pileated_Woodpecker/Pileated_Woodpecker_0124_180168.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A red crest\"\n    },\n    {\n       \"feature\":\"Black feathers\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      {'feature': 'Red head patch'} ,\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A red crest",
+    "Black feathers",
+    "White underparts",
+    "Red head patch"
+  ]
+}

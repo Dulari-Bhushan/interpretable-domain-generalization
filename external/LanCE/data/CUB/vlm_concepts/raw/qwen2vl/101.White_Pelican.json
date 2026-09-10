@@ -1,0 +1,19 @@
+{
+  "class_folder": "101.White_Pelican",
+  "class_name": "White Pelican",
+  "image_paths": [
+    "101.White_Pelican/White_Pelican_0013_96901.jpg",
+    "101.White_Pelican/White_Pelican_0024_96554.jpg",
+    "101.White_Pelican/White_Pelican_0053_96236.jpg",
+    "101.White_Pelican/White_Pelican_0056_97071.jpg",
+    "101.White_Pelican/White_Pelican_0059_96675.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long orange beak\"\n    },\n    {\n       \"feature\":\"Yellow eyes\" \n   },  \n     {\"feature\": 'Orange legs' } ,   \n      {'Feature': 'Large white wings'} ,\n      { \"feature\" : \"Grayish-black underwings\"}    \n]",
+  "concepts": [
+    "A long orange beak",
+    "Yellow eyes",
+    "Orange legs",
+    "Large white wings",
+    "Grayish-black underwings"
+  ]
+}

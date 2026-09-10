@@ -1,0 +1,16 @@
+{
+  "class_folder": "183.Northern_Waterthrush",
+  "class_name": "Northern Waterthrush",
+  "image_paths": [
+    "183.Northern_Waterthrush/Northern_Waterthrush_0011_177311.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0016_177345.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0043_177070.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0089_177167.jpg",
+    "183.Northern_Waterthrush/Northern_Waterthrush_0103_177162.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s brown head\"\n    },\n    {\n       'feature': '\"water thrush\"'\n   }\n]",
+  "concepts": [
+    "brown head",
+    "water thrush"
+  ]
+}

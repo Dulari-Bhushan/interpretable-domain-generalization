@@ -1,0 +1,18 @@
+{
+  "class_folder": "042.Vermilion_Flycatcher",
+  "class_name": "Vermilion Flycatcher",
+  "image_paths": [
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0003_42316.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0040_42398.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0053_42184.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0067_42185.jpg",
+    "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0072_42218.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A bright red head\"\n    },\n    {\n       \"feature\":\"Orange-red underparts\" \n   },  \n     {\"feature\": 'Black wings' } ,   \n      {'feature': 'Red crest'} ,\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A bright red head",
+    "Orange-red underparts",
+    "Black wings",
+    "Red crest"
+  ]
+}

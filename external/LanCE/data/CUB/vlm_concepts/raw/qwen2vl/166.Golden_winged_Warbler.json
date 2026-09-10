@@ -1,0 +1,20 @@
+{
+  "class_folder": "166.Golden_winged_Warbler",
+  "class_name": "Golden winged Warbler",
+  "image_paths": [
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0018_164558.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0024_794807.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0030_164462.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0083_794801.jpg",
+    "166.Golden_winged_Warbler/Golden_Winged_Warbler_0092_164465.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black face stripe\" \n   },  \n     {\"feature\": 'gray underparts'},\n      {\"feature\":\"white belly\"},\n      {\"feather\":\"dark gray wings\"},   \n      {\"color\":\"bright yellow patches\"}\n]",
+  "concepts": [
+    "yellow head",
+    "black face stripe",
+    "gray underparts",
+    "white belly",
+    "dark gray wings",
+    "bright yellow patches"
+  ]
+}

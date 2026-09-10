@@ -1,0 +1,17 @@
+{
+  "class_folder": "031.Black_billed_Cuckoo",
+  "class_name": "Black billed Cuckoo",
+  "image_paths": [
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0001_26242.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0054_26313.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0057_795323.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0062_795309.jpg",
+    "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0082_26241.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black-billed cuckoo has a distinctive long pointed beak\"\n    },\n    {\n       \"feature\":\"The head appears to have dark brown feathers\" \n   },  \n     {\"feature\":\"Chest area seems light colored\"} ,   \n      {\"feature\":\"\"}    \n]",
+  "concepts": [
+    "A black-billed cuckoo has a distinctive long pointed beak",
+    "The head appears to have dark brown feathers",
+    "Chest area seems light colored"
+  ]
+}

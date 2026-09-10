@@ -1,0 +1,17 @@
+{
+  "class_folder": "110.Geococcyx",
+  "class_name": "Geococcyx",
+  "image_paths": [
+    "110.Geococcyx/Geococcyx_0068_104149.jpg",
+    "110.Geococcyx/Geococcyx_0084_104574.jpg",
+    "110.Geococcyx/Geococcyx_0086_104755.jpg",
+    "110.Geococcyx/Geococcyx_0096_104369.jpg",
+    "110.Geococcyx/Geococcyx_0131_104300.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A long black beak'\"\n    },\n    {\n      \"feature\":\"'Black eyes'\"\n   }, \n     {\"feature\":\" 'Grayish-brown head'\"},  \n       {\"feature\":\"\"},\n         {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "A long black beak",
+    "Black eyes",
+    "Grayish-brown head"
+  ]
+}

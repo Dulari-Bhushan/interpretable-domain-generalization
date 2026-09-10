@@ -1,0 +1,17 @@
+{
+  "class_folder": "016.Painted_Bunting",
+  "class_name": "Painted Bunting",
+  "image_paths": [
+    "016.Painted_Bunting/Painted_Bunting_0046_16535.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0050_16670.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0061_16930.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0073_16737.jpg",
+    "016.Painted_Bunting/Painted_Bunting_0084_16531.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A blue head\"\n    },\n    {\n       \"feature\":\"Red underbelly\" \n   },  \n     {\"feature\": \"\\u03b2-shaped green wings\"}\n]",
+  "concepts": [
+    "A blue head",
+    "Red underbelly",
+    "\u03b2-shaped green wings"
+  ]
+}

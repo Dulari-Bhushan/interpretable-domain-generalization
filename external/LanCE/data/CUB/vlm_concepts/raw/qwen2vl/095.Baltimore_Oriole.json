@@ -1,0 +1,19 @@
+{
+  "class_folder": "095.Baltimore_Oriole",
+  "class_name": "Baltimore Oriole",
+  "image_paths": [
+    "095.Baltimore_Oriole/Baltimore_Oriole_0024_89720.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0027_87561.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0039_88027.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0091_88487.jpg",
+    "095.Baltimore_Oriole/Baltimore_Oriole_0120_88403.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"An orange chest\" \n   },  \n     {\"feature\": 'Black wings'} ,   \n      {'feature': 'Orange belly'},    \n         {\"feature\":\"White markings\"},     \n          {\"feature\":\"\"},      \n           {\"feature\":\"\",\"feature\":\"\"}       \n]",
+  "concepts": [
+    "A black head",
+    "An orange chest",
+    "Black wings",
+    "Orange belly",
+    "White markings"
+  ]
+}

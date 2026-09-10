@@ -1,0 +1,19 @@
+{
+  "class_folder": "122.Harris_Sparrow",
+  "class_name": "Harris Sparrow",
+  "image_paths": [
+    "122.Harris_Sparrow/Harris_Sparrow_0016_116661.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0018_116402.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0026_116620.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0056_116532.jpg",
+    "122.Harris_Sparrow/Harris_Sparrow_0073_116577.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown eyes\" \n   },  \n     {\"feature\": 'Orange beak' } ,   \n      {'feature': 'Grayish-brown wings'} ,\n      { \"feature\":\"\"White underparts\"},\n      {\"\"feature\"\": \"\"Black face stripe\"},\n      { \"\"feature\"\": \"Dark legs\"}\n]",
+  "concepts": [
+    "A brown head",
+    "Brown eyes",
+    "feature",
+    "Black face stripe",
+    "Dark legs"
+  ]
+}

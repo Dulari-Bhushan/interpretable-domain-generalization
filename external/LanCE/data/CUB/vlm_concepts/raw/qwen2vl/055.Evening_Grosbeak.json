@@ -1,0 +1,18 @@
+{
+  "class_folder": "055.Evening_Grosbeak",
+  "class_name": "Evening Grosbeak",
+  "image_paths": [
+    "055.Evening_Grosbeak/Evening_Grosbeak_0033_37707.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0044_37938.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0057_37392.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0079_37979.jpg",
+    "055.Evening_Grosbeak/Evening_Grosbeak_0112_37922.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black face\"\n   }, \n     {\"feature\" : \"white underparts\"},\n      {\"feature\":\"orange legs\"}\n]",
+  "concepts": [
+    "yellow head",
+    "black face",
+    "white underparts",
+    "orange legs"
+  ]
+}

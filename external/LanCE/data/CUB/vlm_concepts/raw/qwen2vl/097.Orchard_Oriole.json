@@ -1,0 +1,17 @@
+{
+  "class_folder": "097.Orchard_Oriole",
+  "class_name": "Orchard Oriole",
+  "image_paths": [
+    "097.Orchard_Oriole/Orchard_Oriole_0011_91592.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0032_91201.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0033_91532.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0046_91646.jpg",
+    "097.Orchard_Oriole/Orchard_Oriole_0084_91658.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"orange chest\" \n   },  \n     {\"feature\": 'brown wings' }   \n]",
+  "concepts": [
+    "black head",
+    "orange chest",
+    "brown wings"
+  ]
+}

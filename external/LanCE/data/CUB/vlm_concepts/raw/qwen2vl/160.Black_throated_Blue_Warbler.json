@@ -1,0 +1,18 @@
+{
+  "class_folder": "160.Black_throated_Blue_Warbler",
+  "class_name": "Black throated Blue Warbler",
+  "image_paths": [
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0010_161169.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0024_161619.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0037_161707.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0063_161213.jpg",
+    "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0090_161507.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white underparts\" \n   },  \n     {\"feature\": 'blue wings' } ,   \n      {\"feature\":\"grayish-blue upper parts\"} ,\n         {\"feature\":\"\"}    \n]",
+  "concepts": [
+    "black head",
+    "white underparts",
+    "blue wings",
+    "grayish-blue upper parts"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "059.California_Gull",
+  "class_name": "California Gull",
+  "image_paths": [
+    "059.California_Gull/California_Gull_0006_41079.jpg",
+    "059.California_Gull/California_Gull_0046_41209.jpg",
+    "059.California_Gull/California_Gull_0064_41562.jpg",
+    "059.California_Gull/California_Gull_0076_40788.jpg",
+    "059.California_Gull/California_Gull_0121_41196.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"yellow\"\n   }\n]",
+  "concepts": [
+    "beak",
+    "yellow"
+  ]
+}

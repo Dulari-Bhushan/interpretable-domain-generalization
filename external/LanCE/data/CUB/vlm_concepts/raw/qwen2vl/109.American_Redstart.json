@@ -1,0 +1,17 @@
+{
+  "class_folder": "109.American_Redstart",
+  "class_name": "American Redstart",
+  "image_paths": [
+    "109.American_Redstart/American_Redstart_0031_102890.jpg",
+    "109.American_Redstart/American_Redstart_0045_102823.jpg",
+    "109.American_Redstart/American_Redstart_0087_103371.jpg",
+    "109.American_Redstart/American_Redstart_0111_102945.jpg",
+    "109.American_Redstart/American_Redstart_0138_102869.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"orange underparts\" \n   },  \n     {\"feature\": 'yellow-orange wings' }\n]",
+  "concepts": [
+    "black head",
+    "orange underparts",
+    "yellow-orange wings"
+  ]
+}

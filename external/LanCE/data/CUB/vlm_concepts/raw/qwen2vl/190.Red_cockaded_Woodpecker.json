@@ -1,0 +1,19 @@
+{
+  "class_folder": "190.Red_cockaded_Woodpecker",
+  "class_name": "Red cockaded Woodpecker",
+  "image_paths": [
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0015_182459.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0020_182683.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0032_182376.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0037_794733.jpg",
+    "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0058_794739.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white face\" \n   },  \n     {\"feature\": 'gray underparts'},\n      {\"feature\":\"spotted wings\"},\n      {\"featuure\":\"long black legs\"}\n]",
+  "concepts": [
+    "black head",
+    "white face",
+    "gray underparts",
+    "spotted wings",
+    "long black legs"
+  ]
+}

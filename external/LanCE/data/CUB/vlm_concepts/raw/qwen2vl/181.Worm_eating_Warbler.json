@@ -1,0 +1,19 @@
+{
+  "class_folder": "181.Worm_eating_Warbler",
+  "class_name": "Worm eating Warbler",
+  "image_paths": [
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0013_795534.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0018_795546.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0023_176118.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0092_795524.jpg",
+    "181.Worm_eating_Warbler/Worm_Eating_Warbler_0102_176069.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"brown upper parts\" \n   },  \n     {\"feature\": 'black stripe through eyes'},\n      {\"feature\":\"orange beak\"},\n      {\"featuere\":\"short legs\"}\n]",
+  "concepts": [
+    "yellow underparts",
+    "brown upper parts",
+    "black stripe through eyes",
+    "orange beak",
+    "short legs"
+  ]
+}

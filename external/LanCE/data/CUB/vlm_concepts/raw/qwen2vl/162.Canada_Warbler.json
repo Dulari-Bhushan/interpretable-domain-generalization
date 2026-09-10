@@ -1,0 +1,16 @@
+{
+  "class_folder": "162.Canada_Warbler",
+  "class_name": "Canada Warbler",
+  "image_paths": [
+    "162.Canada_Warbler/Canada_Warbler_0040_162352.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0075_162428.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0076_162393.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0112_162398.jpg",
+    "162.Canada_Warbler/Canada_Warbler_0120_162415.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underbelly\"\n    },\n    {\n       \"feature\":\"black head stripes\" \n   },  \n     {\"feature\": 'gray wings' } ,   \n      {'feature': 'orange legs'} ,\n      { \"feature\":\"\"beak is black\"}    \n]",
+  "concepts": [
+    "yellow underbelly",
+    "black head stripes"
+  ]
+}

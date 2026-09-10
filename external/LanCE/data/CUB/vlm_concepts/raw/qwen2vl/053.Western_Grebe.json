@@ -1,0 +1,18 @@
+{
+  "class_folder": "053.Western_Grebe",
+  "class_name": "Western Grebe",
+  "image_paths": [
+    "053.Western_Grebe/Western_Grebe_0014_36185.jpg",
+    "053.Western_Grebe/Western_Grebe_0017_36218.jpg",
+    "053.Western_Grebe/Western_Grebe_0075_36435.jpg",
+    "053.Western_Grebe/Western_Grebe_0086_36478.jpg",
+    "053.Western_Grebe/Western_Grebe_0088_36428.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'black head'\"\n    },\n    {\n      \"feature\":\"'white neck'\"\n   }, \n     {\"feature\": 'gray feathers'},  \n       {\"feature\" : \"yellow beak\"},   \n         {\"feature\":\"\"}\n]",
+  "concepts": [
+    "black head",
+    "white neck",
+    "gray feathers",
+    "yellow beak"
+  ]
+}

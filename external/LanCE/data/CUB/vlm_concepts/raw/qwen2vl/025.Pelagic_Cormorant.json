@@ -1,0 +1,17 @@
+{
+  "class_folder": "025.Pelagic_Cormorant",
+  "class_name": "Pelagic Cormorant",
+  "image_paths": [
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0017_23875.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0019_23546.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0053_23760.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0057_24002.jpg",
+    "025.Pelagic_Cormorant/Pelagic_Cormorant_0083_23557.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long orange beak\"\n    },\n    {\n       \"feature\":\"Dark brown head feathers\"\n   }, \n     {\"feature\" : \"Black wings\"}\n]",
+  "concepts": [
+    "A long orange beak",
+    "Dark brown head feathers",
+    "Black wings"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "class_folder": "165.Chestnut_sided_Warbler",
+  "class_name": "Chestnut sided Warbler",
+  "image_paths": [
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0006_163858.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0053_163615.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0069_163921.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0124_164109.jpg",
+    "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0128_163696.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black eyes\" \n   },  \n     {\"feature\": 'white underparts'},\n      {'feature': 'grayish upper parts'},   \n         {\"feature\":\"green wings\"},    \n          {\"feature\":\"\"}     \n]",
+  "concepts": [
+    "yellow head",
+    "black eyes",
+    "white underparts",
+    "grayish upper parts",
+    "green wings"
+  ]
+}

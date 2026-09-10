@@ -1,0 +1,17 @@
+{
+  "class_folder": "015.Lazuli_Bunting",
+  "class_name": "Lazuli Bunting",
+  "image_paths": [
+    "015.Lazuli_Bunting/Lazuli_Bunting_0010_14915.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0020_14837.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0039_15081.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0080_14893.jpg",
+    "015.Lazuli_Bunting/Lazuli_Bunting_0081_14709.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"blue head\"\n    },\n    {\n       \"feature\":\"orange chest\" \n   },  \n     {\"feature\": 'brown wings' }   \n]",
+  "concepts": [
+    "blue head",
+    "orange chest",
+    "brown wings"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "087.Mallard",
+  "class_name": "Mallard",
+  "image_paths": [
+    "087.Mallard/Mallard_0055_77102.jpg",
+    "087.Mallard/Mallard_0077_75911.jpg",
+    "087.Mallard/Mallard_0093_77419.jpg",
+    "087.Mallard/Mallard_0095_76080.jpg",
+    "087.Mallard/Mallard_0098_77490.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A yellow beak'\"\n    },\n    {\n      \"feature\":\"'Green head'\"\n   }, \n     {\"feature\" : 'Brown wings'},  \n       {\"feature\":\"\"},\n         {\"feature\"\": \"\"},\n           {},\n             {}\n]",
+  "concepts": [
+    "A yellow beak",
+    "Green head",
+    "feature"
+  ]
+}

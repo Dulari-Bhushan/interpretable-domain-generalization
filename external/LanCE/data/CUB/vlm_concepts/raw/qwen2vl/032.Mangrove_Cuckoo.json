@@ -1,0 +1,18 @@
+{
+  "class_folder": "032.Mangrove_Cuckoo",
+  "class_name": "Mangrove Cuckoo",
+  "image_paths": [
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0014_26388.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0028_26358.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0034_26415.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0039_26348.jpg",
+    "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0042_794628.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Grey neck ring\" \n   },  \n     {\"feature\": 'Orange underparts' } ,   \n      {'feature': 'Black beak'} ,\n      { \"feature\":\"\"},\n      {\"\"}    \n]",
+  "concepts": [
+    "A grey head",
+    "Grey neck ring",
+    "Orange underparts",
+    "Black beak"
+  ]
+}

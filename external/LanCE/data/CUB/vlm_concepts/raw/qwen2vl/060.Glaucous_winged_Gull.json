@@ -1,0 +1,16 @@
+{
+  "class_folder": "060.Glaucous_winged_Gull",
+  "class_name": "Glaucous winged Gull",
+  "image_paths": [
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0002_44612.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0032_44594.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0051_44543.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0073_44253.jpg",
+    "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0091_44848.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"black\"\n   }\n]",
+  "concepts": [
+    "beak",
+    "black"
+  ]
+}

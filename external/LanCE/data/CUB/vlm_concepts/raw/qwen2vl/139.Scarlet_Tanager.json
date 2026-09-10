@@ -1,0 +1,18 @@
+{
+  "class_folder": "139.Scarlet_Tanager",
+  "class_name": "Scarlet Tanager",
+  "image_paths": [
+    "139.Scarlet_Tanager/Scarlet_Tanager_0017_138484.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0060_138384.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0075_137602.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0090_137703.jpg",
+    "139.Scarlet_Tanager/Scarlet_Tanager_0107_138577.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A bright red head\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'Red underbelly' } ,   \n      {'feature': 'Orange beak'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A bright red head",
+    "Black wings",
+    "Red underbelly",
+    "Orange beak"
+  ]
+}

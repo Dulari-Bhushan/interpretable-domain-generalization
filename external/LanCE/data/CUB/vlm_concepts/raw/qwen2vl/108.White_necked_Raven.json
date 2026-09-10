@@ -1,0 +1,17 @@
+{
+  "class_folder": "108.White_necked_Raven",
+  "class_name": "White necked Raven",
+  "image_paths": [
+    "108.White_necked_Raven/White_Necked_Raven_0004_102714.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0007_102676.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0042_797356.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0044_797348.jpg",
+    "108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"white patch under beak\" \n   },  \n     {\"feature\": 'curved black beak'},\n      {\"feature\":\"dark eyes\"},\n      {   \n         \"feature\":\"\"beaks pointing down\"}\n]",
+  "concepts": [
+    "black feathers",
+    "white patch under beak",
+    "dark eyes"
+  ]
+}

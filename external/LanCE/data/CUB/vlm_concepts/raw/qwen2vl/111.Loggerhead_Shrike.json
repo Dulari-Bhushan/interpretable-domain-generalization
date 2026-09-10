@@ -1,0 +1,19 @@
+{
+  "class_folder": "111.Loggerhead_Shrike",
+  "class_name": "Loggerhead Shrike",
+  "image_paths": [
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0018_26407.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0029_104849.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0046_104998.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0052_105120.jpg",
+    "111.Loggerhead_Shrike/Loggerhead_Shrike_0127_105742.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black beak\"\n    },\n    {\n      \"feature\":\"gray head\"\n   }, \n     {\"feature\" : \"white underparts\"},\n       {\"feature\":\"brown wings\"},  \n         {\"feature\":\"\"},\n          {\"feature\":\"\",\"bodypart\":\"tail\"}\n]",
+  "concepts": [
+    "black beak",
+    "gray head",
+    "white underparts",
+    "brown wings",
+    "tail"
+  ]
+}

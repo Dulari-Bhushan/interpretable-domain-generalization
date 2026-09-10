@@ -1,0 +1,17 @@
+{
+  "class_folder": "028.Brown_Creeper",
+  "class_name": "Brown Creeper",
+  "image_paths": [
+    "028.Brown_Creeper/Brown_Creeper_0053_24451.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0058_24933.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0072_24977.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0110_24866.jpg",
+    "028.Brown_Creeper/Brown_Creeper_0113_24560.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"curved beak\"\n    },\n    {\n       \"feature\":\"brown head feathers\" \n   },  \n     {\"feature\": 'white underparts'},\n      {'feature': 'grayish-brown wings'},   \n         {\"feature\":\"black spots\"},    \n          {\"feature\":\"\"},\n           {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "curved beak",
+    "brown head feathers",
+    "black spots"
+  ]
+}

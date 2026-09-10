@@ -1,0 +1,17 @@
+{
+  "class_folder": "098.Scott_Oriole",
+  "class_name": "Scott Oriole",
+  "image_paths": [
+    "098.Scott_Oriole/Scott_Oriole_0031_90270.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0042_795844.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0051_795807.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0069_92271.jpg",
+    "098.Scott_Oriole/Scott_Oriole_0077_795831.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Yellow underparts\" \n   },  \n     {\"feature\": 'Black wings' } ,   \n      {'feature': 'White belly'},    \n         { \"feature\":\"\"Bill is dark\"} ,\n          {\"feature\":\"\",\"Feet are grey\"},     \n           {\"feature\":\"Tail feathers have white edges\"},\n            {\"feature\":\"\"Bird has yellow eyes\"}\n]",
+  "concepts": [
+    "A black head",
+    "Yellow underparts",
+    "Bird has yellow eyes"
+  ]
+}

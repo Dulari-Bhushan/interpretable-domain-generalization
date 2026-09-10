@@ -1,0 +1,18 @@
+{
+  "class_folder": "177.Prothonotary_Warbler",
+  "class_name": "Prothonotary Warbler",
+  "image_paths": [
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0021_173816.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0045_173536.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0062_174412.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0070_174650.jpg",
+    "177.Prothonotary_Warbler/Prothonotary_Warbler_0112_174594.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black beak\" \n   },  \n     {\"feature\": 'gray wings' } ,   \n      {'feature': 'white underbelly'},    \n         { \"feature\":\"\"}     \n]",
+  "concepts": [
+    "yellow head",
+    "black beak",
+    "gray wings",
+    "white underbelly"
+  ]
+}

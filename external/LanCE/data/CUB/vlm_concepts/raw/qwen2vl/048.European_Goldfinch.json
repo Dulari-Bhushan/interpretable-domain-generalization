@@ -1,0 +1,19 @@
+{
+  "class_folder": "048.European_Goldfinch",
+  "class_name": "European Goldfinch",
+  "image_paths": [
+    "048.European_Goldfinch/European_Goldfinch_0008_33153.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0012_794646.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0013_794687.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0045_794690.jpg",
+    "048.European_Goldfinch/European_Goldfinch_0078_33170.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A red head\"\n    },\n    {\n       \"feature\":\"Black markings around eyes\" \n   },  \n     {\"feature\": 'Yellow underparts'},\n      {'feature': 'Brown upper parts'},\n      {'Feature':'White cheeks'},   \n      { \"feature\":\"\"}    \n]",
+  "concepts": [
+    "A red head",
+    "Black markings around eyes",
+    "Yellow underparts",
+    "Brown upper parts",
+    "White cheeks"
+  ]
+}

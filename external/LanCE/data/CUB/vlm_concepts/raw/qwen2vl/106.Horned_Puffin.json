@@ -1,0 +1,22 @@
+{
+  "class_folder": "106.Horned_Puffin",
+  "class_name": "Horned Puffin",
+  "image_paths": [
+    "106.Horned_Puffin/Horned_Puffin_0004_100733.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0022_100766.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0024_100620.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0031_100804.jpg",
+    "106.Horned_Puffin/Horned_Puffin_0040_100891.jpg"
+  ],
+  "raw_response": "[\"A large orange beak\", \"Black feathers covering most of its head except white tuft above eyes\", \"White underparts including belly and chest\", \"Dark grey wings with black tips\", \"Yellow feet\", \"Brown legs\", \"Orange webbed toes\", \"Small yellow spot near base of beak\"]",
+  "concepts": [
+    "A large orange beak",
+    "Black feathers covering most of its head except white tuft above eyes",
+    "White underparts including belly and chest",
+    "Dark grey wings with black tips",
+    "Yellow feet",
+    "Brown legs",
+    "Orange webbed toes",
+    "Small yellow spot near base of beak"
+  ]
+}

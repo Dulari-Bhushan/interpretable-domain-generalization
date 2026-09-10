@@ -1,0 +1,21 @@
+{
+  "class_folder": "088.Western_Meadowlark",
+  "class_name": "Western Meadowlark",
+  "image_paths": [
+    "088.Western_Meadowlark/Western_Meadowlark_0001_78676.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0015_78610.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0017_78940.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0052_77781.jpg",
+    "088.Western_Meadowlark/Western_Meadowlark_0118_78820.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underbelly\"\n    },\n    {\n       \"feature\":\"black chest patch\" \n   },  \n     {\"feature\": 'brown wings' } ,   \n      {'feature': 'gray head'} ,\n         {'feature':'orange beak'},\n          {'feature':\"short legs\"},\n           {'feature',\"pointed black tip to yellow neck\"}\n]",
+  "concepts": [
+    "yellow underbelly",
+    "black chest patch",
+    "brown wings",
+    "gray head",
+    "orange beak",
+    "short legs",
+    "feature"
+  ]
+}

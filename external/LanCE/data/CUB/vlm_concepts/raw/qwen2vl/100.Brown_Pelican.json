@@ -1,0 +1,16 @@
+{
+  "class_folder": "100.Brown_Pelican",
+  "class_name": "Brown Pelican",
+  "image_paths": [
+    "100.Brown_Pelican/Brown_Pelican_0011_94683.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0025_95218.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0077_93464.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0118_93475.jpg",
+    "100.Brown_Pelican/Brown_Pelican_0125_93461.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long beak\"\n    },\n    {\n       \"feature\":\"Dark brown head feathers\" \n   },  \n     {\"feature\": 'Grayish-brown wings' } ,   \n      { \"feature\":\"\"White underbelly\"} ,\n         {\"feature\":\"\",\"Grey legs\"}\n]",
+  "concepts": [
+    "A long beak",
+    "Dark brown head feathers"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "161.Blue_winged_Warbler",
+  "class_name": "Blue winged Warbler",
+  "image_paths": [
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0014_161783.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0021_161858.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0036_161758.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0077_162021.jpg",
+    "161.Blue_winged_Warbler/Blue_Winged_Warbler_0082_161772.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black eyes\" \n   },  \n     {\"feature\": 'white spots under wings' } ,   \n      { \"feature\":\"\"beak\"\"} ,\n         {\"feature\":\"\",\"tail\"}    \n]",
+  "concepts": [
+    "yellow head",
+    "black eyes",
+    "tail"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "052.Pied_billed_Grebe",
+  "class_name": "Pied billed Grebe",
+  "image_paths": [
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0044_35425.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0052_35937.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0063_35529.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0081_35409.jpg",
+    "052.Pied_billed_Grebe/Pied_Billed_Grebe_0120_35764.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown neck feathers\"\n   }, \n     {\"feature\" : \"Grayish-brown wings\"}\n]",
+  "concepts": [
+    "A brown head",
+    "Brown neck feathers",
+    "Grayish-brown wings"
+  ]
+}

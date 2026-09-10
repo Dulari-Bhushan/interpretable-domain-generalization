@@ -1,0 +1,17 @@
+{
+  "class_folder": "141.Artic_Tern",
+  "class_name": "Artic Tern",
+  "image_paths": [
+    "141.Artic_Tern/Artic_Tern_0021_143477.jpg",
+    "141.Artic_Tern/Artic_Tern_0055_141524.jpg",
+    "141.Artic_Tern/Artic_Tern_0101_141075.jpg",
+    "141.Artic_Tern/Artic_Tern_0111_143101.jpg",
+    "141.Artic_Tern/Artic_Tern_0133_141069.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"red beak\"\n    },\n    {\n       \"feature\":\"white head\"\n   }, \n     {\"feature\" : \"black cap\"}\n]",
+  "concepts": [
+    "red beak",
+    "white head",
+    "black cap"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "067.Anna_Hummingbird",
+  "class_name": "Anna Hummingbird",
+  "image_paths": [
+    "067.Anna_Hummingbird/Anna_Hummingbird_0029_55823.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0047_56049.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0069_56933.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0091_56004.jpg",
+    "067.Anna_Hummingbird/Anna_Hummingbird_0112_56353.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A greenish-brown head\"\n    },\n    {\n       \"feature\":\"Black eyes\" \n   },  \n     {\"feature\": 'Reddish-pink beak' } ,   \n      {'feature': 'Green wings'} ,\n      { \"feature\":\"\"White underparts\"}    \n]",
+  "concepts": [
+    "A greenish-brown head",
+    "Black eyes"
+  ]
+}

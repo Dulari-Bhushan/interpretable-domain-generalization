@@ -1,0 +1,16 @@
+{
+  "class_folder": "085.Horned_Lark",
+  "class_name": "Horned Lark",
+  "image_paths": [
+    "085.Horned_Lark/Horned_Lark_0025_75003.jpg",
+    "085.Horned_Lark/Horned_Lark_0028_74408.jpg",
+    "085.Horned_Lark/Horned_Lark_0035_74555.jpg",
+    "085.Horned_Lark/Horned_Lark_0072_74067.jpg",
+    "085.Horned_Lark/Horned_Lark_0076_73931.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow face\"\n    },\n    {\n       \"feature\":\"black head stripe\" \n   },  \n     {\"feature\": 'white underbelly'},\n      {'feature': 'brown wings'},   \n      { \"feature\":\"\"beige legs\"},    \n      {\"feature\":\"short black beak\"},\n]",
+  "concepts": [
+    "yellow face",
+    "black head stripe"
+  ]
+}

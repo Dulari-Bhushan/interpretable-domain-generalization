@@ -1,0 +1,16 @@
+{
+  "class_folder": "045.Northern_Fulmar",
+  "class_name": "Northern Fulmar",
+  "image_paths": [
+    "045.Northern_Fulmar/Northern_Fulmar_0029_44049.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0048_43672.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0058_44114.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0061_43653.jpg",
+    "045.Northern_Fulmar/Northern_Fulmar_0065_44081.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"beige\"\n    }\n]",
+  "concepts": [
+    "beak",
+    "beige"
+  ]
+}

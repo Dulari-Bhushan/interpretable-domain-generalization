@@ -1,0 +1,18 @@
+{
+  "class_folder": "017.Cardinal",
+  "class_name": "Cardinal",
+  "image_paths": [
+    "017.Cardinal/Cardinal_0012_18638.jpg",
+    "017.Cardinal/Cardinal_0019_17368.jpg",
+    "017.Cardinal/Cardinal_0025_17239.jpg",
+    "017.Cardinal/Cardinal_0045_18021.jpg",
+    "017.Cardinal/Cardinal_0060_17139.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A bright red head\"\n    },\n    {\n       \"feature\":\"Red crest\" \n   },  \n     {\"feature\": 'Black beak'},\n      {'feature': 'Orange-red feathers'},   \n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A bright red head",
+    "Red crest",
+    "Black beak",
+    "Orange-red feathers"
+  ]
+}

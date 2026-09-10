@@ -1,0 +1,16 @@
+{
+  "class_folder": "155.Warbling_Vireo",
+  "class_name": "Warbling Vireo",
+  "image_paths": [
+    "155.Warbling_Vireo/Warbling_Vireo_0022_158144.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0029_158679.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0067_158283.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0077_158427.jpg",
+    "155.Warbling_Vireo/Warbling_Vireo_0118_158285.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"gray head\"\n    },\n    {\n       \"feature\":\"yellow underparts\" \n   },  \n     {\"feature\": 'brownish wings' } ,   \n      {'feature': 'black eyes'} ,\n      { \"feature\":\"\"beige legs\"}    \n]",
+  "concepts": [
+    "gray head",
+    "yellow underparts"
+  ]
+}

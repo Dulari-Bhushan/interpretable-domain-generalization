@@ -1,0 +1,16 @@
+{
+  "class_folder": "125.Lincoln_Sparrow",
+  "class_name": "Lincoln Sparrow",
+  "image_paths": [
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0014_117883.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0032_117747.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0059_117271.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0084_117492.jpg",
+    "125.Lincoln_Sparrow/Lincoln_Sparrow_0108_117773.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s head\"\n    },\n    {\n       'feature': '\"head\" has brown stripes'\n    }\n]",
+  "concepts": [
+    "head",
+    "\"head\" has brown stripes"
+  ]
+}

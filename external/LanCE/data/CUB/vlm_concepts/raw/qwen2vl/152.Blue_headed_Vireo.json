@@ -1,0 +1,16 @@
+{
+  "class_folder": "152.Blue_headed_Vireo",
+  "class_name": "Blue headed Vireo",
+  "image_paths": [
+    "152.Blue_headed_Vireo/Blue_Headed_Vireo_0010_156344.jpg",
+    "152.Blue_headed_Vireo/Blue_Headed_Vireo_0020_155994.jpg",
+    "152.Blue_headed_Vireo/Blue_Headed_Vireo_0023_156112.jpg",
+    "152.Blue_headed_Vireo/Blue_Headed_Vireo_0034_156251.jpg",
+    "152.Blue_headed_Vireo/Blue_Headed_Vireo_0062_156109.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Grey wings\" \n   },  \n     {\"feature\": 'Yellow underparts' } ,   \n      { \"feature\":\"\"Grayish-blue legs\"} ,\n         {\"feature\":\"\",\"White ring around eyes\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Grey wings"
+  ]
+}

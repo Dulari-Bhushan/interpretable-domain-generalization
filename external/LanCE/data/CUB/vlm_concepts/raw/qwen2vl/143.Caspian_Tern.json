@@ -1,0 +1,17 @@
+{
+  "class_folder": "143.Caspian_Tern",
+  "class_name": "Caspian Tern",
+  "image_paths": [
+    "143.Caspian_Tern/Caspian_Tern_0072_147667.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0101_145164.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0107_145639.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0114_145612.jpg",
+    "143.Caspian_Tern/Caspian_Tern_0116_145607.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s orange beak\"\n    },\n    {\n       'feature': '\"orange\" beak'\n   }, \n     {\"feature\":\"'s black head\"}\n]",
+  "concepts": [
+    "orange beak",
+    "\"orange\" beak",
+    "black head"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "class_folder": "084.Red_legged_Kittiwake",
+  "class_name": "Red legged Kittiwake",
+  "image_paths": [
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0006_795436.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0010_73789.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0019_795398.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0054_795396.jpg",
+    "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0071_73800.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A white head\"\n    },\n    {\n       \"feature\":\"Gray wings\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      { \"feature\":\"\"Yellow beak\"} ,\n      {'feature':\"\"Orange legs\"}\n]",
+  "concepts": [
+    "A white head",
+    "Gray wings",
+    "} ,\n      {'feature':",
+    "Orange legs"
+  ]
+}

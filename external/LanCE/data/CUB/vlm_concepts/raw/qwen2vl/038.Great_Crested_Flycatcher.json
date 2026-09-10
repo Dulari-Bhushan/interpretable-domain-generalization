@@ -1,0 +1,18 @@
+{
+  "class_folder": "038.Great_Crested_Flycatcher",
+  "class_name": "Great Crested Flycatcher",
+  "image_paths": [
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0040_29447.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0058_29523.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0099_29305.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0105_29456.jpg",
+    "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0136_29490.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Grey wings\" \n   },  \n     {\"feature\": 'Yellow underparts' } ,   \n      {'feature': 'Brownish-orange tail feathers'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A grey head",
+    "Grey wings",
+    "Yellow underparts",
+    "Brownish-orange tail feathers"
+  ]
+}

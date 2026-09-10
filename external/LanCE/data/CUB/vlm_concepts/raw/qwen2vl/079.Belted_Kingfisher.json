@@ -1,0 +1,17 @@
+{
+  "class_folder": "079.Belted_Kingfisher",
+  "class_name": "Belted Kingfisher",
+  "image_paths": [
+    "079.Belted_Kingfisher/Belted_Kingfisher_0011_70923.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0055_70517.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0072_70924.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0073_70326.jpg",
+    "079.Belted_Kingfisher/Belted_Kingfisher_0085_70503.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long black beak\"\n    },\n    {\n       \"feature\":\"Dark blue head feathers\"\n   }, \n     {\"feature\" : \"White underparts\"}\n]",
+  "concepts": [
+    "A long black beak",
+    "Dark blue head feathers",
+    "White underparts"
+  ]
+}

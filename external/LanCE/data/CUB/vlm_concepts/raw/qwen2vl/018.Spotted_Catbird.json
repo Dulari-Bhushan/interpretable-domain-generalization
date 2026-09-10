@@ -1,0 +1,16 @@
+{
+  "class_folder": "018.Spotted_Catbird",
+  "class_name": "Spotted Catbird",
+  "image_paths": [
+    "018.Spotted_Catbird/Spotted_Catbird_0004_796804.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0020_796794.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0022_796821.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0028_796813.jpg",
+    "018.Spotted_Catbird/Spotted_Catbird_0029_796825.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A green head'\"\n    },\n    {\n      \"feature\":\"'black eyes'\",\n     }\n]",
+  "concepts": [
+    "A green head",
+    "black eyes"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "078.Gray_Kingbird",
+  "class_name": "Gray Kingbird",
+  "image_paths": [
+    "078.Gray_Kingbird/Gray_Kingbird_0003_70305.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0022_70155.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0026_70089.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0037_70050.jpg",
+    "078.Gray_Kingbird/Gray_Kingbird_0045_70256.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s grey head\"\n    },\n    {\n       \"feature\":\"'s white underparts\",\n      }\n]",
+  "concepts": [
+    "grey head",
+    "white underparts"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "class_folder": "082.Ringed_Kingfisher",
+  "class_name": "Ringed Kingfisher",
+  "image_paths": [
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0011_72982.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0016_73029.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0021_72848.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0027_72948.jpg",
+    "082.Ringed_Kingfisher/Ringed_Kingfisher_0103_72894.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long pointed beak\"\n    },\n    {\n       \"feature\":\"Gray head feathers\" \n   },  \n     {\"feature\": 'White neck stripe'},\n      {\"feature\":\"Orange chest\"},\n      {\"Feature\":\"Black wings\"},   \n      { \"feature\":\"\"},\n      {\"features\":[\"Grey upperparts\",\"white under parts\"]},    \n]",
+  "concepts": [
+    "A long pointed beak",
+    "Gray head feathers",
+    "White neck stripe",
+    "Orange chest",
+    "Black wings"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "class_folder": "171.Myrtle_Warbler",
+  "class_name": "Myrtle Warbler",
+  "image_paths": [
+    "171.Myrtle_Warbler/Myrtle_Warbler_0009_166752.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0036_166833.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0069_166914.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0102_166725.jpg",
+    "171.Myrtle_Warbler/Myrtle_Warbler_0103_166963.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black head patch\" \n   },  \n     {\"feature\": 'white face stripe'},\n      {'feature': 'gray wings'},   \n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "yellow underparts",
+    "black head patch",
+    "white face stripe",
+    "gray wings"
+  ]
+}

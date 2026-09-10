@@ -1,0 +1,20 @@
+{
+  "class_folder": "036.Northern_Flicker",
+  "class_name": "Northern Flicker",
+  "image_paths": [
+    "036.Northern_Flicker/Northern_Flicker_0036_28681.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0078_28338.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0095_28938.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0096_28623.jpg",
+    "036.Northern_Flicker/Northern_Flicker_0106_28441.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Red patches above eyes\" \n   },  \n     {\"feature\": 'Black spot below beak'},\n      {\"feature\":\"Spotted brown wings\"},\n      {\"Feature\":\"Brown spotted underparts\"},   \n      { \"feature\":\"\"},\n      {\" Feature\":\"Grey legs\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Red patches above eyes",
+    "Black spot below beak",
+    "Spotted brown wings",
+    "Brown spotted underparts",
+    "Grey legs"
+  ]
+}

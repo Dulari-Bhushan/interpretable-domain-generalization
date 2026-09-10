@@ -1,0 +1,17 @@
+{
+  "class_folder": "024.Red_faced_Cormorant",
+  "class_name": "Red faced Cormorant",
+  "image_paths": [
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0007_796280.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0032_796334.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0035_796294.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0036_796329.jpg",
+    "024.Red_faced_Cormorant/Red_Faced_Cormorant_0045_796324.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A red face\"\n    },\n    {\n       \"feature\":\"Orange eyes\" \n   },  \n     {\"feature\": 'Black head'}\n]",
+  "concepts": [
+    "A red face",
+    "Orange eyes",
+    "Black head"
+  ]
+}

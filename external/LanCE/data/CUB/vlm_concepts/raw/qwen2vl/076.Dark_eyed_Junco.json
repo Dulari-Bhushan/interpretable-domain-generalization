@@ -1,0 +1,19 @@
+{
+  "class_folder": "076.Dark_eyed_Junco",
+  "class_name": "Dark eyed Junco",
+  "image_paths": [
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0048_66981.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0084_66455.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0089_68498.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0091_67304.jpg",
+    "076.Dark_eyed_Junco/Dark_Eyed_Junco_0115_68840.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"brown wings\" \n   },  \n     {\"feature\": 'white underparts'},\n      {\"feature\":\"pink beak\"},\n      {\"featuere\":\"short legs\"}\n]",
+  "concepts": [
+    "black head",
+    "brown wings",
+    "white underparts",
+    "pink beak",
+    "short legs"
+  ]
+}

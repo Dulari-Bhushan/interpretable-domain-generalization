@@ -1,0 +1,17 @@
+{
+  "class_folder": "027.Shiny_Cowbird",
+  "class_name": "Shiny Cowbird",
+  "image_paths": [
+    "027.Shiny_Cowbird/Shiny_Cowbird_0006_796864.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0010_24439.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0024_24281.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0034_796849.jpg",
+    "027.Shiny_Cowbird/Shiny_Cowbird_0036_24274.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"dark eyes\" \n   },  \n     {\"feature\": 'short legs' }   \n]",
+  "concepts": [
+    "black feathers",
+    "dark eyes",
+    "short legs"
+  ]
+}

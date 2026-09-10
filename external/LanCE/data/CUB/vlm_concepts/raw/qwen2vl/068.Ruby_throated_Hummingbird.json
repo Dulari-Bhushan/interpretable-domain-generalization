@@ -1,0 +1,18 @@
+{
+  "class_folder": "068.Ruby_throated_Hummingbird",
+  "class_name": "Ruby throated Hummingbird",
+  "image_paths": [
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0027_58191.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0030_57422.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0042_57431.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0064_57387.jpg",
+    "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0079_58075.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black beak\"\n    },\n    {\n       \"feature\":\"Orange-red head patch\" \n   },  \n     {\"feature\": 'Black eyes'},\n      {'feature': 'Green wings'},   \n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A black beak",
+    "Orange-red head patch",
+    "Black eyes",
+    "Green wings"
+  ]
+}

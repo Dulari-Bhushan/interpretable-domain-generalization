@@ -1,0 +1,16 @@
+{
+  "class_folder": "051.Horned_Grebe",
+  "class_name": "Horned Grebe",
+  "image_paths": [
+    "051.Horned_Grebe/Horned_Grebe_0011_34687.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0033_34736.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0099_34989.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0102_34448.jpg",
+    "051.Horned_Grebe/Horned_Grebe_0112_34864.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"orange neck ring\" \n   },  \n     {\"feature\": 'white face' } ,   \n      { \"feature\":\"\"red eyes\"} ,\n         {\"feature\":\"\",\"brown legs\"}\n]",
+  "concepts": [
+    "black head",
+    "orange neck ring"
+  ]
+}

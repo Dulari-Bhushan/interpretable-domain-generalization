@@ -1,0 +1,16 @@
+{
+  "class_folder": "187.American_Three_toed_Woodpecker",
+  "class_name": "American Three toed Woodpecker",
+  "image_paths": [
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0004_179908.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0007_179932.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0008_179850.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0033_796169.jpg",
+    "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0043_796187.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white neck\" \n   },  \n     {\"feature\": 'gray wings' } ,   \n      { \"feature\":\"\"spotted belly\"} ,\n         {\"feature\":\"\",\"yellow spot above eyes\"}\n]",
+  "concepts": [
+    "black head",
+    "white neck"
+  ]
+}

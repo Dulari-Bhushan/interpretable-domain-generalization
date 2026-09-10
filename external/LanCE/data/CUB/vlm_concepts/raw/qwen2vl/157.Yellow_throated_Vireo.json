@@ -1,0 +1,17 @@
+{
+  "class_folder": "157.Yellow_throated_Vireo",
+  "class_name": "Yellow throated Vireo",
+  "image_paths": [
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0006_159693.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0017_794988.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0025_795009.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0058_794994.jpg",
+    "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0070_159602.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"green upper parts\" \n   },  \n     {\"feature\": 'black wings' } ,   \n      {'feature': 'white belly'},    \n         { \"feature\":\"\"beak\"\"} ,\n          {\"feature\":\"\",\"eye\"}     \n]",
+  "concepts": [
+    "yellow underparts",
+    "green upper parts",
+    "eye"
+  ]
+}

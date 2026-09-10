@@ -1,0 +1,16 @@
+{
+  "class_folder": "159.Black_and_white_Warbler",
+  "class_name": "Black and white Warbler",
+  "image_paths": [
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0007_160758.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0021_160686.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0022_160512.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0057_160037.jpg",
+    "159.Black_and_white_Warbler/Black_And_White_Warbler_0060_160764.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n      \"feature\":\"white underparts\" \n   },  \n     {\"feature\": 'striped wings' } ,   \n       { \"feature\":\"\"beige legs\"}    \n]",
+  "concepts": [
+    "black head",
+    "white underparts"
+  ]
+}

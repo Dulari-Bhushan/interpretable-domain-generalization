@@ -1,0 +1,17 @@
+{
+  "class_folder": "049.Boat_tailed_Grackle",
+  "class_name": "Boat tailed Grackle",
+  "image_paths": [
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0040_33417.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0050_33501.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0100_33985.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0112_33841.jpg",
+    "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0113_33490.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'Blue-black feathers'}   \n]",
+  "concepts": [
+    "A black head",
+    "Black wings",
+    "Blue-black feathers"
+  ]
+}

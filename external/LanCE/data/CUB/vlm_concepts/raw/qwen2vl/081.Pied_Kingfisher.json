@@ -1,0 +1,17 @@
+{
+  "class_folder": "081.Pied_Kingfisher",
+  "class_name": "Pied Kingfisher",
+  "image_paths": [
+    "081.Pied_Kingfisher/Pied_Kingfisher_0011_72143.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0022_72247.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0073_72508.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0093_72465.jpg",
+    "081.Pied_Kingfisher/Pied_Kingfisher_0122_71789.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A black beak'\"\n    },\n    {\n      \"feature\":\"'Black head stripes'\"\n   }, \n     {\"feature\": 'White underparts'},\n       {\"feature\" : \"Spotted wings\"},\n         {\"feature\":\"\"},\n           {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "A black beak",
+    "Black head stripes",
+    "Spotted wings"
+  ]
+}

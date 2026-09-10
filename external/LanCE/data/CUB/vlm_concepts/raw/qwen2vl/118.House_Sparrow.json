@@ -1,0 +1,15 @@
+{
+  "class_folder": "118.House_Sparrow",
+  "class_name": "House Sparrow",
+  "image_paths": [
+    "118.House_Sparrow/House_Sparrow_0006_111034.jpg",
+    "118.House_Sparrow/House_Sparrow_0086_111385.jpg",
+    "118.House_Sparrow/House_Sparrow_0093_110990.jpg",
+    "118.House_Sparrow/House_Sparrow_0106_111564.jpg",
+    "118.House_Sparrow/House_Sparrow_0128_110971.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s brown head\"\n    },\n    {\n       'feature': '\"brown' + 'and white feathers'\n    }\n]",
+  "concepts": [
+    "brown head"
+  ]
+}

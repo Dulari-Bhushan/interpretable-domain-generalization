@@ -1,0 +1,19 @@
+{
+  "class_folder": "093.Clark_Nutcracker",
+  "class_name": "Clark Nutcracker",
+  "image_paths": [
+    "093.Clark_Nutcracker/Clark_Nutcracker_0067_85302.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0073_85343.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0082_85477.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0087_84898.jpg",
+    "093.Clark_Nutcracker/Clark_Nutcracker_0101_85656.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s black beak\"\n    },\n    {\n       'feature': '\"black' + 'and white\" wings'\n   }, \n     {\"feature\":\"gray head\"},  \n      {'feature':\"white underbelly\"},\n      {{\"feature\":\"short legs\"}},   \n]",
+  "concepts": [
+    "black beak",
+    "black' + 'and white",
+    "gray head",
+    "white underbelly",
+    "short legs"
+  ]
+}

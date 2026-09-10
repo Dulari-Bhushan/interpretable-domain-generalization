@@ -1,0 +1,18 @@
+{
+  "class_folder": "014.Indigo_Bunting",
+  "class_name": "Indigo Bunting",
+  "image_paths": [
+    "014.Indigo_Bunting/Indigo_Bunting_0041_13987.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0047_12966.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0049_13641.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0076_12950.jpg",
+    "014.Indigo_Bunting/Indigo_Bunting_0085_11991.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A blue head\"\n    },\n    {\n       \"feature\":\"Blue feathers\" \n   },  \n     {\"feature\": 'Black wings' } ,   \n      {'feature': 'White beak'} ,\n      { \"feature\":\"\"}    \n]",
+  "concepts": [
+    "A blue head",
+    "Blue feathers",
+    "Black wings",
+    "White beak"
+  ]
+}

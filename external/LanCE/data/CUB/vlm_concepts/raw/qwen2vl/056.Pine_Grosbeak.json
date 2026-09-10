@@ -1,0 +1,19 @@
+{
+  "class_folder": "056.Pine_Grosbeak",
+  "class_name": "Pine Grosbeak",
+  "image_paths": [
+    "056.Pine_Grosbeak/Pine_Grosbeak_0006_38421.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0036_38968.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0058_38431.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0078_38242.jpg",
+    "056.Pine_Grosbeak/Pine_Grosbeak_0114_38259.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A red head\"\n    },\n    {\n       \"feature\":\"Red feathers around eyes\" \n   },  \n     {\"feature\": 'Gray underparts'},\n      {\"feature\":\"White belly\"},\n      {\"Feature\":\"Black beak\"},   \n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A red head",
+    "Red feathers around eyes",
+    "Gray underparts",
+    "White belly",
+    "Black beak"
+  ]
+}

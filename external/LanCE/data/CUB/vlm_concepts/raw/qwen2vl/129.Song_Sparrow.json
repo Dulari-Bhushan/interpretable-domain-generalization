@@ -1,0 +1,19 @@
+{
+  "class_folder": "129.Song_Sparrow",
+  "class_name": "Song Sparrow",
+  "image_paths": [
+    "129.Song_Sparrow/Song_Sparrow_0007_121133.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0013_121056.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0020_121490.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0058_121832.jpg",
+    "129.Song_Sparrow/Song_Sparrow_0092_121969.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown eyes\" \n   },  \n     {\"feature\": 'White underparts'},\n      {'feature': 'Grayish-brown upper parts'},   \n         {\"feature\":\"Dark legs\"},    \n          {\"feature\":\"\"}     \n]",
+  "concepts": [
+    "A brown head",
+    "Brown eyes",
+    "White underparts",
+    "Grayish-brown upper parts",
+    "Dark legs"
+  ]
+}

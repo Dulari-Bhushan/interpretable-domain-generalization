@@ -1,0 +1,19 @@
+{
+  "class_folder": "194.Cactus_Wren",
+  "class_name": "Cactus Wren",
+  "image_paths": [
+    "194.Cactus_Wren/Cactus_Wren_0008_186083.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0028_185795.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0041_185691.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0069_186033.jpg",
+    "194.Cactus_Wren/Cactus_Wren_0080_185901.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long beak\"\n    },\n    {\n       \"feature\":\"Brown head feathers\" \n   },  \n     {\"feature\": 'Spotted brown wings' } ,   \n      {'feature': 'Grayish-brown underparts'} ,\n      { \"feature\" : 'Dark eyes'}\n]",
+  "concepts": [
+    "A long beak",
+    "Brown head feathers",
+    "Spotted brown wings",
+    "Grayish-brown underparts",
+    "Dark eyes"
+  ]
+}

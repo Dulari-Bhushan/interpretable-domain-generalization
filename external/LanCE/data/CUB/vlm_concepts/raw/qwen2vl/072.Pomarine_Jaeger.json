@@ -1,0 +1,17 @@
+{
+  "class_folder": "072.Pomarine_Jaeger",
+  "class_name": "Pomarine Jaeger",
+  "image_paths": [
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0022_795747.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0041_61305.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0071_795769.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0075_61349.jpg",
+    "072.Pomarine_Jaeger/Pomarine_Jaeger_0078_795758.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s black head\"\n    },\n    {\n      \"feature\":\"black wings\"\n   }, \n     {\"feature\":\"white underbelly\"}\n]",
+  "concepts": [
+    "black head",
+    "black wings",
+    "white underbelly"
+  ]
+}

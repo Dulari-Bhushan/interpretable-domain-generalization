@@ -1,0 +1,18 @@
+{
+  "class_folder": "047.American_Goldfinch",
+  "class_name": "American Goldfinch",
+  "image_paths": [
+    "047.American_Goldfinch/American_Goldfinch_0026_32222.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0092_32910.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0104_32540.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0133_32802.jpg",
+    "047.American_Goldfinch/American_Goldfinch_0135_32107.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow feathers\"\n    },\n    {\n       \"feature\":\"black head patch\" \n   },  \n     {\"feature\": 'orange beak' } ,   \n      {'feature': 'short legs'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "yellow feathers",
+    "black head patch",
+    "orange beak",
+    "short legs"
+  ]
+}

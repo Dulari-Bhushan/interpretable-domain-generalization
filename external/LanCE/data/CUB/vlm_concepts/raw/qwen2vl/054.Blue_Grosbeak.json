@@ -1,0 +1,19 @@
+{
+  "class_folder": "054.Blue_Grosbeak",
+  "class_name": "Blue Grosbeak",
+  "image_paths": [
+    "054.Blue_Grosbeak/Blue_Grosbeak_0009_36992.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0031_37173.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0053_36709.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0093_37107.jpg",
+    "054.Blue_Grosbeak/Blue_Grosbeak_0094_36995.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A blue head\"\n    },\n    {\n       \"feature\":\"Dark brown eyes\" \n   },  \n     {\"feature\": 'Orange-brown wings'},\n      {\"feature\":\"Black beak\"},\n      {\"Feature\":\"Small legs\"}\n]",
+  "concepts": [
+    "A blue head",
+    "Dark brown eyes",
+    "Orange-brown wings",
+    "Black beak",
+    "Small legs"
+  ]
+}

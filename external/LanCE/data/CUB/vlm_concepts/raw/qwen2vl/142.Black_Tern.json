@@ -1,0 +1,17 @@
+{
+  "class_folder": "142.Black_Tern",
+  "class_name": "Black Tern",
+  "image_paths": [
+    "142.Black_Tern/Black_Tern_0015_143979.jpg",
+    "142.Black_Tern/Black_Tern_0046_144229.jpg",
+    "142.Black_Tern/Black_Tern_0059_144159.jpg",
+    "142.Black_Tern/Black_Tern_0082_144372.jpg",
+    "142.Black_Tern/Black_Tern_0099_144242.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"gray wings\" \n   },  \n     {\"feature\": 'white underparts' }   \n]",
+  "concepts": [
+    "black head",
+    "gray wings",
+    "white underparts"
+  ]
+}

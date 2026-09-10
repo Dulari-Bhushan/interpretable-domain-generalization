@@ -1,0 +1,17 @@
+{
+  "class_folder": "133.White_throated_Sparrow",
+  "class_name": "White throated Sparrow",
+  "image_paths": [
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0002_129057.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0042_128899.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0056_128906.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0085_129180.jpg",
+    "133.White_throated_Sparrow/White_Throated_Sparrow_0123_129009.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A white face\"\n    },\n    {\n       \"feature\":\"Gray head feathers\" \n   },  \n     {\"feature\": 'Yellow spot above beak'},\n      {'feature': 'Brown wings'},   \n         {\"feature\":\"Grey underparts\"},    \n          {\"feature\":\"\"},     \n           {\"feature\":\"\",\"}      \n]",
+  "concepts": [
+    "A white face",
+    "Gray head feathers",
+    "Grey underparts"
+  ]
+}

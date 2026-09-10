@@ -1,0 +1,18 @@
+{
+  "class_folder": "009.Brewer_Blackbird",
+  "class_name": "Brewer Blackbird",
+  "image_paths": [
+    "009.Brewer_Blackbird/Brewer_Blackbird_0026_2625.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0078_2659.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0095_2610.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0109_2232.jpg",
+    "009.Brewer_Blackbird/Brewer_Blackbird_0132_2293.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"dark eyes\" \n   },  \n     {\"feature\": 'curved beak'},\n      {'feature': 'short legs'}\n]",
+  "concepts": [
+    "black feathers",
+    "dark eyes",
+    "curved beak",
+    "short legs"
+  ]
+}

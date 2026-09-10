@@ -1,0 +1,16 @@
+{
+  "class_folder": "104.American_Pipit",
+  "class_name": "American Pipit",
+  "image_paths": [
+    "104.American_Pipit/American_Pipit_0037_99954.jpg",
+    "104.American_Pipit/American_Pipit_0082_99867.jpg",
+    "104.American_Pipit/American_Pipit_0085_100246.jpg",
+    "104.American_Pipit/American_Pipit_0087_99996.jpg",
+    "104.American_Pipit/American_Pipit_0113_99939.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s brown head\"\n    },\n    {\n      \"feature\":\"'s white underbelly\",\n     }\n]",
+  "concepts": [
+    "brown head",
+    "white underbelly"
+  ]
+}

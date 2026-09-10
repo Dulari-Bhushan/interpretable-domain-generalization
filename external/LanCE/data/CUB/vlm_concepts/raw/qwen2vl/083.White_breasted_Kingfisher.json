@@ -1,0 +1,18 @@
+{
+  "class_folder": "083.White_breasted_Kingfisher",
+  "class_name": "White breasted Kingfisher",
+  "image_paths": [
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0022_73459.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0036_73403.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0084_73247.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0087_73264.jpg",
+    "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0109_73683.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long red beak\"\n    },\n    {\n       \"feature\":\"Blue wings\" \n   },  \n     {\"feature\": 'Brown head' } ,   \n      {'feature': 'Red legs'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A long red beak",
+    "Blue wings",
+    "Brown head",
+    "Red legs"
+  ]
+}

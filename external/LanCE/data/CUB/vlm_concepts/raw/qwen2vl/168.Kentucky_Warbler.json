@@ -1,0 +1,17 @@
+{
+  "class_folder": "168.Kentucky_Warbler",
+  "class_name": "Kentucky Warbler",
+  "image_paths": [
+    "168.Kentucky_Warbler/Kentucky_Warbler_0025_165304.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0027_795917.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0031_165363.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0062_795897.jpg",
+    "168.Kentucky_Warbler/Kentucky_Warbler_0078_795889.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black head patch\" \n   },  \n     {\"feature\": 'green wings' }   \n]",
+  "concepts": [
+    "yellow underparts",
+    "black head patch",
+    "green wings"
+  ]
+}

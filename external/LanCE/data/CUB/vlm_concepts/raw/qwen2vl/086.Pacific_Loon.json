@@ -1,0 +1,17 @@
+{
+  "class_folder": "086.Pacific_Loon",
+  "class_name": "Pacific Loon",
+  "image_paths": [
+    "086.Pacific_Loon/Pacific_Loon_0014_75468.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0017_75835.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0021_75859.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0052_75451.jpg",
+    "086.Pacific_Loon/Pacific_Loon_0066_75547.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A white neck stripe'\"\n    },\n    {\n      \"feature\":\"'Black head'\"\n   }, \n     {\"feature\":\" 'White cheek'\"},  \n       {\"feature\":\"\"},\n         {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "A white neck stripe",
+    "Black head",
+    "White cheek"
+  ]
+}

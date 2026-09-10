@@ -1,0 +1,16 @@
+{
+  "class_folder": "040.Olive_sided_Flycatcher",
+  "class_name": "Olive sided Flycatcher",
+  "image_paths": [
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0017_30704.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0018_796882.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0020_796881.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0033_30532.jpg",
+    "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0040_30620.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"grayish-brown head\"\n    },\n    {\n       \"feature\":\"white underparts\" \n   },  \n     {\"feature\": 'brown wings' } ,   \n      {'feature': 'short dark legs'} ,\n      { \"feature\":\"\"beak pointed\"}    \n]",
+  "concepts": [
+    "grayish-brown head",
+    "white underparts"
+  ]
+}

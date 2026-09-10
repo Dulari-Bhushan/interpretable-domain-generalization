@@ -1,0 +1,16 @@
+{
+  "class_folder": "115.Brewer_Sparrow",
+  "class_name": "Brewer Sparrow",
+  "image_paths": [
+    "115.Brewer_Sparrow/Brewer_Sparrow_0023_107489.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0028_107467.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0041_796711.jpg",
+    "115.Brewer_Sparrow/Brewer_Sparrow_0066_107510.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s head\"\n    },\n    {\n       'color': 'brown'\n   }\n]",
+  "concepts": [
+    "head",
+    "brown"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "176.Prairie_Warbler",
+  "class_name": "Prairie Warbler",
+  "image_paths": [
+    "176.Prairie_Warbler/Prairie_Warbler_0051_172585.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0054_172602.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0080_172724.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0086_172534.jpg",
+    "176.Prairie_Warbler/Prairie_Warbler_0112_173383.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black stripes above eyes\" \n   },  \n     {\"feature\": 'gray wings' }   \n]",
+  "concepts": [
+    "yellow underparts",
+    "black stripes above eyes",
+    "gray wings"
+  ]
+}

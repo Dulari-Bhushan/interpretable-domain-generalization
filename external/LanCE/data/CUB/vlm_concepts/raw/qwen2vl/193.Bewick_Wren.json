@@ -1,0 +1,17 @@
+{
+  "class_folder": "193.Bewick_Wren",
+  "class_name": "Bewick Wren",
+  "image_paths": [
+    "193.Bewick_Wren/Bewick_Wren_0004_185202.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0023_185400.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0062_185063.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0088_184733.jpg",
+    "193.Bewick_Wren/Bewick_Wren_0107_184908.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A small brown wren\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'Grayish-brown head'}   \n]",
+  "concepts": [
+    "A small brown wren",
+    "Brown wings",
+    "Grayish-brown head"
+  ]
+}

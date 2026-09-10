@@ -1,0 +1,16 @@
+{
+  "class_folder": "147.Least_Tern",
+  "class_name": "Least Tern",
+  "image_paths": [
+    "147.Least_Tern/Least_Tern_0016_153560.jpg",
+    "147.Least_Tern/Least_Tern_0036_153658.jpg",
+    "147.Least_Tern/Least_Tern_0088_152941.jpg",
+    "147.Least_Tern/Least_Tern_0109_154127.jpg",
+    "147.Least_Tern/Least_Tern_0114_153840.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black cap\"\n    },\n    {\n       \"feature\":\"yellow beak\"\n   }\n]",
+  "concepts": [
+    "black cap",
+    "yellow beak"
+  ]
+}

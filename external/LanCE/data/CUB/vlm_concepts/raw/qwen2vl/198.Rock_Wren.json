@@ -1,0 +1,16 @@
+{
+  "class_folder": "198.Rock_Wren",
+  "class_name": "Rock Wren",
+  "image_paths": [
+    "198.Rock_Wren/Rock_Wren_0001_189289.jpg",
+    "198.Rock_Wren/Rock_Wren_0021_189175.jpg",
+    "198.Rock_Wren/Rock_Wren_0043_188933.jpg",
+    "198.Rock_Wren/Rock_Wren_0069_188969.jpg",
+    "198.Rock_Wren/Rock_Wren_0080_189340.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': 'brown'\n   }\n]",
+  "concepts": [
+    "beak",
+    "brown"
+  ]
+}

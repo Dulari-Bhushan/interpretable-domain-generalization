@@ -1,0 +1,15 @@
+{
+  "class_folder": "092.Nighthawk",
+  "class_name": "Nighthawk",
+  "image_paths": [
+    "092.Nighthawk/Nighthawk_0019_83850.jpg",
+    "092.Nighthawk/Nighthawk_0027_84697.jpg",
+    "092.Nighthawk/Nighthawk_0035_84077.jpg",
+    "092.Nighthawk/Nighthawk_0050_84094.jpg",
+    "092.Nighthawk/Nighthawk_0082_82242.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s eyes\"\n    },\n    {\n       'bill': ''\n   }\n]",
+  "concepts": [
+    "eyes"
+  ]
+}

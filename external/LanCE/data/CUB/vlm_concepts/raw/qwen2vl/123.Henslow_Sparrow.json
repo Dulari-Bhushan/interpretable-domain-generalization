@@ -1,0 +1,18 @@
+{
+  "class_folder": "123.Henslow_Sparrow",
+  "class_name": "Henslow Sparrow",
+  "image_paths": [
+    "123.Henslow_Sparrow/Henslow_Sparrow_0002_116930.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0018_116834.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0027_796543.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0058_796616.jpg",
+    "123.Henslow_Sparrow/Henslow_Sparrow_0096_116758.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellowish-buff head\"\n    },\n    {\n       \"feature\":\"Brown streaks across face\" \n   },  \n     {\"feature\": 'Yellow-orange beak' } ,   \n      {'feature': 'White underparts'} ,\n      { \"feature\":\"\"},\n      {\"\"}    \n]",
+  "concepts": [
+    "A yellowish-buff head",
+    "Brown streaks across face",
+    "Yellow-orange beak",
+    "White underparts"
+  ]
+}

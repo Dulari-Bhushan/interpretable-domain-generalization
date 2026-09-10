@@ -1,0 +1,17 @@
+{
+  "class_folder": "063.Ivory_Gull",
+  "class_name": "Ivory Gull",
+  "image_paths": [
+    "063.Ivory_Gull/Ivory_Gull_0036_49754.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0055_49353.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0061_49416.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0098_49810.jpg",
+    "063.Ivory_Gull/Ivory_Gull_0117_49227.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'white' plumage\"\n    },\n    {\n      \"feature\":\"long black legs\"\n   }, \n     {\"feature\" : 'short pointed wings'}\n]",
+  "concepts": [
+    "'white' plumage",
+    "long black legs",
+    "short pointed wings"
+  ]
+}

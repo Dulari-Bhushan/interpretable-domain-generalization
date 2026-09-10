@@ -1,0 +1,17 @@
+{
+  "class_folder": "153.Philadelphia_Vireo",
+  "class_name": "Philadelphia Vireo",
+  "image_paths": [
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0049_794756.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0052_794774.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0061_156613.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0070_794758.jpg",
+    "153.Philadelphia_Vireo/Philadelphia_Vireo_0071_794796.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"gray upper parts\" \n   },  \n     {\"feature\": 'black eyes' } ,   \n      {'feature': 'short pointed wings'} ,\n      { \"feature\":\"\"beak is straight\"},\n      {\"\"bill is black\"},\n      { \"\"tail feathers have white tips\"},    \n      { ''legs are gray''}     \n]",
+  "concepts": [
+    "yellow underparts",
+    "gray upper parts",
+    "bill is black"
+  ]
+}

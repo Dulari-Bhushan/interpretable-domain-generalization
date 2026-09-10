@@ -1,0 +1,17 @@
+{
+  "class_folder": "138.Tree_Swallow",
+  "class_name": "Tree Swallow",
+  "image_paths": [
+    "138.Tree_Swallow/Tree_Swallow_0041_136439.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0043_136878.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0058_134987.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0060_134961.jpg",
+    "138.Tree_Swallow/Tree_Swallow_0108_135068.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"blue head\"\n    },\n    {\n       \"feature\":\"white underparts\" \n   },  \n     {\"feature\": 'black beak' }   \n]",
+  "concepts": [
+    "blue head",
+    "white underparts",
+    "black beak"
+  ]
+}

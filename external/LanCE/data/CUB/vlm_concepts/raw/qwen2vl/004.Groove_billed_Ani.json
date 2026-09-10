@@ -1,0 +1,19 @@
+{
+  "class_folder": "004.Groove_billed_Ani",
+  "class_name": "Groove billed Ani",
+  "image_paths": [
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0002_1670.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0033_1494.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0036_1604.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0069_1546.jpg",
+    "004.Groove_billed_Ani/Groove_Billed_Ani_0071_1559.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"long black beak\" \n   },  \n     {\"feature\": 'white ring around eyes'},\n      {\"feature\":\"short legs\"},\n      {\"feather texture\"},   \n]",
+  "concepts": [
+    "black feathers",
+    "long black beak",
+    "white ring around eyes",
+    "short legs",
+    "feather texture"
+  ]
+}

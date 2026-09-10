@@ -1,0 +1,17 @@
+{
+  "class_folder": "151.Black_capped_Vireo",
+  "class_name": "Black capped Vireo",
+  "image_paths": [
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0009_797493.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0013_155815.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0016_797489.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0018_155868.jpg",
+    "151.Black_capped_Vireo/Black_Capped_Vireo_0024_155905.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black cap\"\n    },\n    {\n       \"feature\":\"white face\"\n   }, \n     {\"feature\" : \"green wings\"}\n]",
+  "concepts": [
+    "black cap",
+    "white face",
+    "green wings"
+  ]
+}

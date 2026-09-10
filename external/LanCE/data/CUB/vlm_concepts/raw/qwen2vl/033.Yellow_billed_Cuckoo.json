@@ -1,0 +1,17 @@
+{
+  "class_folder": "033.Yellow_billed_Cuckoo",
+  "class_name": "Yellow billed Cuckoo",
+  "image_paths": [
+    "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0027_26844.jpg",
+    "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0069_26597.jpg",
+    "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0082_26655.jpg",
+    "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0094_26643.jpg",
+    "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0121_26807.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow beak\"\n    },\n    {\n       \"feature\":\"gray head\"\n   }, \n     {\"feature\" : \"white underbelly\"}\n]",
+  "concepts": [
+    "yellow beak",
+    "gray head",
+    "white underbelly"
+  ]
+}

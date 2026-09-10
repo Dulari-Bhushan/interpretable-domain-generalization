@@ -1,0 +1,18 @@
+{
+  "class_folder": "043.Yellow_bellied_Flycatcher",
+  "class_name": "Yellow bellied Flycatcher",
+  "image_paths": [
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0006_795473.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0031_42580.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0045_42575.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0057_795485.jpg",
+    "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0068_42701.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellow belly\"\n    },\n    {\n       \"feature\":\"Gray head\"\n   }, \n     {\"feature\" : \"Orange beak\"},\n      {\"feature\":\"Black eyes\"}\n]",
+  "concepts": [
+    "A yellow belly",
+    "Gray head",
+    "Orange beak",
+    "Black eyes"
+  ]
+}

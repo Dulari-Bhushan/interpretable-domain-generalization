@@ -1,0 +1,16 @@
+{
+  "class_folder": "006.Least_Auklet",
+  "class_name": "Least Auklet",
+  "image_paths": [
+    "006.Least_Auklet/Least_Auklet_0011_795109.jpg",
+    "006.Least_Auklet/Least_Auklet_0017_795084.jpg",
+    "006.Least_Auklet/Least_Auklet_0024_795120.jpg",
+    "006.Least_Auklet/Least_Auklet_0026_795066.jpg",
+    "006.Least_Auklet/Least_Auklet_0060_795095.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white neck ring\" \n   },  \n     {\"feature\": 'gray speckled feathers' } ,   \n      { \"feature\":\"\"beak is orange\"} ,\n         {\"feature\":\"\",\"eye is black\"}\n]",
+  "concepts": [
+    "black head",
+    "white neck ring"
+  ]
+}

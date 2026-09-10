@@ -1,0 +1,20 @@
+{
+  "class_folder": "008.Rhinoceros_Auklet",
+  "class_name": "Rhinoceros Auklet",
+  "image_paths": [
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0010_797545.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0012_2161.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0016_2114.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0017_2155.jpg",
+    "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0028_2056.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"orange beak\"\n    },\n    {\n       \"feature\":\"black head feathers\" \n   },  \n     {\"feature\": 'white stripe above eyes'},\n      {\"feature\":\"gray underparts\"},\n      {\"feather\":\"dark brown wings\"},   \n      { \"eye_color\": \"brown\"}\n]",
+  "concepts": [
+    "orange beak",
+    "black head feathers",
+    "white stripe above eyes",
+    "gray underparts",
+    "dark brown wings",
+    "brown"
+  ]
+}

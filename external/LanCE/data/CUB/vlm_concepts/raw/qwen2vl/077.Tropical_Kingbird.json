@@ -1,0 +1,16 @@
+{
+  "class_folder": "077.Tropical_Kingbird",
+  "class_name": "Tropical Kingbird",
+  "image_paths": [
+    "077.Tropical_Kingbird/Tropical_Kingbird_0017_69715.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0049_69933.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0081_69656.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0103_69311.jpg",
+    "077.Tropical_Kingbird/Tropical_Kingbird_0122_69687.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Yellow underbelly\" \n   },  \n     {\"feature\": 'Black beak'},\n      {'feature': 'Gray wings'},   \n      { \"feature\":\"\"Grey legs\"},    \n      {\"feature\":\"Dark yellow belly\"},\n      {\"Feature\":\"Long black tail\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Yellow underbelly"
+  ]
+}

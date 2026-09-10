@@ -1,0 +1,17 @@
+{
+  "class_folder": "003.Sooty_Albatross",
+  "class_name": "Sooty Albatross",
+  "image_paths": [
+    "003.Sooty_Albatross/Sooty_Albatross_0001_1071.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0022_796398.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0068_796353.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0072_796371.jpg",
+    "003.Sooty_Albatross/Sooty_Albatross_0075_796352.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s black beak\"\n    },\n    {\n       \"feature\":\"'s grey head\"\n   }, \n     {\"feature\":\"'s white underparts\"}\n]",
+  "concepts": [
+    "black beak",
+    "grey head",
+    "white underparts"
+  ]
+}

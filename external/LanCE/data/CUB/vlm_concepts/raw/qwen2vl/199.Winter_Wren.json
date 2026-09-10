@@ -1,0 +1,16 @@
+{
+  "class_folder": "199.Winter_Wren",
+  "class_name": "Winter Wren",
+  "image_paths": [
+    "199.Winter_Wren/Winter_Wren_0015_190099.jpg",
+    "199.Winter_Wren/Winter_Wren_0072_189521.jpg",
+    "199.Winter_Wren/Winter_Wren_0087_190135.jpg",
+    "199.Winter_Wren/Winter_Wren_0109_189850.jpg",
+    "199.Winter_Wren/Winter_Wren_0128_190093.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"brown head\"\n    },\n    {\n       \"feature\":\"black eyes\" \n   },  \n     {\"feature\": 'orange legs' } ,   \n      {'feature': 'short beak'} ,\n      { \"feature\":\"\"beige underparts\"}    \n]",
+  "concepts": [
+    "brown head",
+    "black eyes"
+  ]
+}

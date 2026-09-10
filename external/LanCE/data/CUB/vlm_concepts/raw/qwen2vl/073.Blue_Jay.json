@@ -1,0 +1,19 @@
+{
+  "class_folder": "073.Blue_Jay",
+  "class_name": "Blue Jay",
+  "image_paths": [
+    "073.Blue_Jay/Blue_Jay_0048_62433.jpg",
+    "073.Blue_Jay/Blue_Jay_0051_63339.jpg",
+    "073.Blue_Jay/Blue_Jay_0078_62351.jpg",
+    "073.Blue_Jay/Blue_Jay_0086_63394.jpg",
+    "073.Blue_Jay/Blue_Jay_0102_61494.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A blue head\"\n    },\n    {\n       \"feature\":\"Black eyes\" \n   },  \n     {\"feature\": 'White underparts'},\n      {\"feature\":\"Gray wings\"},\n      {\"Feature\":\"Dark gray legs\"}\n]",
+  "concepts": [
+    "A blue head",
+    "Black eyes",
+    "White underparts",
+    "Gray wings",
+    "Dark gray legs"
+  ]
+}

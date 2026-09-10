@@ -1,0 +1,17 @@
+{
+  "class_folder": "037.Acadian_Flycatcher",
+  "class_name": "Acadian Flycatcher",
+  "image_paths": [
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0004_795623.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0010_29199.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0017_795598.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0039_795606.jpg",
+    "037.Acadian_Flycatcher/Acadian_Flycatcher_0055_795609.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Grey wings\" \n   },  \n     {\"feature\": 'White underparts' }   \n]",
+  "concepts": [
+    "A grey head",
+    "Grey wings",
+    "White underparts"
+  ]
+}

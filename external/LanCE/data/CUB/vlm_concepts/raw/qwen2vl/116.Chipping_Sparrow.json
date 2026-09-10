@@ -1,0 +1,16 @@
+{
+  "class_folder": "116.Chipping_Sparrow",
+  "class_name": "Chipping Sparrow",
+  "image_paths": [
+    "116.Chipping_Sparrow/Chipping_Sparrow_0032_108882.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0038_109234.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0053_109774.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0063_108139.jpg",
+    "116.Chipping_Sparrow/Chipping_Sparrow_0076_108919.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'chipping sparrow'\"\n    },\n    {\n      \"feature\":\"brown head\",\n     }\n]",
+  "concepts": [
+    "chipping sparrow",
+    "brown head"
+  ]
+}

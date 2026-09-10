@@ -1,0 +1,20 @@
+{
+  "class_folder": "094.White_breasted_Nuthatch",
+  "class_name": "White breasted Nuthatch",
+  "image_paths": [
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0047_85819.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0065_85829.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0094_86156.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0097_85940.jpg",
+    "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0142_86805.jpg"
+  ],
+  "raw_response": "[\"A white underbelly.\", \"Gray wings.\", \"Black head markings.\", \"Blue-gray upperparts.\", \"Long black legs.\", \"Short blue beak.\"]",
+  "concepts": [
+    "A white underbelly.",
+    "Gray wings.",
+    "Black head markings.",
+    "Blue-gray upperparts.",
+    "Long black legs.",
+    "Short blue beak."
+  ]
+}

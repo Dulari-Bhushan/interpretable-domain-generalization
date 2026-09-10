@@ -1,0 +1,20 @@
+{
+  "class_folder": "185.Bohemian_Waxwing",
+  "class_name": "Bohemian Waxwing",
+  "image_paths": [
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0006_796651.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0010_796672.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0075_796678.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0091_796634.jpg",
+    "185.Bohemian_Waxwing/Bohemian_Waxwing_0096_177969.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"An orange-red face\"\n   }, \n     {\"feature\" : \"Black eyes\"},\n      {\"feature\":\"Grey wings\"},  \n      {{\"feature\"}:\"Orange-tipped black beak\"}\n]",
+  "concepts": [
+    "A grey head",
+    "An orange-red face",
+    "Black eyes",
+    "Grey wings",
+    "feature",
+    "Orange-tipped black beak"
+  ]
+}

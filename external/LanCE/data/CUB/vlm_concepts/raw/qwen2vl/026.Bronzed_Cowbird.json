@@ -1,0 +1,17 @@
+{
+  "class_folder": "026.Bronzed_Cowbird",
+  "class_name": "Bronzed Cowbird",
+  "image_paths": [
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0001_796219.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0012_796247.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0032_796233.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0056_796222.jpg",
+    "026.Bronzed_Cowbird/Bronzed_Cowbird_0092_796215.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"red eyes\" \n   },  \n     {\"feature\": 'blue underparts' }   \n]",
+  "concepts": [
+    "black feathers",
+    "red eyes",
+    "blue underparts"
+  ]
+}

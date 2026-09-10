@@ -1,0 +1,18 @@
+{
+  "class_folder": "075.Green_Jay",
+  "class_name": "Green Jay",
+  "image_paths": [
+    "075.Green_Jay/Green_Jay_0006_65788.jpg",
+    "075.Green_Jay/Green_Jay_0016_65864.jpg",
+    "075.Green_Jay/Green_Jay_0044_66228.jpg",
+    "075.Green_Jay/Green_Jay_0066_65902.jpg",
+    "075.Green_Jay/Green_Jay_0100_65786.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A blue head\"\n    },\n    {\n       \"feature\":\"Blue eyes\" \n   },  \n     {\"feature\": 'Yellow underparts' } ,   \n      {'feature': 'Black beak'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A blue head",
+    "Blue eyes",
+    "Yellow underparts",
+    "Black beak"
+  ]
+}

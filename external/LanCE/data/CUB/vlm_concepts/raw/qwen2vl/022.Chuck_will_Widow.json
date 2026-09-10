@@ -1,0 +1,18 @@
+{
+  "class_folder": "022.Chuck_will_Widow",
+  "class_name": "Chuck will Widow",
+  "image_paths": [
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0001_796975.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0017_796960.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0026_796963.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0048_796995.jpg",
+    "022.Chuck_will_Widow/Chuck_Will_Widow_0055_796973.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brownish-grey head\"\n    },\n    {\n       \"feature\":\"Brown spotted wings\" \n   },  \n     {\"feature\": 'Spotted chest' } ,   \n      {'feature': 'Dark eyes'} ,\n      { \"feature\":\"\"}    \n]",
+  "concepts": [
+    "A brownish-grey head",
+    "Brown spotted wings",
+    "Spotted chest",
+    "Dark eyes"
+  ]
+}

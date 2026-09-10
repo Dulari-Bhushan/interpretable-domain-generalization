@@ -1,0 +1,19 @@
+{
+  "class_folder": "124.Le_Conte_Sparrow",
+  "class_name": "Le Conte Sparrow",
+  "image_paths": [
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0016_795223.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0072_795230.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0073_117127.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0078_117052.jpg",
+    "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0099_795182.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellow head\"\n    },\n    {\n       \"feature\":\"Brown stripes across chest\" \n   },  \n     {\"feature\": 'Yellow eyes' } ,   \n      {'feature': 'Orange legs'} ,\n      { \"feature\" : 'Small beak'}\n]",
+  "concepts": [
+    "A yellow head",
+    "Brown stripes across chest",
+    "Yellow eyes",
+    "Orange legs",
+    "Small beak"
+  ]
+}

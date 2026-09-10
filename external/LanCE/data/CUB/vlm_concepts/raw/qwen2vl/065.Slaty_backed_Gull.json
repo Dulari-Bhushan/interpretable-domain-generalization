@@ -1,0 +1,16 @@
+{
+  "class_folder": "065.Slaty_backed_Gull",
+  "class_name": "Slaty backed Gull",
+  "image_paths": [
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0025_796047.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0030_796003.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0058_796024.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0072_53314.jpg",
+    "065.Slaty_backed_Gull/Slaty_Backed_Gull_0087_786374.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s legs\"\n    },\n    {\n       \"feature\":\"bill\"\n   }\n]",
+  "concepts": [
+    "legs",
+    "bill"
+  ]
+}

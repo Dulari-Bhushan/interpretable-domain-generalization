@@ -1,0 +1,16 @@
+{
+  "class_folder": "150.Sage_Thrasher",
+  "class_name": "Sage Thrasher",
+  "image_paths": [
+    "150.Sage_Thrasher/Sage_Thrasher_0021_155548.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0051_155464.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0076_796445.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0083_796450.jpg",
+    "150.Sage_Thrasher/Sage_Thrasher_0092_155482.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s black beak\"\n    },\n    {\n      \"feature\":\"beige underbelly\",\n     }\n]",
+  "concepts": [
+    "black beak",
+    "beige underbelly"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "029.American_Crow",
+  "class_name": "American Crow",
+  "image_paths": [
+    "029.American_Crow/American_Crow_0059_25599.jpg",
+    "029.American_Crow/American_Crow_0068_25198.jpg",
+    "029.American_Crow/American_Crow_0074_25350.jpg",
+    "029.American_Crow/American_Crow_0111_25127.jpg",
+    "029.American_Crow/American_Crow_0136_25117.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A black American crow'\"\n    },\n    {\n      \"feature\":\"'The bird has a dark brown head.'\"\n   }, \n     {\"feature\": 'Its beak appears to have some white or light-colored markings around its base.',}\n]",
+  "concepts": [
+    "A black American crow",
+    "The bird has a dark brown head.",
+    "Its beak appears to have some white or light-colored markings around its base."
+  ]
+}

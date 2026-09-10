@@ -1,0 +1,17 @@
+{
+  "class_folder": "169.Magnolia_Warbler",
+  "class_name": "Magnolia Warbler",
+  "image_paths": [
+    "169.Magnolia_Warbler/Magnolia_Warbler_0001_166266.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0011_166382.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0023_165827.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0032_165960.jpg",
+    "169.Magnolia_Warbler/Magnolia_Warbler_0112_166406.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underbelly\"\n    },\n    {\n       \"feature\":\"black stripes across yellow belly\" \n   },  \n     {\"feature\": 'gray head'},\n      {'feature': 'short black beak'},   \n         {\"feature\":\"dark grey wings\"},    \n          {\"feature\":\"\"},\n           {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "yellow underbelly",
+    "black stripes across yellow belly",
+    "dark grey wings"
+  ]
+}

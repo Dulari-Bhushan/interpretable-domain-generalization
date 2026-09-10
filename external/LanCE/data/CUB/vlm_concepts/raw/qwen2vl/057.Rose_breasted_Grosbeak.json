@@ -1,0 +1,19 @@
+{
+  "class_folder": "057.Rose_breasted_Grosbeak",
+  "class_name": "Rose breasted Grosbeak",
+  "image_paths": [
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0077_39613.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0088_39035.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0097_39514.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0114_39770.jpg",
+    "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0135_39227.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"red chest\" \n   },  \n     {\"feature\": 'white underparts'},\n      {\"feature\":\"black wings\"},\n      {\"featuure\":\"black legs\"}\n]",
+  "concepts": [
+    "black head",
+    "red chest",
+    "white underparts",
+    "black wings",
+    "black legs"
+  ]
+}

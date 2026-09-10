@@ -1,0 +1,16 @@
+{
+  "class_folder": "071.Long_tailed_Jaeger",
+  "class_name": "Long tailed Jaeger",
+  "image_paths": [
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0011_60963.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0012_797101.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0032_61177.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0041_60891.jpg",
+    "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0070_797090.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s head\"\n    },\n    {\n       'feature': '\"tail\" '\n   }\n]",
+  "concepts": [
+    "head",
+    "tail"
+  ]
+}

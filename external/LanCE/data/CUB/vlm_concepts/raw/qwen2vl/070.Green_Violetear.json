@@ -1,0 +1,19 @@
+{
+  "class_folder": "070.Green_Violetear",
+  "class_name": "Green Violetear",
+  "image_paths": [
+    "070.Green_Violetear/Green_Violetear_0005_795666.jpg",
+    "070.Green_Violetear/Green_Violetear_0017_795652.jpg",
+    "070.Green_Violetear/Green_Violetear_0027_60841.jpg",
+    "070.Green_Violetear/Green_Violetear_0062_60797.jpg",
+    "070.Green_Violetear/Green_Violetear_0103_795644.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"curved black beak\"\n    },\n    {\n       \"feature\":\"green head feathers\" \n   },  \n     {\"feature\": 'blue-purple neck patch'},\n      {\"feature\":\"black wings\"},\n      {\"feathered legs\"}\n]",
+  "concepts": [
+    "curved black beak",
+    "green head feathers",
+    "blue-purple neck patch",
+    "black wings",
+    "feathered legs"
+  ]
+}

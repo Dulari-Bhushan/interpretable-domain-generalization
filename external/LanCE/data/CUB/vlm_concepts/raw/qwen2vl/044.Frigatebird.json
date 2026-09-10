@@ -1,0 +1,17 @@
+{
+  "class_folder": "044.Frigatebird",
+  "class_name": "Frigatebird",
+  "image_paths": [
+    "044.Frigatebird/Frigatebird_0005_42828.jpg",
+    "044.Frigatebird/Frigatebird_0022_43457.jpg",
+    "044.Frigatebird/Frigatebird_0057_43016.jpg",
+    "044.Frigatebird/Frigatebird_0059_42838.jpg",
+    "044.Frigatebird/Frigatebird_0070_43516.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A large red pouch\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'White beak' }   \n]",
+  "concepts": [
+    "A large red pouch",
+    "Black wings",
+    "White beak"
+  ]
+}

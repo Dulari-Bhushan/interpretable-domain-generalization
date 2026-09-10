@@ -1,0 +1,19 @@
+{
+  "class_folder": "192.Downy_Woodpecker",
+  "class_name": "Downy Woodpecker",
+  "image_paths": [
+    "192.Downy_Woodpecker/Downy_Woodpecker_0031_184120.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0043_184314.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0066_183953.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0115_184096.jpg",
+    "192.Downy_Woodpecker/Downy_Woodpecker_0121_184002.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white face\"\n   }, \n     {\"feature\" : \"red spot\"},  \n      {\"feature\":\"gray wings\"},\n      {\"featuere\":\"spotted feathers\"}\n]",
+  "concepts": [
+    "black head",
+    "white face",
+    "red spot",
+    "gray wings",
+    "spotted feathers"
+  ]
+}

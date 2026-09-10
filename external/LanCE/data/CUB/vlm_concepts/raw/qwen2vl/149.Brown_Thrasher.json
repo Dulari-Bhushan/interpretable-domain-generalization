@@ -1,0 +1,16 @@
+{
+  "class_folder": "149.Brown_Thrasher",
+  "class_name": "Brown Thrasher",
+  "image_paths": [
+    "149.Brown_Thrasher/Brown_Thrasher_0001_155380.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0012_155121.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0045_155182.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0052_155254.jpg",
+    "149.Brown_Thrasher/Brown_Thrasher_0074_155339.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s brown head\"\n    },\n    {\n      \"feature\":\"brown eyes\",\n     }\n]",
+  "concepts": [
+    "brown head",
+    "brown eyes"
+  ]
+}

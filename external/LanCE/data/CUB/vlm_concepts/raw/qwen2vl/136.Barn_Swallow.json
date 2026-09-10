@@ -1,0 +1,17 @@
+{
+  "class_folder": "136.Barn_Swallow",
+  "class_name": "Barn Swallow",
+  "image_paths": [
+    "136.Barn_Swallow/Barn_Swallow_0017_132951.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0018_130709.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0047_130016.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0070_130127.jpg",
+    "136.Barn_Swallow/Barn_Swallow_0076_130757.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'Orange underbelly' }   \n]",
+  "concepts": [
+    "A black head",
+    "Black wings",
+    "Orange underbelly"
+  ]
+}

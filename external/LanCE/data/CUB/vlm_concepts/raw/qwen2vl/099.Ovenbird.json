@@ -1,0 +1,19 @@
+{
+  "class_folder": "099.Ovenbird",
+  "class_name": "Ovenbird",
+  "image_paths": [
+    "099.Ovenbird/Ovenbird_0003_92910.jpg",
+    "099.Ovenbird/Ovenbird_0024_92583.jpg",
+    "099.Ovenbird/Ovenbird_0027_93086.jpg",
+    "099.Ovenbird/Ovenbird_0064_93208.jpg",
+    "099.Ovenbird/Ovenbird_0128_93366.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown eyes\" \n   },  \n     {\"feature\": 'Spotted white underparts'},\n      {'feature': 'Grayish-brown wings'},   \n         {\"feature\":\"Yellow legs\"},    \n          {\"feature\":\"\"}     \n]",
+  "concepts": [
+    "A brown head",
+    "Brown eyes",
+    "Spotted white underparts",
+    "Grayish-brown wings",
+    "Yellow legs"
+  ]
+}

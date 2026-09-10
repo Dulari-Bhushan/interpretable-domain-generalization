@@ -1,0 +1,16 @@
+{
+  "class_folder": "096.Hooded_Oriole",
+  "class_name": "Hooded Oriole",
+  "image_paths": [
+    "096.Hooded_Oriole/Hooded_Oriole_0038_90575.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0049_89955.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0075_90788.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0091_90821.jpg",
+    "096.Hooded_Oriole/Hooded_Oriole_0104_90264.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Yellow underparts\" \n   },  \n     {\"feature\": 'Black wings' } ,   \n      {'feature': 'Orange upper parts'} ,\n      { \"feature\":\"\"White patches on wings\"}    \n]",
+  "concepts": [
+    "A black head",
+    "Yellow underparts"
+  ]
+}

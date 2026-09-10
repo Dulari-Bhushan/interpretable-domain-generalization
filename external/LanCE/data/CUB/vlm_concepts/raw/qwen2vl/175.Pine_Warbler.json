@@ -1,0 +1,18 @@
+{
+  "class_folder": "175.Pine_Warbler",
+  "class_name": "Pine Warbler",
+  "image_paths": [
+    "175.Pine_Warbler/Pine_Warbler_0037_171649.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0046_171452.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0060_171635.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0126_171282.jpg",
+    "175.Pine_Warbler/Pine_Warbler_0127_171742.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow head\"\n    },\n    {\n       \"feature\":\"black beak\" \n   },  \n     {\"feature\": 'white underbelly'},\n      {'feature': 'brown wings'},   \n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "yellow head",
+    "black beak",
+    "white underbelly",
+    "brown wings"
+  ]
+}

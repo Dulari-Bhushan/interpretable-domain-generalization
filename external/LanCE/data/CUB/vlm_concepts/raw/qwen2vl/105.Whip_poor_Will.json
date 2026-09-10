@@ -1,0 +1,19 @@
+{
+  "class_folder": "105.Whip_poor_Will",
+  "class_name": "Whip poor Will",
+  "image_paths": [
+    "105.Whip_poor_Will/Whip_Poor_Will_0008_796420.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0011_796416.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0038_100443.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0040_100482.jpg",
+    "105.Whip_poor_Will/Whip_Poor_Will_0049_83621.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"dark brown eyes\"\n    },\n    {\n       \"feature\":\"gray head feathers\"\n   }, \n     {\"feature\" : \"brown spotted wings\"},  \n      {\"feature\":\"long dark beak\"},\n      {\"featuere\":\"short legs\"}\n]",
+  "concepts": [
+    "dark brown eyes",
+    "gray head feathers",
+    "brown spotted wings",
+    "long dark beak",
+    "short legs"
+  ]
+}

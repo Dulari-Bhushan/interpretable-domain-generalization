@@ -1,0 +1,18 @@
+{
+  "class_folder": "023.Brandt_Cormorant",
+  "class_name": "Brandt Cormorant",
+  "image_paths": [
+    "023.Brandt_Cormorant/Brandt_Cormorant_0006_22925.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0045_22916.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0062_23038.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0074_22881.jpg",
+    "023.Brandt_Cormorant/Brandt_Cormorant_0082_22978.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long beak\"\n    },\n    {\n       \"feature\":\"Dark brown head feathers\"\n   }, \n     {\"feature\" : \"Blue eyes\"},\n      {\"feature\":\"Black wings\"}\n]",
+  "concepts": [
+    "A long beak",
+    "Dark brown head feathers",
+    "Blue eyes",
+    "Black wings"
+  ]
+}

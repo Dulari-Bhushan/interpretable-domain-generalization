@@ -1,0 +1,18 @@
+{
+  "class_folder": "117.Clay_colored_Sparrow",
+  "class_name": "Clay colored Sparrow",
+  "image_paths": [
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0036_110924.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0064_110664.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0080_797253.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0091_110768.jpg",
+    "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0106_797247.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A small brown speckled head\"\n    },\n    {\n       \"feature\":\"Brown eyes\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      {'feature': 'Grayish-brown upper parts'},\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A small brown speckled head",
+    "Brown eyes",
+    "White underparts",
+    "Grayish-brown upper parts"
+  ]
+}

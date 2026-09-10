@@ -1,0 +1,18 @@
+{
+  "class_folder": "170.Mourning_Warbler",
+  "class_name": "Mourning Warbler",
+  "image_paths": [
+    "170.Mourning_Warbler/Mourning_Warbler_0021_166560.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0029_166530.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0037_795381.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0052_166537.jpg",
+    "170.Mourning_Warbler/Mourning_Warbler_0074_795367.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Black face patch\" \n   },  \n     {\"feature\": 'Yellow underparts'},\n      {'feature': 'Orange legs'}\n]",
+  "concepts": [
+    "A grey head",
+    "Black face patch",
+    "Yellow underparts",
+    "Orange legs"
+  ]
+}

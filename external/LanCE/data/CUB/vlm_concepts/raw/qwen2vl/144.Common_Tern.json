@@ -1,0 +1,16 @@
+{
+  "class_folder": "144.Common_Tern",
+  "class_name": "Common Tern",
+  "image_paths": [
+    "144.Common_Tern/Common_Tern_0025_147728.jpg",
+    "144.Common_Tern/Common_Tern_0029_148035.jpg",
+    "144.Common_Tern/Common_Tern_0033_148675.jpg",
+    "144.Common_Tern/Common_Tern_0064_148761.jpg",
+    "144.Common_Tern/Common_Tern_0077_149196.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long pointed beak\"\n    },\n    {\n       \"feature\":\"Red legs\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      { \"feature\":\"\"Gray upper parts\"} ,\n         {\"feature\":\"\",\"Black cap\"}\n]",
+  "concepts": [
+    "A long pointed beak",
+    "Red legs"
+  ]
+}

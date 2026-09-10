@@ -1,0 +1,18 @@
+{
+  "class_folder": "119.Field_Sparrow",
+  "class_name": "Field Sparrow",
+  "image_paths": [
+    "119.Field_Sparrow/Field_Sparrow_0034_113364.jpg",
+    "119.Field_Sparrow/Field_Sparrow_0055_113929.jpg",
+    "119.Field_Sparrow/Field_Sparrow_0100_113503.jpg",
+    "119.Field_Sparrow/Field_Sparrow_0111_113899.jpg",
+    "119.Field_Sparrow/Field_Sparrow_0126_113426.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"orange\" \n   },  \n     {\"plumage\": \"brown\"},   \n      {'pattern': \"striped\"}    \n]",
+  "concepts": [
+    "beak",
+    "orange",
+    "brown",
+    "striped"
+  ]
+}

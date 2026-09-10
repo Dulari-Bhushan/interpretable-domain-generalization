@@ -1,0 +1,17 @@
+{
+  "class_folder": "196.House_Wren",
+  "class_name": "House Wren",
+  "image_paths": [
+    "196.House_Wren/House_Wren_0035_187708.jpg",
+    "196.House_Wren/House_Wren_0071_187399.jpg",
+    "196.House_Wren/House_Wren_0085_187723.jpg",
+    "196.House_Wren/House_Wren_0087_187946.jpg",
+    "196.House_Wren/House_Wren_0122_187331.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A small brown bird\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'Grayish-brown head'}   \n]",
+  "concepts": [
+    "A small brown bird",
+    "Brown wings",
+    "Grayish-brown head"
+  ]
+}

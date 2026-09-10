@@ -1,0 +1,18 @@
+{
+  "class_folder": "156.White_eyed_Vireo",
+  "class_name": "White eyed Vireo",
+  "image_paths": [
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0016_158978.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0033_159079.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0042_159012.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0071_159072.jpg",
+    "156.White_eyed_Vireo/White_Eyed_Vireo_0128_158993.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underbelly\"\n    },\n    {\n       \"feature\":\"gray head\"\n   }, \n     {\"feature\" : \"black beak\"},\n      {\"feature\":\"white eyes\"}\n]",
+  "concepts": [
+    "yellow underbelly",
+    "gray head",
+    "black beak",
+    "white eyes"
+  ]
+}

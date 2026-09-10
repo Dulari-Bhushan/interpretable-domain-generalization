@@ -1,0 +1,2202 @@
+{
+  "001.Black_footed_Albatross": {
+    "class_id": 1,
+    "class_name": "Black footed Albatross",
+    "image_paths": [
+      "001.Black_footed_Albatross/Black_Footed_Albatross_0009_34.jpg",
+      "001.Black_footed_Albatross/Black_Footed_Albatross_0031_100.jpg",
+      "001.Black_footed_Albatross/Black_Footed_Albatross_0032_796115.jpg",
+      "001.Black_footed_Albatross/Black_Footed_Albatross_0036_796127.jpg",
+      "001.Black_footed_Albatross/Black_Footed_Albatross_0089_796069.jpg"
+    ]
+  },
+  "002.Laysan_Albatross": {
+    "class_id": 2,
+    "class_name": "Laysan Albatross",
+    "image_paths": [
+      "002.Laysan_Albatross/Laysan_Albatross_0040_472.jpg",
+      "002.Laysan_Albatross/Laysan_Albatross_0071_792.jpg",
+      "002.Laysan_Albatross/Laysan_Albatross_0073_927.jpg",
+      "002.Laysan_Albatross/Laysan_Albatross_0081_800.jpg",
+      "002.Laysan_Albatross/Laysan_Albatross_0085_564.jpg"
+    ]
+  },
+  "003.Sooty_Albatross": {
+    "class_id": 3,
+    "class_name": "Sooty Albatross",
+    "image_paths": [
+      "003.Sooty_Albatross/Sooty_Albatross_0001_1071.jpg",
+      "003.Sooty_Albatross/Sooty_Albatross_0022_796398.jpg",
+      "003.Sooty_Albatross/Sooty_Albatross_0068_796353.jpg",
+      "003.Sooty_Albatross/Sooty_Albatross_0072_796371.jpg",
+      "003.Sooty_Albatross/Sooty_Albatross_0075_796352.jpg"
+    ]
+  },
+  "004.Groove_billed_Ani": {
+    "class_id": 4,
+    "class_name": "Groove billed Ani",
+    "image_paths": [
+      "004.Groove_billed_Ani/Groove_Billed_Ani_0002_1670.jpg",
+      "004.Groove_billed_Ani/Groove_Billed_Ani_0033_1494.jpg",
+      "004.Groove_billed_Ani/Groove_Billed_Ani_0036_1604.jpg",
+      "004.Groove_billed_Ani/Groove_Billed_Ani_0069_1546.jpg",
+      "004.Groove_billed_Ani/Groove_Billed_Ani_0071_1559.jpg"
+    ]
+  },
+  "005.Crested_Auklet": {
+    "class_id": 5,
+    "class_name": "Crested Auklet",
+    "image_paths": [
+      "005.Crested_Auklet/Crested_Auklet_0019_794925.jpg",
+      "005.Crested_Auklet/Crested_Auklet_0033_794964.jpg",
+      "005.Crested_Auklet/Crested_Auklet_0061_794904.jpg",
+      "005.Crested_Auklet/Crested_Auklet_0062_794968.jpg",
+      "005.Crested_Auklet/Crested_Auklet_0067_785249.jpg"
+    ]
+  },
+  "006.Least_Auklet": {
+    "class_id": 6,
+    "class_name": "Least Auklet",
+    "image_paths": [
+      "006.Least_Auklet/Least_Auklet_0011_795109.jpg",
+      "006.Least_Auklet/Least_Auklet_0017_795084.jpg",
+      "006.Least_Auklet/Least_Auklet_0024_795120.jpg",
+      "006.Least_Auklet/Least_Auklet_0026_795066.jpg",
+      "006.Least_Auklet/Least_Auklet_0060_795095.jpg"
+    ]
+  },
+  "007.Parakeet_Auklet": {
+    "class_id": 7,
+    "class_name": "Parakeet Auklet",
+    "image_paths": [
+      "007.Parakeet_Auklet/Parakeet_Auklet_0032_795986.jpg",
+      "007.Parakeet_Auklet/Parakeet_Auklet_0038_795935.jpg",
+      "007.Parakeet_Auklet/Parakeet_Auklet_0047_795956.jpg",
+      "007.Parakeet_Auklet/Parakeet_Auklet_0065_795969.jpg",
+      "007.Parakeet_Auklet/Parakeet_Auklet_0069_795936.jpg"
+    ]
+  },
+  "008.Rhinoceros_Auklet": {
+    "class_id": 8,
+    "class_name": "Rhinoceros Auklet",
+    "image_paths": [
+      "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0010_797545.jpg",
+      "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0012_2161.jpg",
+      "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0016_2114.jpg",
+      "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0017_2155.jpg",
+      "008.Rhinoceros_Auklet/Rhinoceros_Auklet_0028_2056.jpg"
+    ]
+  },
+  "009.Brewer_Blackbird": {
+    "class_id": 9,
+    "class_name": "Brewer Blackbird",
+    "image_paths": [
+      "009.Brewer_Blackbird/Brewer_Blackbird_0026_2625.jpg",
+      "009.Brewer_Blackbird/Brewer_Blackbird_0078_2659.jpg",
+      "009.Brewer_Blackbird/Brewer_Blackbird_0095_2610.jpg",
+      "009.Brewer_Blackbird/Brewer_Blackbird_0109_2232.jpg",
+      "009.Brewer_Blackbird/Brewer_Blackbird_0132_2293.jpg"
+    ]
+  },
+  "010.Red_winged_Blackbird": {
+    "class_id": 10,
+    "class_name": "Red winged Blackbird",
+    "image_paths": [
+      "010.Red_winged_Blackbird/Red_Winged_Blackbird_0020_4050.jpg",
+      "010.Red_winged_Blackbird/Red_Winged_Blackbird_0049_5598.jpg",
+      "010.Red_winged_Blackbird/Red_Winged_Blackbird_0054_4625.jpg",
+      "010.Red_winged_Blackbird/Red_Winged_Blackbird_0061_4196.jpg",
+      "010.Red_winged_Blackbird/Red_Winged_Blackbird_0079_4527.jpg"
+    ]
+  },
+  "011.Rusty_Blackbird": {
+    "class_id": 11,
+    "class_name": "Rusty Blackbird",
+    "image_paths": [
+      "011.Rusty_Blackbird/Rusty_Blackbird_0016_6684.jpg",
+      "011.Rusty_Blackbird/Rusty_Blackbird_0023_6752.jpg",
+      "011.Rusty_Blackbird/Rusty_Blackbird_0036_6550.jpg",
+      "011.Rusty_Blackbird/Rusty_Blackbird_0073_6744.jpg",
+      "011.Rusty_Blackbird/Rusty_Blackbird_0093_6628.jpg"
+    ]
+  },
+  "012.Yellow_headed_Blackbird": {
+    "class_id": 12,
+    "class_name": "Yellow headed Blackbird",
+    "image_paths": [
+      "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0007_8366.jpg",
+      "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0025_8262.jpg",
+      "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0031_8456.jpg",
+      "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0051_8387.jpg",
+      "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0091_8555.jpg"
+    ]
+  },
+  "013.Bobolink": {
+    "class_id": 13,
+    "class_name": "Bobolink",
+    "image_paths": [
+      "013.Bobolink/Bobolink_0001_9261.jpg",
+      "013.Bobolink/Bobolink_0019_10552.jpg",
+      "013.Bobolink/Bobolink_0047_9204.jpg",
+      "013.Bobolink/Bobolink_0102_10807.jpg",
+      "013.Bobolink/Bobolink_0119_10430.jpg"
+    ]
+  },
+  "014.Indigo_Bunting": {
+    "class_id": 14,
+    "class_name": "Indigo Bunting",
+    "image_paths": [
+      "014.Indigo_Bunting/Indigo_Bunting_0041_13987.jpg",
+      "014.Indigo_Bunting/Indigo_Bunting_0047_12966.jpg",
+      "014.Indigo_Bunting/Indigo_Bunting_0049_13641.jpg",
+      "014.Indigo_Bunting/Indigo_Bunting_0076_12950.jpg",
+      "014.Indigo_Bunting/Indigo_Bunting_0085_11991.jpg"
+    ]
+  },
+  "015.Lazuli_Bunting": {
+    "class_id": 15,
+    "class_name": "Lazuli Bunting",
+    "image_paths": [
+      "015.Lazuli_Bunting/Lazuli_Bunting_0010_14915.jpg",
+      "015.Lazuli_Bunting/Lazuli_Bunting_0020_14837.jpg",
+      "015.Lazuli_Bunting/Lazuli_Bunting_0039_15081.jpg",
+      "015.Lazuli_Bunting/Lazuli_Bunting_0080_14893.jpg",
+      "015.Lazuli_Bunting/Lazuli_Bunting_0081_14709.jpg"
+    ]
+  },
+  "016.Painted_Bunting": {
+    "class_id": 16,
+    "class_name": "Painted Bunting",
+    "image_paths": [
+      "016.Painted_Bunting/Painted_Bunting_0046_16535.jpg",
+      "016.Painted_Bunting/Painted_Bunting_0050_16670.jpg",
+      "016.Painted_Bunting/Painted_Bunting_0061_16930.jpg",
+      "016.Painted_Bunting/Painted_Bunting_0073_16737.jpg",
+      "016.Painted_Bunting/Painted_Bunting_0084_16531.jpg"
+    ]
+  },
+  "017.Cardinal": {
+    "class_id": 17,
+    "class_name": "Cardinal",
+    "image_paths": [
+      "017.Cardinal/Cardinal_0012_18638.jpg",
+      "017.Cardinal/Cardinal_0019_17368.jpg",
+      "017.Cardinal/Cardinal_0025_17239.jpg",
+      "017.Cardinal/Cardinal_0045_18021.jpg",
+      "017.Cardinal/Cardinal_0060_17139.jpg"
+    ]
+  },
+  "018.Spotted_Catbird": {
+    "class_id": 18,
+    "class_name": "Spotted Catbird",
+    "image_paths": [
+      "018.Spotted_Catbird/Spotted_Catbird_0004_796804.jpg",
+      "018.Spotted_Catbird/Spotted_Catbird_0020_796794.jpg",
+      "018.Spotted_Catbird/Spotted_Catbird_0022_796821.jpg",
+      "018.Spotted_Catbird/Spotted_Catbird_0028_796813.jpg",
+      "018.Spotted_Catbird/Spotted_Catbird_0029_796825.jpg"
+    ]
+  },
+  "019.Gray_Catbird": {
+    "class_id": 19,
+    "class_name": "Gray Catbird",
+    "image_paths": [
+      "019.Gray_Catbird/Gray_Catbird_0074_19601.jpg",
+      "019.Gray_Catbird/Gray_Catbird_0100_20674.jpg",
+      "019.Gray_Catbird/Gray_Catbird_0118_20476.jpg",
+      "019.Gray_Catbird/Gray_Catbird_0125_19833.jpg",
+      "019.Gray_Catbird/Gray_Catbird_0134_20596.jpg"
+    ]
+  },
+  "020.Yellow_breasted_Chat": {
+    "class_id": 20,
+    "class_name": "Yellow breasted Chat",
+    "image_paths": [
+      "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0012_21961.jpg",
+      "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0013_22008.jpg",
+      "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0068_21860.jpg",
+      "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0105_21714.jpg",
+      "020.Yellow_breasted_Chat/Yellow_Breasted_Chat_0107_21698.jpg"
+    ]
+  },
+  "021.Eastern_Towhee": {
+    "class_id": 21,
+    "class_name": "Eastern Towhee",
+    "image_paths": [
+      "021.Eastern_Towhee/Eastern_Towhee_0073_22247.jpg",
+      "021.Eastern_Towhee/Eastern_Towhee_0099_22566.jpg",
+      "021.Eastern_Towhee/Eastern_Towhee_0117_22741.jpg",
+      "021.Eastern_Towhee/Eastern_Towhee_0120_22189.jpg",
+      "021.Eastern_Towhee/Eastern_Towhee_0124_22585.jpg"
+    ]
+  },
+  "022.Chuck_will_Widow": {
+    "class_id": 22,
+    "class_name": "Chuck will Widow",
+    "image_paths": [
+      "022.Chuck_will_Widow/Chuck_Will_Widow_0001_796975.jpg",
+      "022.Chuck_will_Widow/Chuck_Will_Widow_0017_796960.jpg",
+      "022.Chuck_will_Widow/Chuck_Will_Widow_0026_796963.jpg",
+      "022.Chuck_will_Widow/Chuck_Will_Widow_0048_796995.jpg",
+      "022.Chuck_will_Widow/Chuck_Will_Widow_0055_796973.jpg"
+    ]
+  },
+  "023.Brandt_Cormorant": {
+    "class_id": 23,
+    "class_name": "Brandt Cormorant",
+    "image_paths": [
+      "023.Brandt_Cormorant/Brandt_Cormorant_0006_22925.jpg",
+      "023.Brandt_Cormorant/Brandt_Cormorant_0045_22916.jpg",
+      "023.Brandt_Cormorant/Brandt_Cormorant_0062_23038.jpg",
+      "023.Brandt_Cormorant/Brandt_Cormorant_0074_22881.jpg",
+      "023.Brandt_Cormorant/Brandt_Cormorant_0082_22978.jpg"
+    ]
+  },
+  "024.Red_faced_Cormorant": {
+    "class_id": 24,
+    "class_name": "Red faced Cormorant",
+    "image_paths": [
+      "024.Red_faced_Cormorant/Red_Faced_Cormorant_0007_796280.jpg",
+      "024.Red_faced_Cormorant/Red_Faced_Cormorant_0032_796334.jpg",
+      "024.Red_faced_Cormorant/Red_Faced_Cormorant_0035_796294.jpg",
+      "024.Red_faced_Cormorant/Red_Faced_Cormorant_0036_796329.jpg",
+      "024.Red_faced_Cormorant/Red_Faced_Cormorant_0045_796324.jpg"
+    ]
+  },
+  "025.Pelagic_Cormorant": {
+    "class_id": 25,
+    "class_name": "Pelagic Cormorant",
+    "image_paths": [
+      "025.Pelagic_Cormorant/Pelagic_Cormorant_0017_23875.jpg",
+      "025.Pelagic_Cormorant/Pelagic_Cormorant_0019_23546.jpg",
+      "025.Pelagic_Cormorant/Pelagic_Cormorant_0053_23760.jpg",
+      "025.Pelagic_Cormorant/Pelagic_Cormorant_0057_24002.jpg",
+      "025.Pelagic_Cormorant/Pelagic_Cormorant_0083_23557.jpg"
+    ]
+  },
+  "026.Bronzed_Cowbird": {
+    "class_id": 26,
+    "class_name": "Bronzed Cowbird",
+    "image_paths": [
+      "026.Bronzed_Cowbird/Bronzed_Cowbird_0001_796219.jpg",
+      "026.Bronzed_Cowbird/Bronzed_Cowbird_0012_796247.jpg",
+      "026.Bronzed_Cowbird/Bronzed_Cowbird_0032_796233.jpg",
+      "026.Bronzed_Cowbird/Bronzed_Cowbird_0056_796222.jpg",
+      "026.Bronzed_Cowbird/Bronzed_Cowbird_0092_796215.jpg"
+    ]
+  },
+  "027.Shiny_Cowbird": {
+    "class_id": 27,
+    "class_name": "Shiny Cowbird",
+    "image_paths": [
+      "027.Shiny_Cowbird/Shiny_Cowbird_0006_796864.jpg",
+      "027.Shiny_Cowbird/Shiny_Cowbird_0010_24439.jpg",
+      "027.Shiny_Cowbird/Shiny_Cowbird_0024_24281.jpg",
+      "027.Shiny_Cowbird/Shiny_Cowbird_0034_796849.jpg",
+      "027.Shiny_Cowbird/Shiny_Cowbird_0036_24274.jpg"
+    ]
+  },
+  "028.Brown_Creeper": {
+    "class_id": 28,
+    "class_name": "Brown Creeper",
+    "image_paths": [
+      "028.Brown_Creeper/Brown_Creeper_0053_24451.jpg",
+      "028.Brown_Creeper/Brown_Creeper_0058_24933.jpg",
+      "028.Brown_Creeper/Brown_Creeper_0072_24977.jpg",
+      "028.Brown_Creeper/Brown_Creeper_0110_24866.jpg",
+      "028.Brown_Creeper/Brown_Creeper_0113_24560.jpg"
+    ]
+  },
+  "029.American_Crow": {
+    "class_id": 29,
+    "class_name": "American Crow",
+    "image_paths": [
+      "029.American_Crow/American_Crow_0059_25599.jpg",
+      "029.American_Crow/American_Crow_0068_25198.jpg",
+      "029.American_Crow/American_Crow_0074_25350.jpg",
+      "029.American_Crow/American_Crow_0111_25127.jpg",
+      "029.American_Crow/American_Crow_0136_25117.jpg"
+    ]
+  },
+  "030.Fish_Crow": {
+    "class_id": 30,
+    "class_name": "Fish Crow",
+    "image_paths": [
+      "030.Fish_Crow/Fish_Crow_0004_25936.jpg",
+      "030.Fish_Crow/Fish_Crow_0025_25893.jpg",
+      "030.Fish_Crow/Fish_Crow_0033_25915.jpg",
+      "030.Fish_Crow/Fish_Crow_0049_26040.jpg",
+      "030.Fish_Crow/Fish_Crow_0069_26008.jpg"
+    ]
+  },
+  "031.Black_billed_Cuckoo": {
+    "class_id": 31,
+    "class_name": "Black billed Cuckoo",
+    "image_paths": [
+      "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0001_26242.jpg",
+      "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0054_26313.jpg",
+      "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0057_795323.jpg",
+      "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0062_795309.jpg",
+      "031.Black_billed_Cuckoo/Black_Billed_Cuckoo_0082_26241.jpg"
+    ]
+  },
+  "032.Mangrove_Cuckoo": {
+    "class_id": 32,
+    "class_name": "Mangrove Cuckoo",
+    "image_paths": [
+      "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0014_26388.jpg",
+      "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0028_26358.jpg",
+      "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0034_26415.jpg",
+      "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0039_26348.jpg",
+      "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0042_794628.jpg"
+    ]
+  },
+  "033.Yellow_billed_Cuckoo": {
+    "class_id": 33,
+    "class_name": "Yellow billed Cuckoo",
+    "image_paths": [
+      "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0027_26844.jpg",
+      "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0069_26597.jpg",
+      "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0082_26655.jpg",
+      "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0094_26643.jpg",
+      "033.Yellow_billed_Cuckoo/Yellow_Billed_Cuckoo_0121_26807.jpg"
+    ]
+  },
+  "034.Gray_crowned_Rosy_Finch": {
+    "class_id": 34,
+    "class_name": "Gray crowned Rosy Finch",
+    "image_paths": [
+      "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0016_27181.jpg",
+      "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0030_27068.jpg",
+      "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0038_797309.jpg",
+      "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0043_26990.jpg",
+      "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0052_27032.jpg"
+    ]
+  },
+  "035.Purple_Finch": {
+    "class_id": 35,
+    "class_name": "Purple Finch",
+    "image_paths": [
+      "035.Purple_Finch/Purple_Finch_0006_27950.jpg",
+      "035.Purple_Finch/Purple_Finch_0053_27543.jpg",
+      "035.Purple_Finch/Purple_Finch_0071_27443.jpg",
+      "035.Purple_Finch/Purple_Finch_0081_27913.jpg",
+      "035.Purple_Finch/Purple_Finch_0096_27688.jpg"
+    ]
+  },
+  "036.Northern_Flicker": {
+    "class_id": 36,
+    "class_name": "Northern Flicker",
+    "image_paths": [
+      "036.Northern_Flicker/Northern_Flicker_0036_28681.jpg",
+      "036.Northern_Flicker/Northern_Flicker_0078_28338.jpg",
+      "036.Northern_Flicker/Northern_Flicker_0095_28938.jpg",
+      "036.Northern_Flicker/Northern_Flicker_0096_28623.jpg",
+      "036.Northern_Flicker/Northern_Flicker_0106_28441.jpg"
+    ]
+  },
+  "037.Acadian_Flycatcher": {
+    "class_id": 37,
+    "class_name": "Acadian Flycatcher",
+    "image_paths": [
+      "037.Acadian_Flycatcher/Acadian_Flycatcher_0004_795623.jpg",
+      "037.Acadian_Flycatcher/Acadian_Flycatcher_0010_29199.jpg",
+      "037.Acadian_Flycatcher/Acadian_Flycatcher_0017_795598.jpg",
+      "037.Acadian_Flycatcher/Acadian_Flycatcher_0039_795606.jpg",
+      "037.Acadian_Flycatcher/Acadian_Flycatcher_0055_795609.jpg"
+    ]
+  },
+  "038.Great_Crested_Flycatcher": {
+    "class_id": 38,
+    "class_name": "Great Crested Flycatcher",
+    "image_paths": [
+      "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0040_29447.jpg",
+      "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0058_29523.jpg",
+      "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0099_29305.jpg",
+      "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0105_29456.jpg",
+      "038.Great_Crested_Flycatcher/Great_Crested_Flycatcher_0136_29490.jpg"
+    ]
+  },
+  "039.Least_Flycatcher": {
+    "class_id": 39,
+    "class_name": "Least Flycatcher",
+    "image_paths": [
+      "039.Least_Flycatcher/Least_Flycatcher_0021_30355.jpg",
+      "039.Least_Flycatcher/Least_Flycatcher_0036_30213.jpg",
+      "039.Least_Flycatcher/Least_Flycatcher_0065_30357.jpg",
+      "039.Least_Flycatcher/Least_Flycatcher_0077_30296.jpg",
+      "039.Least_Flycatcher/Least_Flycatcher_0096_30233.jpg"
+    ]
+  },
+  "040.Olive_sided_Flycatcher": {
+    "class_id": 40,
+    "class_name": "Olive sided Flycatcher",
+    "image_paths": [
+      "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0017_30704.jpg",
+      "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0018_796882.jpg",
+      "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0020_796881.jpg",
+      "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0033_30532.jpg",
+      "040.Olive_sided_Flycatcher/Olive_Sided_Flycatcher_0040_30620.jpg"
+    ]
+  },
+  "041.Scissor_tailed_Flycatcher": {
+    "class_id": 41,
+    "class_name": "Scissor tailed Flycatcher",
+    "image_paths": [
+      "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0005_41727.jpg",
+      "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0021_41931.jpg",
+      "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0035_42025.jpg",
+      "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0089_41810.jpg",
+      "041.Scissor_tailed_Flycatcher/Scissor_Tailed_Flycatcher_0092_41767.jpg"
+    ]
+  },
+  "042.Vermilion_Flycatcher": {
+    "class_id": 42,
+    "class_name": "Vermilion Flycatcher",
+    "image_paths": [
+      "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0003_42316.jpg",
+      "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0040_42398.jpg",
+      "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0053_42184.jpg",
+      "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0067_42185.jpg",
+      "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0072_42218.jpg"
+    ]
+  },
+  "043.Yellow_bellied_Flycatcher": {
+    "class_id": 43,
+    "class_name": "Yellow bellied Flycatcher",
+    "image_paths": [
+      "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0006_795473.jpg",
+      "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0031_42580.jpg",
+      "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0045_42575.jpg",
+      "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0057_795485.jpg",
+      "043.Yellow_bellied_Flycatcher/Yellow_Bellied_Flycatcher_0068_42701.jpg"
+    ]
+  },
+  "044.Frigatebird": {
+    "class_id": 44,
+    "class_name": "Frigatebird",
+    "image_paths": [
+      "044.Frigatebird/Frigatebird_0005_42828.jpg",
+      "044.Frigatebird/Frigatebird_0022_43457.jpg",
+      "044.Frigatebird/Frigatebird_0057_43016.jpg",
+      "044.Frigatebird/Frigatebird_0059_42838.jpg",
+      "044.Frigatebird/Frigatebird_0070_43516.jpg"
+    ]
+  },
+  "045.Northern_Fulmar": {
+    "class_id": 45,
+    "class_name": "Northern Fulmar",
+    "image_paths": [
+      "045.Northern_Fulmar/Northern_Fulmar_0029_44049.jpg",
+      "045.Northern_Fulmar/Northern_Fulmar_0048_43672.jpg",
+      "045.Northern_Fulmar/Northern_Fulmar_0058_44114.jpg",
+      "045.Northern_Fulmar/Northern_Fulmar_0061_43653.jpg",
+      "045.Northern_Fulmar/Northern_Fulmar_0065_44081.jpg"
+    ]
+  },
+  "046.Gadwall": {
+    "class_id": 46,
+    "class_name": "Gadwall",
+    "image_paths": [
+      "046.Gadwall/Gadwall_0024_30942.jpg",
+      "046.Gadwall/Gadwall_0034_31212.jpg",
+      "046.Gadwall/Gadwall_0083_30959.jpg",
+      "046.Gadwall/Gadwall_0086_31346.jpg",
+      "046.Gadwall/Gadwall_0091_30941.jpg"
+    ]
+  },
+  "047.American_Goldfinch": {
+    "class_id": 47,
+    "class_name": "American Goldfinch",
+    "image_paths": [
+      "047.American_Goldfinch/American_Goldfinch_0026_32222.jpg",
+      "047.American_Goldfinch/American_Goldfinch_0092_32910.jpg",
+      "047.American_Goldfinch/American_Goldfinch_0104_32540.jpg",
+      "047.American_Goldfinch/American_Goldfinch_0133_32802.jpg",
+      "047.American_Goldfinch/American_Goldfinch_0135_32107.jpg"
+    ]
+  },
+  "048.European_Goldfinch": {
+    "class_id": 48,
+    "class_name": "European Goldfinch",
+    "image_paths": [
+      "048.European_Goldfinch/European_Goldfinch_0008_33153.jpg",
+      "048.European_Goldfinch/European_Goldfinch_0012_794646.jpg",
+      "048.European_Goldfinch/European_Goldfinch_0013_794687.jpg",
+      "048.European_Goldfinch/European_Goldfinch_0045_794690.jpg",
+      "048.European_Goldfinch/European_Goldfinch_0078_33170.jpg"
+    ]
+  },
+  "049.Boat_tailed_Grackle": {
+    "class_id": 49,
+    "class_name": "Boat tailed Grackle",
+    "image_paths": [
+      "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0040_33417.jpg",
+      "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0050_33501.jpg",
+      "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0100_33985.jpg",
+      "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0112_33841.jpg",
+      "049.Boat_tailed_Grackle/Boat_Tailed_Grackle_0113_33490.jpg"
+    ]
+  },
+  "050.Eared_Grebe": {
+    "class_id": 50,
+    "class_name": "Eared Grebe",
+    "image_paths": [
+      "050.Eared_Grebe/Eared_Grebe_0026_34383.jpg",
+      "050.Eared_Grebe/Eared_Grebe_0040_34340.jpg",
+      "050.Eared_Grebe/Eared_Grebe_0067_34416.jpg",
+      "050.Eared_Grebe/Eared_Grebe_0073_34172.jpg",
+      "050.Eared_Grebe/Eared_Grebe_0079_34342.jpg"
+    ]
+  },
+  "051.Horned_Grebe": {
+    "class_id": 51,
+    "class_name": "Horned Grebe",
+    "image_paths": [
+      "051.Horned_Grebe/Horned_Grebe_0011_34687.jpg",
+      "051.Horned_Grebe/Horned_Grebe_0033_34736.jpg",
+      "051.Horned_Grebe/Horned_Grebe_0099_34989.jpg",
+      "051.Horned_Grebe/Horned_Grebe_0102_34448.jpg",
+      "051.Horned_Grebe/Horned_Grebe_0112_34864.jpg"
+    ]
+  },
+  "052.Pied_billed_Grebe": {
+    "class_id": 52,
+    "class_name": "Pied billed Grebe",
+    "image_paths": [
+      "052.Pied_billed_Grebe/Pied_Billed_Grebe_0044_35425.jpg",
+      "052.Pied_billed_Grebe/Pied_Billed_Grebe_0052_35937.jpg",
+      "052.Pied_billed_Grebe/Pied_Billed_Grebe_0063_35529.jpg",
+      "052.Pied_billed_Grebe/Pied_Billed_Grebe_0081_35409.jpg",
+      "052.Pied_billed_Grebe/Pied_Billed_Grebe_0120_35764.jpg"
+    ]
+  },
+  "053.Western_Grebe": {
+    "class_id": 53,
+    "class_name": "Western Grebe",
+    "image_paths": [
+      "053.Western_Grebe/Western_Grebe_0014_36185.jpg",
+      "053.Western_Grebe/Western_Grebe_0017_36218.jpg",
+      "053.Western_Grebe/Western_Grebe_0075_36435.jpg",
+      "053.Western_Grebe/Western_Grebe_0086_36478.jpg",
+      "053.Western_Grebe/Western_Grebe_0088_36428.jpg"
+    ]
+  },
+  "054.Blue_Grosbeak": {
+    "class_id": 54,
+    "class_name": "Blue Grosbeak",
+    "image_paths": [
+      "054.Blue_Grosbeak/Blue_Grosbeak_0009_36992.jpg",
+      "054.Blue_Grosbeak/Blue_Grosbeak_0031_37173.jpg",
+      "054.Blue_Grosbeak/Blue_Grosbeak_0053_36709.jpg",
+      "054.Blue_Grosbeak/Blue_Grosbeak_0093_37107.jpg",
+      "054.Blue_Grosbeak/Blue_Grosbeak_0094_36995.jpg"
+    ]
+  },
+  "055.Evening_Grosbeak": {
+    "class_id": 55,
+    "class_name": "Evening Grosbeak",
+    "image_paths": [
+      "055.Evening_Grosbeak/Evening_Grosbeak_0033_37707.jpg",
+      "055.Evening_Grosbeak/Evening_Grosbeak_0044_37938.jpg",
+      "055.Evening_Grosbeak/Evening_Grosbeak_0057_37392.jpg",
+      "055.Evening_Grosbeak/Evening_Grosbeak_0079_37979.jpg",
+      "055.Evening_Grosbeak/Evening_Grosbeak_0112_37922.jpg"
+    ]
+  },
+  "056.Pine_Grosbeak": {
+    "class_id": 56,
+    "class_name": "Pine Grosbeak",
+    "image_paths": [
+      "056.Pine_Grosbeak/Pine_Grosbeak_0006_38421.jpg",
+      "056.Pine_Grosbeak/Pine_Grosbeak_0036_38968.jpg",
+      "056.Pine_Grosbeak/Pine_Grosbeak_0058_38431.jpg",
+      "056.Pine_Grosbeak/Pine_Grosbeak_0078_38242.jpg",
+      "056.Pine_Grosbeak/Pine_Grosbeak_0114_38259.jpg"
+    ]
+  },
+  "057.Rose_breasted_Grosbeak": {
+    "class_id": 57,
+    "class_name": "Rose breasted Grosbeak",
+    "image_paths": [
+      "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0077_39613.jpg",
+      "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0088_39035.jpg",
+      "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0097_39514.jpg",
+      "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0114_39770.jpg",
+      "057.Rose_breasted_Grosbeak/Rose_Breasted_Grosbeak_0135_39227.jpg"
+    ]
+  },
+  "058.Pigeon_Guillemot": {
+    "class_id": 58,
+    "class_name": "Pigeon Guillemot",
+    "image_paths": [
+      "058.Pigeon_Guillemot/Pigeon_Guillemot_0028_40046.jpg",
+      "058.Pigeon_Guillemot/Pigeon_Guillemot_0055_40171.jpg",
+      "058.Pigeon_Guillemot/Pigeon_Guillemot_0058_40184.jpg",
+      "058.Pigeon_Guillemot/Pigeon_Guillemot_0069_40278.jpg",
+      "058.Pigeon_Guillemot/Pigeon_Guillemot_0073_40209.jpg"
+    ]
+  },
+  "059.California_Gull": {
+    "class_id": 59,
+    "class_name": "California Gull",
+    "image_paths": [
+      "059.California_Gull/California_Gull_0006_41079.jpg",
+      "059.California_Gull/California_Gull_0046_41209.jpg",
+      "059.California_Gull/California_Gull_0064_41562.jpg",
+      "059.California_Gull/California_Gull_0076_40788.jpg",
+      "059.California_Gull/California_Gull_0121_41196.jpg"
+    ]
+  },
+  "060.Glaucous_winged_Gull": {
+    "class_id": 60,
+    "class_name": "Glaucous winged Gull",
+    "image_paths": [
+      "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0002_44612.jpg",
+      "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0032_44594.jpg",
+      "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0051_44543.jpg",
+      "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0073_44253.jpg",
+      "060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0091_44848.jpg"
+    ]
+  },
+  "061.Heermann_Gull": {
+    "class_id": 61,
+    "class_name": "Heermann Gull",
+    "image_paths": [
+      "061.Heermann_Gull/Heermann_Gull_0008_45839.jpg",
+      "061.Heermann_Gull/Heermann_Gull_0015_41392.jpg",
+      "061.Heermann_Gull/Heermann_Gull_0073_45714.jpg",
+      "061.Heermann_Gull/Heermann_Gull_0100_45440.jpg",
+      "061.Heermann_Gull/Heermann_Gull_0115_45797.jpg"
+    ]
+  },
+  "062.Herring_Gull": {
+    "class_id": 62,
+    "class_name": "Herring Gull",
+    "image_paths": [
+      "062.Herring_Gull/Herring_Gull_0014_47814.jpg",
+      "062.Herring_Gull/Herring_Gull_0026_48041.jpg",
+      "062.Herring_Gull/Herring_Gull_0052_46810.jpg",
+      "062.Herring_Gull/Herring_Gull_0100_46677.jpg",
+      "062.Herring_Gull/Herring_Gull_0141_47184.jpg"
+    ]
+  },
+  "063.Ivory_Gull": {
+    "class_id": 63,
+    "class_name": "Ivory Gull",
+    "image_paths": [
+      "063.Ivory_Gull/Ivory_Gull_0036_49754.jpg",
+      "063.Ivory_Gull/Ivory_Gull_0055_49353.jpg",
+      "063.Ivory_Gull/Ivory_Gull_0061_49416.jpg",
+      "063.Ivory_Gull/Ivory_Gull_0098_49810.jpg",
+      "063.Ivory_Gull/Ivory_Gull_0117_49227.jpg"
+    ]
+  },
+  "064.Ring_billed_Gull": {
+    "class_id": 64,
+    "class_name": "Ring billed Gull",
+    "image_paths": [
+      "064.Ring_billed_Gull/Ring_Billed_Gull_0003_51480.jpg",
+      "064.Ring_billed_Gull/Ring_Billed_Gull_0018_51505.jpg",
+      "064.Ring_billed_Gull/Ring_Billed_Gull_0028_51454.jpg",
+      "064.Ring_billed_Gull/Ring_Billed_Gull_0050_51567.jpg",
+      "064.Ring_billed_Gull/Ring_Billed_Gull_0074_52258.jpg"
+    ]
+  },
+  "065.Slaty_backed_Gull": {
+    "class_id": 65,
+    "class_name": "Slaty backed Gull",
+    "image_paths": [
+      "065.Slaty_backed_Gull/Slaty_Backed_Gull_0025_796047.jpg",
+      "065.Slaty_backed_Gull/Slaty_Backed_Gull_0030_796003.jpg",
+      "065.Slaty_backed_Gull/Slaty_Backed_Gull_0058_796024.jpg",
+      "065.Slaty_backed_Gull/Slaty_Backed_Gull_0072_53314.jpg",
+      "065.Slaty_backed_Gull/Slaty_Backed_Gull_0087_786374.jpg"
+    ]
+  },
+  "066.Western_Gull": {
+    "class_id": 66,
+    "class_name": "Western Gull",
+    "image_paths": [
+      "066.Western_Gull/Western_Gull_0042_53843.jpg",
+      "066.Western_Gull/Western_Gull_0080_53445.jpg",
+      "066.Western_Gull/Western_Gull_0093_54925.jpg",
+      "066.Western_Gull/Western_Gull_0115_54950.jpg",
+      "066.Western_Gull/Western_Gull_0122_40866.jpg"
+    ]
+  },
+  "067.Anna_Hummingbird": {
+    "class_id": 67,
+    "class_name": "Anna Hummingbird",
+    "image_paths": [
+      "067.Anna_Hummingbird/Anna_Hummingbird_0029_55823.jpg",
+      "067.Anna_Hummingbird/Anna_Hummingbird_0047_56049.jpg",
+      "067.Anna_Hummingbird/Anna_Hummingbird_0069_56933.jpg",
+      "067.Anna_Hummingbird/Anna_Hummingbird_0091_56004.jpg",
+      "067.Anna_Hummingbird/Anna_Hummingbird_0112_56353.jpg"
+    ]
+  },
+  "068.Ruby_throated_Hummingbird": {
+    "class_id": 68,
+    "class_name": "Ruby throated Hummingbird",
+    "image_paths": [
+      "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0027_58191.jpg",
+      "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0030_57422.jpg",
+      "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0042_57431.jpg",
+      "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0064_57387.jpg",
+      "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0079_58075.jpg"
+    ]
+  },
+  "069.Rufous_Hummingbird": {
+    "class_id": 69,
+    "class_name": "Rufous Hummingbird",
+    "image_paths": [
+      "069.Rufous_Hummingbird/Rufous_Hummingbird_0037_60415.jpg",
+      "069.Rufous_Hummingbird/Rufous_Hummingbird_0045_59533.jpg",
+      "069.Rufous_Hummingbird/Rufous_Hummingbird_0089_59524.jpg",
+      "069.Rufous_Hummingbird/Rufous_Hummingbird_0095_60360.jpg",
+      "069.Rufous_Hummingbird/Rufous_Hummingbird_0102_59414.jpg"
+    ]
+  },
+  "070.Green_Violetear": {
+    "class_id": 70,
+    "class_name": "Green Violetear",
+    "image_paths": [
+      "070.Green_Violetear/Green_Violetear_0005_795666.jpg",
+      "070.Green_Violetear/Green_Violetear_0017_795652.jpg",
+      "070.Green_Violetear/Green_Violetear_0027_60841.jpg",
+      "070.Green_Violetear/Green_Violetear_0062_60797.jpg",
+      "070.Green_Violetear/Green_Violetear_0103_795644.jpg"
+    ]
+  },
+  "071.Long_tailed_Jaeger": {
+    "class_id": 71,
+    "class_name": "Long tailed Jaeger",
+    "image_paths": [
+      "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0011_60963.jpg",
+      "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0012_797101.jpg",
+      "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0032_61177.jpg",
+      "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0041_60891.jpg",
+      "071.Long_tailed_Jaeger/Long_Tailed_Jaeger_0070_797090.jpg"
+    ]
+  },
+  "072.Pomarine_Jaeger": {
+    "class_id": 72,
+    "class_name": "Pomarine Jaeger",
+    "image_paths": [
+      "072.Pomarine_Jaeger/Pomarine_Jaeger_0022_795747.jpg",
+      "072.Pomarine_Jaeger/Pomarine_Jaeger_0041_61305.jpg",
+      "072.Pomarine_Jaeger/Pomarine_Jaeger_0071_795769.jpg",
+      "072.Pomarine_Jaeger/Pomarine_Jaeger_0075_61349.jpg",
+      "072.Pomarine_Jaeger/Pomarine_Jaeger_0078_795758.jpg"
+    ]
+  },
+  "073.Blue_Jay": {
+    "class_id": 73,
+    "class_name": "Blue Jay",
+    "image_paths": [
+      "073.Blue_Jay/Blue_Jay_0048_62433.jpg",
+      "073.Blue_Jay/Blue_Jay_0051_63339.jpg",
+      "073.Blue_Jay/Blue_Jay_0078_62351.jpg",
+      "073.Blue_Jay/Blue_Jay_0086_63394.jpg",
+      "073.Blue_Jay/Blue_Jay_0102_61494.jpg"
+    ]
+  },
+  "074.Florida_Jay": {
+    "class_id": 74,
+    "class_name": "Florida Jay",
+    "image_paths": [
+      "074.Florida_Jay/Florida_Jay_0003_65036.jpg",
+      "074.Florida_Jay/Florida_Jay_0037_64515.jpg",
+      "074.Florida_Jay/Florida_Jay_0039_64576.jpg",
+      "074.Florida_Jay/Florida_Jay_0050_65099.jpg",
+      "074.Florida_Jay/Florida_Jay_0081_64859.jpg"
+    ]
+  },
+  "075.Green_Jay": {
+    "class_id": 75,
+    "class_name": "Green Jay",
+    "image_paths": [
+      "075.Green_Jay/Green_Jay_0006_65788.jpg",
+      "075.Green_Jay/Green_Jay_0016_65864.jpg",
+      "075.Green_Jay/Green_Jay_0044_66228.jpg",
+      "075.Green_Jay/Green_Jay_0066_65902.jpg",
+      "075.Green_Jay/Green_Jay_0100_65786.jpg"
+    ]
+  },
+  "076.Dark_eyed_Junco": {
+    "class_id": 76,
+    "class_name": "Dark eyed Junco",
+    "image_paths": [
+      "076.Dark_eyed_Junco/Dark_Eyed_Junco_0048_66981.jpg",
+      "076.Dark_eyed_Junco/Dark_Eyed_Junco_0084_66455.jpg",
+      "076.Dark_eyed_Junco/Dark_Eyed_Junco_0089_68498.jpg",
+      "076.Dark_eyed_Junco/Dark_Eyed_Junco_0091_67304.jpg",
+      "076.Dark_eyed_Junco/Dark_Eyed_Junco_0115_68840.jpg"
+    ]
+  },
+  "077.Tropical_Kingbird": {
+    "class_id": 77,
+    "class_name": "Tropical Kingbird",
+    "image_paths": [
+      "077.Tropical_Kingbird/Tropical_Kingbird_0017_69715.jpg",
+      "077.Tropical_Kingbird/Tropical_Kingbird_0049_69933.jpg",
+      "077.Tropical_Kingbird/Tropical_Kingbird_0081_69656.jpg",
+      "077.Tropical_Kingbird/Tropical_Kingbird_0103_69311.jpg",
+      "077.Tropical_Kingbird/Tropical_Kingbird_0122_69687.jpg"
+    ]
+  },
+  "078.Gray_Kingbird": {
+    "class_id": 78,
+    "class_name": "Gray Kingbird",
+    "image_paths": [
+      "078.Gray_Kingbird/Gray_Kingbird_0003_70305.jpg",
+      "078.Gray_Kingbird/Gray_Kingbird_0022_70155.jpg",
+      "078.Gray_Kingbird/Gray_Kingbird_0026_70089.jpg",
+      "078.Gray_Kingbird/Gray_Kingbird_0037_70050.jpg",
+      "078.Gray_Kingbird/Gray_Kingbird_0045_70256.jpg"
+    ]
+  },
+  "079.Belted_Kingfisher": {
+    "class_id": 79,
+    "class_name": "Belted Kingfisher",
+    "image_paths": [
+      "079.Belted_Kingfisher/Belted_Kingfisher_0011_70923.jpg",
+      "079.Belted_Kingfisher/Belted_Kingfisher_0055_70517.jpg",
+      "079.Belted_Kingfisher/Belted_Kingfisher_0072_70924.jpg",
+      "079.Belted_Kingfisher/Belted_Kingfisher_0073_70326.jpg",
+      "079.Belted_Kingfisher/Belted_Kingfisher_0085_70503.jpg"
+    ]
+  },
+  "080.Green_Kingfisher": {
+    "class_id": 80,
+    "class_name": "Green Kingfisher",
+    "image_paths": [
+      "080.Green_Kingfisher/Green_Kingfisher_0018_71189.jpg",
+      "080.Green_Kingfisher/Green_Kingfisher_0032_71050.jpg",
+      "080.Green_Kingfisher/Green_Kingfisher_0048_71164.jpg",
+      "080.Green_Kingfisher/Green_Kingfisher_0065_71132.jpg",
+      "080.Green_Kingfisher/Green_Kingfisher_0081_70953.jpg"
+    ]
+  },
+  "081.Pied_Kingfisher": {
+    "class_id": 81,
+    "class_name": "Pied Kingfisher",
+    "image_paths": [
+      "081.Pied_Kingfisher/Pied_Kingfisher_0011_72143.jpg",
+      "081.Pied_Kingfisher/Pied_Kingfisher_0022_72247.jpg",
+      "081.Pied_Kingfisher/Pied_Kingfisher_0073_72508.jpg",
+      "081.Pied_Kingfisher/Pied_Kingfisher_0093_72465.jpg",
+      "081.Pied_Kingfisher/Pied_Kingfisher_0122_71789.jpg"
+    ]
+  },
+  "082.Ringed_Kingfisher": {
+    "class_id": 82,
+    "class_name": "Ringed Kingfisher",
+    "image_paths": [
+      "082.Ringed_Kingfisher/Ringed_Kingfisher_0011_72982.jpg",
+      "082.Ringed_Kingfisher/Ringed_Kingfisher_0016_73029.jpg",
+      "082.Ringed_Kingfisher/Ringed_Kingfisher_0021_72848.jpg",
+      "082.Ringed_Kingfisher/Ringed_Kingfisher_0027_72948.jpg",
+      "082.Ringed_Kingfisher/Ringed_Kingfisher_0103_72894.jpg"
+    ]
+  },
+  "083.White_breasted_Kingfisher": {
+    "class_id": 83,
+    "class_name": "White breasted Kingfisher",
+    "image_paths": [
+      "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0022_73459.jpg",
+      "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0036_73403.jpg",
+      "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0084_73247.jpg",
+      "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0087_73264.jpg",
+      "083.White_breasted_Kingfisher/White_Breasted_Kingfisher_0109_73683.jpg"
+    ]
+  },
+  "084.Red_legged_Kittiwake": {
+    "class_id": 84,
+    "class_name": "Red legged Kittiwake",
+    "image_paths": [
+      "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0006_795436.jpg",
+      "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0010_73789.jpg",
+      "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0019_795398.jpg",
+      "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0054_795396.jpg",
+      "084.Red_legged_Kittiwake/Red_Legged_Kittiwake_0071_73800.jpg"
+    ]
+  },
+  "085.Horned_Lark": {
+    "class_id": 85,
+    "class_name": "Horned Lark",
+    "image_paths": [
+      "085.Horned_Lark/Horned_Lark_0025_75003.jpg",
+      "085.Horned_Lark/Horned_Lark_0028_74408.jpg",
+      "085.Horned_Lark/Horned_Lark_0035_74555.jpg",
+      "085.Horned_Lark/Horned_Lark_0072_74067.jpg",
+      "085.Horned_Lark/Horned_Lark_0076_73931.jpg"
+    ]
+  },
+  "086.Pacific_Loon": {
+    "class_id": 86,
+    "class_name": "Pacific Loon",
+    "image_paths": [
+      "086.Pacific_Loon/Pacific_Loon_0014_75468.jpg",
+      "086.Pacific_Loon/Pacific_Loon_0017_75835.jpg",
+      "086.Pacific_Loon/Pacific_Loon_0021_75859.jpg",
+      "086.Pacific_Loon/Pacific_Loon_0052_75451.jpg",
+      "086.Pacific_Loon/Pacific_Loon_0066_75547.jpg"
+    ]
+  },
+  "087.Mallard": {
+    "class_id": 87,
+    "class_name": "Mallard",
+    "image_paths": [
+      "087.Mallard/Mallard_0055_77102.jpg",
+      "087.Mallard/Mallard_0077_75911.jpg",
+      "087.Mallard/Mallard_0093_77419.jpg",
+      "087.Mallard/Mallard_0095_76080.jpg",
+      "087.Mallard/Mallard_0098_77490.jpg"
+    ]
+  },
+  "088.Western_Meadowlark": {
+    "class_id": 88,
+    "class_name": "Western Meadowlark",
+    "image_paths": [
+      "088.Western_Meadowlark/Western_Meadowlark_0001_78676.jpg",
+      "088.Western_Meadowlark/Western_Meadowlark_0015_78610.jpg",
+      "088.Western_Meadowlark/Western_Meadowlark_0017_78940.jpg",
+      "088.Western_Meadowlark/Western_Meadowlark_0052_77781.jpg",
+      "088.Western_Meadowlark/Western_Meadowlark_0118_78820.jpg"
+    ]
+  },
+  "089.Hooded_Merganser": {
+    "class_id": 89,
+    "class_name": "Hooded Merganser",
+    "image_paths": [
+      "089.Hooded_Merganser/Hooded_Merganser_0006_796778.jpg",
+      "089.Hooded_Merganser/Hooded_Merganser_0015_79132.jpg",
+      "089.Hooded_Merganser/Hooded_Merganser_0079_796768.jpg",
+      "089.Hooded_Merganser/Hooded_Merganser_0085_79146.jpg",
+      "089.Hooded_Merganser/Hooded_Merganser_0093_79075.jpg"
+    ]
+  },
+  "090.Red_breasted_Merganser": {
+    "class_id": 90,
+    "class_name": "Red breasted Merganser",
+    "image_paths": [
+      "090.Red_breasted_Merganser/Red_Breasted_Merganser_0022_79274.jpg",
+      "090.Red_breasted_Merganser/Red_Breasted_Merganser_0049_79432.jpg",
+      "090.Red_breasted_Merganser/Red_Breasted_Merganser_0074_79497.jpg",
+      "090.Red_breasted_Merganser/Red_Breasted_Merganser_0078_79393.jpg",
+      "090.Red_breasted_Merganser/Red_Breasted_Merganser_0081_79396.jpg"
+    ]
+  },
+  "091.Mockingbird": {
+    "class_id": 91,
+    "class_name": "Mockingbird",
+    "image_paths": [
+      "091.Mockingbird/Mockingbird_0008_81226.jpg",
+      "091.Mockingbird/Mockingbird_0035_79635.jpg",
+      "091.Mockingbird/Mockingbird_0077_81470.jpg",
+      "091.Mockingbird/Mockingbird_0094_80232.jpg",
+      "091.Mockingbird/Mockingbird_0108_81908.jpg"
+    ]
+  },
+  "092.Nighthawk": {
+    "class_id": 92,
+    "class_name": "Nighthawk",
+    "image_paths": [
+      "092.Nighthawk/Nighthawk_0019_83850.jpg",
+      "092.Nighthawk/Nighthawk_0027_84697.jpg",
+      "092.Nighthawk/Nighthawk_0035_84077.jpg",
+      "092.Nighthawk/Nighthawk_0050_84094.jpg",
+      "092.Nighthawk/Nighthawk_0082_82242.jpg"
+    ]
+  },
+  "093.Clark_Nutcracker": {
+    "class_id": 93,
+    "class_name": "Clark Nutcracker",
+    "image_paths": [
+      "093.Clark_Nutcracker/Clark_Nutcracker_0067_85302.jpg",
+      "093.Clark_Nutcracker/Clark_Nutcracker_0073_85343.jpg",
+      "093.Clark_Nutcracker/Clark_Nutcracker_0082_85477.jpg",
+      "093.Clark_Nutcracker/Clark_Nutcracker_0087_84898.jpg",
+      "093.Clark_Nutcracker/Clark_Nutcracker_0101_85656.jpg"
+    ]
+  },
+  "094.White_breasted_Nuthatch": {
+    "class_id": 94,
+    "class_name": "White breasted Nuthatch",
+    "image_paths": [
+      "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0047_85819.jpg",
+      "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0065_85829.jpg",
+      "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0094_86156.jpg",
+      "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0097_85940.jpg",
+      "094.White_breasted_Nuthatch/White_Breasted_Nuthatch_0142_86805.jpg"
+    ]
+  },
+  "095.Baltimore_Oriole": {
+    "class_id": 95,
+    "class_name": "Baltimore Oriole",
+    "image_paths": [
+      "095.Baltimore_Oriole/Baltimore_Oriole_0024_89720.jpg",
+      "095.Baltimore_Oriole/Baltimore_Oriole_0027_87561.jpg",
+      "095.Baltimore_Oriole/Baltimore_Oriole_0039_88027.jpg",
+      "095.Baltimore_Oriole/Baltimore_Oriole_0091_88487.jpg",
+      "095.Baltimore_Oriole/Baltimore_Oriole_0120_88403.jpg"
+    ]
+  },
+  "096.Hooded_Oriole": {
+    "class_id": 96,
+    "class_name": "Hooded Oriole",
+    "image_paths": [
+      "096.Hooded_Oriole/Hooded_Oriole_0038_90575.jpg",
+      "096.Hooded_Oriole/Hooded_Oriole_0049_89955.jpg",
+      "096.Hooded_Oriole/Hooded_Oriole_0075_90788.jpg",
+      "096.Hooded_Oriole/Hooded_Oriole_0091_90821.jpg",
+      "096.Hooded_Oriole/Hooded_Oriole_0104_90264.jpg"
+    ]
+  },
+  "097.Orchard_Oriole": {
+    "class_id": 97,
+    "class_name": "Orchard Oriole",
+    "image_paths": [
+      "097.Orchard_Oriole/Orchard_Oriole_0011_91592.jpg",
+      "097.Orchard_Oriole/Orchard_Oriole_0032_91201.jpg",
+      "097.Orchard_Oriole/Orchard_Oriole_0033_91532.jpg",
+      "097.Orchard_Oriole/Orchard_Oriole_0046_91646.jpg",
+      "097.Orchard_Oriole/Orchard_Oriole_0084_91658.jpg"
+    ]
+  },
+  "098.Scott_Oriole": {
+    "class_id": 98,
+    "class_name": "Scott Oriole",
+    "image_paths": [
+      "098.Scott_Oriole/Scott_Oriole_0031_90270.jpg",
+      "098.Scott_Oriole/Scott_Oriole_0042_795844.jpg",
+      "098.Scott_Oriole/Scott_Oriole_0051_795807.jpg",
+      "098.Scott_Oriole/Scott_Oriole_0069_92271.jpg",
+      "098.Scott_Oriole/Scott_Oriole_0077_795831.jpg"
+    ]
+  },
+  "099.Ovenbird": {
+    "class_id": 99,
+    "class_name": "Ovenbird",
+    "image_paths": [
+      "099.Ovenbird/Ovenbird_0003_92910.jpg",
+      "099.Ovenbird/Ovenbird_0024_92583.jpg",
+      "099.Ovenbird/Ovenbird_0027_93086.jpg",
+      "099.Ovenbird/Ovenbird_0064_93208.jpg",
+      "099.Ovenbird/Ovenbird_0128_93366.jpg"
+    ]
+  },
+  "100.Brown_Pelican": {
+    "class_id": 100,
+    "class_name": "Brown Pelican",
+    "image_paths": [
+      "100.Brown_Pelican/Brown_Pelican_0011_94683.jpg",
+      "100.Brown_Pelican/Brown_Pelican_0025_95218.jpg",
+      "100.Brown_Pelican/Brown_Pelican_0077_93464.jpg",
+      "100.Brown_Pelican/Brown_Pelican_0118_93475.jpg",
+      "100.Brown_Pelican/Brown_Pelican_0125_93461.jpg"
+    ]
+  },
+  "101.White_Pelican": {
+    "class_id": 101,
+    "class_name": "White Pelican",
+    "image_paths": [
+      "101.White_Pelican/White_Pelican_0013_96901.jpg",
+      "101.White_Pelican/White_Pelican_0024_96554.jpg",
+      "101.White_Pelican/White_Pelican_0053_96236.jpg",
+      "101.White_Pelican/White_Pelican_0056_97071.jpg",
+      "101.White_Pelican/White_Pelican_0059_96675.jpg"
+    ]
+  },
+  "102.Western_Wood_Pewee": {
+    "class_id": 102,
+    "class_name": "Western Wood Pewee",
+    "image_paths": [
+      "102.Western_Wood_Pewee/Western_Wood_Pewee_0003_795050.jpg",
+      "102.Western_Wood_Pewee/Western_Wood_Pewee_0011_98205.jpg",
+      "102.Western_Wood_Pewee/Western_Wood_Pewee_0016_98082.jpg",
+      "102.Western_Wood_Pewee/Western_Wood_Pewee_0021_98101.jpg",
+      "102.Western_Wood_Pewee/Western_Wood_Pewee_0081_98270.jpg"
+    ]
+  },
+  "103.Sayornis": {
+    "class_id": 103,
+    "class_name": "Sayornis",
+    "image_paths": [
+      "103.Sayornis/Sayornis_0010_98611.jpg",
+      "103.Sayornis/Sayornis_0070_99354.jpg",
+      "103.Sayornis/Sayornis_0098_98419.jpg",
+      "103.Sayornis/Sayornis_0111_98406.jpg",
+      "103.Sayornis/Sayornis_0113_98630.jpg"
+    ]
+  },
+  "104.American_Pipit": {
+    "class_id": 104,
+    "class_name": "American Pipit",
+    "image_paths": [
+      "104.American_Pipit/American_Pipit_0037_99954.jpg",
+      "104.American_Pipit/American_Pipit_0082_99867.jpg",
+      "104.American_Pipit/American_Pipit_0085_100246.jpg",
+      "104.American_Pipit/American_Pipit_0087_99996.jpg",
+      "104.American_Pipit/American_Pipit_0113_99939.jpg"
+    ]
+  },
+  "105.Whip_poor_Will": {
+    "class_id": 105,
+    "class_name": "Whip poor Will",
+    "image_paths": [
+      "105.Whip_poor_Will/Whip_Poor_Will_0008_796420.jpg",
+      "105.Whip_poor_Will/Whip_Poor_Will_0011_796416.jpg",
+      "105.Whip_poor_Will/Whip_Poor_Will_0038_100443.jpg",
+      "105.Whip_poor_Will/Whip_Poor_Will_0040_100482.jpg",
+      "105.Whip_poor_Will/Whip_Poor_Will_0049_83621.jpg"
+    ]
+  },
+  "106.Horned_Puffin": {
+    "class_id": 106,
+    "class_name": "Horned Puffin",
+    "image_paths": [
+      "106.Horned_Puffin/Horned_Puffin_0004_100733.jpg",
+      "106.Horned_Puffin/Horned_Puffin_0022_100766.jpg",
+      "106.Horned_Puffin/Horned_Puffin_0024_100620.jpg",
+      "106.Horned_Puffin/Horned_Puffin_0031_100804.jpg",
+      "106.Horned_Puffin/Horned_Puffin_0040_100891.jpg"
+    ]
+  },
+  "107.Common_Raven": {
+    "class_id": 107,
+    "class_name": "Common Raven",
+    "image_paths": [
+      "107.Common_Raven/Common_Raven_0002_102582.jpg",
+      "107.Common_Raven/Common_Raven_0066_101461.jpg",
+      "107.Common_Raven/Common_Raven_0078_101148.jpg",
+      "107.Common_Raven/Common_Raven_0099_102534.jpg",
+      "107.Common_Raven/Common_Raven_0117_101833.jpg"
+    ]
+  },
+  "108.White_necked_Raven": {
+    "class_id": 108,
+    "class_name": "White necked Raven",
+    "image_paths": [
+      "108.White_necked_Raven/White_Necked_Raven_0004_102714.jpg",
+      "108.White_necked_Raven/White_Necked_Raven_0007_102676.jpg",
+      "108.White_necked_Raven/White_Necked_Raven_0042_797356.jpg",
+      "108.White_necked_Raven/White_Necked_Raven_0044_797348.jpg",
+      "108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg"
+    ]
+  },
+  "109.American_Redstart": {
+    "class_id": 109,
+    "class_name": "American Redstart",
+    "image_paths": [
+      "109.American_Redstart/American_Redstart_0031_102890.jpg",
+      "109.American_Redstart/American_Redstart_0045_102823.jpg",
+      "109.American_Redstart/American_Redstart_0087_103371.jpg",
+      "109.American_Redstart/American_Redstart_0111_102945.jpg",
+      "109.American_Redstart/American_Redstart_0138_102869.jpg"
+    ]
+  },
+  "110.Geococcyx": {
+    "class_id": 110,
+    "class_name": "Geococcyx",
+    "image_paths": [
+      "110.Geococcyx/Geococcyx_0068_104149.jpg",
+      "110.Geococcyx/Geococcyx_0084_104574.jpg",
+      "110.Geococcyx/Geococcyx_0086_104755.jpg",
+      "110.Geococcyx/Geococcyx_0096_104369.jpg",
+      "110.Geococcyx/Geococcyx_0131_104300.jpg"
+    ]
+  },
+  "111.Loggerhead_Shrike": {
+    "class_id": 111,
+    "class_name": "Loggerhead Shrike",
+    "image_paths": [
+      "111.Loggerhead_Shrike/Loggerhead_Shrike_0018_26407.jpg",
+      "111.Loggerhead_Shrike/Loggerhead_Shrike_0029_104849.jpg",
+      "111.Loggerhead_Shrike/Loggerhead_Shrike_0046_104998.jpg",
+      "111.Loggerhead_Shrike/Loggerhead_Shrike_0052_105120.jpg",
+      "111.Loggerhead_Shrike/Loggerhead_Shrike_0127_105742.jpg"
+    ]
+  },
+  "112.Great_Grey_Shrike": {
+    "class_id": 112,
+    "class_name": "Great Grey Shrike",
+    "image_paths": [
+      "112.Great_Grey_Shrike/Great_Grey_Shrike_0004_797041.jpg",
+      "112.Great_Grey_Shrike/Great_Grey_Shrike_0008_797053.jpg",
+      "112.Great_Grey_Shrike/Great_Grey_Shrike_0016_106720.jpg",
+      "112.Great_Grey_Shrike/Great_Grey_Shrike_0058_106634.jpg",
+      "112.Great_Grey_Shrike/Great_Grey_Shrike_0083_797051.jpg"
+    ]
+  },
+  "113.Baird_Sparrow": {
+    "class_id": 113,
+    "class_name": "Baird Sparrow",
+    "image_paths": [
+      "113.Baird_Sparrow/Baird_Sparrow_0002_794551.jpg",
+      "113.Baird_Sparrow/Baird_Sparrow_0014_794549.jpg",
+      "113.Baird_Sparrow/Baird_Sparrow_0043_794555.jpg",
+      "113.Baird_Sparrow/Baird_Sparrow_0047_787318.jpg",
+      "113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg"
+    ]
+  },
+  "114.Black_throated_Sparrow": {
+    "class_id": 114,
+    "class_name": "Black throated Sparrow",
+    "image_paths": [
+      "114.Black_throated_Sparrow/Black_Throated_Sparrow_0001_107233.jpg",
+      "114.Black_throated_Sparrow/Black_Throated_Sparrow_0046_107339.jpg",
+      "114.Black_throated_Sparrow/Black_Throated_Sparrow_0069_107116.jpg",
+      "114.Black_throated_Sparrow/Black_Throated_Sparrow_0078_107298.jpg",
+      "114.Black_throated_Sparrow/Black_Throated_Sparrow_0095_107268.jpg"
+    ]
+  },
+  "115.Brewer_Sparrow": {
+    "class_id": 115,
+    "class_name": "Brewer Sparrow",
+    "image_paths": [
+      "115.Brewer_Sparrow/Brewer_Sparrow_0023_107489.jpg",
+      "115.Brewer_Sparrow/Brewer_Sparrow_0028_107467.jpg",
+      "115.Brewer_Sparrow/Brewer_Sparrow_0032_796702.jpg",
+      "115.Brewer_Sparrow/Brewer_Sparrow_0041_796711.jpg",
+      "115.Brewer_Sparrow/Brewer_Sparrow_0066_107510.jpg"
+    ]
+  },
+  "116.Chipping_Sparrow": {
+    "class_id": 116,
+    "class_name": "Chipping Sparrow",
+    "image_paths": [
+      "116.Chipping_Sparrow/Chipping_Sparrow_0032_108882.jpg",
+      "116.Chipping_Sparrow/Chipping_Sparrow_0038_109234.jpg",
+      "116.Chipping_Sparrow/Chipping_Sparrow_0053_109774.jpg",
+      "116.Chipping_Sparrow/Chipping_Sparrow_0063_108139.jpg",
+      "116.Chipping_Sparrow/Chipping_Sparrow_0076_108919.jpg"
+    ]
+  },
+  "117.Clay_colored_Sparrow": {
+    "class_id": 117,
+    "class_name": "Clay colored Sparrow",
+    "image_paths": [
+      "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0036_110924.jpg",
+      "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0064_110664.jpg",
+      "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0080_797253.jpg",
+      "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0091_110768.jpg",
+      "117.Clay_colored_Sparrow/Clay_Colored_Sparrow_0106_797247.jpg"
+    ]
+  },
+  "118.House_Sparrow": {
+    "class_id": 118,
+    "class_name": "House Sparrow",
+    "image_paths": [
+      "118.House_Sparrow/House_Sparrow_0006_111034.jpg",
+      "118.House_Sparrow/House_Sparrow_0086_111385.jpg",
+      "118.House_Sparrow/House_Sparrow_0093_110990.jpg",
+      "118.House_Sparrow/House_Sparrow_0106_111564.jpg",
+      "118.House_Sparrow/House_Sparrow_0128_110971.jpg"
+    ]
+  },
+  "119.Field_Sparrow": {
+    "class_id": 119,
+    "class_name": "Field Sparrow",
+    "image_paths": [
+      "119.Field_Sparrow/Field_Sparrow_0034_113364.jpg",
+      "119.Field_Sparrow/Field_Sparrow_0055_113929.jpg",
+      "119.Field_Sparrow/Field_Sparrow_0100_113503.jpg",
+      "119.Field_Sparrow/Field_Sparrow_0111_113899.jpg",
+      "119.Field_Sparrow/Field_Sparrow_0126_113426.jpg"
+    ]
+  },
+  "120.Fox_Sparrow": {
+    "class_id": 120,
+    "class_name": "Fox Sparrow",
+    "image_paths": [
+      "120.Fox_Sparrow/Fox_Sparrow_0035_114866.jpg",
+      "120.Fox_Sparrow/Fox_Sparrow_0039_114816.jpg",
+      "120.Fox_Sparrow/Fox_Sparrow_0078_114582.jpg",
+      "120.Fox_Sparrow/Fox_Sparrow_0116_115311.jpg",
+      "120.Fox_Sparrow/Fox_Sparrow_0124_114662.jpg"
+    ]
+  },
+  "121.Grasshopper_Sparrow": {
+    "class_id": 121,
+    "class_name": "Grasshopper Sparrow",
+    "image_paths": [
+      "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0001_115938.jpg",
+      "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0003_115676.jpg",
+      "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0020_116289.jpg",
+      "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0039_115980.jpg",
+      "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg"
+    ]
+  },
+  "122.Harris_Sparrow": {
+    "class_id": 122,
+    "class_name": "Harris Sparrow",
+    "image_paths": [
+      "122.Harris_Sparrow/Harris_Sparrow_0016_116661.jpg",
+      "122.Harris_Sparrow/Harris_Sparrow_0018_116402.jpg",
+      "122.Harris_Sparrow/Harris_Sparrow_0026_116620.jpg",
+      "122.Harris_Sparrow/Harris_Sparrow_0056_116532.jpg",
+      "122.Harris_Sparrow/Harris_Sparrow_0073_116577.jpg"
+    ]
+  },
+  "123.Henslow_Sparrow": {
+    "class_id": 123,
+    "class_name": "Henslow Sparrow",
+    "image_paths": [
+      "123.Henslow_Sparrow/Henslow_Sparrow_0002_116930.jpg",
+      "123.Henslow_Sparrow/Henslow_Sparrow_0018_116834.jpg",
+      "123.Henslow_Sparrow/Henslow_Sparrow_0027_796543.jpg",
+      "123.Henslow_Sparrow/Henslow_Sparrow_0058_796616.jpg",
+      "123.Henslow_Sparrow/Henslow_Sparrow_0096_116758.jpg"
+    ]
+  },
+  "124.Le_Conte_Sparrow": {
+    "class_id": 124,
+    "class_name": "Le Conte Sparrow",
+    "image_paths": [
+      "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0016_795223.jpg",
+      "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0072_795230.jpg",
+      "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0073_117127.jpg",
+      "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0078_117052.jpg",
+      "124.Le_Conte_Sparrow/Le_Conte_Sparrow_0099_795182.jpg"
+    ]
+  },
+  "125.Lincoln_Sparrow": {
+    "class_id": 125,
+    "class_name": "Lincoln Sparrow",
+    "image_paths": [
+      "125.Lincoln_Sparrow/Lincoln_Sparrow_0014_117883.jpg",
+      "125.Lincoln_Sparrow/Lincoln_Sparrow_0032_117747.jpg",
+      "125.Lincoln_Sparrow/Lincoln_Sparrow_0059_117271.jpg",
+      "125.Lincoln_Sparrow/Lincoln_Sparrow_0084_117492.jpg",
+      "125.Lincoln_Sparrow/Lincoln_Sparrow_0108_117773.jpg"
+    ]
+  },
+  "126.Nelson_Sharp_tailed_Sparrow": {
+    "class_id": 126,
+    "class_name": "Nelson Sharp tailed Sparrow",
+    "image_paths": [
+      "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0013_796942.jpg",
+      "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0019_118066.jpg",
+      "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0033_118024.jpg",
+      "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0051_796902.jpg",
+      "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0079_796934.jpg"
+    ]
+  },
+  "127.Savannah_Sparrow": {
+    "class_id": 127,
+    "class_name": "Savannah Sparrow",
+    "image_paths": [
+      "127.Savannah_Sparrow/Savannah_Sparrow_0001_118956.jpg",
+      "127.Savannah_Sparrow/Savannah_Sparrow_0052_118583.jpg",
+      "127.Savannah_Sparrow/Savannah_Sparrow_0067_118491.jpg",
+      "127.Savannah_Sparrow/Savannah_Sparrow_0080_118120.jpg",
+      "127.Savannah_Sparrow/Savannah_Sparrow_0109_119674.jpg"
+    ]
+  },
+  "128.Seaside_Sparrow": {
+    "class_id": 128,
+    "class_name": "Seaside Sparrow",
+    "image_paths": [
+      "128.Seaside_Sparrow/Seaside_Sparrow_0017_796513.jpg",
+      "128.Seaside_Sparrow/Seaside_Sparrow_0042_796528.jpg",
+      "128.Seaside_Sparrow/Seaside_Sparrow_0045_120696.jpg",
+      "128.Seaside_Sparrow/Seaside_Sparrow_0049_120735.jpg",
+      "128.Seaside_Sparrow/Seaside_Sparrow_0067_796532.jpg"
+    ]
+  },
+  "129.Song_Sparrow": {
+    "class_id": 129,
+    "class_name": "Song Sparrow",
+    "image_paths": [
+      "129.Song_Sparrow/Song_Sparrow_0007_121133.jpg",
+      "129.Song_Sparrow/Song_Sparrow_0013_121056.jpg",
+      "129.Song_Sparrow/Song_Sparrow_0020_121490.jpg",
+      "129.Song_Sparrow/Song_Sparrow_0058_121832.jpg",
+      "129.Song_Sparrow/Song_Sparrow_0092_121969.jpg"
+    ]
+  },
+  "130.Tree_Sparrow": {
+    "class_id": 130,
+    "class_name": "Tree Sparrow",
+    "image_paths": [
+      "130.Tree_Sparrow/Tree_Sparrow_0034_123799.jpg",
+      "130.Tree_Sparrow/Tree_Sparrow_0057_123665.jpg",
+      "130.Tree_Sparrow/Tree_Sparrow_0101_124104.jpg",
+      "130.Tree_Sparrow/Tree_Sparrow_0122_123927.jpg",
+      "130.Tree_Sparrow/Tree_Sparrow_0130_124932.jpg"
+    ]
+  },
+  "131.Vesper_Sparrow": {
+    "class_id": 131,
+    "class_name": "Vesper Sparrow",
+    "image_paths": [
+      "131.Vesper_Sparrow/Vesper_Sparrow_0018_125651.jpg",
+      "131.Vesper_Sparrow/Vesper_Sparrow_0022_125719.jpg",
+      "131.Vesper_Sparrow/Vesper_Sparrow_0053_125641.jpg",
+      "131.Vesper_Sparrow/Vesper_Sparrow_0079_125579.jpg",
+      "131.Vesper_Sparrow/Vesper_Sparrow_0080_125606.jpg"
+    ]
+  },
+  "132.White_crowned_Sparrow": {
+    "class_id": 132,
+    "class_name": "White crowned Sparrow",
+    "image_paths": [
+      "132.White_crowned_Sparrow/White_Crowned_Sparrow_0001_127115.jpg",
+      "132.White_crowned_Sparrow/White_Crowned_Sparrow_0061_126315.jpg",
+      "132.White_crowned_Sparrow/White_Crowned_Sparrow_0078_127603.jpg",
+      "132.White_crowned_Sparrow/White_Crowned_Sparrow_0100_126267.jpg",
+      "132.White_crowned_Sparrow/White_Crowned_Sparrow_0122_128577.jpg"
+    ]
+  },
+  "133.White_throated_Sparrow": {
+    "class_id": 133,
+    "class_name": "White throated Sparrow",
+    "image_paths": [
+      "133.White_throated_Sparrow/White_Throated_Sparrow_0002_129057.jpg",
+      "133.White_throated_Sparrow/White_Throated_Sparrow_0042_128899.jpg",
+      "133.White_throated_Sparrow/White_Throated_Sparrow_0056_128906.jpg",
+      "133.White_throated_Sparrow/White_Throated_Sparrow_0085_129180.jpg",
+      "133.White_throated_Sparrow/White_Throated_Sparrow_0123_129009.jpg"
+    ]
+  },
+  "134.Cape_Glossy_Starling": {
+    "class_id": 134,
+    "class_name": "Cape Glossy Starling",
+    "image_paths": [
+      "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0039_129469.jpg",
+      "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0043_129358.jpg",
+      "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0046_129434.jpg",
+      "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0070_129322.jpg",
+      "134.Cape_Glossy_Starling/Cape_Glossy_Starling_0088_129437.jpg"
+    ]
+  },
+  "135.Bank_Swallow": {
+    "class_id": 135,
+    "class_name": "Bank Swallow",
+    "image_paths": [
+      "135.Bank_Swallow/Bank_Swallow_0002_129654.jpg",
+      "135.Bank_Swallow/Bank_Swallow_0023_129878.jpg",
+      "135.Bank_Swallow/Bank_Swallow_0024_129779.jpg",
+      "135.Bank_Swallow/Bank_Swallow_0045_129483.jpg",
+      "135.Bank_Swallow/Bank_Swallow_0052_129575.jpg"
+    ]
+  },
+  "136.Barn_Swallow": {
+    "class_id": 136,
+    "class_name": "Barn Swallow",
+    "image_paths": [
+      "136.Barn_Swallow/Barn_Swallow_0017_132951.jpg",
+      "136.Barn_Swallow/Barn_Swallow_0018_130709.jpg",
+      "136.Barn_Swallow/Barn_Swallow_0047_130016.jpg",
+      "136.Barn_Swallow/Barn_Swallow_0070_130127.jpg",
+      "136.Barn_Swallow/Barn_Swallow_0076_130757.jpg"
+    ]
+  },
+  "137.Cliff_Swallow": {
+    "class_id": 137,
+    "class_name": "Cliff Swallow",
+    "image_paths": [
+      "137.Cliff_Swallow/Cliff_Swallow_0005_133696.jpg",
+      "137.Cliff_Swallow/Cliff_Swallow_0023_134314.jpg",
+      "137.Cliff_Swallow/Cliff_Swallow_0046_133165.jpg",
+      "137.Cliff_Swallow/Cliff_Swallow_0049_132965.jpg",
+      "137.Cliff_Swallow/Cliff_Swallow_0071_133742.jpg"
+    ]
+  },
+  "138.Tree_Swallow": {
+    "class_id": 138,
+    "class_name": "Tree Swallow",
+    "image_paths": [
+      "138.Tree_Swallow/Tree_Swallow_0041_136439.jpg",
+      "138.Tree_Swallow/Tree_Swallow_0043_136878.jpg",
+      "138.Tree_Swallow/Tree_Swallow_0058_134987.jpg",
+      "138.Tree_Swallow/Tree_Swallow_0060_134961.jpg",
+      "138.Tree_Swallow/Tree_Swallow_0108_135068.jpg"
+    ]
+  },
+  "139.Scarlet_Tanager": {
+    "class_id": 139,
+    "class_name": "Scarlet Tanager",
+    "image_paths": [
+      "139.Scarlet_Tanager/Scarlet_Tanager_0017_138484.jpg",
+      "139.Scarlet_Tanager/Scarlet_Tanager_0060_138384.jpg",
+      "139.Scarlet_Tanager/Scarlet_Tanager_0075_137602.jpg",
+      "139.Scarlet_Tanager/Scarlet_Tanager_0090_137703.jpg",
+      "139.Scarlet_Tanager/Scarlet_Tanager_0107_138577.jpg"
+    ]
+  },
+  "140.Summer_Tanager": {
+    "class_id": 140,
+    "class_name": "Summer Tanager",
+    "image_paths": [
+      "140.Summer_Tanager/Summer_Tanager_0006_140137.jpg",
+      "140.Summer_Tanager/Summer_Tanager_0034_139781.jpg",
+      "140.Summer_Tanager/Summer_Tanager_0066_140621.jpg",
+      "140.Summer_Tanager/Summer_Tanager_0099_139310.jpg",
+      "140.Summer_Tanager/Summer_Tanager_0119_140617.jpg"
+    ]
+  },
+  "141.Artic_Tern": {
+    "class_id": 141,
+    "class_name": "Artic Tern",
+    "image_paths": [
+      "141.Artic_Tern/Artic_Tern_0021_143477.jpg",
+      "141.Artic_Tern/Artic_Tern_0055_141524.jpg",
+      "141.Artic_Tern/Artic_Tern_0101_141075.jpg",
+      "141.Artic_Tern/Artic_Tern_0111_143101.jpg",
+      "141.Artic_Tern/Artic_Tern_0133_141069.jpg"
+    ]
+  },
+  "142.Black_Tern": {
+    "class_id": 142,
+    "class_name": "Black Tern",
+    "image_paths": [
+      "142.Black_Tern/Black_Tern_0015_143979.jpg",
+      "142.Black_Tern/Black_Tern_0046_144229.jpg",
+      "142.Black_Tern/Black_Tern_0059_144159.jpg",
+      "142.Black_Tern/Black_Tern_0082_144372.jpg",
+      "142.Black_Tern/Black_Tern_0099_144242.jpg"
+    ]
+  },
+  "143.Caspian_Tern": {
+    "class_id": 143,
+    "class_name": "Caspian Tern",
+    "image_paths": [
+      "143.Caspian_Tern/Caspian_Tern_0072_147667.jpg",
+      "143.Caspian_Tern/Caspian_Tern_0101_145164.jpg",
+      "143.Caspian_Tern/Caspian_Tern_0107_145639.jpg",
+      "143.Caspian_Tern/Caspian_Tern_0114_145612.jpg",
+      "143.Caspian_Tern/Caspian_Tern_0116_145607.jpg"
+    ]
+  },
+  "144.Common_Tern": {
+    "class_id": 144,
+    "class_name": "Common Tern",
+    "image_paths": [
+      "144.Common_Tern/Common_Tern_0025_147728.jpg",
+      "144.Common_Tern/Common_Tern_0029_148035.jpg",
+      "144.Common_Tern/Common_Tern_0033_148675.jpg",
+      "144.Common_Tern/Common_Tern_0064_148761.jpg",
+      "144.Common_Tern/Common_Tern_0077_149196.jpg"
+    ]
+  },
+  "145.Elegant_Tern": {
+    "class_id": 145,
+    "class_name": "Elegant Tern",
+    "image_paths": [
+      "145.Elegant_Tern/Elegant_Tern_0046_150905.jpg",
+      "145.Elegant_Tern/Elegant_Tern_0064_150822.jpg",
+      "145.Elegant_Tern/Elegant_Tern_0065_151021.jpg",
+      "145.Elegant_Tern/Elegant_Tern_0076_150519.jpg",
+      "145.Elegant_Tern/Elegant_Tern_0103_150493.jpg"
+    ]
+  },
+  "146.Forsters_Tern": {
+    "class_id": 146,
+    "class_name": "Forsters Tern",
+    "image_paths": [
+      "146.Forsters_Tern/Forsters_Tern_0034_152667.jpg",
+      "146.Forsters_Tern/Forsters_Tern_0035_151757.jpg",
+      "146.Forsters_Tern/Forsters_Tern_0077_152255.jpg",
+      "146.Forsters_Tern/Forsters_Tern_0088_151893.jpg",
+      "146.Forsters_Tern/Forsters_Tern_0121_151385.jpg"
+    ]
+  },
+  "147.Least_Tern": {
+    "class_id": 147,
+    "class_name": "Least Tern",
+    "image_paths": [
+      "147.Least_Tern/Least_Tern_0016_153560.jpg",
+      "147.Least_Tern/Least_Tern_0036_153658.jpg",
+      "147.Least_Tern/Least_Tern_0088_152941.jpg",
+      "147.Least_Tern/Least_Tern_0109_154127.jpg",
+      "147.Least_Tern/Least_Tern_0114_153840.jpg"
+    ]
+  },
+  "148.Green_tailed_Towhee": {
+    "class_id": 148,
+    "class_name": "Green tailed Towhee",
+    "image_paths": [
+      "148.Green_tailed_Towhee/Green_Tailed_Towhee_0001_797412.jpg",
+      "148.Green_tailed_Towhee/Green_Tailed_Towhee_0036_154875.jpg",
+      "148.Green_tailed_Towhee/Green_Tailed_Towhee_0058_797399.jpg",
+      "148.Green_tailed_Towhee/Green_Tailed_Towhee_0060_154820.jpg",
+      "148.Green_tailed_Towhee/Green_Tailed_Towhee_0069_797441.jpg"
+    ]
+  },
+  "149.Brown_Thrasher": {
+    "class_id": 149,
+    "class_name": "Brown Thrasher",
+    "image_paths": [
+      "149.Brown_Thrasher/Brown_Thrasher_0001_155380.jpg",
+      "149.Brown_Thrasher/Brown_Thrasher_0012_155121.jpg",
+      "149.Brown_Thrasher/Brown_Thrasher_0045_155182.jpg",
+      "149.Brown_Thrasher/Brown_Thrasher_0052_155254.jpg",
+      "149.Brown_Thrasher/Brown_Thrasher_0074_155339.jpg"
+    ]
+  },
+  "150.Sage_Thrasher": {
+    "class_id": 150,
+    "class_name": "Sage Thrasher",
+    "image_paths": [
+      "150.Sage_Thrasher/Sage_Thrasher_0021_155548.jpg",
+      "150.Sage_Thrasher/Sage_Thrasher_0051_155464.jpg",
+      "150.Sage_Thrasher/Sage_Thrasher_0076_796445.jpg",
+      "150.Sage_Thrasher/Sage_Thrasher_0083_796450.jpg",
+      "150.Sage_Thrasher/Sage_Thrasher_0092_155482.jpg"
+    ]
+  },
+  "151.Black_capped_Vireo": {
+    "class_id": 151,
+    "class_name": "Black capped Vireo",
+    "image_paths": [
+      "151.Black_capped_Vireo/Black_Capped_Vireo_0009_797493.jpg",
+      "151.Black_capped_Vireo/Black_Capped_Vireo_0013_155815.jpg",
+      "151.Black_capped_Vireo/Black_Capped_Vireo_0016_797489.jpg",
+      "151.Black_capped_Vireo/Black_Capped_Vireo_0018_155868.jpg",
+      "151.Black_capped_Vireo/Black_Capped_Vireo_0024_155905.jpg"
+    ]
+  },
+  "152.Blue_headed_Vireo": {
+    "class_id": 152,
+    "class_name": "Blue headed Vireo",
+    "image_paths": [
+      "152.Blue_headed_Vireo/Blue_Headed_Vireo_0010_156344.jpg",
+      "152.Blue_headed_Vireo/Blue_Headed_Vireo_0020_155994.jpg",
+      "152.Blue_headed_Vireo/Blue_Headed_Vireo_0023_156112.jpg",
+      "152.Blue_headed_Vireo/Blue_Headed_Vireo_0034_156251.jpg",
+      "152.Blue_headed_Vireo/Blue_Headed_Vireo_0062_156109.jpg"
+    ]
+  },
+  "153.Philadelphia_Vireo": {
+    "class_id": 153,
+    "class_name": "Philadelphia Vireo",
+    "image_paths": [
+      "153.Philadelphia_Vireo/Philadelphia_Vireo_0049_794756.jpg",
+      "153.Philadelphia_Vireo/Philadelphia_Vireo_0052_794774.jpg",
+      "153.Philadelphia_Vireo/Philadelphia_Vireo_0061_156613.jpg",
+      "153.Philadelphia_Vireo/Philadelphia_Vireo_0070_794758.jpg",
+      "153.Philadelphia_Vireo/Philadelphia_Vireo_0071_794796.jpg"
+    ]
+  },
+  "154.Red_eyed_Vireo": {
+    "class_id": 154,
+    "class_name": "Red eyed Vireo",
+    "image_paths": [
+      "154.Red_eyed_Vireo/Red_Eyed_Vireo_0003_157226.jpg",
+      "154.Red_eyed_Vireo/Red_Eyed_Vireo_0019_156921.jpg",
+      "154.Red_eyed_Vireo/Red_Eyed_Vireo_0056_156968.jpg",
+      "154.Red_eyed_Vireo/Red_Eyed_Vireo_0101_156988.jpg",
+      "154.Red_eyed_Vireo/Red_Eyed_Vireo_0109_157176.jpg"
+    ]
+  },
+  "155.Warbling_Vireo": {
+    "class_id": 155,
+    "class_name": "Warbling Vireo",
+    "image_paths": [
+      "155.Warbling_Vireo/Warbling_Vireo_0022_158144.jpg",
+      "155.Warbling_Vireo/Warbling_Vireo_0029_158679.jpg",
+      "155.Warbling_Vireo/Warbling_Vireo_0067_158283.jpg",
+      "155.Warbling_Vireo/Warbling_Vireo_0077_158427.jpg",
+      "155.Warbling_Vireo/Warbling_Vireo_0118_158285.jpg"
+    ]
+  },
+  "156.White_eyed_Vireo": {
+    "class_id": 156,
+    "class_name": "White eyed Vireo",
+    "image_paths": [
+      "156.White_eyed_Vireo/White_Eyed_Vireo_0016_158978.jpg",
+      "156.White_eyed_Vireo/White_Eyed_Vireo_0033_159079.jpg",
+      "156.White_eyed_Vireo/White_Eyed_Vireo_0042_159012.jpg",
+      "156.White_eyed_Vireo/White_Eyed_Vireo_0071_159072.jpg",
+      "156.White_eyed_Vireo/White_Eyed_Vireo_0128_158993.jpg"
+    ]
+  },
+  "157.Yellow_throated_Vireo": {
+    "class_id": 157,
+    "class_name": "Yellow throated Vireo",
+    "image_paths": [
+      "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0006_159693.jpg",
+      "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0017_794988.jpg",
+      "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0025_795009.jpg",
+      "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0058_794994.jpg",
+      "157.Yellow_throated_Vireo/Yellow_Throated_Vireo_0070_159602.jpg"
+    ]
+  },
+  "158.Bay_breasted_Warbler": {
+    "class_id": 158,
+    "class_name": "Bay breasted Warbler",
+    "image_paths": [
+      "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0020_159737.jpg",
+      "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0045_797135.jpg",
+      "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0078_797163.jpg",
+      "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0079_159998.jpg",
+      "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0087_797122.jpg"
+    ]
+  },
+  "159.Black_and_white_Warbler": {
+    "class_id": 159,
+    "class_name": "Black and white Warbler",
+    "image_paths": [
+      "159.Black_and_white_Warbler/Black_And_White_Warbler_0007_160758.jpg",
+      "159.Black_and_white_Warbler/Black_And_White_Warbler_0021_160686.jpg",
+      "159.Black_and_white_Warbler/Black_And_White_Warbler_0022_160512.jpg",
+      "159.Black_and_white_Warbler/Black_And_White_Warbler_0057_160037.jpg",
+      "159.Black_and_white_Warbler/Black_And_White_Warbler_0060_160764.jpg"
+    ]
+  },
+  "160.Black_throated_Blue_Warbler": {
+    "class_id": 160,
+    "class_name": "Black throated Blue Warbler",
+    "image_paths": [
+      "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0010_161169.jpg",
+      "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0024_161619.jpg",
+      "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0037_161707.jpg",
+      "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0063_161213.jpg",
+      "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0090_161507.jpg"
+    ]
+  },
+  "161.Blue_winged_Warbler": {
+    "class_id": 161,
+    "class_name": "Blue winged Warbler",
+    "image_paths": [
+      "161.Blue_winged_Warbler/Blue_Winged_Warbler_0014_161783.jpg",
+      "161.Blue_winged_Warbler/Blue_Winged_Warbler_0021_161858.jpg",
+      "161.Blue_winged_Warbler/Blue_Winged_Warbler_0036_161758.jpg",
+      "161.Blue_winged_Warbler/Blue_Winged_Warbler_0077_162021.jpg",
+      "161.Blue_winged_Warbler/Blue_Winged_Warbler_0082_161772.jpg"
+    ]
+  },
+  "162.Canada_Warbler": {
+    "class_id": 162,
+    "class_name": "Canada Warbler",
+    "image_paths": [
+      "162.Canada_Warbler/Canada_Warbler_0040_162352.jpg",
+      "162.Canada_Warbler/Canada_Warbler_0075_162428.jpg",
+      "162.Canada_Warbler/Canada_Warbler_0076_162393.jpg",
+      "162.Canada_Warbler/Canada_Warbler_0112_162398.jpg",
+      "162.Canada_Warbler/Canada_Warbler_0120_162415.jpg"
+    ]
+  },
+  "163.Cape_May_Warbler": {
+    "class_id": 163,
+    "class_name": "Cape May Warbler",
+    "image_paths": [
+      "163.Cape_May_Warbler/Cape_May_Warbler_0032_162659.jpg",
+      "163.Cape_May_Warbler/Cape_May_Warbler_0077_162979.jpg",
+      "163.Cape_May_Warbler/Cape_May_Warbler_0088_163149.jpg",
+      "163.Cape_May_Warbler/Cape_May_Warbler_0101_163169.jpg",
+      "163.Cape_May_Warbler/Cape_May_Warbler_0108_163108.jpg"
+    ]
+  },
+  "164.Cerulean_Warbler": {
+    "class_id": 164,
+    "class_name": "Cerulean Warbler",
+    "image_paths": [
+      "164.Cerulean_Warbler/Cerulean_Warbler_0010_797210.jpg",
+      "164.Cerulean_Warbler/Cerulean_Warbler_0014_797226.jpg",
+      "164.Cerulean_Warbler/Cerulean_Warbler_0045_797217.jpg",
+      "164.Cerulean_Warbler/Cerulean_Warbler_0047_797211.jpg",
+      "164.Cerulean_Warbler/Cerulean_Warbler_0084_797177.jpg"
+    ]
+  },
+  "165.Chestnut_sided_Warbler": {
+    "class_id": 165,
+    "class_name": "Chestnut sided Warbler",
+    "image_paths": [
+      "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0006_163858.jpg",
+      "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0053_163615.jpg",
+      "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0069_163921.jpg",
+      "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0124_164109.jpg",
+      "165.Chestnut_sided_Warbler/Chestnut_Sided_Warbler_0128_163696.jpg"
+    ]
+  },
+  "166.Golden_winged_Warbler": {
+    "class_id": 166,
+    "class_name": "Golden winged Warbler",
+    "image_paths": [
+      "166.Golden_winged_Warbler/Golden_Winged_Warbler_0018_164558.jpg",
+      "166.Golden_winged_Warbler/Golden_Winged_Warbler_0024_794807.jpg",
+      "166.Golden_winged_Warbler/Golden_Winged_Warbler_0030_164462.jpg",
+      "166.Golden_winged_Warbler/Golden_Winged_Warbler_0083_794801.jpg",
+      "166.Golden_winged_Warbler/Golden_Winged_Warbler_0092_164465.jpg"
+    ]
+  },
+  "167.Hooded_Warbler": {
+    "class_id": 167,
+    "class_name": "Hooded Warbler",
+    "image_paths": [
+      "167.Hooded_Warbler/Hooded_Warbler_0012_164891.jpg",
+      "167.Hooded_Warbler/Hooded_Warbler_0013_164627.jpg",
+      "167.Hooded_Warbler/Hooded_Warbler_0021_165057.jpg",
+      "167.Hooded_Warbler/Hooded_Warbler_0040_165173.jpg",
+      "167.Hooded_Warbler/Hooded_Warbler_0053_164631.jpg"
+    ]
+  },
+  "168.Kentucky_Warbler": {
+    "class_id": 168,
+    "class_name": "Kentucky Warbler",
+    "image_paths": [
+      "168.Kentucky_Warbler/Kentucky_Warbler_0025_165304.jpg",
+      "168.Kentucky_Warbler/Kentucky_Warbler_0027_795917.jpg",
+      "168.Kentucky_Warbler/Kentucky_Warbler_0031_165363.jpg",
+      "168.Kentucky_Warbler/Kentucky_Warbler_0062_795897.jpg",
+      "168.Kentucky_Warbler/Kentucky_Warbler_0078_795889.jpg"
+    ]
+  },
+  "169.Magnolia_Warbler": {
+    "class_id": 169,
+    "class_name": "Magnolia Warbler",
+    "image_paths": [
+      "169.Magnolia_Warbler/Magnolia_Warbler_0001_166266.jpg",
+      "169.Magnolia_Warbler/Magnolia_Warbler_0011_166382.jpg",
+      "169.Magnolia_Warbler/Magnolia_Warbler_0023_165827.jpg",
+      "169.Magnolia_Warbler/Magnolia_Warbler_0032_165960.jpg",
+      "169.Magnolia_Warbler/Magnolia_Warbler_0112_166406.jpg"
+    ]
+  },
+  "170.Mourning_Warbler": {
+    "class_id": 170,
+    "class_name": "Mourning Warbler",
+    "image_paths": [
+      "170.Mourning_Warbler/Mourning_Warbler_0021_166560.jpg",
+      "170.Mourning_Warbler/Mourning_Warbler_0029_166530.jpg",
+      "170.Mourning_Warbler/Mourning_Warbler_0037_795381.jpg",
+      "170.Mourning_Warbler/Mourning_Warbler_0052_166537.jpg",
+      "170.Mourning_Warbler/Mourning_Warbler_0074_795367.jpg"
+    ]
+  },
+  "171.Myrtle_Warbler": {
+    "class_id": 171,
+    "class_name": "Myrtle Warbler",
+    "image_paths": [
+      "171.Myrtle_Warbler/Myrtle_Warbler_0009_166752.jpg",
+      "171.Myrtle_Warbler/Myrtle_Warbler_0036_166833.jpg",
+      "171.Myrtle_Warbler/Myrtle_Warbler_0069_166914.jpg",
+      "171.Myrtle_Warbler/Myrtle_Warbler_0102_166725.jpg",
+      "171.Myrtle_Warbler/Myrtle_Warbler_0103_166963.jpg"
+    ]
+  },
+  "172.Nashville_Warbler": {
+    "class_id": 172,
+    "class_name": "Nashville Warbler",
+    "image_paths": [
+      "172.Nashville_Warbler/Nashville_Warbler_0032_167385.jpg",
+      "172.Nashville_Warbler/Nashville_Warbler_0053_167403.jpg",
+      "172.Nashville_Warbler/Nashville_Warbler_0076_167389.jpg",
+      "172.Nashville_Warbler/Nashville_Warbler_0100_167226.jpg",
+      "172.Nashville_Warbler/Nashville_Warbler_0108_167259.jpg"
+    ]
+  },
+  "173.Orange_crowned_Warbler": {
+    "class_id": 173,
+    "class_name": "Orange crowned Warbler",
+    "image_paths": [
+      "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0001_167660.jpg",
+      "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0057_168424.jpg",
+      "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0062_168119.jpg",
+      "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0079_168372.jpg",
+      "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0118_167640.jpg"
+    ]
+  },
+  "174.Palm_Warbler": {
+    "class_id": 174,
+    "class_name": "Palm Warbler",
+    "image_paths": [
+      "174.Palm_Warbler/Palm_Warbler_0054_169175.jpg",
+      "174.Palm_Warbler/Palm_Warbler_0055_170219.jpg",
+      "174.Palm_Warbler/Palm_Warbler_0092_170604.jpg",
+      "174.Palm_Warbler/Palm_Warbler_0093_170499.jpg",
+      "174.Palm_Warbler/Palm_Warbler_0133_169575.jpg"
+    ]
+  },
+  "175.Pine_Warbler": {
+    "class_id": 175,
+    "class_name": "Pine Warbler",
+    "image_paths": [
+      "175.Pine_Warbler/Pine_Warbler_0037_171649.jpg",
+      "175.Pine_Warbler/Pine_Warbler_0046_171452.jpg",
+      "175.Pine_Warbler/Pine_Warbler_0060_171635.jpg",
+      "175.Pine_Warbler/Pine_Warbler_0126_171282.jpg",
+      "175.Pine_Warbler/Pine_Warbler_0127_171742.jpg"
+    ]
+  },
+  "176.Prairie_Warbler": {
+    "class_id": 176,
+    "class_name": "Prairie Warbler",
+    "image_paths": [
+      "176.Prairie_Warbler/Prairie_Warbler_0051_172585.jpg",
+      "176.Prairie_Warbler/Prairie_Warbler_0054_172602.jpg",
+      "176.Prairie_Warbler/Prairie_Warbler_0080_172724.jpg",
+      "176.Prairie_Warbler/Prairie_Warbler_0086_172534.jpg",
+      "176.Prairie_Warbler/Prairie_Warbler_0112_173383.jpg"
+    ]
+  },
+  "177.Prothonotary_Warbler": {
+    "class_id": 177,
+    "class_name": "Prothonotary Warbler",
+    "image_paths": [
+      "177.Prothonotary_Warbler/Prothonotary_Warbler_0021_173816.jpg",
+      "177.Prothonotary_Warbler/Prothonotary_Warbler_0045_173536.jpg",
+      "177.Prothonotary_Warbler/Prothonotary_Warbler_0062_174412.jpg",
+      "177.Prothonotary_Warbler/Prothonotary_Warbler_0070_174650.jpg",
+      "177.Prothonotary_Warbler/Prothonotary_Warbler_0112_174594.jpg"
+    ]
+  },
+  "178.Swainson_Warbler": {
+    "class_id": 178,
+    "class_name": "Swainson Warbler",
+    "image_paths": [
+      "178.Swainson_Warbler/Swainson_Warbler_0019_174692.jpg",
+      "178.Swainson_Warbler/Swainson_Warbler_0038_794882.jpg",
+      "178.Swainson_Warbler/Swainson_Warbler_0039_794859.jpg",
+      "178.Swainson_Warbler/Swainson_Warbler_0049_794880.jpg",
+      "178.Swainson_Warbler/Swainson_Warbler_0054_174689.jpg"
+    ]
+  },
+  "179.Tennessee_Warbler": {
+    "class_id": 179,
+    "class_name": "Tennessee Warbler",
+    "image_paths": [
+      "179.Tennessee_Warbler/Tennessee_Warbler_0004_174997.jpg",
+      "179.Tennessee_Warbler/Tennessee_Warbler_0030_172338.jpg",
+      "179.Tennessee_Warbler/Tennessee_Warbler_0052_175089.jpg",
+      "179.Tennessee_Warbler/Tennessee_Warbler_0095_174903.jpg",
+      "179.Tennessee_Warbler/Tennessee_Warbler_0096_174993.jpg"
+    ]
+  },
+  "180.Wilson_Warbler": {
+    "class_id": 180,
+    "class_name": "Wilson Warbler",
+    "image_paths": [
+      "180.Wilson_Warbler/Wilson_Warbler_0033_175259.jpg",
+      "180.Wilson_Warbler/Wilson_Warbler_0045_175623.jpg",
+      "180.Wilson_Warbler/Wilson_Warbler_0059_175249.jpg",
+      "180.Wilson_Warbler/Wilson_Warbler_0100_175726.jpg",
+      "180.Wilson_Warbler/Wilson_Warbler_0129_175256.jpg"
+    ]
+  },
+  "181.Worm_eating_Warbler": {
+    "class_id": 181,
+    "class_name": "Worm eating Warbler",
+    "image_paths": [
+      "181.Worm_eating_Warbler/Worm_Eating_Warbler_0013_795534.jpg",
+      "181.Worm_eating_Warbler/Worm_Eating_Warbler_0018_795546.jpg",
+      "181.Worm_eating_Warbler/Worm_Eating_Warbler_0023_176118.jpg",
+      "181.Worm_eating_Warbler/Worm_Eating_Warbler_0092_795524.jpg",
+      "181.Worm_eating_Warbler/Worm_Eating_Warbler_0102_176069.jpg"
+    ]
+  },
+  "182.Yellow_Warbler": {
+    "class_id": 182,
+    "class_name": "Yellow Warbler",
+    "image_paths": [
+      "182.Yellow_Warbler/Yellow_Warbler_0018_176674.jpg",
+      "182.Yellow_Warbler/Yellow_Warbler_0020_176364.jpg",
+      "182.Yellow_Warbler/Yellow_Warbler_0043_176247.jpg",
+      "182.Yellow_Warbler/Yellow_Warbler_0046_176212.jpg",
+      "182.Yellow_Warbler/Yellow_Warbler_0087_176591.jpg"
+    ]
+  },
+  "183.Northern_Waterthrush": {
+    "class_id": 183,
+    "class_name": "Northern Waterthrush",
+    "image_paths": [
+      "183.Northern_Waterthrush/Northern_Waterthrush_0011_177311.jpg",
+      "183.Northern_Waterthrush/Northern_Waterthrush_0016_177345.jpg",
+      "183.Northern_Waterthrush/Northern_Waterthrush_0043_177070.jpg",
+      "183.Northern_Waterthrush/Northern_Waterthrush_0089_177167.jpg",
+      "183.Northern_Waterthrush/Northern_Waterthrush_0103_177162.jpg"
+    ]
+  },
+  "184.Louisiana_Waterthrush": {
+    "class_id": 184,
+    "class_name": "Louisiana Waterthrush",
+    "image_paths": [
+      "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0004_177455.jpg",
+      "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0041_795279.jpg",
+      "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0042_177551.jpg",
+      "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0049_795244.jpg",
+      "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0062_177285.jpg"
+    ]
+  },
+  "185.Bohemian_Waxwing": {
+    "class_id": 185,
+    "class_name": "Bohemian Waxwing",
+    "image_paths": [
+      "185.Bohemian_Waxwing/Bohemian_Waxwing_0006_796651.jpg",
+      "185.Bohemian_Waxwing/Bohemian_Waxwing_0010_796672.jpg",
+      "185.Bohemian_Waxwing/Bohemian_Waxwing_0075_796678.jpg",
+      "185.Bohemian_Waxwing/Bohemian_Waxwing_0091_796634.jpg",
+      "185.Bohemian_Waxwing/Bohemian_Waxwing_0096_177969.jpg"
+    ]
+  },
+  "186.Cedar_Waxwing": {
+    "class_id": 186,
+    "class_name": "Cedar Waxwing",
+    "image_paths": [
+      "186.Cedar_Waxwing/Cedar_Waxwing_0004_179215.jpg",
+      "186.Cedar_Waxwing/Cedar_Waxwing_0060_178190.jpg",
+      "186.Cedar_Waxwing/Cedar_Waxwing_0096_178164.jpg",
+      "186.Cedar_Waxwing/Cedar_Waxwing_0118_178779.jpg",
+      "186.Cedar_Waxwing/Cedar_Waxwing_0130_178308.jpg"
+    ]
+  },
+  "187.American_Three_toed_Woodpecker": {
+    "class_id": 187,
+    "class_name": "American Three toed Woodpecker",
+    "image_paths": [
+      "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0004_179908.jpg",
+      "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0007_179932.jpg",
+      "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0008_179850.jpg",
+      "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0033_796169.jpg",
+      "187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0043_796187.jpg"
+    ]
+  },
+  "188.Pileated_Woodpecker": {
+    "class_id": 188,
+    "class_name": "Pileated Woodpecker",
+    "image_paths": [
+      "188.Pileated_Woodpecker/Pileated_Woodpecker_0025_180253.jpg",
+      "188.Pileated_Woodpecker/Pileated_Woodpecker_0057_180612.jpg",
+      "188.Pileated_Woodpecker/Pileated_Woodpecker_0072_180006.jpg",
+      "188.Pileated_Woodpecker/Pileated_Woodpecker_0088_180054.jpg",
+      "188.Pileated_Woodpecker/Pileated_Woodpecker_0124_180168.jpg"
+    ]
+  },
+  "189.Red_bellied_Woodpecker": {
+    "class_id": 189,
+    "class_name": "Red bellied Woodpecker",
+    "image_paths": [
+      "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0042_181062.jpg",
+      "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0058_182317.jpg",
+      "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0086_181891.jpg",
+      "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0099_180766.jpg",
+      "189.Red_bellied_Woodpecker/Red_Bellied_Woodpecker_0120_181420.jpg"
+    ]
+  },
+  "190.Red_cockaded_Woodpecker": {
+    "class_id": 190,
+    "class_name": "Red cockaded Woodpecker",
+    "image_paths": [
+      "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0015_182459.jpg",
+      "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0020_182683.jpg",
+      "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0032_182376.jpg",
+      "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0037_794733.jpg",
+      "190.Red_cockaded_Woodpecker/Red_Cockaded_Woodpecker_0058_794739.jpg"
+    ]
+  },
+  "191.Red_headed_Woodpecker": {
+    "class_id": 191,
+    "class_name": "Red headed Woodpecker",
+    "image_paths": [
+      "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0041_182788.jpg",
+      "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0052_182702.jpg",
+      "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0066_183322.jpg",
+      "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0076_183288.jpg",
+      "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0108_183403.jpg"
+    ]
+  },
+  "192.Downy_Woodpecker": {
+    "class_id": 192,
+    "class_name": "Downy Woodpecker",
+    "image_paths": [
+      "192.Downy_Woodpecker/Downy_Woodpecker_0031_184120.jpg",
+      "192.Downy_Woodpecker/Downy_Woodpecker_0043_184314.jpg",
+      "192.Downy_Woodpecker/Downy_Woodpecker_0066_183953.jpg",
+      "192.Downy_Woodpecker/Downy_Woodpecker_0115_184096.jpg",
+      "192.Downy_Woodpecker/Downy_Woodpecker_0121_184002.jpg"
+    ]
+  },
+  "193.Bewick_Wren": {
+    "class_id": 193,
+    "class_name": "Bewick Wren",
+    "image_paths": [
+      "193.Bewick_Wren/Bewick_Wren_0004_185202.jpg",
+      "193.Bewick_Wren/Bewick_Wren_0023_185400.jpg",
+      "193.Bewick_Wren/Bewick_Wren_0062_185063.jpg",
+      "193.Bewick_Wren/Bewick_Wren_0088_184733.jpg",
+      "193.Bewick_Wren/Bewick_Wren_0107_184908.jpg"
+    ]
+  },
+  "194.Cactus_Wren": {
+    "class_id": 194,
+    "class_name": "Cactus Wren",
+    "image_paths": [
+      "194.Cactus_Wren/Cactus_Wren_0008_186083.jpg",
+      "194.Cactus_Wren/Cactus_Wren_0028_185795.jpg",
+      "194.Cactus_Wren/Cactus_Wren_0041_185691.jpg",
+      "194.Cactus_Wren/Cactus_Wren_0069_186033.jpg",
+      "194.Cactus_Wren/Cactus_Wren_0080_185901.jpg"
+    ]
+  },
+  "195.Carolina_Wren": {
+    "class_id": 195,
+    "class_name": "Carolina Wren",
+    "image_paths": [
+      "195.Carolina_Wren/Carolina_Wren_0065_186517.jpg",
+      "195.Carolina_Wren/Carolina_Wren_0072_186309.jpg",
+      "195.Carolina_Wren/Carolina_Wren_0099_186237.jpg",
+      "195.Carolina_Wren/Carolina_Wren_0107_186972.jpg",
+      "195.Carolina_Wren/Carolina_Wren_0141_186347.jpg"
+    ]
+  },
+  "196.House_Wren": {
+    "class_id": 196,
+    "class_name": "House Wren",
+    "image_paths": [
+      "196.House_Wren/House_Wren_0035_187708.jpg",
+      "196.House_Wren/House_Wren_0071_187399.jpg",
+      "196.House_Wren/House_Wren_0085_187723.jpg",
+      "196.House_Wren/House_Wren_0087_187946.jpg",
+      "196.House_Wren/House_Wren_0122_187331.jpg"
+    ]
+  },
+  "197.Marsh_Wren": {
+    "class_id": 197,
+    "class_name": "Marsh Wren",
+    "image_paths": [
+      "197.Marsh_Wren/Marsh_Wren_0019_188460.jpg",
+      "197.Marsh_Wren/Marsh_Wren_0056_188241.jpg",
+      "197.Marsh_Wren/Marsh_Wren_0094_188710.jpg",
+      "197.Marsh_Wren/Marsh_Wren_0095_188371.jpg",
+      "197.Marsh_Wren/Marsh_Wren_0141_188796.jpg"
+    ]
+  },
+  "198.Rock_Wren": {
+    "class_id": 198,
+    "class_name": "Rock Wren",
+    "image_paths": [
+      "198.Rock_Wren/Rock_Wren_0001_189289.jpg",
+      "198.Rock_Wren/Rock_Wren_0021_189175.jpg",
+      "198.Rock_Wren/Rock_Wren_0043_188933.jpg",
+      "198.Rock_Wren/Rock_Wren_0069_188969.jpg",
+      "198.Rock_Wren/Rock_Wren_0080_189340.jpg"
+    ]
+  },
+  "199.Winter_Wren": {
+    "class_id": 199,
+    "class_name": "Winter Wren",
+    "image_paths": [
+      "199.Winter_Wren/Winter_Wren_0015_190099.jpg",
+      "199.Winter_Wren/Winter_Wren_0072_189521.jpg",
+      "199.Winter_Wren/Winter_Wren_0087_190135.jpg",
+      "199.Winter_Wren/Winter_Wren_0109_189850.jpg",
+      "199.Winter_Wren/Winter_Wren_0128_190093.jpg"
+    ]
+  },
+  "200.Common_Yellowthroat": {
+    "class_id": 200,
+    "class_name": "Common Yellowthroat",
+    "image_paths": [
+      "200.Common_Yellowthroat/Common_Yellowthroat_0032_190592.jpg",
+      "200.Common_Yellowthroat/Common_Yellowthroat_0037_190698.jpg",
+      "200.Common_Yellowthroat/Common_Yellowthroat_0069_190400.jpg",
+      "200.Common_Yellowthroat/Common_Yellowthroat_0075_190900.jpg",
+      "200.Common_Yellowthroat/Common_Yellowthroat_0098_190430.jpg"
+    ]
+  }
+}

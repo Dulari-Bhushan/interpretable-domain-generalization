@@ -1,0 +1,18 @@
+{
+  "class_folder": "039.Least_Flycatcher",
+  "class_name": "Least Flycatcher",
+  "image_paths": [
+    "039.Least_Flycatcher/Least_Flycatcher_0021_30355.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0036_30213.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0065_30357.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0077_30296.jpg",
+    "039.Least_Flycatcher/Least_Flycatcher_0096_30233.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A small brownish-grey head\"\n    },\n    {\n       \"feature\":\"Brown eyes\" \n   },  \n     {\"feature\": 'Gray-brown wings'} ,\n      {'feature': 'White underparts'},\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A small brownish-grey head",
+    "Brown eyes",
+    "Gray-brown wings",
+    "White underparts"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "class_folder": "191.Red_headed_Woodpecker",
+  "class_name": "Red headed Woodpecker",
+  "image_paths": [
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0041_182788.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0052_182702.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0066_183322.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0076_183288.jpg",
+    "191.Red_headed_Woodpecker/Red_Headed_Woodpecker_0108_183403.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A red head\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'White underparts'},\n      {\"feature\":\"Gray legs\"},\n      {\"Feature\":\"Curved beak\"}\n]",
+  "concepts": [
+    "A red head",
+    "Black wings",
+    "White underparts",
+    "Gray legs",
+    "Curved beak"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "class_folder": "019.Gray_Catbird",
+  "class_name": "Gray Catbird",
+  "image_paths": [
+    "019.Gray_Catbird/Gray_Catbird_0074_19601.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0100_20674.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0118_20476.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0125_19833.jpg",
+    "019.Gray_Catbird/Gray_Catbird_0134_20596.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Grey wings\" \n   },  \n     {\"feature\": 'Black tail' } ,   \n      {'feature': 'Small beak'},    \n         { \"feature\":\"\"}     \n]",
+  "concepts": [
+    "A black head",
+    "Grey wings",
+    "Black tail",
+    "Small beak"
+  ]
+}

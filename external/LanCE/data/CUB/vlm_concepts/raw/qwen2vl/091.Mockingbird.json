@@ -1,0 +1,19 @@
+{
+  "class_folder": "091.Mockingbird",
+  "class_name": "Mockingbird",
+  "image_paths": [
+    "091.Mockingbird/Mockingbird_0008_81226.jpg",
+    "091.Mockingbird/Mockingbird_0035_79635.jpg",
+    "091.Mockingbird/Mockingbird_0077_81470.jpg",
+    "091.Mockingbird/Mockingbird_0094_80232.jpg",
+    "091.Mockingbird/Mockingbird_0108_81908.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s grey head\"\n    },\n    {\n       'feature': '\"s white underparts'\n   }, \n     {\"feature\":\"'s long black legs\"},  \n      {'feature':'long dark beak'},   \n         {\"feature\" :\"'s small stature\"}\n]",
+  "concepts": [
+    "grey head",
+    "\"s white underparts",
+    "long black legs",
+    "long dark beak",
+    "small stature"
+  ]
+}

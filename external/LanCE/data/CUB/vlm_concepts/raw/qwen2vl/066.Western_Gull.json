@@ -1,0 +1,16 @@
+{
+  "class_folder": "066.Western_Gull",
+  "class_name": "Western Gull",
+  "image_paths": [
+    "066.Western_Gull/Western_Gull_0042_53843.jpg",
+    "066.Western_Gull/Western_Gull_0080_53445.jpg",
+    "066.Western_Gull/Western_Gull_0093_54925.jpg",
+    "066.Western_Gull/Western_Gull_0115_54950.jpg",
+    "066.Western_Gull/Western_Gull_0122_40866.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"orange\" \n   }\n]",
+  "concepts": [
+    "beak",
+    "orange"
+  ]
+}

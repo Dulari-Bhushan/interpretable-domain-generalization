@@ -1,0 +1,18 @@
+{
+  "class_folder": "069.Rufous_Hummingbird",
+  "class_name": "Rufous Hummingbird",
+  "image_paths": [
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0037_60415.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0045_59533.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0089_59524.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0095_60360.jpg",
+    "069.Rufous_Hummingbird/Rufous_Hummingbird_0102_59414.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long beak\"\n    },\n    {\n       \"feature\":\"Orange head feathers\" \n   },  \n     {\"feature\": 'Brown wings' } ,   \n      {'feature': 'White underbelly'} ,\n      { \"feature\":\"\"},\n      {\"\"}\n]",
+  "concepts": [
+    "A long beak",
+    "Orange head feathers",
+    "Brown wings",
+    "White underbelly"
+  ]
+}

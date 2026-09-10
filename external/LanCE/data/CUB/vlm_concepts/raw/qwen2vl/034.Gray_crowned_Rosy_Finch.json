@@ -1,0 +1,17 @@
+{
+  "class_folder": "034.Gray_crowned_Rosy_Finch",
+  "class_name": "Gray crowned Rosy Finch",
+  "image_paths": [
+    "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0016_27181.jpg",
+    "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0030_27068.jpg",
+    "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0038_797309.jpg",
+    "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0043_26990.jpg",
+    "034.Gray_crowned_Rosy_Finch/Gray_Crowned_Rosy_Finch_0052_27032.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\":\"Red underbelly\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Brown wings",
+    "Red underbelly"
+  ]
+}

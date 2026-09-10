@@ -1,0 +1,17 @@
+{
+  "class_folder": "050.Eared_Grebe",
+  "class_name": "Eared Grebe",
+  "image_paths": [
+    "050.Eared_Grebe/Eared_Grebe_0026_34383.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0040_34340.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0067_34416.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0073_34172.jpg",
+    "050.Eared_Grebe/Eared_Grebe_0079_34342.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'black head'\"\n    },\n    {\n      \"feature\":\"'white neck'\"\n   }, \n     {\"feature\": 'red eyes'},\n]",
+  "concepts": [
+    "black head",
+    "white neck",
+    "red eyes"
+  ]
+}

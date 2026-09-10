@@ -1,0 +1,17 @@
+{
+  "class_folder": "013.Bobolink",
+  "class_name": "Bobolink",
+  "image_paths": [
+    "013.Bobolink/Bobolink_0001_9261.jpg",
+    "013.Bobolink/Bobolink_0019_10552.jpg",
+    "013.Bobolink/Bobolink_0047_9204.jpg",
+    "013.Bobolink/Bobolink_0102_10807.jpg",
+    "013.Bobolink/Bobolink_0119_10430.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white neck ring\" \n   },  \n     {\"feature\": 'yellowish-orange crest'}   \n]",
+  "concepts": [
+    "black head",
+    "white neck ring",
+    "yellowish-orange crest"
+  ]
+}

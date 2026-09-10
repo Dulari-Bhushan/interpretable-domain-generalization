@@ -1,0 +1,19 @@
+{
+  "class_folder": "148.Green_tailed_Towhee",
+  "class_name": "Green tailed Towhee",
+  "image_paths": [
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0001_797412.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0036_154875.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0058_797399.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0060_154820.jpg",
+    "148.Green_tailed_Towhee/Green_Tailed_Towhee_0069_797441.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Greyish brown wings\" \n   },  \n     {\"feature\": 'Yellow underparts'},\n      {\"feature\":\"Brown legs\"},\n      {\"Feature\":\"Red crest\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Greyish brown wings",
+    "Yellow underparts",
+    "Brown legs",
+    "Red crest"
+  ]
+}

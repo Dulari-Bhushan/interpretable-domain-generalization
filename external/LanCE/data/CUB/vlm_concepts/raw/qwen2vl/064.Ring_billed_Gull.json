@@ -1,0 +1,21 @@
+{
+  "class_folder": "064.Ring_billed_Gull",
+  "class_name": "Ring billed Gull",
+  "image_paths": [
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0003_51480.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0018_51505.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0028_51454.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0050_51567.jpg",
+    "064.Ring_billed_Gull/Ring_Billed_Gull_0074_52258.jpg"
+  ],
+  "raw_response": "[\"A white head.\", \"Grayish-black wings.\", \"Black tips to primary feathers.\", \"Yellow legs.\", \"White underparts.\", \"Brown eyes.\", \"Curved black beak.\"]",
+  "concepts": [
+    "A white head.",
+    "Grayish-black wings.",
+    "Black tips to primary feathers.",
+    "Yellow legs.",
+    "White underparts.",
+    "Brown eyes.",
+    "Curved black beak."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "class_folder": "145.Elegant_Tern",
+  "class_name": "Elegant Tern",
+  "image_paths": [
+    "145.Elegant_Tern/Elegant_Tern_0046_150905.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0064_150822.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0065_151021.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0076_150519.jpg",
+    "145.Elegant_Tern/Elegant_Tern_0103_150493.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long orange beak\"\n    },\n    {\n       \"feature\":\"Gray wings\" \n   },  \n     {\"feature\": \"\\u03b9 Black head patch\"},   \n      {\"feature\":\"White underparts\"},\n      {\"Feature\":\"Black tips to white feathers\"}\n]",
+  "concepts": [
+    "A long orange beak",
+    "Gray wings",
+    "\u03b9 Black head patch",
+    "White underparts",
+    "Black tips to white feathers"
+  ]
+}

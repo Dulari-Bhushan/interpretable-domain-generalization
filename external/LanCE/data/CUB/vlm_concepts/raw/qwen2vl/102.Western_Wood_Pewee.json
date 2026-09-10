@@ -1,0 +1,20 @@
+{
+  "class_folder": "102.Western_Wood_Pewee",
+  "class_name": "Western Wood Pewee",
+  "image_paths": [
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0003_795050.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0011_98205.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0016_98082.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0021_98101.jpg",
+    "102.Western_Wood_Pewee/Western_Wood_Pewee_0081_98270.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"grayish-brown head\"\n    },\n    {\n       \"feature\":\"brown eyes\" \n   },  \n     {\"feature\": 'white underparts'},\n      {\"feature\":\"short dark beak\"},\n      {\"featuure\":\"small brown speckles\"},   \n      {\"featue\":\"long wingspan relative to body length\"}\n]",
+  "concepts": [
+    "grayish-brown head",
+    "brown eyes",
+    "white underparts",
+    "short dark beak",
+    "small brown speckles",
+    "long wingspan relative to body length"
+  ]
+}

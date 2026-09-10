@@ -1,0 +1,16 @@
+{
+  "class_folder": "195.Carolina_Wren",
+  "class_name": "Carolina Wren",
+  "image_paths": [
+    "195.Carolina_Wren/Carolina_Wren_0065_186517.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0072_186309.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0099_186237.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0107_186972.jpg",
+    "195.Carolina_Wren/Carolina_Wren_0141_186347.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brownish-grey head\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      {'feature': 'Dark eyes'} ,\n      { \"feature\":\"\"beige legs\"}    \n]",
+  "concepts": [
+    "A brownish-grey head",
+    "Brown wings"
+  ]
+}

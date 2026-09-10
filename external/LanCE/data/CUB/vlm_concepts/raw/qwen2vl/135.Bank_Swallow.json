@@ -1,0 +1,17 @@
+{
+  "class_folder": "135.Bank_Swallow",
+  "class_name": "Bank Swallow",
+  "image_paths": [
+    "135.Bank_Swallow/Bank_Swallow_0002_129654.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0023_129878.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0024_129779.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0045_129483.jpg",
+    "135.Bank_Swallow/Bank_Swallow_0052_129575.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A white underbelly\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'Black head' }   \n]",
+  "concepts": [
+    "A white underbelly",
+    "Brown wings",
+    "Black head"
+  ]
+}

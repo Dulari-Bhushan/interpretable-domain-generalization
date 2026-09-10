@@ -1,0 +1,18 @@
+{
+  "class_folder": "005.Crested_Auklet",
+  "class_name": "Crested Auklet",
+  "image_paths": [
+    "005.Crested_Auklet/Crested_Auklet_0019_794925.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0033_794964.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0061_794904.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0062_794968.jpg",
+    "005.Crested_Auklet/Crested_Auklet_0067_785249.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"orange beak\"\n   }, \n     {\"feature\" : \"white ring around eyes\"},\n      {\"feature\":\"feather tuft\"}\n]",
+  "concepts": [
+    "black feathers",
+    "orange beak",
+    "white ring around eyes",
+    "feather tuft"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "class_folder": "058.Pigeon_Guillemot",
+  "class_name": "Pigeon Guillemot",
+  "image_paths": [
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0028_40046.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0055_40171.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0058_40184.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0069_40278.jpg",
+    "058.Pigeon_Guillemot/Pigeon_Guillemot_0073_40209.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white underwing\" \n   },  \n     {\"feature\": 'red legs' }\n]",
+  "concepts": [
+    "black head",
+    "white underwing",
+    "red legs"
+  ]
+}

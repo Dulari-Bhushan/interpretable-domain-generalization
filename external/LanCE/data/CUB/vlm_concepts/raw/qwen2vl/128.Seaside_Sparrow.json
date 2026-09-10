@@ -1,0 +1,19 @@
+{
+  "class_folder": "128.Seaside_Sparrow",
+  "class_name": "Seaside Sparrow",
+  "image_paths": [
+    "128.Seaside_Sparrow/Seaside_Sparrow_0017_796513.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0042_796528.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0045_120696.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0049_120735.jpg",
+    "128.Seaside_Sparrow/Seaside_Sparrow_0067_796532.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellow stripe above its eyes\"\n    },\n    {\n       \"feature\":\"Brown head feathers\"\n   }, \n     {\"feature\" : \"Grayish-brown wings\"},  \n      {\"feature\":\"Yellow underparts\"},\n      {\"Feature\":\"Dark brown legs\"}\n]",
+  "concepts": [
+    "A yellow stripe above its eyes",
+    "Brown head feathers",
+    "Grayish-brown wings",
+    "Yellow underparts",
+    "Dark brown legs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "030.Fish_Crow",
+  "class_name": "Fish Crow",
+  "image_paths": [
+    "030.Fish_Crow/Fish_Crow_0004_25936.jpg",
+    "030.Fish_Crow/Fish_Crow_0025_25893.jpg",
+    "030.Fish_Crow/Fish_Crow_0033_25915.jpg",
+    "030.Fish_Crow/Fish_Crow_0049_26040.jpg",
+    "030.Fish_Crow/Fish_Crow_0069_26008.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black feathers\"\n    },\n    {\n       \"feature\":\"curved beak\" \n   },  \n     {\"feature\": \"\"}   \n]",
+  "concepts": [
+    "black feathers",
+    "curved beak"
+  ]
+}

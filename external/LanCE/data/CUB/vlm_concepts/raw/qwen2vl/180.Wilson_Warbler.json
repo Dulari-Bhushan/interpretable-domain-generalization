@@ -1,0 +1,17 @@
+{
+  "class_folder": "180.Wilson_Warbler",
+  "class_name": "Wilson Warbler",
+  "image_paths": [
+    "180.Wilson_Warbler/Wilson_Warbler_0033_175259.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0045_175623.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0059_175249.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0100_175726.jpg",
+    "180.Wilson_Warbler/Wilson_Warbler_0129_175256.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black cap\" \n   },  \n     {\"feature\": 'orange legs' }   \n]",
+  "concepts": [
+    "yellow underparts",
+    "black cap",
+    "orange legs"
+  ]
+}

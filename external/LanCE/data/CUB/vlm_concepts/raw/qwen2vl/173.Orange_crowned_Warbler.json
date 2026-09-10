@@ -1,0 +1,17 @@
+{
+  "class_folder": "173.Orange_crowned_Warbler",
+  "class_name": "Orange crowned Warbler",
+  "image_paths": [
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0001_167660.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0057_168424.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0062_168119.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0079_168372.jpg",
+    "173.Orange_crowned_Warbler/Orange_Crowned_Warbler_0118_167640.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'orange' colored face\"\n    },\n    {\n       \"feature\":\"yellow underbelly\" \n   },  \n     {\"feature\": 'green wings'}   \n]",
+  "concepts": [
+    "'orange' colored face",
+    "yellow underbelly",
+    "green wings"
+  ]
+}

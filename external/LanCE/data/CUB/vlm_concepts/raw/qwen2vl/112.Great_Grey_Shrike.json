@@ -1,0 +1,20 @@
+{
+  "class_folder": "112.Great_Grey_Shrike",
+  "class_name": "Great Grey Shrike",
+  "image_paths": [
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0004_797041.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0008_797053.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0016_106720.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0058_106634.jpg",
+    "112.Great_Grey_Shrike/Great_Grey_Shrike_0083_797051.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Black eyes\" \n   },  \n     {\"feature\": 'Grey underparts'},\n      {\"feature\":\"White belly\"},\n      {\"Feature\":\"Gray wings\"},   \n      {\" Feature\":\" Black wing tips\"} ,    \n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A grey head",
+    "Black eyes",
+    "Grey underparts",
+    "White belly",
+    "Gray wings",
+    "Black wing tips"
+  ]
+}

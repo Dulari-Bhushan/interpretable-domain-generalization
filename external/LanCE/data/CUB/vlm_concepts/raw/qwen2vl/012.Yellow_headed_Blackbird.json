@@ -1,0 +1,18 @@
+{
+  "class_folder": "012.Yellow_headed_Blackbird",
+  "class_name": "Yellow headed Blackbird",
+  "image_paths": [
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0007_8366.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0025_8262.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0031_8456.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0051_8387.jpg",
+    "012.Yellow_headed_Blackbird/Yellow_Headed_Blackbird_0091_8555.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Black wings\" \n   },  \n     {\"feature\": 'Orange-yellow neck' } ,   \n      {'feature': 'Long legs'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A black head",
+    "Black wings",
+    "Orange-yellow neck",
+    "Long legs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "179.Tennessee_Warbler",
+  "class_name": "Tennessee Warbler",
+  "image_paths": [
+    "179.Tennessee_Warbler/Tennessee_Warbler_0004_174997.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0030_172338.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0052_175089.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0095_174903.jpg",
+    "179.Tennessee_Warbler/Tennessee_Warbler_0096_174993.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s green head\"\n    },\n    {\n       'feature': '\"green\" beak'\n    }\n]",
+  "concepts": [
+    "green head",
+    "\"green\" beak"
+  ]
+}

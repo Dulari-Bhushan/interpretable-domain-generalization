@@ -1,0 +1,17 @@
+{
+  "class_folder": "163.Cape_May_Warbler",
+  "class_name": "Cape May Warbler",
+  "image_paths": [
+    "163.Cape_May_Warbler/Cape_May_Warbler_0032_162659.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0077_162979.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0088_163149.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0101_163169.jpg",
+    "163.Cape_May_Warbler/Cape_May_Warbler_0108_163108.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black head\"\n   }, \n     {\"feature\" : \"white belly\"}\n]",
+  "concepts": [
+    "yellow underparts",
+    "black head",
+    "white belly"
+  ]
+}

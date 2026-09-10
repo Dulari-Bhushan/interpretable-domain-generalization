@@ -1,0 +1,16 @@
+{
+  "class_folder": "126.Nelson_Sharp_tailed_Sparrow",
+  "class_name": "Nelson Sharp tailed Sparrow",
+  "image_paths": [
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0013_796942.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0019_118066.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0033_118024.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0051_796902.jpg",
+    "126.Nelson_Sharp_tailed_Sparrow/Nelson_Sharp_Tailed_Sparrow_0079_796934.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellow-orange head\"\n    },\n    {\n       \"feature\":\"Black stripe above eyes\" \n   },  \n     {\"feature\": 'Yellow underparts' } ,   \n      {'feature': 'Brown upper parts'} ,\n      { \"feature\":\"\"Gray legs\"}    \n]",
+  "concepts": [
+    "A yellow-orange head",
+    "Black stripe above eyes"
+  ]
+}

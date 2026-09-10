@@ -1,0 +1,18 @@
+{
+  "class_folder": "131.Vesper_Sparrow",
+  "class_name": "Vesper Sparrow",
+  "image_paths": [
+    "131.Vesper_Sparrow/Vesper_Sparrow_0018_125651.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0022_125719.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0053_125641.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0079_125579.jpg",
+    "131.Vesper_Sparrow/Vesper_Sparrow_0080_125606.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"brown head\"\n    },\n    {\n       \"feature\":\"gray underparts\" \n   },  \n     {\"feature\": 'white belly'},\n      {'feature': 'long legs'}\n]",
+  "concepts": [
+    "brown head",
+    "gray underparts",
+    "white belly",
+    "long legs"
+  ]
+}

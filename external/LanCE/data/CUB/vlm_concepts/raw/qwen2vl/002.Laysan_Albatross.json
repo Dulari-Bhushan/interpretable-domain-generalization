@@ -1,0 +1,17 @@
+{
+  "class_folder": "002.Laysan_Albatross",
+  "class_name": "Laysan Albatross",
+  "image_paths": [
+    "002.Laysan_Albatross/Laysan_Albatross_0040_472.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0071_792.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0073_927.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0081_800.jpg",
+    "002.Laysan_Albatross/Laysan_Albatross_0085_564.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A white head'\"\n    },\n    {\n      \"feature\":\"'Black wings'\"\n   }, \n     {\"feature\":\" 'White underbelly'\"},  \n       {\"feature\":\"\"},\n         {\"feature\":\"\",\"}\n]",
+  "concepts": [
+    "A white head",
+    "Black wings",
+    "White underbelly"
+  ]
+}

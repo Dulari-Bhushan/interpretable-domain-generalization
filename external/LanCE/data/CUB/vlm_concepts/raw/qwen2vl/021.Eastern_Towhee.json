@@ -1,0 +1,19 @@
+{
+  "class_folder": "021.Eastern_Towhee",
+  "class_name": "Eastern Towhee",
+  "image_paths": [
+    "021.Eastern_Towhee/Eastern_Towhee_0073_22247.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0099_22566.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0117_22741.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0120_22189.jpg",
+    "021.Eastern_Towhee/Eastern_Towhee_0124_22585.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Orange underbelly\" \n   },  \n     {\"feature\": 'White ring around eyes'},\n      {'feature': 'Black beak'},   \n         {\"feature\":\"Brown wings\"},    \n          {\"feature\":\"\"}     \n]",
+  "concepts": [
+    "A black head",
+    "Orange underbelly",
+    "White ring around eyes",
+    "Black beak",
+    "Brown wings"
+  ]
+}

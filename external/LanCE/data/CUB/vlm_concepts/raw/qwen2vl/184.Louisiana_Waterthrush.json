@@ -1,0 +1,19 @@
+{
+  "class_folder": "184.Louisiana_Waterthrush",
+  "class_name": "Louisiana Waterthrush",
+  "image_paths": [
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0004_177455.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0041_795279.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0042_177551.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0049_795244.jpg",
+    "184.Louisiana_Waterthrush/Louisiana_Waterthrush_0062_177285.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      {'feature': 'Black spots on white belly'},    \n         {\"feature\":\"Orange legs\"} ,\n          {\"feature\":\"\"}      \n]",
+  "concepts": [
+    "A brown head",
+    "Brown wings",
+    "White underparts",
+    "Black spots on white belly",
+    "Orange legs"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "class_folder": "007.Parakeet_Auklet",
+  "class_name": "Parakeet Auklet",
+  "image_paths": [
+    "007.Parakeet_Auklet/Parakeet_Auklet_0032_795986.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0038_795935.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0047_795956.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0065_795969.jpg",
+    "007.Parakeet_Auklet/Parakeet_Auklet_0069_795936.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"black head\"\n    },\n    {\n       \"feature\":\"white neck ring\" \n   },  \n     {\"feature\": 'gray feathers'} ,   \n      {\"feature\":\"orange beak\"} ,\n      {\"feather\":\"short wings\"}\n]",
+  "concepts": [
+    "black head",
+    "white neck ring",
+    "gray feathers",
+    "orange beak",
+    "short wings"
+  ]
+}

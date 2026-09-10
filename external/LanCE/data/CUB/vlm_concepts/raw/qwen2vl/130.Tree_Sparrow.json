@@ -1,0 +1,18 @@
+{
+  "class_folder": "130.Tree_Sparrow",
+  "class_name": "Tree Sparrow",
+  "image_paths": [
+    "130.Tree_Sparrow/Tree_Sparrow_0034_123799.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0057_123665.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0101_124104.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0122_123927.jpg",
+    "130.Tree_Sparrow/Tree_Sparrow_0130_124932.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A brown head\"\n    },\n    {\n       \"feature\":\"Brown wings\" \n   },  \n     {\"feature\": 'White underparts' } ,   \n      {'feature': 'Gray legs'},\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A brown head",
+    "Brown wings",
+    "White underparts",
+    "Gray legs"
+  ]
+}

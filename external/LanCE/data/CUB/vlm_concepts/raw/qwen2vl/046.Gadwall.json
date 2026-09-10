@@ -1,0 +1,16 @@
+{
+  "class_folder": "046.Gadwall",
+  "class_name": "Gadwall",
+  "image_paths": [
+    "046.Gadwall/Gadwall_0024_30942.jpg",
+    "046.Gadwall/Gadwall_0034_31212.jpg",
+    "046.Gadwall/Gadwall_0083_30959.jpg",
+    "046.Gadwall/Gadwall_0086_31346.jpg",
+    "046.Gadwall/Gadwall_0091_30941.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A grey head\"\n    },\n    {\n       \"feature\":\"Grey neck feathers\" \n   },  \n     {\"feature\": 'Brown speckled wings' } ,   \n      { \"feature\":\"\"Orange beak\"} ,\n      {\"feature\":\"\",\"Dark brown eyes\"}\n]",
+  "concepts": [
+    "A grey head",
+    "Grey neck feathers"
+  ]
+}

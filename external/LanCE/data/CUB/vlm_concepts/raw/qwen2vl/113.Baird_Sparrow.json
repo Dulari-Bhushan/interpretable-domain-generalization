@@ -1,0 +1,17 @@
+{
+  "class_folder": "113.Baird_Sparrow",
+  "class_name": "Baird Sparrow",
+  "image_paths": [
+    "113.Baird_Sparrow/Baird_Sparrow_0002_794551.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0014_794549.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0043_794555.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0047_787318.jpg",
+    "113.Baird_Sparrow/Baird_Sparrow_0049_787324.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s eyes\",\n        \"value\": \"[\\\"brown\\\"]\"\n    },\n    {\n      \"feature\":\"bill length\",\n    \t\"value\":[]\n   }, \n   {\n       \"feature\" :\"'s beak width\",\n       \"value\":[\"thin\"]\n   }  \n]",
+  "concepts": [
+    "eyes",
+    "bill length",
+    "beak width"
+  ]
+}

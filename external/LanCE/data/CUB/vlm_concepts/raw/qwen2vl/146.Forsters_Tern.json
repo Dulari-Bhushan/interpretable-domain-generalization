@@ -1,0 +1,16 @@
+{
+  "class_folder": "146.Forsters_Tern",
+  "class_name": "Forsters Tern",
+  "image_paths": [
+    "146.Forsters_Tern/Forsters_Tern_0034_152667.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0035_151757.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0077_152255.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0088_151893.jpg",
+    "146.Forsters_Tern/Forsters_Tern_0121_151385.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A white head\"\n    },\n    {\n       \"feature\":\"Black cap\" \n   },  \n     {\"feature\": 'Orange beak'},\n      {'feature': 'White underparts'},   \n      { \"feature\":\"\"Gray upper parts\"},    \n      {  \"feature\":\"\",\"Grey wings\"},\n      {{\"feature\"},\"Long orange legs\"}\n]",
+  "concepts": [
+    "A white head",
+    "Black cap"
+  ]
+}

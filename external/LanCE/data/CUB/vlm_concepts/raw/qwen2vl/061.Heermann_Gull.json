@@ -1,0 +1,17 @@
+{
+  "class_folder": "061.Heermann_Gull",
+  "class_name": "Heermann Gull",
+  "image_paths": [
+    "061.Heermann_Gull/Heermann_Gull_0008_45839.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0015_41392.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0073_45714.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0100_45440.jpg",
+    "061.Heermann_Gull/Heermann_Gull_0115_45797.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'Herrmann gulls' have red bills\"\n    },\n    {\n       \"feature\":\"The 'herring gull's' legs appear to be black.\"\n   }, \n     {\"feature\" : \"A white head\"},  \n      {\"feature\":\"\"Gray wings\"},\n      {\"featurer\"},{\"gray underparts\"}\n]",
+  "concepts": [
+    "'Herrmann gulls' have red bills",
+    "The 'herring gull's' legs appear to be black.",
+    "A white head"
+  ]
+}

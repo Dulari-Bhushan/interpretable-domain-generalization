@@ -1,0 +1,18 @@
+{
+  "class_folder": "158.Bay_breasted_Warbler",
+  "class_name": "Bay breasted Warbler",
+  "image_paths": [
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0020_159737.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0045_797135.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0078_797163.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0079_159998.jpg",
+    "158.Bay_breasted_Warbler/Bay_Breasted_Warbler_0087_797122.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A black head\"\n    },\n    {\n       \"feature\":\"Black beak\"\n   }, \n     {\"feature\" : \"Orange chest\"},\n      {\"feature\":\"Gray wings\"}\n]",
+  "concepts": [
+    "A black head",
+    "Black beak",
+    "Orange chest",
+    "Gray wings"
+  ]
+}

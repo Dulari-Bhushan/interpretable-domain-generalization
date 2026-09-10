@@ -1,0 +1,18 @@
+{
+  "class_folder": "121.Grasshopper_Sparrow",
+  "class_name": "Grasshopper Sparrow",
+  "image_paths": [
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0001_115938.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0003_115676.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0020_116289.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0039_115980.jpg",
+    "121.Grasshopper_Sparrow/Grasshopper_Sparrow_0072_115663.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A yellow-billed bird\"\n    },\n    {\n       \"feature\":\"Brownish-grey feathers\" \n   },  \n     {\"feature\": 'Spotted wings' } ,   \n      {'feature': 'Yellow-orange legs'} ,\n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A yellow-billed bird",
+    "Brownish-grey feathers",
+    "Spotted wings",
+    "Yellow-orange legs"
+  ]
+}

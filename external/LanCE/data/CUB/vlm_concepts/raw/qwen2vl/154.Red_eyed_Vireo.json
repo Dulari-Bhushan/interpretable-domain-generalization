@@ -1,0 +1,18 @@
+{
+  "class_folder": "154.Red_eyed_Vireo",
+  "class_name": "Red eyed Vireo",
+  "image_paths": [
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0003_157226.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0019_156921.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0056_156968.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0101_156988.jpg",
+    "154.Red_eyed_Vireo/Red_Eyed_Vireo_0109_157176.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A white underbelly\"\n    },\n    {\n       \"feature\":\"Yellow wings\" \n   },  \n     {\"feature\": 'Brown head' } ,   \n      {'feature': 'White eyes'} ,\n         { \"feature\":\"\"}    \n]",
+  "concepts": [
+    "A white underbelly",
+    "Yellow wings",
+    "Brown head",
+    "White eyes"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "class_folder": "062.Herring_Gull",
+  "class_name": "Herring Gull",
+  "image_paths": [
+    "062.Herring_Gull/Herring_Gull_0014_47814.jpg",
+    "062.Herring_Gull/Herring_Gull_0026_48041.jpg",
+    "062.Herring_Gull/Herring_Gull_0052_46810.jpg",
+    "062.Herring_Gull/Herring_Gull_0100_46677.jpg",
+    "062.Herring_Gull/Herring_Gull_0141_47184.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s beak\"\n    },\n    {\n       'color': \"yellow\"\n   }\n]",
+  "concepts": [
+    "beak",
+    "yellow"
+  ]
+}

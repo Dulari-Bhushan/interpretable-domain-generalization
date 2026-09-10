@@ -1,0 +1,19 @@
+{
+  "class_folder": "074.Florida_Jay",
+  "class_name": "Florida Jay",
+  "image_paths": [
+    "074.Florida_Jay/Florida_Jay_0003_65036.jpg",
+    "074.Florida_Jay/Florida_Jay_0037_64515.jpg",
+    "074.Florida_Jay/Florida_Jay_0039_64576.jpg",
+    "074.Florida_Jay/Florida_Jay_0050_65099.jpg",
+    "074.Florida_Jay/Florida_Jay_0081_64859.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'blue' head\"\n    },\n    {\n      \"feature\":\" 'gray-blue' neck\"\n   }, \n     {\"feature\": \"short black beak\"},  \n       {\"feature\" : \"brownish-grey underparts\"},\n         {\"feature\":\"light blue wings\"}\n]",
+  "concepts": [
+    "'blue' head",
+    "'gray-blue' neck",
+    "short black beak",
+    "brownish-grey underparts",
+    "light blue wings"
+  ]
+}

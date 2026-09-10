@@ -1,0 +1,18 @@
+{
+  "class_folder": "011.Rusty_Blackbird",
+  "class_name": "Rusty Blackbird",
+  "image_paths": [
+    "011.Rusty_Blackbird/Rusty_Blackbird_0016_6684.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0023_6752.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0036_6550.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0073_6744.jpg",
+    "011.Rusty_Blackbird/Rusty_Blackbird_0093_6628.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'s black beak\"\n    },\n    {\n       'feature': '\"rusty\" brown head'\n   }, \n     {\"feature\":\"brown wings\"},  \n      {'feature':\"black legs\"}\n]",
+  "concepts": [
+    "black beak",
+    "\"rusty\" brown head",
+    "brown wings",
+    "black legs"
+  ]
+}

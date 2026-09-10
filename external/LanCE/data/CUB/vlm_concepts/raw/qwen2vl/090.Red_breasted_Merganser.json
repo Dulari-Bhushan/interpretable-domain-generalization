@@ -1,0 +1,17 @@
+{
+  "class_folder": "090.Red_breasted_Merganser",
+  "class_name": "Red breasted Merganser",
+  "image_paths": [
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0022_79274.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0049_79432.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0074_79497.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0078_79393.jpg",
+    "090.Red_breasted_Merganser/Red_Breasted_Merganser_0081_79396.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"'A red-billed duck'\"\n    },\n    {\n      \"feature\":\"'Black head feathers'\"\n    }, \n     {\"feature\" : 'White neck stripe'},\n   {{\"feature\" :\"Grayish-black wings\"}}\n]",
+  "concepts": [
+    "A red-billed duck",
+    "Black head feathers",
+    "Grayish-black wings"
+  ]
+}

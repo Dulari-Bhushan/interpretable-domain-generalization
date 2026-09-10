@@ -1,0 +1,17 @@
+{
+  "class_folder": "167.Hooded_Warbler",
+  "class_name": "Hooded Warbler",
+  "image_paths": [
+    "167.Hooded_Warbler/Hooded_Warbler_0012_164891.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0013_164627.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0021_165057.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0040_165173.jpg",
+    "167.Hooded_Warbler/Hooded_Warbler_0053_164631.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"yellow underparts\"\n    },\n    {\n       \"feature\":\"black head patch\" \n   },  \n     {\"feature\": 'orange beak' }   \n]",
+  "concepts": [
+    "yellow underparts",
+    "black head patch",
+    "orange beak"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "class_folder": "080.Green_Kingfisher",
+  "class_name": "Green Kingfisher",
+  "image_paths": [
+    "080.Green_Kingfisher/Green_Kingfisher_0018_71189.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0032_71050.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0048_71164.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0065_71132.jpg",
+    "080.Green_Kingfisher/Green_Kingfisher_0081_70953.jpg"
+  ],
+  "raw_response": "[\n    {\n        \"feature\": \"A long black beak\"\n    },\n    {\n       \"feature\":\"Dark green head feathers\" \n   },  \n     {\"feature\": 'White underbelly'},\n      {'feature': 'Orange chest patch'},   \n      { \"feature\":\"\"},\n]",
+  "concepts": [
+    "A long black beak",
+    "Dark green head feathers",
+    "White underbelly",
+    "Orange chest patch"
+  ]
+}
