@@ -364,5 +364,249 @@
         }
       ]
     }
+  },
+  "cub_concepts_gemini_grounded": {
+    "n_candidates": 1842,
+    "n_reference": 312,
+    "coverage_mean_best_similarity": 0.8523199558258057,
+    "precision_mean_best_similarity": 0.8057880401611328,
+    "thresholded": {
+      "0.85": {
+        "coverage_at_t": 0.49358975887298584,
+        "precision_at_t": 0.2567861080169678
+      },
+      "0.9": {
+        "coverage_at_t": 0.2211538553237915,
+        "precision_at_t": 0.07166124135255814
+      }
+    },
+    "sample_pairs": {
+      "best_precision_matches": [
+        {
+          "candidate": "a rufous-coloured belly",
+          "matched_reference": "a rufous coloured belly",
+          "similarity": 0.9699414968490601
+        },
+        {
+          "candidate": "a slightly rounded tail",
+          "matched_reference": "a rounded tail",
+          "similarity": 0.9719141125679016
+        },
+        {
+          "candidate": "a grey-coloured crown",
+          "matched_reference": "a grey coloured crown",
+          "similarity": 0.9725784063339233
+        },
+        {
+          "candidate": "a short, forked tail",
+          "matched_reference": "a forked tail",
+          "similarity": 0.9727005958557129
+        },
+        {
+          "candidate": "a rufous coloured crown",
+          "matched_reference": "a rufous coloured crown",
+          "similarity": 0.9999995231628418
+        },
+        {
+          "candidate": "a rounded tail",
+          "matched_reference": "a rounded tail",
+          "similarity": 0.9999998807907104
+        },
+        {
+          "candidate": "a pointed tail",
+          "matched_reference": "a pointed tail",
+          "similarity": 1.0
+        },
+        {
+          "candidate": "a notched tail",
+          "matched_reference": "a notched tail",
+          "similarity": 1.0
+        },
+        {
+          "candidate": "a forked tail",
+          "matched_reference": "a forked tail",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a squared tail",
+          "matched_reference": "a squared tail",
+          "similarity": 1.0000004768371582
+        }
+      ],
+      "worst_precision_matches": [
+        {
+          "candidate": "brown-streaked flanks",
+          "matched_reference": "a brown coloured upper tail",
+          "similarity": 0.43726086616516113
+        },
+        {
+          "candidate": "black and white spotted wing coverts",
+          "matched_reference": "a spotted wing pattern",
+          "similarity": 0.5506937503814697
+        },
+        {
+          "candidate": "black and white checkered wing bars",
+          "matched_reference": "a striped wing pattern",
+          "similarity": 0.5621335506439209
+        },
+        {
+          "candidate": "distinctive black V-shaped chest patch",
+          "matched_reference": "a spotted pattern in the breast",
+          "similarity": 0.5764287710189819
+        },
+        {
+          "candidate": "dark underwing coverts",
+          "matched_reference": "has broad wings",
+          "similarity": 0.5881263017654419
+        },
+        {
+          "candidate": "streaked flanks on the lower underparts",
+          "matched_reference": "has broad wings",
+          "similarity": 0.590303897857666
+        },
+        {
+          "candidate": "bright yellow iris",
+          "matched_reference": "a yellow coloured eye",
+          "similarity": 0.597481369972229
+        },
+        {
+          "candidate": "white underwing coverts visible in flight",
+          "matched_reference": "has broad wings",
+          "similarity": 0.5995622873306274
+        },
+        {
+          "candidate": "a thin white whisker-like plume extending back from the eye",
+          "matched_reference": "a black coloured under tail",
+          "similarity": 0.600883424282074
+        },
+        {
+          "candidate": "a dark-colored cap reaching down to the eye level",
+          "matched_reference": "a black coloured upper body",
+          "similarity": 0.6043850183486938
+        }
+      ]
+    }
+  },
+  "cub_concepts_dino_clip_grounded": {
+    "n_candidates": 1328,
+    "n_reference": 312,
+    "coverage_mean_best_similarity": 0.8892176747322083,
+    "precision_mean_best_similarity": 0.809333324432373,
+    "thresholded": {
+      "0.85": {
+        "coverage_at_t": 0.6410256624221802,
+        "precision_at_t": 0.26957830786705017
+      },
+      "0.9": {
+        "coverage_at_t": 0.38461539149284363,
+        "precision_at_t": 0.11897590011358261
+      }
+    },
+    "sample_pairs": {
+      "best_precision_matches": [
+        {
+          "candidate": "a orange coloured leg",
+          "matched_reference": "a orange coloured leg",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a red coloured eye",
+          "matched_reference": "a red coloured eye",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a brown coloured breast",
+          "matched_reference": "a brown coloured breast",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a white coloured breast",
+          "matched_reference": "a white coloured breast",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a blue coloured throat",
+          "matched_reference": "a blue coloured throat",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a yellow coloured bill",
+          "matched_reference": "a yellow coloured bill",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a hooked bill",
+          "matched_reference": "a hooked bill",
+          "similarity": 1.000000238418579
+        },
+        {
+          "candidate": "a green coloured nape",
+          "matched_reference": "a green coloured nape",
+          "similarity": 1.0000003576278687
+        },
+        {
+          "candidate": "a purple coloured crown",
+          "matched_reference": "a purple coloured crown",
+          "similarity": 1.0000004768371582
+        },
+        {
+          "candidate": "a blue coloured nape",
+          "matched_reference": "a blue coloured nape",
+          "similarity": 1.0000004768371582
+        }
+      ],
+      "worst_precision_matches": [
+        {
+          "candidate": "brown-streaked flanks",
+          "matched_reference": "a brown coloured upper tail",
+          "similarity": 0.43726086616516113
+        },
+        {
+          "candidate": "speckled wing coverts",
+          "matched_reference": "a grey coloured wing",
+          "similarity": 0.5158457159996033
+        },
+        {
+          "candidate": "chipping sparrow",
+          "matched_reference": "a red coloured throat",
+          "similarity": 0.5303463339805603
+        },
+        {
+          "candidate": "water thrush",
+          "matched_reference": "a sandpiper-like body shape",
+          "similarity": 0.5436469912528992
+        },
+        {
+          "candidate": "black and white spotted wing coverts",
+          "matched_reference": "a spotted wing pattern",
+          "similarity": 0.5506937503814697
+        },
+        {
+          "candidate": "A black-billed cuckoo has a distinctive long pointed beak",
+          "matched_reference": "a brown coloured throat",
+          "similarity": 0.5514760613441467
+        },
+        {
+          "candidate": "black and white checkered wing bars",
+          "matched_reference": "a striped wing pattern",
+          "similarity": 0.5621335506439209
+        },
+        {
+          "candidate": "legs adapted for perching on cattails",
+          "matched_reference": "a perching-like body shape",
+          "similarity": 0.5863970518112183
+        },
+        {
+          "candidate": "a stout crossbill shaped bill",
+          "matched_reference": "a black coloured bill",
+          "similarity": 0.5866518020629883
+        },
+        {
+          "candidate": "dark underwing coverts",
+          "matched_reference": "has broad wings",
+          "similarity": 0.5881263017654419
+        }
+      ]
+    }
   }
 }
