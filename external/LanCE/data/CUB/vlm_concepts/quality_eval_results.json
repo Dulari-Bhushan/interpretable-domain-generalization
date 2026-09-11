@@ -119,6 +119,14 @@
           "similarity": 0.7179255485534668
         }
       ]
+    },
+    "size_normalized": {
+      "original_size": 312,
+      "coverage_mean": 0.899117648601532,
+      "coverage_std": 0.0017373476875945926,
+      "precision_mean": 0.9040462374687195,
+      "precision_std": 0.00273932795971632,
+      "n_trials": 50
     }
   },
   "cub_concepts_llm2": {
@@ -241,6 +249,14 @@
           "similarity": 0.6612419486045837
         }
       ]
+    },
+    "size_normalized": {
+      "original_size": 312,
+      "coverage_mean": 0.81426602602005,
+      "coverage_std": 0.001779948128387332,
+      "precision_mean": 0.8181048035621643,
+      "precision_std": 0.0019177497597411275,
+      "n_trials": 50
     }
   },
   "cub_concepts_qwen2vl_grounded": {
@@ -363,6 +379,14 @@
           "similarity": 0.6599600315093994
         }
       ]
+    },
+    "size_normalized": {
+      "original_size": 263,
+      "coverage_mean": 0.7692200541496277,
+      "coverage_std": 0.0,
+      "precision_mean": 0.7814181447029114,
+      "precision_std": 0.0,
+      "n_trials": 1
     }
   },
   "cub_concepts_gemini_grounded": {
@@ -485,6 +509,14 @@
           "similarity": 0.6043850183486938
         }
       ]
+    },
+    "size_normalized": {
+      "original_size": 1842,
+      "coverage_mean": 0.8028448224067688,
+      "coverage_std": 0.004494839813560247,
+      "precision_mean": 0.8053954839706421,
+      "precision_std": 0.0037375849206000566,
+      "n_trials": 50
     }
   },
   "cub_concepts_dino_clip_grounded": {
@@ -607,6 +639,14 @@
           "similarity": 0.5881263017654419
         }
       ]
+    },
+    "size_normalized": {
+      "original_size": 1328,
+      "coverage_mean": 0.825941801071167,
+      "coverage_std": 0.005344267934560776,
+      "precision_mean": 0.8103697299957275,
+      "precision_std": 0.003978321794420481,
+      "n_trials": 50
     }
   }
 }
