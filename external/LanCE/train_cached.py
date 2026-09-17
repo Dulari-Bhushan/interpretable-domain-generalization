@@ -70,6 +70,19 @@ class CachedTrainingSession:
         target_feats, target_labels, target_attrs = get_or_build_feature_cache(
             f"{cache_prefix}_target_test", target_test_dataset, self.model.clip_model, self.device
         )
+
+        # attr_labels are always a dummy all-zero placeholder (beta defaults to
+        # 0 everywhere in this project - never real supervision), but the
+        # feature cache is keyed only by dataset name, not concept_file, so a
+        # cache built under one concept bank keeps that bank's width baked in
+        # for every later concept_file that reuses the same cache name. Since
+        # the values are inert either way, just regenerate them at the current
+        # concept bank's actual width rather than trust the cached shape.
+        n_concepts = len(train_dataset.concept2id)
+        train_attrs = torch.zeros(len(train_labels), n_concepts)
+        source_attrs = torch.zeros(len(source_labels), n_concepts)
+        target_attrs = torch.zeros(len(target_labels), n_concepts)
+
         logger.info(
             f"Cached features - train: {len(train_feats):,}, "
             f"source test: {len(source_feats):,}, target test: {len(target_feats):,}"

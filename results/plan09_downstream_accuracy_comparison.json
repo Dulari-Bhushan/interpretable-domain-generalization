@@ -1,0 +1,43 @@
+{
+  "protocol": "train_cached.py --dataset CUB --epochs 50 --batch_size 64 --class_avg_concept --CBM_type clip_cbm --concept_file <bank>, alpha in {0, 1}, identical to Plan 08's protocol",
+  "metric": "best-epoch source (CUB in-domain) / target (CUB-Painting, shift) accuracy",
+  "banks": {
+    "human_phase0": {
+      "n_concepts": 312,
+      "source": "existing Phase 0 numbers, not re-run",
+      "alpha0": {"source_acc": 0.7781, "target_acc": 0.5064},
+      "alpha1": {"source_acc": 0.7952, "target_acc": 0.5704}
+    },
+    "llm_draw1": {
+      "n_concepts": 312,
+      "source": "existing Plan 08 numbers, not re-run",
+      "alpha0": {"source_acc": 0.7943, "target_acc": 0.5382},
+      "alpha1": {"source_acc": 0.8124, "target_acc": 0.5907}
+    },
+    "llm_draw2": {
+      "n_concepts": 312,
+      "source": "existing Plan 08 numbers, not re-run",
+      "alpha0": {"source_acc": 0.7984, "target_acc": 0.5533},
+      "alpha1": {"source_acc": 0.8193, "target_acc": 0.6140}
+    },
+    "qwen2vl_grounded": {
+      "n_concepts": 263,
+      "source": "new, this run",
+      "alpha0": {"source_acc": 0.7869, "target_acc": 0.5340},
+      "alpha1": {"source_acc": 0.8014, "target_acc": 0.5763}
+    },
+    "gemini_grounded": {
+      "n_concepts": 1842,
+      "source": "new, this run",
+      "alpha0": {"source_acc": 0.8128, "target_acc": 0.5753},
+      "alpha1": {"source_acc": 0.8440, "target_acc": 0.6344}
+    },
+    "dino_clip_grounded": {
+      "n_concepts": 1328,
+      "source": "new, this run",
+      "alpha0": {"source_acc": 0.8193, "target_acc": 0.5937},
+      "alpha1": {"source_acc": 0.8484, "target_acc": 0.6393}
+    }
+  },
+  "caveat": "gemini_grounded and dino_clip_grounded both have far more concepts (1842, 1328) than every other bank (263-312). Their downstream-accuracy lead is confounded with bank size the same way raw (non-size-normalized) CLIP-similarity coverage was in vlm_concepts_eval_quality.py -- more concept-activation dimensions feeding the classifier could itself explain the gain, independent of per-concept quality. Not yet isolated; would need a subsampled-bank downstream-accuracy re-run (matching the CLIP-similarity size-normalization already done) before crediting the gain to concept quality rather than concept count."
+}
