@@ -39,5 +39,18 @@
       "alpha1": {"source_acc": 0.8484, "target_acc": 0.6393}
     }
   },
-  "caveat": "gemini_grounded and dino_clip_grounded both have far more concepts (1842, 1328) than every other bank (263-312). Their downstream-accuracy lead is confounded with bank size the same way raw (non-size-normalized) CLIP-similarity coverage was in vlm_concepts_eval_quality.py -- more concept-activation dimensions feeding the classifier could itself explain the gain, independent of per-concept quality. Not yet isolated; would need a subsampled-bank downstream-accuracy re-run (matching the CLIP-similarity size-normalization already done) before crediting the gain to concept quality rather than concept count."
+  "caveat": "gemini_grounded and dino_clip_grounded both have far more concepts (1842, 1328) than every other bank (263-312). Their downstream-accuracy lead is confounded with bank size the same way raw (non-size-normalized) CLIP-similarity coverage was in vlm_concepts_eval_quality.py -- more concept-activation dimensions feeding the classifier could itself explain the gain, independent of per-concept quality. RESOLVED below: the confound is real and accounts for most, but not all, of the full-size advantage.",
+  "size_controlled_followup": {
+    "protocol": "vlm_concepts_subsample_bank.py subsamples each bank down to 263 concepts (Qwen2-VL's actual size, same anchor used for the CLIP-similarity size-normalization), 3 independent random seeds, same train_cached.py protocol as above.",
+    "n_concepts": 263,
+    "gemini_grounded_sub263": {
+      "alpha0": {"target_acc_mean": 0.5428, "target_acc_std": 0.0072, "seeds": [0.5327, 0.5474, 0.5484]},
+      "alpha1": {"target_acc_mean": 0.5865, "target_acc_std": 0.0021, "seeds": [0.5881, 0.5878, 0.5835]}
+    },
+    "dino_clip_grounded_sub263": {
+      "alpha0": {"target_acc_mean": 0.5606, "target_acc_std": 0.0030, "seeds": [0.5586, 0.5583, 0.5648]},
+      "alpha1": {"target_acc_mean": 0.6016, "target_acc_std": 0.0022, "seeds": [0.6016, 0.6042, 0.5989]}
+    },
+    "interpretation": "At matched size (alpha=1, target/shift accuracy): qwen2vl 57.63%, human 57.04%, gemini_sub263 58.65% (down from 63.44% at full size -- ~83% of its full-size edge over qwen2vl was pure bank-size effect), llm_draw1 59.07%, dino_clip_sub263 60.16% (down from 63.93% -- ~55% of its full-size edge was bank size, but a real, low-variance edge over qwen2vl and llm_draw1 survives), llm_draw2 61.40% (still the single best bank at any size tested). Bottom line: the 'image-grounded/retrieval VLM banks beat everything' full-size finding was mostly a bank-size artifact for Gemini, and partly (not entirely) one for DINO+CLIP -- neither image-grounded VLM leg (Gemini, Qwen2-VL) beats the best text-only LLM draw once size is controlled; DINO+CLIP's non-generative retrieval mechanism is the one new pipeline that holds a genuine, small, low-variance edge over the weaker baselines at matched size."
+  }
 }

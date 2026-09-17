@@ -1,0 +1,277 @@
+2026-09-17 12:38:25,300 [INFO] Using device: cuda:0
+----------Computing Domain Differences----------
+0it [00:00, ?it/s]                  0it [00:00, ?it/s]1it [00:00,  1.45it/s]                      1it [00:00,  1.45it/s]2it [00:00,  2.59it/s]                      2it [00:00,  2.59it/s]3it [00:01,  3.46it/s]                      3it [00:01,  3.46it/s]4it [00:01,  4.12it/s]                      4it [00:01,  4.12it/s]5it [00:01,  4.61it/s]                      5it [00:01,  4.61it/s]6it [00:01,  4.95it/s]                      6it [00:01,  4.95it/s]7it [00:01,  5.21it/s]                      7it [00:01,  5.21it/s]8it [00:01,  5.39it/s]                      8it [00:01,  5.39it/s]9it [00:02,  5.50it/s]                      9it [00:02,  5.50it/s]10it [00:02,  5.60it/s]                       10it [00:02,  5.60it/s]11it [00:02,  5.66it/s]                       11it [00:02,  5.66it/s]12it [00:02,  5.70it/s]                       12it [00:02,  5.70it/s]13it [00:02,  5.72it/s]                       13it [00:02,  5.72it/s]14it [00:02,  5.74it/s]                       14it [00:02,  5.74it/s]15it [00:03,  5.76it/s]                       15it [00:03,  5.76it/s]16it [00:03,  5.77it/s]                       16it [00:03,  5.77it/s]17it [00:03,  5.78it/s]                       17it [00:03,  5.78it/s]18it [00:03,  5.79it/s]                       18it [00:03,  5.79it/s]19it [00:03,  5.79it/s]                       19it [00:03,  5.79it/s]20it [00:03,  5.78it/s]                       20it [00:03,  5.78it/s]21it [00:04,  5.80it/s]                       21it [00:04,  5.80it/s]22it [00:04,  5.79it/s]                       22it [00:04,  5.79it/s]23it [00:04,  5.80it/s]                       23it [00:04,  5.80it/s]24it [00:04,  5.80it/s]                       24it [00:04,  5.80it/s]25it [00:04,  5.78it/s]                       25it [00:04,  5.78it/s]26it [00:05,  5.80it/s]                       26it [00:05,  5.80it/s]27it [00:05,  5.80it/s]                       27it [00:05,  5.80it/s]28it [00:05,  5.79it/s]                       28it [00:05,  5.79it/s]29it [00:05,  5.79it/s]                       29it [00:05,  5.79it/s]30it [00:05,  5.78it/s]                       30it [00:05,  5.78it/s]31it [00:05,  5.78it/s]                       31it [00:05,  5.78it/s]32it [00:06,  5.76it/s]                       32it [00:06,  5.76it/s]33it [00:06,  5.76it/s]                       33it [00:06,  5.76it/s]34it [00:06,  5.76it/s]                       34it [00:06,  5.76it/s]35it [00:06,  5.77it/s]                       35it [00:06,  5.77it/s]36it [00:06,  5.73it/s]                       36it [00:06,  5.73it/s]37it [00:06,  5.74it/s]                       37it [00:06,  5.74it/s]38it [00:07,  5.74it/s]                       38it [00:07,  5.74it/s]39it [00:07,  5.74it/s]                       39it [00:07,  5.74it/s]40it [00:07,  5.75it/s]                       40it [00:07,  5.75it/s]41it [00:07,  5.75it/s]                       41it [00:07,  5.75it/s]42it [00:07,  5.75it/s]                       42it [00:07,  5.75it/s]43it [00:07,  5.75it/s]                       43it [00:07,  5.75it/s]44it [00:08,  5.74it/s]                       44it [00:08,  5.74it/s]45it [00:08,  5.74it/s]                       45it [00:08,  5.74it/s]46it [00:08,  5.65it/s]                       46it [00:08,  5.65it/s]47it [00:08,  5.68it/s]                       47it [00:08,  5.68it/s]48it [00:08,  5.70it/s]                       48it [00:08,  5.70it/s]49it [00:09,  5.71it/s]                       49it [00:09,  5.71it/s]50it [00:09,  5.71it/s]                       50it [00:09,  5.71it/s]51it [00:09,  5.72it/s]                       51it [00:09,  5.72it/s]52it [00:09,  5.73it/s]                       52it [00:09,  5.73it/s]53it [00:09,  5.73it/s]                       53it [00:09,  5.73it/s]54it [00:09,  5.74it/s]                       54it [00:09,  5.74it/s]55it [00:10,  5.74it/s]                       55it [00:10,  5.74it/s]56it [00:10,  5.73it/s]                       56it [00:10,  5.73it/s]57it [00:10,  5.73it/s]                       57it [00:10,  5.73it/s]58it [00:10,  5.73it/s]                       58it [00:10,  5.73it/s]59it [00:10,  5.74it/s]                       59it [00:10,  5.74it/s]60it [00:10,  5.74it/s]                       60it [00:10,  5.74it/s]61it [00:11,  5.74it/s]                       61it [00:11,  5.74it/s]62it [00:11,  5.74it/s]                       62it [00:11,  5.74it/s]63it [00:11,  5.73it/s]                       63it [00:11,  5.73it/s]64it [00:11,  5.72it/s]                       64it [00:11,  5.72it/s]65it [00:11,  5.72it/s]                       65it [00:11,  5.72it/s]66it [00:11,  5.73it/s]                       66it [00:11,  5.73it/s]67it [00:12,  5.71it/s]                       67it [00:12,  5.71it/s]68it [00:12,  5.71it/s]                       68it [00:12,  5.71it/s]69it [00:12,  5.72it/s]                       69it [00:12,  5.72it/s]70it [00:12,  5.73it/s]                       70it [00:12,  5.73it/s]71it [00:12,  5.73it/s]                       71it [00:12,  5.73it/s]72it [00:13,  5.73it/s]                       72it [00:13,  5.73it/s]73it [00:13,  5.74it/s]                       73it [00:13,  5.74it/s]74it [00:13,  5.74it/s]                       74it [00:13,  5.74it/s]75it [00:13,  5.72it/s]                       75it [00:13,  5.72it/s]76it [00:13,  5.73it/s]                       76it [00:13,  5.73it/s]77it [00:13,  5.73it/s]                       77it [00:13,  5.73it/s]78it [00:14,  5.73it/s]                       78it [00:14,  5.73it/s]79it [00:14,  5.74it/s]                       79it [00:14,  5.74it/s]80it [00:14,  5.74it/s]                       80it [00:14,  5.74it/s]81it [00:14,  5.74it/s]                       81it [00:14,  5.74it/s]82it [00:14,  5.74it/s]                       82it [00:14,  5.74it/s]83it [00:14,  5.73it/s]                       83it [00:14,  5.73it/s]84it [00:15,  5.72it/s]                       84it [00:15,  5.72it/s]85it [00:15,  5.73it/s]                       85it [00:15,  5.73it/s]86it [00:15,  5.74it/s]                       86it [00:15,  5.74it/s]87it [00:15,  5.75it/s]                       87it [00:15,  5.75it/s]88it [00:15,  5.75it/s]                       88it [00:15,  5.75it/s]89it [00:15,  5.74it/s]                       89it [00:15,  5.74it/s]90it [00:16,  5.75it/s]                       90it [00:16,  5.75it/s]91it [00:16,  5.74it/s]                       91it [00:16,  5.74it/s]92it [00:16,  5.74it/s]                       92it [00:16,  5.74it/s]93it [00:16,  5.72it/s]                       93it [00:16,  5.72it/s]94it [00:16,  5.72it/s]                       94it [00:16,  5.72it/s]95it [00:17,  5.72it/s]                       95it [00:17,  5.72it/s]96it [00:17,  5.72it/s]                       96it [00:17,  5.72it/s]97it [00:17,  5.70it/s]                       97it [00:17,  5.70it/s]98it [00:17,  5.71it/s]                       98it [00:17,  5.71it/s]99it [00:17,  5.72it/s]                       99it [00:17,  5.72it/s]100it [00:17,  5.72it/s]                        100it [00:17,  5.72it/s]101it [00:18,  5.72it/s]                        101it [00:18,  5.72it/s]102it [00:18,  5.73it/s]                        102it [00:18,  5.73it/s]103it [00:18,  5.72it/s]                        103it [00:18,  5.72it/s]104it [00:18,  5.72it/s]                        104it [00:18,  5.72it/s]105it [00:18,  5.71it/s]                        105it [00:18,  5.71it/s]106it [00:18,  5.72it/s]                        106it [00:18,  5.72it/s]107it [00:19,  5.72it/s]                        107it [00:19,  5.72it/s]108it [00:19,  5.72it/s]                        108it [00:19,  5.72it/s]109it [00:19,  5.73it/s]                        109it [00:19,  5.73it/s]110it [00:19,  5.74it/s]                        110it [00:19,  5.74it/s]111it [00:19,  5.73it/s]                        111it [00:19,  5.73it/s]112it [00:20,  5.72it/s]                        112it [00:20,  5.72it/s]113it [00:20,  5.72it/s]                        113it [00:20,  5.72it/s]114it [00:20,  5.73it/s]                        114it [00:20,  5.73it/s]115it [00:20,  5.73it/s]                        115it [00:20,  5.73it/s]116it [00:20,  5.73it/s]                        116it [00:20,  5.73it/s]117it [00:20,  5.73it/s]                        117it [00:20,  5.73it/s]118it [00:21,  5.71it/s]                        118it [00:21,  5.71it/s]119it [00:21,  5.72it/s]                        119it [00:21,  5.72it/s]120it [00:21,  5.71it/s]                        120it [00:21,  5.71it/s]121it [00:21,  5.71it/s]                        121it [00:21,  5.71it/s]122it [00:21,  5.72it/s]                        122it [00:21,  5.72it/s]123it [00:21,  5.72it/s]                        123it [00:21,  5.72it/s]124it [00:22,  5.72it/s]                        124it [00:22,  5.72it/s]125it [00:22,  5.72it/s]                        125it [00:22,  5.72it/s]126it [00:22,  5.73it/s]                        126it [00:22,  5.73it/s]127it [00:22,  5.72it/s]                        127it [00:22,  5.72it/s]128it [00:22,  5.70it/s]                        128it [00:22,  5.70it/s]129it [00:22,  5.71it/s]                        129it [00:22,  5.71it/s]130it [00:23,  5.70it/s]                        130it [00:23,  5.70it/s]131it [00:23,  5.71it/s]                        131it [00:23,  5.71it/s]132it [00:23,  5.71it/s]                        132it [00:23,  5.71it/s]133it [00:23,  5.71it/s]                        133it [00:23,  5.71it/s]134it [00:23,  5.72it/s]                        134it [00:23,  5.72it/s]135it [00:24,  5.72it/s]                        135it [00:24,  5.72it/s]136it [00:24,  5.51it/s]                        136it [00:24,  5.51it/s]137it [00:24,  5.55it/s]                        137it [00:24,  5.55it/s]138it [00:24,  5.57it/s]                        138it [00:24,  5.57it/s]139it [00:24,  5.59it/s]                        139it [00:24,  5.59it/s]140it [00:24,  5.61it/s]                        140it [00:24,  5.61it/s]141it [00:25,  5.61it/s]                        141it [00:25,  5.61it/s]142it [00:25,  5.62it/s]                        142it [00:25,  5.62it/s]143it [00:25,  5.63it/s]                        143it [00:25,  5.63it/s]144it [00:25,  5.63it/s]                        144it [00:25,  5.63it/s]145it [00:25,  5.64it/s]                        145it [00:25,  5.64it/s]146it [00:26,  5.64it/s]                        146it [00:26,  5.64it/s]147it [00:26,  5.65it/s]                        147it [00:26,  5.65it/s]148it [00:26,  5.54it/s]                        148it [00:26,  5.54it/s]149it [00:26,  5.50it/s]                        149it [00:26,  5.50it/s]150it [00:26,  5.53it/s]                        150it [00:26,  5.53it/s]151it [00:26,  5.56it/s]                        151it [00:26,  5.56it/s]152it [00:27,  5.59it/s]                        152it [00:27,  5.59it/s]153it [00:27,  5.59it/s]                        153it [00:27,  5.59it/s]154it [00:27,  5.60it/s]                        154it [00:27,  5.60it/s]155it [00:27,  5.61it/s]                        155it [00:27,  5.61it/s]156it [00:27,  5.62it/s]                        156it [00:27,  5.62it/s]157it [00:27,  5.63it/s]                        157it [00:27,  5.63it/s]158it [00:28,  5.63it/s]                        158it [00:28,  5.63it/s]159it [00:28,  5.63it/s]                        159it [00:28,  5.63it/s]160it [00:28,  5.63it/s]                        160it [00:28,  5.63it/s]161it [00:28,  5.63it/s]                        161it [00:28,  5.63it/s]162it [00:28,  5.63it/s]                        162it [00:28,  5.63it/s]163it [00:29,  5.63it/s]                        163it [00:29,  5.63it/s]164it [00:29,  5.63it/s]                        164it [00:29,  5.63it/s]165it [00:29,  5.62it/s]                        165it [00:29,  5.62it/s]166it [00:29,  5.61it/s]                        166it [00:29,  5.61it/s]167it [00:29,  5.61it/s]                        167it [00:29,  5.61it/s]168it [00:29,  5.62it/s]                        168it [00:29,  5.62it/s]169it [00:30,  5.62it/s]                        169it [00:30,  5.62it/s]170it [00:30,  5.62it/s]                        170it [00:30,  5.62it/s]171it [00:30,  5.63it/s]                        171it [00:30,  5.63it/s]172it [00:30,  5.64it/s]                        172it [00:30,  5.64it/s]173it [00:30,  5.64it/s]                        173it [00:30,  5.64it/s]174it [00:30,  5.64it/s]                        174it [00:30,  5.64it/s]175it [00:31,  5.64it/s]                        175it [00:31,  5.64it/s]176it [00:31,  5.64it/s]                        a painting of a {}. - a photo of a {}.
+a clipart illustration of a {}. - a photo of a {}.
+an infographic of a {}. - a photo of a {}.
+a quickdraw of a {}. - a photo of a {}.
+a sketch of a {}. - a photo of a {}.
+an advertising posters of a {}. - a photo of a {}.
+a sculpture of a {}. - a photo of a {}.
+a watercolor of a {}. - a photo of a {}.
+a 3D model of a {}. - a photo of a {}.
+a blueprint of a {}. - a photo of a {}.
+a silhouette of a {}. - a photo of a {}.
+a vintage photo of a {}. - a photo of a {}.
+a digital art of a {}. - a photo of a {}.
+a pencil drawing of a {}. - a photo of a {}.
+a technical illustration of a {}. - a photo of a {}.
+a doodle of a {}. - a photo of a {}.
+a woodcut of a {}. - a photo of a {}.
+a lithograph of a {}. - a photo of a {}.
+an oil painting of a {}. - a photo of a {}.
+a gouache painting of a {}. - a photo of a {}.
+an embroidery of a {}. - a photo of a {}.
+a charcoal sketch of a {}. - a photo of a {}.
+an etching of a {}. - a photo of a {}.
+a tattoo design of a {}. - a photo of a {}.
+a comic strip of a {}. - a photo of a {}.
+a collage of a {}. - a photo of a {}.
+a pop art of a {}. - a photo of a {}.
+a manga style drawing of a {}. - a photo of a {}.
+a minimalist drawing of a {}. - a photo of a {}.
+a pixel art of a {}. - a photo of a {}.
+a sepia photo of a {}. - a photo of a {}.
+a retro style of a {}. - a photo of a {}.
+a low-poly model of a {}. - a photo of a {}.
+a fantasy art of a {}. - a photo of a {}.
+a surrealist painting of a {}. - a photo of a {}.
+a futuristic concept art of a {}. - a photo of a {}.
+an impressionist painting of a {}. - a photo of a {}.
+a hyperrealistic drawing of a {}. - a photo of a {}.
+a chalkboard sketch of a {}. - a photo of a {}.
+a photo collage of a {}. - a photo of a {}.
+a CGI render of a {}. - a photo of a {}.
+a stained glass of a {}. - a photo of a {}.
+an anime style of a {}. - a photo of a {}.
+a Renaissance painting of a {}. - a photo of a {}.
+a Victorian engraving of a {}. - a photo of a {}.
+a children’s book illustration of a {}. - a photo of a {}.
+a pen and ink drawing of a {}. - a photo of a {}.
+a crayon drawing of a {}. - a photo of a {}.
+a blueprint diagram of a {}. - a photo of a {}.
+a steampunk version of a {}. - a photo of a {}.
+a street art mural of a {}. - a photo of a {}.
+a pastel drawing of a {}. - a photo of a {}.
+a scientific diagram of a {}. - a photo of a {}.
+a psychedelic art of a {}. - a photo of a {}.
+an editorial cartoon of a {}. - a photo of a {}.
+a pointillism painting of a {}. - a photo of a {}.
+a decorative ornament of a {}. - a photo of a {}.
+a folk art version of a {}. - a photo of a {}.
+a holographic image of a {}. - a photo of a {}.
+a VR model of a {}. - a photo of a {}.
+a bronze statue of a {}. - a photo of a {}.
+an ancient cave painting of a {}. - a photo of a {}.
+a sci-fi style of a {}. - a photo of a {}.
+a children coloring book of a {}. - a photo of a {}.
+a mixed media art of a {}. - a photo of a {}.
+a conceptual sketch of a {}. - a photo of a {}.
+a steampunk mechanical drawing of a {}. - a photo of a {}.
+a hand-painted mural of a {}. - a photo of a {}.
+a pastel artwork of a {}. - a photo of a {}.
+an illustrated diagram of a {}. - a photo of a {}.
+a vector graphic of a {}. - a photo of a {}.
+a medieval manuscript of a {}. - a photo of a {}.
+a baroque painting of a {}. - a photo of a {}.
+a Cubist painting of a {}. - a photo of a {}.
+an Art Deco version of a {}. - a photo of a {}.
+an Art Nouveau illustration of a {}. - a photo of a {}.
+an acrylic painting of a {}. - a photo of a {}.
+a neon sign of a {}. - a photo of a {}.
+an icon design of a {}. - a photo of a {}.
+a shadow silhouette of a {}. - a photo of a {}.
+a cut-paper art of a {}. - a photo of a {}.
+a tapestry featuring a {}. - a photo of a {}.
+a cross-stitch pattern of a {}. - a photo of a {}.
+a visual novel character of a {}. - a photo of a {}.
+an emoji of a {}. - a photo of a {}.
+a logo of a {}. - a photo of a {}.
+a banner featuring a {}. - a photo of a {}.
+a motion graphic of a {}. - a photo of a {}.
+a kinetic sculpture of a {}. - a photo of a {}.
+a vintage postcard of a {}. - a photo of a {}.
+a LED display of a {}. - a photo of a {}.
+a glass sculpture of a {}. - a photo of a {}.
+a sand art representation of a {}. - a photo of a {}.
+a flower arrangement resembling a {}. - a photo of a {}.
+a fabric pattern of a {}. - a photo of a {}.
+an Egyptian hieroglyph of a {}. - a photo of a {}.
+a 16-bit video game character of a {}. - a photo of a {}.
+a pottery design of a {}. - a photo of a {}.
+a metal engraving of a {}. - a photo of a {}.
+an origami model of a {}. - a photo of a {}.
+a cyberpunk illustration of a {}. - a photo of a {}.
+a graffiti stencil of a {}. - a photo of a {}.
+a stained glass panel of a {}. - a photo of a {}.
+a Rorschach inkblot of a {}. - a photo of a {}.
+a Gothic architecture detail of a {}. - a photo of a {}.
+a postage stamp of a {}. - a photo of a {}.
+a wireframe model of a {}. - a photo of a {}.
+a LEGO model of a {}. - a photo of a {}.
+a hologram of a {}. - a photo of a {}.
+a paper doll of a {}. - a photo of a {}.
+a bubble letter graffiti of a {}. - a photo of a {}.
+a cookie cutter shape of a {}. - a photo of a {}.
+an emoji sticker of a {}. - a photo of a {}.
+a flipbook animation of a {}. - a photo of a {}.
+a crystal carving of a {}. - a photo of a {}.
+a sand sculpture of a {}. - a photo of a {}.
+a totem pole with a {}. - a photo of a {}.
+a Moai statue resembling a {}. - a photo of a {}.
+a scientific model of a {}. - a photo of a {}.
+a photo negative of a {}. - a photo of a {}.
+a pop-up book with a {}. - a photo of a {}.
+a clay sculpture of a {}. - a photo of a {}.
+a fabric print of a {}. - a photo of a {}.
+a kinetic art piece of a {}. - a photo of a {}.
+a chalk pavement art of a {}. - a photo of a {}.
+a scrimshaw of a {}. - a photo of a {}.
+an augmented reality filter of a {}. - a photo of a {}.
+a laser-cut wood model of a {}. - a photo of a {}.
+a beadwork pattern of a {}. - a photo of a {}.
+a lenticular print of a {}. - a photo of a {}.
+a tarot card featuring a {}. - a photo of a {}.
+an astrological chart with a {}. - a photo of a {}.
+a glass mosaic of a {}. - a photo of a {}.
+a domino tile of a {}. - a photo of a {}.
+a rubber stamp of a {}. - a photo of a {}.
+a fashion illustration of a {}. - a photo of a {}.
+a tattoo flash of a {}. - a photo of a {}.
+a 2D animation cell of a {}. - a photo of a {}.
+a comic book panel of a {}. - a photo of a {}.
+a topographic map with a {}. - a photo of a {}.
+an ASCII art of a {}. - a photo of a {}.
+a street photography shot of a {}. - a photo of a {}.
+a stone carving of a {}. - a photo of a {}.
+a bookplate illustration of a {}. - a photo of a {}.
+a linocut of a {}. - a photo of a {}.
+an album cover with a {}. - a photo of a {}.
+a silhouette photo of a {}. - a photo of a {}.
+a flipbook of a {}. - a photo of a {}.
+a watercolor wash of a {}. - a photo of a {}.
+a 4-bit pixel icon of a {}. - a photo of a {}.
+a map illustration with a {}. - a photo of a {}.
+an animated GIF of a {}. - a photo of a {}.
+a 3D hologram of a {}. - a photo of a {}.
+a typography art of a {}. - a photo of a {}.
+a paper cutout of a {}. - a photo of a {}.
+a retrowave poster of a {}. - a photo of a {}.
+a constellation resembling a {}. - a photo of a {}.
+a steampunk icon of a {}. - a photo of a {}.
+a painted ceramic tile of a {}. - a photo of a {}.
+an abstract representation of a {}. - a photo of a {}.
+a shadow puppet of a {}. - a photo of a {}.
+a cave engraving of a {}. - a photo of a {}.
+a dot matrix print of a {}. - a photo of a {}.
+a Rube Goldberg machine featuring a {}. - a photo of a {}.
+an aerial view photo of a {}. - a photo of a {}.
+an album art design of a {}. - a photo of a {}.
+a topographic elevation map of a {}. - a photo of a {}.
+a needlepoint design of a {}. - a photo of a {}.
+a quilling art piece of a {}. - a photo of a {}.
+a badge design of a {}. - a photo of a {}.
+a marble statue of a {}. - a photo of a {}.
+a glass etching of a {}. - a photo of a {}.
+a logo badge of a {}. - a photo of a {}.
+a postage stamp illustration of a {}. - a photo of a {}.
+an embossed print of a {}. - a photo of a {}.
+a neon artwork of a {}. - a photo of a {}.
+176it [00:31,  5.64it/s]177it [00:31,  5.64it/s]                        177it [00:31,  5.64it/s]178it [00:31,  5.64it/s]                        178it [00:31,  5.64it/s]179it [00:31,  5.64it/s]                        179it [00:31,  5.64it/s]180it [00:32,  5.64it/s]                        180it [00:32,  5.64it/s]181it [00:32,  5.64it/s]                        181it [00:32,  5.64it/s]182it [00:32,  5.64it/s]                        182it [00:32,  5.64it/s]183it [00:32,  5.64it/s]                        183it [00:32,  5.64it/s]184it [00:32,  5.64it/s]                        184it [00:32,  5.64it/s]185it [00:32,  5.63it/s]                        185it [00:32,  5.63it/s]186it [00:33,  5.63it/s]                        186it [00:33,  5.63it/s]187it [00:33,  5.63it/s]                        187it [00:33,  5.63it/s]188it [00:33,  5.63it/s]                        188it [00:33,  5.63it/s]189it [00:33,  5.63it/s]                        189it [00:33,  5.63it/s]190it [00:33,  5.63it/s]                        190it [00:33,  5.63it/s]191it [00:34,  5.63it/s]                        191it [00:34,  5.63it/s]192it [00:34,  5.61it/s]                        192it [00:34,  5.61it/s]193it [00:34,  5.62it/s]                        193it [00:34,  5.62it/s]194it [00:34,  5.62it/s]                        194it [00:34,  5.62it/s]195it [00:34,  5.62it/s]                        195it [00:34,  5.62it/s]196it [00:34,  5.61it/s]                        196it [00:34,  5.61it/s]197it [00:35,  5.62it/s]                        197it [00:35,  5.62it/s]198it [00:35,  5.62it/s]                        198it [00:35,  5.62it/s]199it [00:35,  5.62it/s]                        199it [00:35,  5.62it/s]200it [00:35,  5.61it/s]                        200it [00:35,  5.61it/s]201it [00:35,  5.60it/s]                        201it [00:35,  5.60it/s]202it [00:35,  5.61it/s]                        202it [00:35,  5.61it/s]203it [00:36,  5.61it/s]                        203it [00:36,  5.61it/s]204it [00:36,  5.60it/s]204it [00:36,  5.62it/s]
+2026-09-17 12:39:30,856 [INFO] Dataset CUB loaded
+2026-09-17 12:39:40,626 [INFO] Model initialized: clip_cbm
+2026-09-17 12:39:40,626 [INFO] Total parameters: 427,669,839 | Trainable: 53,326
+/data/ai25mtech14009/repo/external/LanCE/cache_utils.py:19: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  cached = torch.load(cache_path)
+2026-09-17 12:39:40,664 [INFO] Cached features - train: 5,990, source test: 5,790, target test: 3,047
+2026-09-17 12:39:40,671 [INFO] 
+============================================================
+2026-09-17 12:39:40,671 [INFO] Starting Training for 50 epochs
+2026-09-17 12:39:40,671 [INFO] Dataset: CUB
+2026-09-17 12:39:40,671 [INFO] Model: clip_cbm
+2026-09-17 12:39:40,671 [INFO] Alpha: 1.0, Beta: 0
+2026-09-17 12:39:40,671 [INFO] ============================================================
+
+2026-09-17 12:39:46,763 [INFO] Epoch 1 Summary: Time: 6.09s | Train Acc: 1.34% | Source Acc: 2.54% | Target Acc: 2.66% | Best Target Acc: 2.66% @ Epoch 1
+2026-09-17 12:39:52,757 [INFO] Epoch 2 Summary: Time: 5.99s | Train Acc: 5.39% | Source Acc: 9.00% | Target Acc: 7.02% | Best Target Acc: 7.02% @ Epoch 2
+2026-09-17 12:39:58,790 [INFO] Epoch 3 Summary: Time: 6.03s | Train Acc: 13.76% | Source Acc: 18.98% | Target Acc: 12.73% | Best Target Acc: 12.73% @ Epoch 3
+2026-09-17 12:40:05,001 [INFO] Epoch 4 Summary: Time: 6.21s | Train Acc: 24.12% | Source Acc: 29.81% | Target Acc: 20.12% | Best Target Acc: 20.12% @ Epoch 4
+2026-09-17 12:40:11,120 [INFO] Epoch 5 Summary: Time: 6.12s | Train Acc: 33.99% | Source Acc: 38.50% | Target Acc: 25.99% | Best Target Acc: 25.99% @ Epoch 5
+2026-09-17 12:40:16,495 [INFO] Epoch 6 Summary: Time: 5.37s | Train Acc: 42.77% | Source Acc: 45.35% | Target Acc: 31.34% | Best Target Acc: 31.34% @ Epoch 6
+2026-09-17 12:40:22,581 [INFO] Epoch 7 Summary: Time: 6.09s | Train Acc: 50.50% | Source Acc: 50.33% | Target Acc: 34.56% | Best Target Acc: 34.56% @ Epoch 7
+2026-09-17 12:40:28,644 [INFO] Epoch 8 Summary: Time: 6.06s | Train Acc: 55.34% | Source Acc: 55.30% | Target Acc: 38.00% | Best Target Acc: 38.00% @ Epoch 8
+2026-09-17 12:40:34,741 [INFO] Epoch 9 Summary: Time: 6.10s | Train Acc: 59.45% | Source Acc: 58.96% | Target Acc: 41.29% | Best Target Acc: 41.29% @ Epoch 9
+2026-09-17 12:40:40,795 [INFO] Epoch 10 Summary: Time: 6.05s | Train Acc: 63.76% | Source Acc: 62.54% | Target Acc: 44.73% | Best Target Acc: 44.73% @ Epoch 10
+2026-09-17 12:40:46,952 [INFO] Epoch 11 Summary: Time: 6.16s | Train Acc: 65.93% | Source Acc: 64.54% | Target Acc: 46.18% | Best Target Acc: 46.18% @ Epoch 11
+2026-09-17 12:40:53,090 [INFO] Epoch 12 Summary: Time: 6.14s | Train Acc: 67.78% | Source Acc: 66.32% | Target Acc: 47.55% | Best Target Acc: 47.55% @ Epoch 12
+2026-09-17 12:40:59,130 [INFO] Epoch 13 Summary: Time: 5.99s | Train Acc: 69.72% | Source Acc: 66.80% | Target Acc: 48.31% | Best Target Acc: 48.31% @ Epoch 13
+2026-09-17 12:41:05,102 [INFO] Epoch 14 Summary: Time: 5.97s | Train Acc: 71.32% | Source Acc: 68.98% | Target Acc: 49.72% | Best Target Acc: 49.72% @ Epoch 14
+2026-09-17 12:41:11,147 [INFO] Epoch 15 Summary: Time: 6.04s | Train Acc: 72.69% | Source Acc: 69.91% | Target Acc: 50.74% | Best Target Acc: 50.74% @ Epoch 15
+2026-09-17 12:41:17,852 [INFO] Epoch 16 Summary: Time: 6.70s | Train Acc: 74.27% | Source Acc: 70.67% | Target Acc: 51.20% | Best Target Acc: 51.20% @ Epoch 16
+2026-09-17 12:41:25,201 [INFO] Epoch 17 Summary: Time: 7.35s | Train Acc: 74.76% | Source Acc: 71.54% | Target Acc: 51.95% | Best Target Acc: 51.95% @ Epoch 17
+2026-09-17 12:41:31,770 [INFO] Epoch 18 Summary: Time: 6.57s | Train Acc: 76.11% | Source Acc: 72.69% | Target Acc: 52.90% | Best Target Acc: 52.90% @ Epoch 18
+2026-09-17 12:41:37,846 [INFO] Epoch 19 Summary: Time: 6.07s | Train Acc: 76.91% | Source Acc: 73.47% | Target Acc: 53.53% | Best Target Acc: 53.53% @ Epoch 19
+2026-09-17 12:41:44,859 [INFO] Epoch 20 Summary: Time: 7.01s | Train Acc: 77.65% | Source Acc: 74.18% | Target Acc: 54.02% | Best Target Acc: 54.02% @ Epoch 20
+2026-09-17 12:41:50,905 [INFO] Epoch 21 Summary: Time: 6.04s | Train Acc: 78.20% | Source Acc: 74.80% | Target Acc: 54.55% | Best Target Acc: 54.55% @ Epoch 21
+2026-09-17 12:41:52,080 [INFO] Epoch 22 Summary: Time: 1.17s | Train Acc: 79.32% | Source Acc: 74.85% | Target Acc: 54.35% | Best Target Acc: 54.55% @ Epoch 21
+2026-09-17 12:41:58,173 [INFO] Epoch 23 Summary: Time: 6.09s | Train Acc: 79.72% | Source Acc: 75.53% | Target Acc: 55.27% | Best Target Acc: 55.27% @ Epoch 23
+2026-09-17 12:42:04,409 [INFO] Epoch 24 Summary: Time: 6.24s | Train Acc: 79.70% | Source Acc: 75.68% | Target Acc: 55.56% | Best Target Acc: 55.56% @ Epoch 24
+2026-09-17 12:42:10,546 [INFO] Epoch 25 Summary: Time: 6.14s | Train Acc: 80.27% | Source Acc: 76.34% | Target Acc: 56.02% | Best Target Acc: 56.02% @ Epoch 25
+2026-09-17 12:42:11,777 [INFO] Epoch 26 Summary: Time: 1.23s | Train Acc: 81.39% | Source Acc: 76.77% | Target Acc: 55.79% | Best Target Acc: 56.02% @ Epoch 25
+2026-09-17 12:42:12,993 [INFO] Epoch 27 Summary: Time: 1.22s | Train Acc: 81.14% | Source Acc: 77.01% | Target Acc: 56.02% | Best Target Acc: 56.02% @ Epoch 25
+2026-09-17 12:42:19,073 [INFO] Epoch 28 Summary: Time: 6.08s | Train Acc: 82.15% | Source Acc: 77.69% | Target Acc: 56.51% | Best Target Acc: 56.51% @ Epoch 28
+2026-09-17 12:42:20,341 [INFO] Epoch 29 Summary: Time: 1.27s | Train Acc: 82.69% | Source Acc: 77.20% | Target Acc: 55.86% | Best Target Acc: 56.51% @ Epoch 28
+2026-09-17 12:42:21,564 [INFO] Epoch 30 Summary: Time: 1.22s | Train Acc: 82.57% | Source Acc: 77.44% | Target Acc: 56.19% | Best Target Acc: 56.51% @ Epoch 28
+2026-09-17 12:42:27,650 [INFO] Epoch 31 Summary: Time: 6.09s | Train Acc: 83.34% | Source Acc: 77.91% | Target Acc: 56.68% | Best Target Acc: 56.68% @ Epoch 31
+2026-09-17 12:42:33,755 [INFO] Epoch 32 Summary: Time: 6.10s | Train Acc: 83.67% | Source Acc: 78.00% | Target Acc: 57.01% | Best Target Acc: 57.01% @ Epoch 32
+2026-09-17 12:42:39,917 [INFO] Epoch 33 Summary: Time: 6.16s | Train Acc: 83.79% | Source Acc: 78.07% | Target Acc: 57.11% | Best Target Acc: 57.11% @ Epoch 33
+2026-09-17 12:42:41,094 [INFO] Epoch 34 Summary: Time: 1.18s | Train Acc: 83.81% | Source Acc: 78.55% | Target Acc: 57.07% | Best Target Acc: 57.11% @ Epoch 33
+2026-09-17 12:42:47,119 [INFO] Epoch 35 Summary: Time: 6.03s | Train Acc: 84.36% | Source Acc: 78.64% | Target Acc: 57.43% | Best Target Acc: 57.43% @ Epoch 35
+2026-09-17 12:42:48,353 [INFO] Epoch 36 Summary: Time: 1.23s | Train Acc: 84.67% | Source Acc: 78.98% | Target Acc: 57.20% | Best Target Acc: 57.43% @ Epoch 35
+2026-09-17 12:42:54,410 [INFO] Epoch 37 Summary: Time: 6.06s | Train Acc: 84.61% | Source Acc: 78.86% | Target Acc: 57.63% | Best Target Acc: 57.63% @ Epoch 37
+2026-09-17 12:43:00,551 [INFO] Epoch 38 Summary: Time: 6.14s | Train Acc: 84.87% | Source Acc: 79.27% | Target Acc: 57.73% | Best Target Acc: 57.73% @ Epoch 38
+2026-09-17 12:43:06,600 [INFO] Epoch 39 Summary: Time: 6.05s | Train Acc: 84.87% | Source Acc: 79.15% | Target Acc: 57.83% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:07,836 [INFO] Epoch 40 Summary: Time: 1.24s | Train Acc: 85.16% | Source Acc: 79.67% | Target Acc: 57.47% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:09,054 [INFO] Epoch 41 Summary: Time: 1.22s | Train Acc: 85.54% | Source Acc: 79.78% | Target Acc: 57.43% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:10,284 [INFO] Epoch 42 Summary: Time: 1.23s | Train Acc: 85.11% | Source Acc: 79.72% | Target Acc: 57.76% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:11,498 [INFO] Epoch 43 Summary: Time: 1.21s | Train Acc: 85.54% | Source Acc: 79.90% | Target Acc: 57.70% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:12,738 [INFO] Epoch 44 Summary: Time: 1.24s | Train Acc: 86.08% | Source Acc: 79.98% | Target Acc: 57.79% | Best Target Acc: 57.83% @ Epoch 39
+2026-09-17 12:43:18,783 [INFO] Epoch 45 Summary: Time: 6.04s | Train Acc: 86.08% | Source Acc: 80.12% | Target Acc: 58.02% | Best Target Acc: 58.02% @ Epoch 45
+2026-09-17 12:43:24,924 [INFO] Epoch 46 Summary: Time: 6.14s | Train Acc: 86.11% | Source Acc: 80.21% | Target Acc: 58.35% | Best Target Acc: 58.35% @ Epoch 46
+2026-09-17 12:43:26,155 [INFO] Epoch 47 Summary: Time: 1.23s | Train Acc: 86.28% | Source Acc: 80.33% | Target Acc: 58.32% | Best Target Acc: 58.35% @ Epoch 46
+2026-09-17 12:43:27,393 [INFO] Epoch 48 Summary: Time: 1.24s | Train Acc: 86.48% | Source Acc: 80.45% | Target Acc: 58.12% | Best Target Acc: 58.35% @ Epoch 46
+2026-09-17 12:43:28,626 [INFO] Epoch 49 Summary: Time: 1.23s | Train Acc: 86.68% | Source Acc: 80.67% | Target Acc: 58.19% | Best Target Acc: 58.35% @ Epoch 46
+2026-09-17 12:43:29,823 [INFO] Epoch 50 Summary: Time: 1.20s | Train Acc: 86.91% | Source Acc: 80.81% | Target Acc: 58.32% | Best Target Acc: 58.35% @ Epoch 46
+2026-09-17 12:43:29,823 [INFO] 
+============================================================
+2026-09-17 12:43:29,823 [INFO] Training Completed
+2026-09-17 12:43:29,823 [INFO] Best Source Accuracy: 80.21%
+2026-09-17 12:43:29,823 [INFO] Best Target Accuracy: 58.35%
+2026-09-17 12:43:29,823 [INFO] ============================================================
+a street poster with a {}. - a photo of a {}.
+an ancient rune of a {}. - a photo of a {}.
+a steampunk watch gear featuring a {}. - a photo of a {}.
+an environmental infographic of a {}. - a photo of a {}.
+a safety sign of a {}. - a photo of a {}.
+a blueprint schematic of a {}. - a photo of a {}.
+a wire sculpture of a {}. - a photo of a {}.
+a papercraft model of a {}. - a photo of a {}.
+a photorealistic painting of a {}. - a photo of a {}.
+a vintage label of a {}. - a photo of a {}.
+a linocut print of a {}. - a photo of a {}.
+a painting on driftwood of a {}. - a photo of a {}.
+a cave wall painting of a {}. - a photo of a {}.
+a tribal tattoo of a {}. - a photo of a {}.
+a doodle sticker of a {}. - a photo of a {}.
+a video game cover featuring a {}. - a photo of a {}.
+an emoji art of a {}. - a photo of a {}.
+a lava lamp pattern of a {}. - a photo of a {}.
+a comic character of a {}. - a photo of a {}.
+a floral arrangement shaped like a {}. - a photo of a {}.
+a retro poster of a {}. - a photo of a {}.
+a minimalist icon of a {}. - a photo of a {}.
+a classic movie poster featuring a {}. - a photo of a {}.
+a botanical illustration of a {}. - a photo of a {}.
+a cross-sectional diagram of a {}. - a photo of a {}.
+a video game avatar of a {}. - a photo of a {}.
+a medieval tapestry with a {}. - a photo of a {}.
+a carved pumpkin in the shape of a {}. - a photo of a {}.
