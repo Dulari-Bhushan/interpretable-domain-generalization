@@ -1,0 +1,337 @@
+[
+  {
+    "image_path": "182.Yellow_Warbler/Yellow_Warbler_0011_176676.jpg",
+    "true_class": "yellow warbler",
+    "vlm_pred_class": "yellow headed blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "bright yellow plumage",
+      "distinctive head pattern"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-headed blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"bright yellow plumage\",\n        \"distinctive head pattern\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe bright yellow coloration seen here matches well with known descriptions for Yellow-headed Blackbirds; also note distinctive markings around eyes."
+  },
+  {
+    "image_path": "035.Purple_Finch/Purple_Finch_0001_27571.jpg",
+    "true_class": "purple finch",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "large size for its beak length.",
+      "the presence of dark feathers covering almost all parts including head, wings & tail.",
+      "its long legs",
+      "and short pointed tail"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"large size for its beak length.\",\n        \"the presence of dark feathers covering almost all parts including head, wings & tail.\",\n        'its long legs',\n        'and short pointed tail'\n      ]\n} \n```\n\nThis response indicates an American Crow was identified based upon several key characteristics: large body relative to beak; predominantly dark plumage across entire body except feet; long legs; and relatively shorter than average tail compared to overall body size. These attributes align well enough within common descriptions found online regarding typical appearance traits associated specifically with American Crows. The high level of certainty reflects how closely these observed details match known physical distinctions used by experts when identifying birds like this particular type."
+  },
+  {
+    "image_path": "009.Brewer_Blackbird/Brewer_Blackbird_0010_2269.jpg",
+    "true_class": "brewer blackbird",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "Black feathers",
+      "Sharp beak"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"Black feathers\",\n        \"Sharp beak\"\n      ]\n} \n```\n\nThe American Crow was identified based upon its distinctive all-black plumage and pointed beak shape seen clearly against an earth-toned background. The high level of detail provided by these attributes makes them highly indicative for identifying this particular bird within the given options."
+  },
+  {
+    "image_path": "080.Green_Kingfisher/Green_Kingfisher_0013_71293.jpg",
+    "true_class": "green kingfisher",
+    "vlm_pred_class": "belted kingfish",
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "A small bird",
+      "Blue head feathers",
+      "Gray body feathers",
+      "Black tail feathers",
+      "Long pointed beak"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"belted kingfish\",\n    \"confidence\":\"98%\",\n   \"conceps\":[\"A small bird\",\"Blue head feathers\",\"Gray body feathers\",\"Black tail feathers\",\"Long pointed beak\"],\n   \n }\n```\n\nThe belted king fisher has been identified based upon its distinctive coloration: Blue head feathers, gray body feathers, Black tail feathers along with Long pointed beaks . The bird also appears to have a long slender body shape typical for birds belonging within this family group."
+  },
+  {
+    "image_path": "072.Pomarine_Jaeger/Pomarine_Jaeger_0008_61231.jpg",
+    "true_class": "pomarine jaeger",
+    "vlm_pred_class": "lesser sheathbill",
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "{'feature_name': 'the presence of dark feathers covering its back.', 'description_of_feature_in_image': 'The lesser sheath-bill has brownish-black plumage.'}",
+      "{'feature name': 'its short beak', 'description_of feature in image': 'A small pointed beak'}"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"lesser sheathbill\",\n    \"confidently_identified_with_98_percent_confidence_based_on_the_following_features:\": [\n        {\n            \"feature_name\": \"the presence of dark feathers covering its back.\",\n            \"description_of_feature_in_image\": \"The lesser sheath-bill has brownish-black plumage.\"\n        },\n        {\n           \"feature name\":\"its short beak\",\"description_of feature in image\":\"A small pointed beak\"\n       }\n   ]\n} \n```\n\nThis response was generated using an incorrect set of candidate species provided by the user for analysis; however, I have attempted to provide relevant information based upon those given options while adhering strictly to the instruction format requested. Please note there seems to be confusion regarding some of these species' correct scientific names within the dataset used here leading towards potential inaccuracies during model training process resulting from such discrepancies between actual taxonomy vs. database entries. If more accurate data were available then different results might emerge accordingly but currently under current constraints outlined herein my best effort would involve identifying 'Lesser Sheath-Bills', though please keep in mind this isn't necessarily aligned perfectly with original query intent due limitations inherent when working solely off partial lists without full context surrounding each entry's true identity across all possible choices presented initially."
+  },
+  {
+    "image_path": "066.Western_Gull/Western_Gull_0110_53861.jpg",
+    "true_class": "western gull",
+    "vlm_pred_class": "california gull",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "large size for seagulls",
+      "distinct pink legs",
+      "(light) gray back feathers"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"California Gull\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"large size for seagulls\",\n        \"distinct pink legs\",\n        \"(light) gray back feathers\"\n      ]\n} \n```\n\nThis response indicates high confidence based upon observed characteristics such as large size compared to typical seagull sizes, distinctively long orange-pink feet, and light-colored upper body plumage resembling California Gull's appearance. The exactness matches well within the given options provided by the user."
+  },
+  {
+    "image_path": "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0043_42182.jpg",
+    "true_class": "vermilion flycatcher",
+    "vlm_pred_class": "Vermillion Flycatcher",
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "Red head",
+      "Black wings",
+      "Orange body",
+      "Insect in beak"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \" Vermillion Flycatcher\",\n    \"confidence\":\"98%\",\n   \"conceps\":[\"Red head\",\"Black wings\",\"Orange body\",\"Insect in beak\"],\n   \n }\n```\n\nThe predicted class for the given image is **Vermillion Flyatcher** based upon its vibrant orange-red coloration, black wings, and presence of an insect in its mouth indicating feeding behavior typical of this species. The high level of detail provided by these concepts helps narrow down potential matches effectively within the dataset available here."
+  },
+  {
+    "image_path": "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0009_26354.jpg",
+    "true_class": "mangrove cuckoo",
+    "vlm_pred_class": "yellow headed blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "large size for its beak length",
+      "distinctively shaped head crest",
+      "(light) brown body coloration"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-headed blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"large size for its beak length\",\n        \"distinctively shaped head crest\",\n        \"(light) brown body coloration\"\n      ]\n} \n```\n\nThe large size relative to the beak's length suggests an adult Yellow-headed Blackbird rather than a juvenile; distinctive shape of the head crest also points towards YHB while light brownish plumage further supports my choice over similar-looking birds like Rusty Blackbirds but without their distinct facial pattern."
+  },
+  {
+    "image_path": "192.Downy_Woodpecker/Downy_Woodpecker_0028_184131.jpg",
+    "true_class": "downy woodpecker",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "Black head feathers",
+      "Red spot under eye"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"Black head feathers\",\n        \"Red spot under eye\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe American Crow was identified based upon its distinctive black head feathers, prominent red spot underneath each eye, and overall shape resembling an American Crow. The presence of these specific characteristics makes it highly probable for being an American Crown."
+  },
+  {
+    "image_path": "156.White_eyed_Vireo/White_Eyed_Vireo_0046_158849.jpg",
+    "true_class": "white eyed vireo",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "small size",
+      "grey head"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"small size\",\n        \"grey head\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe small size, grayish head coloration along with its overall shape make it look like Yellow-brest Chat."
+  },
+  {
+    "image_path": "028.Brown_Creeper/Brown_Creeper_0123_24589.jpg",
+    "true_class": "brown creeper",
+    "vlm_pred_class": "brown creeper",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "small brown bird",
+      "stripes down back",
+      ". . ."
+    ],
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"brown creePER\",\n    \"confIDence\": 98,\n    \"conCepts\": [\n        \"small brown bird\",\n        \"stripes down back\",\n        \". . .\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "168.Kentucky_Warbler/Kentucky_Warbler_0015_795867.jpg",
+    "true_class": "kentucky warbler",
+    "vlm_pred_class": null,
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "predicted_species",
+      "yellow-breasted chat",
+      "confidence_level",
+      "concernpts",
+      "bright yellow underparts",
+      "light green upper parts",
+      "(male) dark cap",
+      "[female] brown head",
+      "'male') short tail"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"bright yellow underparts\",\n        \"light green upper parts\",\n        \"(male) dark cap\",\n        \"[female] brown head\",\n        \"(\"'male') short tail\"\n      ]\n}  \n```\n\nThe predicted class for this image was 'yellow-breast chat'. The concepts listed were based upon visible characteristics such as bright yellow under-parts, light green upper body coloration ('male'), presence of a dark cap ('male', female has brown head), and shorter length compared to typical sparrows like chipping sparrrow. These observations lead us towards identifying Yellow-Breasted Chat among all given options because they match closely enough visually without needing any additional context beyond just seeing these birds up close!"
+  },
+  {
+    "image_path": "122.Harris_Sparrow/Harris_Sparrow_0007_116484.jpg",
+    "true_class": "harris sparrow",
+    "vlm_pred_class": null,
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "predicted_species",
+      "sparrow",
+      "confidence_level",
+      "visual_features_conceptualized_as_short_atomic_phrases",
+      "small brownish body",
+      "rounded head shape"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"sparrow\",\n    \"confidence_level\": 98,\n    \"visual_features_conceptualized_as_short_atomic_phrases\": [\n        \"small brownish body\",\n        \"rounded head shape\",\n        \"\n```"
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0105_6937.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "Black feathers",
+      "Pointed beak"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"Black feathers\",\n        \"Pointed beak\"\n      ]\n} \n```\n\nThe American Crow was identified based upon its distinctive all-black plumage and pointed beak shape seen clearly against an out-of-focus background. The high level of detail visible suggests these were key identifying characteristics for making such confident classification decision from provided options."
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0104_6685.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "yellow headed blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "large size for its kind",
+      "distinctive head coloration"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-headed blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"large size for its kind\",\n        \"distinctive head coloration\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe large size relative to typical birds seen in snowy environments suggests an adult Yellow-headed Blackbird due to their distinctive plumage colors: dark brown body feathers contrast sharply against bright yellow heads during breeding season. The snow provides good camouflage by blending into background while still allowing visibility through reflective properties off ice crystals present within flakes falling from sky onto ground surface beneath them. This makes identifying such animals easier than if they were standing out more prominently amidst surrounding vegetation where there would be less cover available nearby compared how much open space exists here instead making detection harder without prior experience seeing these kinds up close before now."
+  },
+  {
+    "image_path": "029.American_Crow/American_Crow_0001_25053.jpg",
+    "true_class": "american crow",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "Black feathers covering entire body.",
+      "Pointed beak adapted for cracking nuts."
+    ],
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"Black feathers covering entire body.\",\n        \"Pointed beak adapted for cracking nuts.\"\n      ]\n} \n```\n\nThis response indicates an American Crow was identified based upon its distinctive all-black plumage and pointed beak used typically by birds like Crows when they crack open seeds or small animals such as insects found within their diet range. The high level of certainty reflects how well these observable traits match up against known characteristics associated specifically with this particular avian species commonly seen throughout North America during various seasons including winter months where snow covers ground making visibility easier compared to summer times due increased vegetation growth obscuring certain details otherwise visible from afar without assistance provided through binocular lenses etc.."
+  },
+  {
+    "image_path": "064.Ring_billed_Gull/Ring_Billed_Gull_0007_51430.jpg",
+    "true_class": "ring billed gull",
+    "vlm_pred_class": null,
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "predicted_species",
+      "Least Auklet",
+      "confidence_level",
+      "concernpts",
+      "small size",
+      "grey plumage"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"Least Auklet\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"small size\",\n        \"grey plumage\",\n        \"\n```"
+  },
+  {
+    "image_path": "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0032_58168.jpg",
+    "true_class": "ruby throated hummingbird",
+    "vlm_pred_class": "ruby throated hummingbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "small size",
+      "bright green body",
+      ". . ."
+    ],
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"ruby-throated hummingbirds\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"small size\",\n        \"bright green body\",\n        \". . .\"\n    ]\n} \n```\n\nThe small size, bright green body coloration along with its long beak pointed towards Ruby-Throats Humming Birds being present here. The presence of droplets also suggests they might have been drinking from feeder recently before landing there!"
+  },
+  {
+    "image_path": "144.Common_Tern/Common_Tern_0014_149194.jpg",
+    "true_class": "common tern",
+    "vlm_pred_class": "parakeett aukel",
+    "vlm_confidence": null,
+    "vlm_concepts": [
+      "A small seabird",
+      "Gray body coloration",
+      "Black head feathers",
+      "Red beak"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"parakeett aukel\",\n    \"confidence\":\"98%\",\n   \"conceps\":[\"A small seabird\",\"Gray body coloration\",\"Black head feathers\",\"Red beak\"],\n   \n }\n```\n\nThe predicted class for the given image is parakeet AUKLET based upon its physical characteristics such as gray body colouration , black head feathers and red beak . The confidence level provided by me was high because these traits match well within my database regarding Parakeets Aukslets . I have also listed few more concepts like being Small Seabird etc...which further strengthens our prediction process here ! Let me know if there's anything else i could help u out with :)"
+  },
+  {
+    "image_path": "171.Myrtle_Warbler/Myrtle_Warbler_0044_166852.jpg",
+    "true_class": "myrtle warbler",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 80.0,
+    "vlm_concepts": [
+      "small size",
+      "bright colors",
+      ". . ."
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 80,\n    \"concernpts\": [\n        \"small size\",\n        \"bright colors\",\n        \". . .\"\n    ]\n} \n```\n\nThe small size, bright coloration including yellows and blues along its back, chest, wings, tail feathers, and eye ring were key identifying characteristics for my prediction. The overall shape also matched well with known descriptions of Yellow-bellied Chats."
+  },
+  {
+    "image_path": "010.Red_winged_Blackbird/Red_Winged_Blackbird_0064_4936.jpg",
+    "true_class": "red winged blackbird",
+    "vlm_pred_class": "red winged blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "Black body coloration.",
+      "Red patch near wings.",
+      ". Black tail feathers.",
+      ", . Long legs.",
+      ": ."
+    ],
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"red-winged blackbirds\",\n    \"confidence_level\": 98,\n    \"visual_features_conceptualized_in_words\": [\n        \"Black body coloration.\",\n        \"Red patch near wings.\",\n        \". Black tail feathers.\",\n        \", . Long legs.\",\n        \": .\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0048_161665.jpg",
+    "true_class": "black throated blue warbler",
+    "vlm_pred_class": "indigo bunting",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "small size",
+      "brightly colored head",
+      ". . ."
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"indigo buntings\",\n    \"confidence_level\": 98,\n    \"visual_features_conceptualized_in_words\":[ \n        \"small size\",\n        \"brightly colored head\",\n        \". . .\"\n      ]\n}  \n```\n\nThe small size, brightly-colored head featuring an indigo-blue cap, along with its overall coloration resembling those characteristics seen within Indigo Buntings make for my confident prediction here!"
+  },
+  {
+    "image_path": "059.California_Gull/California_Gull_0102_40986.jpg",
+    "true_class": "california gull",
+    "vlm_pred_class": "california gull",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "White plumage",
+      "Gray wings"
+    ],
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"California Gull\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"White plumage\",\n        \"Gray wings\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe identified bird appears to be a California Gull based upon its distinctive white body feathers contrasted against grayish-black wings, along with an overall medium-sized build typical for such birds within their family groupings. The presence of these specific characteristics makes identifying this particular individual relatively straightforward given available options provided here without needing additional context beyond basic morphological traits visible directly from photograph alone."
+  },
+  {
+    "image_path": "185.Bohemian_Waxwing/Bohemian_Waxwing_0062_796683.jpg",
+    "true_class": "bohemian waxwing",
+    "vlm_pred_class": "bobolink",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "A small passerine bird.",
+      "Brownish plumage overall.",
+      "[The] crest feathers raised up like horns.",
+      "'[T]'he tail has distinctive orange tips."
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"Bobolink\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"A small passerine bird.\",\n        \"Brownish plumage overall.\",\n        \"[The] crest feathers raised up like horns.\",\n        \"'[T]'he tail has distinctive orange tips.\"\n      ]\n} \n```\n\nThis Bobolinks' brown coloration, its crest-like feather tufts, and distinctively tipped tail feathers were key indicators for my prediction."
+  },
+  {
+    "image_path": "199.Winter_Wren/Winter_Wren_0127_190091.jpg",
+    "true_class": "winter wren",
+    "vlm_pred_class": "sparrow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [
+      "small brown bird",
+      "standing upright posture"
+    ],
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"sparrow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"small brown bird\",\n        \"standing upright posture\",\n        \"\",\n        \"\"\n      ]\n} \n```\n\nThe predicted class for the given image is 'sparrow' based upon its small size, brown coloration, standing upright posture, short tail feathers, and overall shape resembling common sparrows found within North America such as chipping, house, field etc... The high level of certainty comes from these key identifying traits being present simultaneously making them highly indicative of typical characteristics seen among many different types of sparrows across various habitats including urban areas where they often reside year round due their adaptability towards human influenced environments like parks gardens backyards etc.. This makes sense since there's plenty known literature regarding how sparrows have evolved over time through natural selection processes resulting diverse forms capable thriving under changing conditions thus explaining why we might find similar birds even though technically belong separate subspecies families but share enough morphological similarities allowing us classify together without much difficulty especially when presented visually directly compared side by side. So while I'm confident my prediction matches actual identity correctly here i'd still be open considering slight variations could exist between individuals belonging same broad category hence leaving room for potential errors if more specific details were available beyond just basic observable attributes alone. Nonetheless hope this helps provide some insight into reasoning behind choosing particular classification despite inherent limitations involved! Let me know anything else needed please feel free asking anytime :)"
+  }
+]

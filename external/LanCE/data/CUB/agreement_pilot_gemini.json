@@ -1,0 +1,435 @@
+[
+  {
+    "image_path": "182.Yellow_Warbler/Yellow_Warbler_0011_176676.jpg",
+    "true_class": "yellow warbler",
+    "vlm_pred_class": "yellow warbler",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "solid yellow plumage",
+      "distinct chestnut streaks on the breast",
+      "small sharp pointed bill",
+      "yellow edges on the wing feathers",
+      "dark eye",
+      "small bird perched on a branch"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"yellow warbler\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"solid yellow plumage\",\n    \"distinct chestnut streaks on the breast\",\n    \"small sharp pointed bill\",\n    \"yellow edges on the wing feathers\",\n    \"dark eye\",\n    \"small bird perched on a branch\"\n  ]\n}"
+  },
+  {
+    "image_path": "035.Purple_Finch/Purple_Finch_0001_27571.jpg",
+    "true_class": "purple finch",
+    "vlm_pred_class": "purple finch",
+    "vlm_confidence": 85.0,
+    "vlm_concepts": [
+      "red coloration on head and breast",
+      "thick conical bill",
+      "streaked brown wings",
+      "streaked flanks",
+      "small songbird",
+      "perched on white railing"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"purple finch\",\n  \"confidence\": 85,\n  \"concepts\": [\"red coloration on head and breast\", \"thick conical bill\", \"streaked brown wings\", \"streaked flanks\", \"small songbird\", \"perched on white railing\"]\n}"
+  },
+  {
+    "image_path": "009.Brewer_Blackbird/Brewer_Blackbird_0010_2269.jpg",
+    "true_class": "brewer blackbird",
+    "vlm_pred_class": "brewer blackbird",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "solid black plumage with iridescence",
+      "bright yellow iris",
+      "sharp conical bill",
+      "proportionately long tail",
+      "slender dark legs",
+      "upright posture",
+      "small head relative to body"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"brewer blackbird\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"solid black plumage with iridescence\",\n    \"bright yellow iris\",\n    \"sharp conical bill\",\n    \"proportionately long tail\",\n    \"slender dark legs\",\n    \"upright posture\",\n    \"small head relative to body\"\n  ]\n}"
+  },
+  {
+    "image_path": "080.Green_Kingfisher/Green_Kingfisher_0013_71293.jpg",
+    "true_class": "green kingfisher",
+    "vlm_pred_class": "green kingfisher",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "large dagger-like bill",
+      "shaggy crest on head",
+      "dark blue-green upperparts",
+      "white neck collar",
+      "rufous band across the chest",
+      "white underparts",
+      "spotted wing coverts",
+      "perched on thin branches"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"green kingfisher\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"large dagger-like bill\",\n    \"shaggy crest on head\",\n    \"dark blue-green upperparts\",\n    \"white neck collar\",\n    \"rufous band across the chest\",\n    \"white underparts\",\n    \"spotted wing coverts\",\n    \"perched on thin branches\"\n  ]\n}"
+  },
+  {
+    "image_path": "072.Pomarine_Jaeger/Pomarine_Jaeger_0008_61231.jpg",
+    "true_class": "pomarine jaeger",
+    "vlm_pred_class": "pomarine jaeger",
+    "vlm_confidence": 90.0,
+    "vlm_concepts": [
+      "dark solid cap covering the forehead and crown",
+      "pale nape and sides of head contrasting with dark cap",
+      "heavily mottled brown and white pattern on the neck and chest",
+      "stout, relatively thick bill",
+      "dark brown upperwing coverts and mantle",
+      "pointed, elongated central tail feathers",
+      "compact body shape suitable for an aquatic environment"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"pomarine jaeger\",\n  \"confidence\": 90,\n  \"concepts\": [\n    \"dark solid cap covering the forehead and crown\",\n    \"pale nape and sides of head contrasting with dark cap\",\n    \"heavily mottled brown and white pattern on the neck and chest\",\n    \"stout, relatively thick bill\",\n    \"dark brown upperwing coverts and mantle\",\n    \"pointed, elongated central tail feathers\",\n    \"compact body shape suitable for an aquatic environment\"\n  ]\n}"
+  },
+  {
+    "image_path": "066.Western_Gull/Western_Gull_0110_53861.jpg",
+    "true_class": "western gull",
+    "vlm_pred_class": "western gull",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "white head",
+      "dark gray wings and back",
+      "stout yellow beak with a reddish spot",
+      "webbed pink feet",
+      "dark tail tip with white spots",
+      "medium-sized gull body proportions",
+      "standing on a blue surface near the ocean"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"western gull\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"white head\",\n    \"dark gray wings and back\",\n    \"stout yellow beak with a reddish spot\",\n    \"webbed pink feet\",\n    \"dark tail tip with white spots\",\n    \"medium-sized gull body proportions\",\n    \"standing on a blue surface near the ocean\"\n  ]\n}"
+  },
+  {
+    "image_path": "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0043_42182.jpg",
+    "true_class": "vermilion flycatcher",
+    "vlm_pred_class": "vermilion flycatcher",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "vibrant red underparts",
+      "bright red crown",
+      "dark grayish-brown wings",
+      "dark mask across eyes",
+      "short, slender, black bill",
+      "small insect held in bill",
+      "perched on a thin branch",
+      "small, compact bird shape"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"vermilion flycatcher\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"vibrant red underparts\",\n    \"bright red crown\",\n    \"dark grayish-brown wings\",\n    \"dark mask across eyes\",\n    \"short, slender, black bill\",\n    \"small insect held in bill\",\n    \"perched on a thin branch\",\n    \"small, compact bird shape\"\n  ]\n}"
+  },
+  {
+    "image_path": "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0009_26354.jpg",
+    "true_class": "mangrove cuckoo",
+    "vlm_pred_class": "mangrove cuckoo",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "dark mask around the eye",
+      "yellowish buff throat and breast",
+      "brownish wings and back",
+      "long slender body",
+      "curved bill",
+      "bicolored bill with dark upper and yellow lower mandible",
+      "elongated tail"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"mangrove cuckoo\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"dark mask around the eye\",\n    \"yellowish buff throat and breast\",\n    \"brownish wings and back\",\n    \"long slender body\",\n    \"curved bill\",\n    \"bicolored bill with dark upper and yellow lower mandible\",\n    \"elongated tail\"\n  ]\n}"
+  },
+  {
+    "image_path": "192.Downy_Woodpecker/Downy_Woodpecker_0028_184131.jpg",
+    "true_class": "downy woodpecker",
+    "vlm_pred_class": "downy woodpecker",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "black and white checkered wings",
+      "red patch on the back of the head",
+      "sharp pointed beak",
+      "white breast and belly",
+      "clinging vertically to a wooden post",
+      "black eye patch",
+      "stiff pointed tail feathers",
+      "sharp curved claws for gripping wood"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"downy woodpecker\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"black and white checkered wings\",\n    \"red patch on the back of the head\",\n    \"sharp pointed beak\",\n    \"white breast and belly\",\n    \"clinging vertically to a wooden post\",\n    \"black eye patch\",\n    \"stiff pointed tail feathers\",\n    \"sharp curved claws for gripping wood\"\n  ]\n}"
+  },
+  {
+    "image_path": "156.White_eyed_Vireo/White_Eyed_Vireo_0046_158849.jpg",
+    "true_class": "white eyed vireo",
+    "vlm_pred_class": "white eyed vireo",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "white iris",
+      "bright yellow spectacles around the eye",
+      "yellow wash on the flanks",
+      "olive-green back and wings",
+      "two faint white wing bars",
+      "stout greyish bill",
+      "greyish crown",
+      "small passerine bird on branch"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"white eyed vireo\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"white iris\",\n    \"bright yellow spectacles around the eye\",\n    \"yellow wash on the flanks\",\n    \"olive-green back and wings\",\n    \"two faint white wing bars\",\n    \"stout greyish bill\",\n    \"greyish crown\",\n    \"small passerine bird on branch\"\n  ]\n}"
+  },
+  {
+    "image_path": "028.Brown_Creeper/Brown_Creeper_0123_24589.jpg",
+    "true_class": "brown creeper",
+    "vlm_pred_class": "brown creeper",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "long downcurved bill",
+      "streaked brown and white camouflage plumage",
+      "stiff tail feathers pressed against tree bark",
+      "climbing posture on vertical tree trunk",
+      "white belly",
+      "brown and white mottled wings",
+      "light-coloured eyebrow stripe"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"brown creeper\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"long downcurved bill\",\n    \"streaked brown and white camouflage plumage\",\n    \"stiff tail feathers pressed against tree bark\",\n    \"climbing posture on vertical tree trunk\",\n    \"white belly\",\n    \"brown and white mottled wings\",\n    \"light-coloured eyebrow stripe\"\n  ]\n}"
+  },
+  {
+    "image_path": "168.Kentucky_Warbler/Kentucky_Warbler_0015_795867.jpg",
+    "true_class": "kentucky warbler",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "bright yellow throat and breast",
+      "dark olive green back and wings",
+      "prominent white eye ring",
+      "blackish lores and malar stripe",
+      "short, stout, dark bill",
+      "slightly crested greyish-black crown",
+      "long yellow-green tail",
+      "sturdy pale-pink legs and feet"
+    ],
+    "vlm_correct": false,
+    "raw_response": "{\n  \"predicted_class\": \"yellow breasted chat\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"bright yellow throat and breast\",\n    \"dark olive green back and wings\",\n    \"prominent white eye ring\",\n    \"blackish lores and malar stripe\",\n    \"short, stout, dark bill\",\n    \"slightly crested greyish-black crown\",\n    \"long yellow-green tail\",\n    \"sturdy pale-pink legs and feet\"\n  ]\n}"
+  },
+  {
+    "image_path": "122.Harris_Sparrow/Harris_Sparrow_0007_116484.jpg",
+    "true_class": "harris sparrow",
+    "vlm_pred_class": "harris sparrow",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "black crown",
+      "black throat patch",
+      "black mask extending from eye",
+      "streaked brown wings",
+      "pale brown face",
+      "white breast",
+      "conical bill shape",
+      "standing on snow"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"harris sparrow\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"black crown\",\n    \"black throat patch\",\n    \"black mask extending from eye\",\n    \"streaked brown wings\",\n    \"pale brown face\",\n    \"white breast\",\n    \"conical bill shape\",\n    \"standing on snow\"\n  ]\n}"
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0105_6937.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "brewer blackbird",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "solid black plumage",
+      "bright yellow eye",
+      "slender pointed black bill",
+      "small head relative to body",
+      "bird perched on bare branch",
+      "black bird in profile",
+      "lack of distinct markings"
+    ],
+    "vlm_correct": false,
+    "raw_response": "{\n  \"predicted_class\": \"brewer blackbird\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"solid black plumage\",\n    \"bright yellow eye\",\n    \"slender pointed black bill\",\n    \"small head relative to body\",\n    \"bird perched on bare branch\",\n    \"black bird in profile\",\n    \"lack of distinct markings\"\n  ]\n}"
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0104_6685.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "rusty blackbird",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "pale yellow iris",
+      "slender pointed black bill",
+      "dark brown and black mottled plumage",
+      "rusty feather edges on wings",
+      "compact passerine body shape",
+      "black legs and feet",
+      "perched on snow"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"rusty blackbird\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"pale yellow iris\",\n    \"slender pointed black bill\",\n    \"dark brown and black mottled plumage\",\n    \"rusty feather edges on wings\",\n    \"compact passerine body shape\",\n    \"black legs and feet\",\n    \"perched on snow\"\n  ]\n}"
+  },
+  {
+    "image_path": "029.American_Crow/American_Crow_0001_25053.jpg",
+    "true_class": "american crow",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 90.0,
+    "vlm_concepts": [
+      "entirely black plumage",
+      "stout dark beak",
+      "heavy bill profile",
+      "shaggy throat feathers",
+      "medium size relative to post",
+      "perched on wooden post",
+      "black scaled legs and feet"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"american crow\",\n  \"confidence\": 90,\n  \"concepts\": [\n    \"entirely black plumage\",\n    \"stout dark beak\",\n    \"heavy bill profile\",\n    \"shaggy throat feathers\",\n    \"medium size relative to post\",\n    \"perched on wooden post\",\n    \"black scaled legs and feet\"\n  ]\n}"
+  },
+  {
+    "image_path": "064.Ring_billed_Gull/Ring_Billed_Gull_0007_51430.jpg",
+    "true_class": "ring billed gull",
+    "vlm_pred_class": "ring billed gull",
+    "vlm_confidence": 85.0,
+    "vlm_concepts": [
+      "immature gull plumage",
+      "mottled brown and gray back feathers",
+      "light gray head with dusky streaking",
+      "black tip on a relatively slender bill",
+      "dark eye spot",
+      "pale gray tail feathers with a dark terminal band",
+      "dark legs",
+      "standing on dry grass"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"ring billed gull\",\n  \"confidence\": 85,\n  \"concepts\": [\n    \"immature gull plumage\",\n    \"mottled brown and gray back feathers\",\n    \"light gray head with dusky streaking\",\n    \"black tip on a relatively slender bill\",\n    \"dark eye spot\",\n    \"pale gray tail feathers with a dark terminal band\",\n    \"dark legs\",\n    \"standing on dry grass\"\n  ]\n}"
+  },
+  {
+    "image_path": "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0032_58168.jpg",
+    "true_class": "ruby throated hummingbird",
+    "vlm_pred_class": "ruby throated hummingbird",
+    "vlm_confidence": 90.0,
+    "vlm_concepts": [
+      "small bird",
+      "long thin needle-like bill",
+      "protruding tongue",
+      "iridescent green back feathers",
+      "dark throat patch",
+      "perched on a wire",
+      "small rounded wings"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"ruby throated hummingbird\",\n  \"confidence\": 90,\n  \"concepts\": [\n    \"small bird\",\n    \"long thin needle-like bill\",\n    \"protruding tongue\",\n    \"iridescent green back feathers\",\n    \"dark throat patch\",\n    \"perched on a wire\",\n    \"small rounded wings\"\n  ]\n}"
+  },
+  {
+    "image_path": "144.Common_Tern/Common_Tern_0014_149194.jpg",
+    "true_class": "common tern",
+    "vlm_pred_class": "common tern",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "black cap on head",
+      "sharp pointed red bill",
+      "gray wings",
+      "white underparts",
+      "long slender tail",
+      "red legs",
+      "streamlined body shape"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"common tern\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"black cap on head\",\n    \"sharp pointed red bill\",\n    \"gray wings\",\n    \"white underparts\",\n    \"long slender tail\",\n    \"red legs\",\n    \"streamlined body shape\"\n  ]\n}"
+  },
+  {
+    "image_path": "171.Myrtle_Warbler/Myrtle_Warbler_0044_166852.jpg",
+    "true_class": "myrtle warbler",
+    "vlm_pred_class": "myrtle warbler",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "distinct yellow rump patch",
+      "yellow patch on side of breast",
+      "white throat",
+      "dark streaks on breast and sides",
+      "white stripe above eye",
+      "dark eye line",
+      "dark gray wings with white wing bars",
+      "small pointed bill"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"myrtle warbler\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"distinct yellow rump patch\",\n    \"yellow patch on side of breast\",\n    \"white throat\",\n    \"dark streaks on breast and sides\",\n    \"white stripe above eye\",\n    \"dark eye line\",\n    \"dark gray wings with white wing bars\",\n    \"small pointed bill\"\n  ]\n}"
+  },
+  {
+    "image_path": "010.Red_winged_Blackbird/Red_Winged_Blackbird_0064_4936.jpg",
+    "true_class": "red winged blackbird",
+    "vlm_pred_class": "red winged blackbird",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "all black plumage",
+      "bright red shoulder patch",
+      "sharp conical bill",
+      "pointed wings",
+      "medium length tail",
+      "perched on a wooden post",
+      "black eye"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"red winged blackbird\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"all black plumage\",\n    \"bright red shoulder patch\",\n    \"sharp conical bill\",\n    \"pointed wings\",\n    \"medium length tail\",\n    \"perched on a wooden post\",\n    \"black eye\"\n  ]\n}"
+  },
+  {
+    "image_path": "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0048_161665.jpg",
+    "true_class": "black throated blue warbler",
+    "vlm_pred_class": "black throated blue warbler",
+    "vlm_confidence": 100.0,
+    "vlm_concepts": [
+      "distinctive light blue crown and nape",
+      "black mask covering eyes and cheeks",
+      "solid black throat and upper breast",
+      "clean white belly and underparts",
+      "white patch on the wing",
+      "small, pointed, dark-colored bill",
+      "dark blue-gray back"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"black throated blue warbler\",\n  \"confidence\": 100,\n  \"concepts\": [\n    \"distinctive light blue crown and nape\",\n    \"black mask covering eyes and cheeks\",\n    \"solid black throat and upper breast\",\n    \"clean white belly and underparts\",\n    \"white patch on the wing\",\n    \"small, pointed, dark-colored bill\",\n    \"dark blue-gray back\"\n  ]\n}"
+  },
+  {
+    "image_path": "059.California_Gull/California_Gull_0102_40986.jpg",
+    "true_class": "california gull",
+    "vlm_pred_class": "ring billed gull",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "distinct dark ring around bill",
+      "yellow bill with black tip",
+      "white head and neck",
+      "pale grey back and wings",
+      "medium sized gull",
+      "short yellow legs",
+      "black wingtips visible while folded",
+      "dark eye"
+    ],
+    "vlm_correct": false,
+    "raw_response": "{\n  \"predicted_class\": \"ring billed gull\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"distinct dark ring around bill\",\n    \"yellow bill with black tip\",\n    \"white head and neck\",\n    \"pale grey back and wings\",\n    \"medium sized gull\",\n    \"short yellow legs\",\n    \"black wingtips visible while folded\",\n    \"dark eye\"\n  ]\n}"
+  },
+  {
+    "image_path": "185.Bohemian_Waxwing/Bohemian_Waxwing_0062_796683.jpg",
+    "true_class": "bohemian waxwing",
+    "vlm_pred_class": "bohemian waxwing",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "distinctive prominent head crest",
+      "black mask around the eye",
+      "smooth grayish brown plumage",
+      "bright yellow tail tip",
+      "bright yellow wing markings",
+      "red waxy wing appendages",
+      "sharp conical beak",
+      "dark red eye"
+    ],
+    "vlm_correct": true,
+    "raw_response": "{\n  \"predicted_class\": \"bohemian waxwing\",\n  \"confidence\": 95,\n  \"concepts\": [\n    \"distinctive prominent head crest\",\n    \"black mask around the eye\",\n    \"smooth grayish brown plumage\",\n    \"bright yellow tail tip\",\n    \"bright yellow wing markings\",\n    \"red waxy wing appendages\",\n    \"sharp conical beak\",\n    \"dark red eye\"\n  ]\n}"
+  },
+  {
+    "image_path": "199.Winter_Wren/Winter_Wren_0127_190091.jpg",
+    "true_class": "winter wren",
+    "vlm_pred_class": "carolina wren",
+    "vlm_confidence": 95.0,
+    "vlm_concepts": [
+      "cinnamon brown plumage",
+      "distinct white supercilium",
+      "slightly decurved bill",
+      "cocked tail posture",
+      "round body shape",
+      "snowy surface",
+      "light brown chest"
+    ],
+    "vlm_correct": false,
+    "raw_response": "{\n  \"predicted_class\": \"carolina wren\",\n  \"confidence\": 95,\n  \"concepts\": [\"cinnamon brown plumage\", \"distinct white supercilium\", \"slightly decurved bill\", \"cocked tail posture\", \"round body shape\", \"snowy surface\", \"light brown chest\"]\n}"
+  }
+]
