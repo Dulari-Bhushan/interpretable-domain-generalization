@@ -85,21 +85,30 @@ def main():
     indices = rng.sample(range(len(test_paths)), cli.n_images)
 
     results = []
+    # classifier = Sequential(Flatten, LayerNorm(n_concepts), Linear(n_concepts, n_classes)).
+    # Raw concept_activations (image<->concept cosine similarity) says only
+    # "what's visually present in this image" - true of any system looking at
+    # the same photo, agreement or not, so it doesn't discriminate whether two
+    # systems' *decisions* actually share reasoning. Per-concept contribution
+    # to the predicted class's own logit (normalized activation * that class's
+    # weight row) is a real attribution - which concepts specifically pushed
+    # the model toward the class it actually picked.
+    layernorm = session.model.classifier[1]
+    linear = session.model.classifier[2]
+
     with torch.no_grad():
         for idx in indices:
             feat = feats[idx : idx + 1].to(session.device)
             concept_activations, cls_preds, _ = session.model.forward_cached(feat)
-            # concept_activations is raw image<->concept-text cosine similarity
-            # (see model/cbm_models.py forward_cached) - same kind of quantity
-            # used throughout this project's other CLIP-similarity comparisons,
-            # so no sigmoid squashing here (it would only rescale, not reorder).
-            concept_scores = concept_activations[0]
             cls_probs = torch.softmax(cls_preds, dim=-1)[0]
             pred_class_id = cls_probs.argmax().item()
             confidence = cls_probs[pred_class_id].item()
-            topk = torch.topk(concept_scores, cli.top_k)
+
+            normed = layernorm(concept_activations)[0]  # (n_concepts,)
+            contributions = normed * linear.weight[pred_class_id]  # per-concept push toward the predicted class
+            topk = torch.topk(contributions, cli.top_k)
             top_concepts = [
-                {"concept": concept_names[j], "score": concept_scores[j].item()} for j in topk.indices.tolist()
+                {"concept": concept_names[j], "score": contributions[j].item()} for j in topk.indices.tolist()
             ]
             results.append(
                 {

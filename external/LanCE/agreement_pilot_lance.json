@@ -210,36 +210,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.22982704639434814
-        },
-        {
-          "concept": "a yellow coloured upper body",
-          "score": 0.22019575536251068
-        },
-        {
-          "concept": "a yellow coloured lower body",
-          "score": 0.21207720041275024
-        },
-        {
-          "concept": "a yellow coloured throat",
-          "score": 0.21070170402526855
-        },
-        {
           "concept": "a yellow coloured breast",
-          "score": 0.20888346433639526
+          "score": 0.18251726031303406
         },
         {
-          "concept": "a buff coloured upper tail",
-          "score": 0.20822632312774658
+          "concept": "a grey coloured leg",
+          "score": 0.18159015476703644
+        },
+        {
+          "concept": "a spotted wing pattern",
+          "score": 0.16404803097248077
+        },
+        {
+          "concept": "a yellow coloured belly",
+          "score": 0.1445694863796234
         },
         {
           "concept": "a yellow coloured under tail",
-          "score": 0.20377257466316223
+          "score": 0.14103208482265472
         },
         {
-          "concept": "a buff coloured back",
-          "score": 0.2035841941833496
+          "concept": "a yellow coloured back",
+          "score": 0.1368393898010254
+        },
+        {
+          "concept": "a rufous coloured eye",
+          "score": 0.12685206532478333
+        },
+        {
+          "concept": "a brown coloured forehead",
+          "score": 0.12092190235853195
         }
       ]
     },
@@ -251,36 +251,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a red coloured upper tail",
-          "score": 0.2740432322025299
-        },
-        {
-          "concept": "a red coloured upper body",
-          "score": 0.2652585506439209
-        },
-        {
           "concept": "a red coloured breast",
-          "score": 0.260855495929718
+          "score": 0.37692704796791077
         },
         {
           "concept": "a pink coloured upper tail",
-          "score": 0.2520493268966675
-        },
-        {
-          "concept": "a pink coloured upper body",
-          "score": 0.2507146894931793
+          "score": 0.31332525610923767
         },
         {
           "concept": "a red coloured wing",
-          "score": 0.24591268599033356
+          "score": 0.2681710124015808
         },
         {
-          "concept": "a perching-like body shape",
-          "score": 0.2440243810415268
+          "concept": "a red coloured under tail",
+          "score": 0.2668991982936859
         },
         {
-          "concept": "a red coloured lower body",
-          "score": 0.242893248796463
+          "concept": "a white coloured eye",
+          "score": 0.24544969201087952
+        },
+        {
+          "concept": "a red coloured leg",
+          "score": 0.19570402801036835
+        },
+        {
+          "concept": "a white coloured throat",
+          "score": 0.19262994825839996
+        },
+        {
+          "concept": "a red coloured forehead",
+          "score": 0.18536269664764404
         }
       ]
     },
@@ -292,36 +292,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a black coloured upper body",
-          "score": 0.25355759263038635
+          "concept": "a black coloured lower body",
+          "score": 0.26024124026298523
         },
         {
-          "concept": "a black coloured upper tail",
-          "score": 0.2519533634185791
+          "concept": "a black coloured nape",
+          "score": 0.26017650961875916
+        },
+        {
+          "concept": "a black coloured forehead",
+          "score": 0.22662393748760223
         },
         {
           "concept": "a black coloured wing",
-          "score": 0.24102312326431274
+          "score": 0.21709966659545898
         },
         {
-          "concept": "a black coloured leg",
-          "score": 0.23845677077770233
+          "concept": "a striped pattern in the head",
+          "score": 0.2073182910680771
         },
         {
-          "concept": "a black coloured bill",
-          "score": 0.23794284462928772
+          "concept": "a multi-colored pattern in the back",
+          "score": 0.1987660974264145
         },
         {
-          "concept": "a black coloured lower body",
-          "score": 0.23488393425941467
+          "concept": "a spotted pattern in the belly",
+          "score": 0.19670824706554413
         },
         {
-          "concept": "a black coloured throat",
-          "score": 0.22886642813682556
-        },
-        {
-          "concept": "has rounded wings",
-          "score": 0.22789189219474792
+          "concept": "a black coloured crown",
+          "score": 0.17578093707561493
         }
       ]
     },
@@ -333,36 +333,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.2229769229888916
-        },
-        {
-          "concept": "a blue coloured upper body",
-          "score": 0.22221876680850983
-        },
-        {
-          "concept": "a blue coloured upper tail",
-          "score": 0.21767011284828186
-        },
-        {
-          "concept": "a blue coloured bill",
-          "score": 0.21605393290519714
-        },
-        {
-          "concept": "a rufous coloured upper tail",
-          "score": 0.21554763615131378
-        },
-        {
-          "concept": "a swallow-like body shape",
-          "score": 0.21538814902305603
+          "concept": "a rufous coloured forehead",
+          "score": 0.29972684383392334
         },
         {
           "concept": "a rufous coloured upper body",
-          "score": 0.214964359998703
+          "score": 0.24624831974506378
         },
         {
-          "concept": "a hooked bill",
-          "score": 0.2147921621799469
+          "concept": "a rufous coloured belly",
+          "score": 0.23534905910491943
+        },
+        {
+          "concept": "a rufous coloured nape",
+          "score": 0.21498197317123413
+        },
+        {
+          "concept": "a iridescent coloured throat",
+          "score": 0.20202107727527618
+        },
+        {
+          "concept": "a rufous coloured throat",
+          "score": 0.1973966360092163
+        },
+        {
+          "concept": "a rufous coloured upper tail",
+          "score": 0.17795231938362122
+        },
+        {
+          "concept": "a rufous coloured crown",
+          "score": 0.17323170602321625
         }
       ]
     },
@@ -374,36 +374,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a bill like a hooked-seabird",
-          "score": 0.24059565365314484
+          "concept": "a tree-clinging-like body shape",
+          "score": 0.308197557926178
         },
         {
-          "concept": "a black coloured bill",
-          "score": 0.23537278175354004
+          "concept": "a bill like a hooked-seabird",
+          "score": 0.24170418083667755
         },
         {
           "concept": "a gull-like body shape",
-          "score": 0.22898542881011963
+          "score": 0.2182418555021286
+        },
+        {
+          "concept": "a black coloured bill",
+          "score": 0.18431252241134644
         },
         {
           "concept": "a olive coloured bill",
-          "score": 0.22864001989364624
+          "score": 0.17290136218070984
         },
         {
-          "concept": "a grey coloured bill",
-          "score": 0.22825740277767181
+          "concept": "a rufous coloured crown",
+          "score": 0.16591565310955048
         },
         {
-          "concept": "a black coloured leg",
-          "score": 0.22719745337963104
+          "concept": "has primary colour olive",
+          "score": 0.15939563512802124
         },
         {
-          "concept": "a black coloured upper body",
-          "score": 0.22129380702972412
-        },
-        {
-          "concept": "a black coloured upper tail",
-          "score": 0.21738730370998383
+          "concept": "a purple coloured bill",
+          "score": 0.15625369548797607
         }
       ]
     },
@@ -416,35 +416,35 @@
       "lance_top_concepts": [
         {
           "concept": "a gull-like body shape",
-          "score": 0.28025883436203003
-        },
-        {
-          "concept": "a medium bird",
-          "score": 0.24418672919273376
-        },
-        {
-          "concept": "a white coloured upper body",
-          "score": 0.24012391269207
-        },
-        {
-          "concept": "a blue coloured upper body",
-          "score": 0.237062007188797
-        },
-        {
-          "concept": "a grey coloured leg",
-          "score": 0.23658119142055511
-        },
-        {
-          "concept": "a olive coloured upper body",
-          "score": 0.23657740652561188
+          "score": 0.5603322982788086
         },
         {
           "concept": "a pigeon-like body shape",
-          "score": 0.23496189713478088
+          "score": 0.290017694234848
+        },
+        {
+          "concept": "a blue coloured leg",
+          "score": 0.2674516439437866
         },
         {
           "concept": "a grey coloured upper body",
-          "score": 0.2331286519765854
+          "score": 0.2015676647424698
+        },
+        {
+          "concept": "a brown coloured leg",
+          "score": 0.17754076421260834
+        },
+        {
+          "concept": "a pink coloured belly",
+          "score": 0.151258185505867
+        },
+        {
+          "concept": "a rufous coloured crown",
+          "score": 0.15091001987457275
+        },
+        {
+          "concept": "a blue coloured lower body",
+          "score": 0.14918769896030426
         }
       ]
     },
@@ -456,36 +456,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "has primary colour rufous",
-          "score": 0.2499292492866516
-        },
-        {
-          "concept": "a red coloured upper body",
-          "score": 0.24190202355384827
-        },
-        {
-          "concept": "a red coloured bill",
-          "score": 0.23422357439994812
+          "concept": "a red coloured throat",
+          "score": 0.23879779875278473
         },
         {
           "concept": "a red coloured upper tail",
-          "score": 0.23401948809623718
+          "score": 0.21950599551200867
         },
         {
-          "concept": "a red coloured throat",
-          "score": 0.23395642638206482
-        },
-        {
-          "concept": "a orange coloured throat",
-          "score": 0.22970344126224518
+          "concept": "a red coloured upper body",
+          "score": 0.20143866539001465
         },
         {
           "concept": "a rufous coloured bill",
-          "score": 0.22914643585681915
+          "score": 0.19289635121822357
         },
         {
-          "concept": "a orange coloured upper body",
-          "score": 0.2283337265253067
+          "concept": "a white coloured eye",
+          "score": 0.18064485490322113
+        },
+        {
+          "concept": "a grey coloured leg",
+          "score": 0.15601029992103577
+        },
+        {
+          "concept": "has primary colour red",
+          "score": 0.15560679137706757
+        },
+        {
+          "concept": "a buff coloured crown",
+          "score": 0.15092350542545319
         }
       ]
     },
@@ -497,36 +497,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
+          "concept": "a spotted pattern in the belly",
+          "score": 0.2712390422821045
+        },
+        {
+          "concept": "a tree-clinging-like body shape",
+          "score": 0.22580070793628693
+        },
+        {
+          "concept": "a spotted pattern in the back",
+          "score": 0.2040625512599945
+        },
+        {
           "concept": "a swallow-like body shape",
-          "score": 0.22364899516105652
+          "score": 0.1911674439907074
         },
         {
-          "concept": "a hooked bill",
-          "score": 0.2198130488395691
+          "concept": "a red coloured breast",
+          "score": 0.18965499103069305
         },
         {
-          "concept": "a grey coloured bill",
-          "score": 0.21697011590003967
+          "concept": "a hummingbird-like body shape",
+          "score": 0.17026253044605255
         },
         {
-          "concept": "a black coloured bill",
-          "score": 0.21639391779899597
+          "concept": "a iridescent coloured throat",
+          "score": 0.164845272898674
         },
         {
-          "concept": "a brown coloured upper tail",
-          "score": 0.21575215458869934
-        },
-        {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.21443167328834534
-        },
-        {
-          "concept": "a green coloured throat",
-          "score": 0.21403297781944275
-        },
-        {
-          "concept": "a grey coloured upper tail",
-          "score": 0.21393996477127075
+          "concept": "a spotted wing pattern",
+          "score": 0.15888197720050812
         }
       ]
     },
@@ -539,35 +539,35 @@
       "lance_top_concepts": [
         {
           "concept": "a red coloured upper tail",
-          "score": 0.23180794715881348
-        },
-        {
-          "concept": "a red coloured upper body",
-          "score": 0.2226058840751648
-        },
-        {
-          "concept": "a perching-like body shape",
-          "score": 0.22242847084999084
-        },
-        {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.21845093369483948
-        },
-        {
-          "concept": "a white coloured upper tail",
-          "score": 0.21831220388412476
-        },
-        {
-          "concept": "has broad wings",
-          "score": 0.21536554396152496
+          "score": 0.30881503224372864
         },
         {
           "concept": "a buff coloured bill",
-          "score": 0.2145516276359558
+          "score": 0.23675969243049622
         },
         {
-          "concept": "a brown coloured upper tail",
-          "score": 0.21213050186634064
+          "concept": "a orange coloured eye",
+          "score": 0.21350885927677155
+        },
+        {
+          "concept": "a orange coloured belly",
+          "score": 0.2038068324327469
+        },
+        {
+          "concept": "a orange coloured crown",
+          "score": 0.1935783475637436
+        },
+        {
+          "concept": "a sandpiper-like body shape",
+          "score": 0.17055104672908783
+        },
+        {
+          "concept": "a red coloured nape",
+          "score": 0.16690069437026978
+        },
+        {
+          "concept": "a yellow coloured eye",
+          "score": 0.16632801294326782
         }
       ]
     },
@@ -579,36 +579,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.2441222071647644
+          "concept": "a olive coloured throat",
+          "score": 0.18723805248737335
         },
         {
-          "concept": "a yellow coloured bill",
-          "score": 0.23842911422252655
-        },
-        {
-          "concept": "a yellow coloured upper body",
-          "score": 0.2369215190410614
-        },
-        {
-          "concept": "a yellow coloured throat",
-          "score": 0.2350928634405136
+          "concept": "a green coloured upper body",
+          "score": 0.16134023666381836
         },
         {
           "concept": "a olive coloured upper tail",
-          "score": 0.2209557294845581
+          "score": 0.16089655458927155
         },
         {
-          "concept": "a olive coloured upper body",
-          "score": 0.22046293318271637
+          "concept": "a yellow coloured upper body",
+          "score": 0.15772868692874908
         },
         {
-          "concept": "a yellow coloured lower body",
-          "score": 0.21939390897750854
+          "concept": "a yellow coloured bill",
+          "score": 0.1467362344264984
         },
         {
-          "concept": "a olive coloured throat",
-          "score": 0.21873871982097626
+          "concept": "a blue coloured belly",
+          "score": 0.14357540011405945
+        },
+        {
+          "concept": "a yellow coloured forehead",
+          "score": 0.13960640132427216
+        },
+        {
+          "concept": "a yellow coloured belly",
+          "score": 0.134120374917984
         }
       ]
     },
@@ -620,36 +620,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a olive coloured upper tail",
-          "score": 0.2569529712200165
-        },
-        {
           "concept": "a olive coloured back",
-          "score": 0.2521907687187195
+          "score": 0.2673965394496918
         },
         {
-          "concept": "a olive coloured upper body",
-          "score": 0.24940140545368195
+          "concept": "a yellow coloured belly",
+          "score": 0.2274852842092514
         },
         {
-          "concept": "a white coloured upper tail",
-          "score": 0.2487536072731018
+          "concept": "a tree-clinging-like body shape",
+          "score": 0.21294328570365906
         },
         {
-          "concept": "a buff coloured back",
-          "score": 0.24813318252563477
+          "concept": "a orange coloured crown",
+          "score": 0.2129393219947815
         },
         {
-          "concept": "a white coloured upper body",
-          "score": 0.24803121387958527
+          "concept": "a blue coloured leg",
+          "score": 0.19894595444202423
         },
         {
-          "concept": "a olive coloured lower body",
-          "score": 0.24756808578968048
+          "concept": "a hummingbird-like body shape",
+          "score": 0.19587744772434235
         },
         {
-          "concept": "a brown coloured upper tail",
-          "score": 0.24647492170333862
+          "concept": "a olive coloured forehead",
+          "score": 0.1819659173488617
+        },
+        {
+          "concept": "a iridescent coloured crown",
+          "score": 0.18158207833766937
         }
       ]
     },
@@ -661,36 +661,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a yellow coloured upper body",
-          "score": 0.2584531009197235
+          "concept": "a multi-colored pattern in the back",
+          "score": 0.2252686470746994
         },
         {
-          "concept": "a yellow coloured lower body",
-          "score": 0.2527161240577698
+          "concept": "a yellow coloured nape",
+          "score": 0.19074304401874542
         },
         {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.24580256640911102
+          "concept": "a spotted pattern in the belly",
+          "score": 0.16242766380310059
         },
         {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.24342723190784454
+          "concept": "a yellow coloured breast",
+          "score": 0.1553620547056198
         },
         {
-          "concept": "a yellow coloured throat",
-          "score": 0.24230769276618958
+          "concept": "a spotted pattern in the back",
+          "score": 0.14583612978458405
         },
         {
-          "concept": "a perching-like body shape",
-          "score": 0.24221524596214294
+          "concept": "a solid pattern in the belly",
+          "score": 0.14559565484523773
         },
         {
-          "concept": "a yellow coloured leg",
-          "score": 0.24147292971611023
+          "concept": "a grey coloured upper tail",
+          "score": 0.14559535682201385
         },
         {
-          "concept": "a chicken-like-marsh body shape",
-          "score": 0.24103966355323792
+          "concept": "a grey coloured belly",
+          "score": 0.1351059079170227
         }
       ]
     },
@@ -702,36 +702,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a brown coloured upper tail",
-          "score": 0.2539635896682739
-        },
-        {
-          "concept": "a white coloured upper tail",
-          "score": 0.25182658433914185
-        },
-        {
-          "concept": "a olive coloured upper tail",
-          "score": 0.25099435448646545
-        },
-        {
           "concept": "a brown coloured breast",
-          "score": 0.2446480691432953
+          "score": 0.24516503512859344
         },
         {
-          "concept": "a perching-like body shape",
-          "score": 0.23921558260917664
+          "concept": "a grey coloured nape",
+          "score": 0.21535786986351013
         },
         {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.23835977911949158
+          "concept": "a white coloured breast",
+          "score": 0.20348355174064636
         },
         {
-          "concept": "a olive coloured under tail",
-          "score": 0.23806187510490417
+          "concept": "a blue coloured nape",
+          "score": 0.18200863897800446
         },
         {
-          "concept": "a buff coloured upper tail",
-          "score": 0.2379550039768219
+          "concept": "a white coloured under tail",
+          "score": 0.18161602318286896
+        },
+        {
+          "concept": "has primary colour buff",
+          "score": 0.15886685252189636
+        },
+        {
+          "concept": "a brown coloured upper tail",
+          "score": 0.15802474319934845
+        },
+        {
+          "concept": "a iridescent coloured nape",
+          "score": 0.1539613902568817
         }
       ]
     },
@@ -743,36 +743,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a black coloured upper body",
-          "score": 0.23937654495239258
-        },
-        {
-          "concept": "a black coloured bill",
-          "score": 0.23936128616333008
-        },
-        {
-          "concept": "a black coloured upper tail",
-          "score": 0.23905867338180542
-        },
-        {
-          "concept": "a black coloured leg",
-          "score": 0.22196009755134583
-        },
-        {
-          "concept": "a black coloured throat",
-          "score": 0.22042416036128998
-        },
-        {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.21835193037986755
+          "concept": "a black coloured nape",
+          "score": 0.2517634332180023
         },
         {
           "concept": "a black coloured lower body",
-          "score": 0.21698150038719177
+          "score": 0.23068106174468994
         },
         {
           "concept": "a black coloured under tail",
-          "score": 0.21692827343940735
+          "score": 0.17546631395816803
+        },
+        {
+          "concept": "a black coloured wing",
+          "score": 0.17476409673690796
+        },
+        {
+          "concept": "a rounded tail",
+          "score": 0.17206114530563354
+        },
+        {
+          "concept": "a multi-colored pattern in the back",
+          "score": 0.16616471111774445
+        },
+        {
+          "concept": "a black coloured bill",
+          "score": 0.15935365855693817
+        },
+        {
+          "concept": "a spatulated bill",
+          "score": 0.155386283993721
         }
       ]
     },
@@ -784,36 +784,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a black coloured upper body",
-          "score": 0.2454611361026764
-        },
-        {
-          "concept": "a black coloured upper tail",
-          "score": 0.24233295023441315
-        },
-        {
-          "concept": "a black coloured bill",
-          "score": 0.2420291304588318
-        },
-        {
-          "concept": "a black coloured throat",
-          "score": 0.23400327563285828
+          "concept": "a striped pattern in the back",
+          "score": 0.25019609928131104
         },
         {
           "concept": "a black coloured lower body",
-          "score": 0.23155778646469116
+          "score": 0.22399164736270905
         },
         {
-          "concept": "a upland-ground-like body shape",
-          "score": 0.23091891407966614
+          "concept": "a striped pattern in the breast",
+          "score": 0.22131013870239258
         },
         {
-          "concept": "a brown coloured bill",
-          "score": 0.23066915571689606
+          "concept": "a black coloured leg",
+          "score": 0.2087390124797821
         },
         {
-          "concept": "a brown coloured throat",
-          "score": 0.22947026789188385
+          "concept": "a brown coloured leg",
+          "score": 0.20398962497711182
+        },
+        {
+          "concept": "a black coloured upper body",
+          "score": 0.1865735501050949
+        },
+        {
+          "concept": "a black coloured bill",
+          "score": 0.18652379512786865
+        },
+        {
+          "concept": "a black coloured breast",
+          "score": 0.1745225042104721
         }
       ]
     },
@@ -825,36 +825,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
+          "concept": "a striped pattern in the breast",
+          "score": 0.38322094082832336
+        },
+        {
+          "concept": "a striped pattern in the belly",
+          "score": 0.2982344329357147
+        },
+        {
+          "concept": "a hummingbird-like body shape",
+          "score": 0.2501460611820221
+        },
+        {
           "concept": "a black coloured upper tail",
-          "score": 0.2606641948223114
+          "score": 0.24806039035320282
         },
         {
-          "concept": "a black coloured upper body",
-          "score": 0.2568976879119873
+          "concept": "a purple coloured leg",
+          "score": 0.1777621954679489
         },
         {
-          "concept": "a black coloured leg",
-          "score": 0.25000298023223877
+          "concept": "a sandpiper-like body shape",
+          "score": 0.17097440361976624
         },
         {
-          "concept": "a black coloured lower body",
-          "score": 0.24147379398345947
+          "concept": "a buff coloured leg",
+          "score": 0.1627676635980606
         },
         {
-          "concept": "a black coloured back",
-          "score": 0.23862290382385254
-        },
-        {
-          "concept": "a black coloured under tail",
-          "score": 0.23716190457344055
-        },
-        {
-          "concept": "a medium bird",
-          "score": 0.2357253134250641
-        },
-        {
-          "concept": "a brown coloured leg",
-          "score": 0.2321767807006836
+          "concept": "a large bird",
+          "score": 0.1584482342004776
         }
       ]
     },
@@ -867,35 +867,35 @@
       "lance_top_concepts": [
         {
           "concept": "a gull-like body shape",
-          "score": 0.2895553410053253
+          "score": 0.41393694281578064
         },
         {
-          "concept": "a upland-ground-like body shape",
-          "score": 0.26986223459243774
+          "concept": "a grey coloured leg",
+          "score": 0.29628831148147583
         },
         {
-          "concept": "a white coloured upper body",
-          "score": 0.25979626178741455
+          "concept": "a orange coloured upper body",
+          "score": 0.1485743224620819
         },
         {
-          "concept": "a white coloured bill",
-          "score": 0.25930312275886536
+          "concept": "a rufous coloured eye",
+          "score": 0.1479026824235916
         },
         {
-          "concept": "a grey coloured bill",
-          "score": 0.25671350955963135
+          "concept": "a multi-colored pattern in the breast",
+          "score": 0.13696087896823883
         },
         {
-          "concept": "a buff coloured bill",
-          "score": 0.2547273337841034
+          "concept": "a olive coloured belly",
+          "score": 0.13654528558254242
         },
         {
-          "concept": "a grey coloured upper body",
-          "score": 0.2530774474143982
+          "concept": "a multi-colored pattern in the belly",
+          "score": 0.13424475491046906
         },
         {
-          "concept": "a olive coloured bill",
-          "score": 0.24965915083885193
+          "concept": "a pink coloured eye",
+          "score": 0.1278567910194397
         }
       ]
     },
@@ -908,35 +908,35 @@
       "lance_top_concepts": [
         {
           "concept": "a hummingbird-like body shape",
-          "score": 0.23960483074188232
-        },
-        {
-          "concept": "a rufous coloured nape",
-          "score": 0.23259755969047546
-        },
-        {
-          "concept": "a green coloured throat",
-          "score": 0.22933590412139893
+          "score": 0.39792001247406006
         },
         {
           "concept": "a rufous coloured upper tail",
-          "score": 0.22342661023139954
+          "score": 0.24543820321559906
+        },
+        {
+          "concept": "a rufous coloured under tail",
+          "score": 0.21506287157535553
+        },
+        {
+          "concept": "a notched tail",
+          "score": 0.21226847171783447
         },
         {
           "concept": "a green coloured upper tail",
-          "score": 0.22163982689380646
+          "score": 0.20587000250816345
         },
         {
-          "concept": "a rufous coloured forehead",
-          "score": 0.2175777554512024
+          "concept": "has primary colour grey",
+          "score": 0.179826557636261
         },
         {
-          "concept": "a hooked bill",
-          "score": 0.21561238169670105
+          "concept": "a grey coloured lower body",
+          "score": 0.17605653405189514
         },
         {
-          "concept": "a rufous coloured throat",
-          "score": 0.21309314668178558
+          "concept": "a solid pattern in the back",
+          "score": 0.17029191553592682
         }
       ]
     },
@@ -948,36 +948,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a white coloured upper tail",
-          "score": 0.27191978693008423
+          "concept": "a tree-clinging-like body shape",
+          "score": 0.22492985427379608
         },
         {
-          "concept": "a red coloured upper body",
-          "score": 0.26510587334632874
+          "concept": "a red coloured nape",
+          "score": 0.202877014875412
         },
         {
-          "concept": "a red coloured upper tail",
-          "score": 0.26299983263015747
+          "concept": "a gull-like body shape",
+          "score": 0.17903020977973938
         },
         {
-          "concept": "a white coloured upper body",
-          "score": 0.26240646839141846
+          "concept": "a multi-colored pattern in the belly",
+          "score": 0.16764433681964874
         },
         {
-          "concept": "a swallow-like body shape",
-          "score": 0.2604093551635742
+          "concept": "has primary colour olive",
+          "score": 0.16365353763103485
         },
         {
-          "concept": "a red coloured bill",
-          "score": 0.2592475414276123
+          "concept": "a olive coloured bill",
+          "score": 0.14634977281093597
         },
         {
-          "concept": "a perching-like body shape",
-          "score": 0.2571147084236145
+          "concept": "a purple coloured upper tail",
+          "score": 0.14275524020195007
         },
         {
-          "concept": "a grey coloured bill",
-          "score": 0.2560913860797882
+          "concept": "has primary colour brown",
+          "score": 0.1427101045846939
         }
       ]
     },
@@ -989,36 +989,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a yellow coloured upper body",
-          "score": 0.2902826964855194
+          "concept": "a yellow coloured upper tail",
+          "score": 0.20458835363388062
         },
         {
-          "concept": "a yellow coloured upper tail",
-          "score": 0.2750190198421478
+          "concept": "a white coloured eye",
+          "score": 0.16736721992492676
         },
         {
           "concept": "a buff coloured upper body",
-          "score": 0.2743264436721802
+          "score": 0.15729188919067383
         },
         {
-          "concept": "a yellow coloured lower body",
-          "score": 0.2730960249900818
+          "concept": "a green coloured forehead",
+          "score": 0.15658406913280487
         },
         {
-          "concept": "a blue coloured upper body",
-          "score": 0.2718016803264618
+          "concept": "a yellow coloured breast",
+          "score": 0.1560107171535492
         },
         {
-          "concept": "a buff coloured lower body",
-          "score": 0.26401418447494507
+          "concept": "a red coloured forehead",
+          "score": 0.155964195728302
         },
         {
-          "concept": "a olive coloured upper body",
-          "score": 0.26164883375167847
+          "concept": "a black coloured upper body",
+          "score": 0.14864996075630188
         },
         {
-          "concept": "a orange coloured upper body",
-          "score": 0.2612728178501129
+          "concept": "a yellow coloured nape",
+          "score": 0.14708185195922852
         }
       ]
     },
@@ -1030,36 +1030,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a black coloured upper tail",
-          "score": 0.24809852242469788
+          "concept": "a red coloured belly",
+          "score": 0.27470269799232483
         },
         {
-          "concept": "a red coloured upper tail",
-          "score": 0.24325279891490936
+          "concept": "a black coloured nape",
+          "score": 0.25070029497146606
         },
         {
-          "concept": "a black coloured upper body",
-          "score": 0.237888902425766
+          "concept": "a green coloured forehead",
+          "score": 0.2264176309108734
         },
         {
-          "concept": "a black coloured bill",
-          "score": 0.22901231050491333
+          "concept": "a red coloured wing",
+          "score": 0.2203710973262787
+        },
+        {
+          "concept": "a black coloured leg",
+          "score": 0.21237049996852875
         },
         {
           "concept": "a red coloured upper body",
-          "score": 0.22711680829524994
+          "score": 0.21046416461467743
         },
         {
-          "concept": "has broad wings",
-          "score": 0.22615483403205872
+          "concept": "a black coloured bill",
+          "score": 0.19704417884349823
         },
         {
-          "concept": "has rounded wings",
-          "score": 0.22567754983901978
-        },
-        {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.221563458442688
+          "concept": "a black coloured upper tail",
+          "score": 0.19501230120658875
         }
       ]
     },
@@ -1071,36 +1071,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a blue coloured upper tail",
-          "score": 0.2763094902038574
-        },
-        {
-          "concept": "a blue coloured bill",
-          "score": 0.26475924253463745
+          "concept": "a blue coloured throat",
+          "score": 0.44448500871658325
         },
         {
           "concept": "a blue coloured breast",
-          "score": 0.2621903717517853
+          "score": 0.3440307676792145
         },
         {
-          "concept": "a blue coloured upper body",
-          "score": 0.2598895728588104
-        },
-        {
-          "concept": "a blue coloured nape",
-          "score": 0.25864213705062866
-        },
-        {
-          "concept": "a blue coloured throat",
-          "score": 0.2577368915081024
+          "concept": "a blue coloured bill",
+          "score": 0.2379932999610901
         },
         {
           "concept": "a blue coloured under tail",
-          "score": 0.253688782453537
+          "score": 0.23312605917453766
         },
         {
-          "concept": "a blue coloured forehead",
-          "score": 0.25052517652511597
+          "concept": "a blue coloured upper body",
+          "score": 0.2248595952987671
+        },
+        {
+          "concept": "a orange coloured wing",
+          "score": 0.20269417762756348
+        },
+        {
+          "concept": "a orange coloured leg",
+          "score": 0.1961221545934677
+        },
+        {
+          "concept": "a yellow coloured belly",
+          "score": 0.19059480726718903
         }
       ]
     },
@@ -1113,35 +1113,35 @@
       "lance_top_concepts": [
         {
           "concept": "a gull-like body shape",
-          "score": 0.28009241819381714
+          "score": 0.39306512475013733
         },
         {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.23737895488739014
+          "concept": "a tree-clinging-like body shape",
+          "score": 0.20921117067337036
+        },
+        {
+          "concept": "a purple coloured breast",
+          "score": 0.19976340234279633
         },
         {
           "concept": "a white coloured leg",
-          "score": 0.23729443550109863
+          "score": 0.19189533591270447
         },
         {
-          "concept": "a white coloured upper body",
-          "score": 0.23679040372371674
+          "concept": "a black coloured nape",
+          "score": 0.18363447487354279
         },
         {
-          "concept": "a chicken-like-marsh body shape",
-          "score": 0.23662249743938446
+          "concept": "a pigeon-like body shape",
+          "score": 0.18252596259117126
         },
         {
-          "concept": "a white coloured upper tail",
-          "score": 0.2289181500673294
+          "concept": "a grey coloured leg",
+          "score": 0.15875664353370667
         },
         {
-          "concept": "a white coloured bill",
-          "score": 0.2286517322063446
-        },
-        {
-          "concept": "a medium bird",
-          "score": 0.22698548436164856
+          "concept": "a rufous coloured breast",
+          "score": 0.1496800035238266
         }
       ]
     },
@@ -1153,36 +1153,36 @@
       "lance_correct": true,
       "lance_top_concepts": [
         {
-          "concept": "a medium bird",
-          "score": 0.22034017741680145
-        },
-        {
-          "concept": "a white coloured bill",
-          "score": 0.216086283326149
-        },
-        {
-          "concept": "a red coloured bill",
-          "score": 0.21594077348709106
-        },
-        {
-          "concept": "a buff coloured bill",
-          "score": 0.2151453197002411
-        },
-        {
-          "concept": "a red coloured wing",
-          "score": 0.21414481103420258
-        },
-        {
-          "concept": "a grey coloured bill",
-          "score": 0.21295759081840515
+          "concept": "a sandpiper-like body shape",
+          "score": 0.4393675625324249
         },
         {
           "concept": "a red coloured breast",
-          "score": 0.2122213989496231
+          "score": 0.21910296380519867
         },
         {
-          "concept": "a upland-ground-like body shape",
-          "score": 0.21208727359771729
+          "concept": "a green coloured eye",
+          "score": 0.21412523090839386
+        },
+        {
+          "concept": "a grey coloured bill",
+          "score": 0.21175111830234528
+        },
+        {
+          "concept": "a gull-like body shape",
+          "score": 0.2020288109779358
+        },
+        {
+          "concept": "a spotted pattern in the back",
+          "score": 0.1786281317472458
+        },
+        {
+          "concept": "a purple coloured eye",
+          "score": 0.16334134340286255
+        },
+        {
+          "concept": "a striped pattern in the breast",
+          "score": 0.1632724106311798
         }
       ]
     },
@@ -1194,36 +1194,36 @@
       "lance_correct": false,
       "lance_top_concepts": [
         {
-          "concept": "a brown coloured bill",
-          "score": 0.22693824768066406
+          "concept": "a grey coloured nape",
+          "score": 0.20875386893749237
+        },
+        {
+          "concept": "a white coloured throat",
+          "score": 0.197806715965271
         },
         {
           "concept": "a brown coloured upper tail",
-          "score": 0.22679144144058228
+          "score": 0.18904519081115723
         },
         {
-          "concept": "a buff coloured throat",
-          "score": 0.22563552856445312
+          "concept": "a white coloured eye",
+          "score": 0.18432669341564178
         },
         {
-          "concept": "has rounded wings",
-          "score": 0.2225193977355957
+          "concept": "a brown coloured under tail",
+          "score": 0.16006043553352356
         },
         {
-          "concept": "a upright-perching_water-like body shape",
-          "score": 0.22128739953041077
+          "concept": "a yellow coloured belly",
+          "score": 0.1494314968585968
         },
         {
-          "concept": "has broad wings",
-          "score": 0.21740561723709106
+          "concept": "a purple coloured crown",
+          "score": 0.14302100241184235
         },
         {
-          "concept": "has primary colour rufous",
-          "score": 0.21715787053108215
-        },
-        {
-          "concept": "a buff coloured bill",
-          "score": 0.21624135971069336
+          "concept": "a hooked bill",
+          "score": 0.1426820456981659
         }
       ]
     }
