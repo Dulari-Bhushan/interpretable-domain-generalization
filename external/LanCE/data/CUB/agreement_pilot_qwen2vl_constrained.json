@@ -1,0 +1,252 @@
+[
+  {
+    "image_path": "182.Yellow_Warbler/Yellow_Warbler_0011_176676.jpg",
+    "true_class": "yellow warbler",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedtail\"\n    ]\n}  \n```"
+  },
+  {
+    "image_path": "035.Purple_Finch/Purple_Finch_0001_27571.jpg",
+    "true_class": "purple finch",
+    "vlm_pred_class": "cardinal",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"Cardinal\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"pinkcolouredupperbody\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "009.Brewer_Blackbird/Brewer_Blackbird_0010_2269.jpg",
+    "true_class": "brewer blackbird",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern intheback\", \n        \"roundedtail\"\n    ]\n}  \n```\n\nThis response indicates an American Crow was identified based upon its solid coloration throughout much of its body including the back area along with having a round-tail characteristic. The high level of confidence reflects how well these features match known characteristics for American Crows within ornithological literature."
+  },
+  {
+    "image_path": "080.Green_Kingfisher/Green_Kingfisher_0013_71293.jpg",
+    "true_class": "green kingfisher",
+    "vlm_pred_class": "belted kingfish",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"belted kingfish\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"iridescentcolouredupperbody\"\n      ]\n}  \n```"
+  },
+  {
+    "image_path": "072.Pomarine_Jaeger/Pomarine_Jaeger_0008_61231.jpg",
+    "true_class": "pomarine jaeger",
+    "vlm_pred_class": "pelagic cormorant",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"pelagic Cormorant\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedtail\"\n    ]\n}  \n```\n\nThis response indicates high confidence level for identifying the Pelagic Cormoran based upon its distinctive features such as having a solid pattern on the breast area and possessing a round-tail characteristic. The concepts provided were used directly without any changes according to instructions."
+  },
+  {
+    "image_path": "066.Western_Gull/Western_Gull_0110_53861.jpg",
+    "true_class": "western gull",
+    "vlm_pred_class": "california gull",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"California Gull\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedtail\"\n    ]\n}  \n```"
+  },
+  {
+    "image_path": "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0043_42182.jpg",
+    "true_class": "vermilion flycatcher",
+    "vlm_pred_class": "Vermillion Flycatcher",
+    "vlm_confidence": null,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 8,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \" Vermillion Flycatcher\",\n    \"confidence\":\"98%\",\n   \"conceps\":[\"solid pattern inthebreast\",\"iridescentcolouredupperbody\", \"orangecoloredbill\",\"roundedtail\",\"allpurposebill\",\"buffcoloredbelly\",\"orangecoloureddorsalfeathers\",\"uniquepatterninhelmet\"],\n   \n }\n```"
+  },
+  {
+    "image_path": "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0009_26354.jpg",
+    "true_class": "mangrove cuckoo",
+    "vlm_pred_class": "yellow headed blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 1,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-headed blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern in chest\"\n      ]\n} \n```\n\nThis response indicates high confidence level for identifying the bird as Yellow Headed Blackbird based solely upon visual features observed such as its distinctive coloration patterns visible within the provided concepts set. The predicted class matches closely against known characteristics described by these terms while excluding irrelevant details outside their scope thus making accurate classification possible through logical reasoning process applied over available information alone without any additional context beyond initial observation made directly observable via camera lens."
+  },
+  {
+    "image_path": "192.Downy_Woodpecker/Downy_Woodpecker_0028_184131.jpg",
+    "true_class": "downy woodpecker",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"iridescentpatterninthead\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "156.White_eyed_Vireo/White_Eyed_Vireo_0046_158849.jpg",
+    "true_class": "white eyed vireo",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern in back\", \n        \"rounded wings\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "028.Brown_Creeper/Brown_Creeper_0123_24589.jpg",
+    "true_class": "brown creeper",
+    "vlm_pred_class": "brown creeper",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 5,
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"brown creePER\",\n    \"confidence \":98,\n   \"concepts\":[\"solid pattern inthebreast\",\"roundedtail\", \"all purposebill\", \"buffcolouredupperbody\", \"iridescenctpatterninthead\"]\n }\n ```"
+  },
+  {
+    "image_path": "168.Kentucky_Warbler/Kentucky_Warbler_0015_795867.jpg",
+    "true_class": "kentucky warbler",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern in chest\",\n        \"rounded tail\"\n      ]\n} \n```\n\nThis response indicates high confidence level for identifying the bird as Yellow-billed Chat based upon its physical characteristics such as having a solid coloration across the chest area and possessing an oval-shaped tail feather arrangement. The concepts listed support these observations directly without any interpretation or additional information provided by myself outside those explicitly stated within them."
+  },
+  {
+    "image_path": "122.Harris_Sparrow/Harris_Sparrow_0007_116484.jpg",
+    "true_class": "harris sparrow",
+    "vlm_pred_class": "sparrow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"sparrow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"buffcolouredupperbody\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0105_6937.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "sparrow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"sparrow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedtail\"\n    ]\n}  \n```\n\nThis response indicates that based upon visual analysis alone without any additional context such as location data, habitat information etc., the model predicts the bird depicted could possibly belong to either 'sparrow' family due to its physical characteristics seen within provided concepts. The high level of certainty for prediction comes mainly because these features align well known traits associated generally with sparrows across different sub-species globally including their plumages patterns & tail shapes among others. However please note while making predictions purely through images might lead towards some inaccuracies especially when dealing highly variable groups having similar morphologies but distinct genetic lineages e.g certain types of Finches vs Sparrows; hence always cross-check results against reliable sources before finalizing conclusions!"
+  },
+  {
+    "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0104_6685.jpg",
+    "true_class": "rusty blackbird",
+    "vlm_pred_class": "yellow headed blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 1,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-headed blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern in chest\"\n      ]\n} \n```\n\nThis response indicates high confidence level for identifying the bird as Yellow Headed Blackbird based solely upon its physical characteristics visible within provided images. The concepts used include 'solid pattern' found specifically around the area where we would expect to find the distinctive coloration typical seen across various parts such as chest region etc., thus making these observations key identifiers confirming our prediction matches closely against known descriptions available online regarding said avian subject matter."
+  },
+  {
+    "image_path": "029.American_Crow/American_Crow_0001_25053.jpg",
+    "true_class": "american crow",
+    "vlm_pred_class": "american crow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"American Crow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern intheback\", \n        \"roundedtail\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "064.Ring_billed_Gull/Ring_Billed_Gull_0007_51430.jpg",
+    "true_class": "ring billed gull",
+    "vlm_pred_class": "lesser yellowlegs",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 1,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"lesser yellowlegs\",\n    \"confidence_level\": 98,\n    \"concern_concept_phrases\": [\n        \"solid pattern in plumage\"\n      ]\n} \n```\n\nThis response indicates an incorrect prediction for the bird type based solely upon the provided concepts; however, I'll provide feedback tailored towards improving future predictions:\n\nThe predicted class was 'lesser yellowslegs', but there were several issues: \n\nFirstly, none of these concepts match any known characteristics associated specifically with lesser yellowlegs such as its coloration patterns, size relative to legs etc., so we need more accurate information regarding Lesser Yellowlegs' appearance traits before making confident identifications using just visual cues alone without additional context knowledge base available through databases online resources . Secondly , since our model lacks access directly connected database sources containing detailed descriptions & images linked together across multiple dimensions including morphology genetics behavior ecology habitats distribution ranges etc...we cannot make reliable determinations purely relying off raw pixel data captured by camera lenses alone even though deep learning models have shown impressive performance capabilities when trained properly over vast amounts training samples covering diverse categories spanning many different domains ranging from natural language processing computer vision speech recognition machine translation robotics autonomous vehicles medical imaging astronomy astrophysics finance healthcare cybersecurity social sciences humanities arts entertainment sports gaming education research development innovation entrepreneurship etc...\n\nIn summary while current state-of-the-art AI systems perform remarkably well solving complex problems within narrow scope areas they still fall short compared against human experts who possess extensive domain expertise combined practical experience working closely alongside cutting edge tech tools enabling them navigate intricate details hidden beneath surface level appearances requiring deeper understanding beyond mere pixels forming basis behind successful classification tasks today. So until further advancements occur allowing us leverage richer contextual metadata coupled advanced reasoning algorithms capable inferring relationships between disparate pieces info seamlessly integrating real world observations into decision-making processes we remain limited ability accurately identifying specific organisms types merely via static snapshots taken during fleeting moments time regardless how sophisticated sensor arrays cameras become capturing high resolution imagery."
+  },
+  {
+    "image_path": "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0032_58168.jpg",
+    "true_class": "ruby throated hummingbird",
+    "vlm_pred_class": "hummingbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"hummingbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedtail\"\n    ]\n}  \n```"
+  },
+  {
+    "image_path": "144.Common_Tern/Common_Tern_0014_149194.jpg",
+    "true_class": "common tern",
+    "vlm_pred_class": "parakeett aukel",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"parakeett aukel\",\n    \"confidence \":98,\n   \"conceps\":[\"solid pattern inthebreast\",\"iridescenctpatternsinthead\",]\n }\n ```"
+  },
+  {
+    "image_path": "171.Myrtle_Warbler/Myrtle_Warbler_0044_166852.jpg",
+    "true_class": "myrtle warbler",
+    "vlm_pred_class": "yellow breasted chat",
+    "vlm_confidence": 87.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"yellow-breasted chat\",\n    \"confidence_level\": 87,\n    \"concernpts\": [\n        \"solid pattern in chest\", \n        \"rounded tail\"\n      ]\n}  \n```"
+  },
+  {
+    "image_path": "010.Red_winged_Blackbird/Red_Winged_Blackbird_0064_4936.jpg",
+    "true_class": "red winged blackbird",
+    "vlm_pred_class": "red winged blackbird",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"red-winged-blackbird\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid_pattern_in_the_breast\", \n        \"iridescent_coloured_upper_body\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0048_161665.jpg",
+    "true_class": "black throated blue warbler",
+    "vlm_pred_class": "indigo bunting",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"indigo buntings\",\n    \"confidence_level\": 98,\n    \"conceps\": [\n        {\n            \"concept_phrase\": \"solid pattern inthebreast\"\n        },\n        {\n           \"concept_phrases\":\"iridescenctpatternsinthead\"\n        }\n     ]\n} \n```\n\nThis response indicates an indigo buntion was identified based upon its solid coloration patterns visible within the provided concepts. The high level of confidence suggests there were strong matches between these visual features and those listed for Indigo Buntings among the available options."
+  },
+  {
+    "image_path": "059.California_Gull/California_Gull_0102_40986.jpg",
+    "true_class": "california gull",
+    "vlm_pred_class": "california gull",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": true,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"California Gull\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"roundedwings\"\n    ]\n}\n```"
+  },
+  {
+    "image_path": "185.Bohemian_Waxwing/Bohemian_Waxwing_0062_796683.jpg",
+    "true_class": "bohemian waxwing",
+    "vlm_pred_class": "bobolink",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"Bobolink\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"buffcolouredupperbody\"\n      ]\n}  \n```\n\nThis Bobolink has a solid pattern over its chest area and a buff coloration across much of its upper body. The confident prediction comes based off these two features seen clearly against the backdrop provided by the rest of the image description options available for selection."
+  },
+  {
+    "image_path": "199.Winter_Wren/Winter_Wren_0127_190091.jpg",
+    "true_class": "winter wren",
+    "vlm_pred_class": "sparrow",
+    "vlm_confidence": 98.0,
+    "vlm_concepts": [],
+    "vlm_n_invalid_concepts": 2,
+    "vlm_correct": false,
+    "raw_response": "```json\n{\n    \"predicted_species\": \"sparrow\",\n    \"confidence_level\": 98,\n    \"concernpts\": [\n        \"solid pattern inthebreast\", \n        \"buffcolouredupperbody\"\n    ]\n}\n```"
+  }
+]

@@ -42,6 +42,39 @@ def build_prompt(class_names):
     return PROMPT_TEMPLATE.format(n=len(class_names), class_list=class_list)
 
 
+CONSTRAINED_PROMPT_TEMPLATE = """You are looking at one photo of a bird. Based ONLY on what you can \
+actually see in this image, identify which of the following {n} species it most \
+likely is.
+
+Candidate species (you must pick exactly one, copied EXACTLY as written below):
+{class_list}
+
+Then, from the fixed list of {m} concept phrases below (this is NOT a list you can add \
+to - pick only from what's written here, do not invent your own wording), select the \
+5-10 phrases that best describe what you actually see in THIS image supporting your \
+identification:
+{concept_list}
+
+Respond with ONLY a JSON object, no other text, no markdown code fences, in exactly \
+this structure:
+{{
+  "predicted_class": "<one of the species names above, copied exactly>",
+  "confidence": <integer 0-100, your own confidence in this identification>,
+  "concepts": ["<a phrase copied EXACTLY from the concept list above>", "..."]
+}}
+Every string in "concepts" must be copied character-for-character from the concept \
+list given above - do not paraphrase, shorten, or write a new phrase.
+"""
+
+
+def build_prompt_constrained(class_names, concept_names):
+    class_list = "\n".join(class_names)
+    concept_list = "\n".join(concept_names)
+    return CONSTRAINED_PROMPT_TEMPLATE.format(
+        n=len(class_names), class_list=class_list, m=len(concept_names), concept_list=concept_list
+    )
+
+
 def _normalize_name(s):
     s = re.sub(r"[^a-z0-9 ]+", " ", s.lower()).strip()
     s = re.sub(r"\s+", " ", s)
@@ -113,6 +146,32 @@ def parse_classification_response(raw_text, class_names=None):
     # crude fallback concepts: drop the predicted_class string itself if it leaked in
     concepts = [c for c in concepts if c != predicted_class][:10]
     return predicted_class, confidence, concepts
+
+
+def parse_constrained_response(raw_text, class_names, concept_names):
+    """Same as parse_classification_response, but "concepts" is validated
+    against concept_names (normalized match) instead of accepted as free
+    text - the model was told to select from a fixed vocabulary, not write
+    its own, so a selection that doesn't match anything in that vocabulary
+    is a real instruction-following failure, not a valid new concept.
+
+    Returns (predicted_class, confidence, valid_concepts, n_invalid_selections).
+    """
+    predicted_class, confidence, raw_concepts = parse_classification_response(raw_text, class_names)
+
+    concept_lookup = {_normalize_name(c): c for c in concept_names}
+    valid_concepts = []
+    n_invalid = 0
+    for phrase in raw_concepts:
+        key = _normalize_name(phrase)
+        if key in concept_lookup:
+            canonical = concept_lookup[key]
+            if canonical not in valid_concepts:
+                valid_concepts.append(canonical)
+        else:
+            n_invalid += 1
+
+    return predicted_class, confidence, valid_concepts, n_invalid
 
 
 def load_lance_pilot(path=None):

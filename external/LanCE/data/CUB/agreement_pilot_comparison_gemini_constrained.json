@@ -1,0 +1,591 @@
+{
+  "n_images": 25,
+  "lance_accuracy": 0.52,
+  "gemini_accuracy": 0.84,
+  "lance_vlm_agreement_rate": 0.6,
+  "mean_n_valid_concepts_selected": 9.96,
+  "mean_n_invalid_selections": 0.12,
+  "jaccard_real": 0.053814831195636154,
+  "jaccard_shuffled": 0.005,
+  "jaccard_when_agree": 0.057641161727849034,
+  "jaccard_when_disagree": 0.04807533539731682,
+  "recall_real": 0.115,
+  "recall_shuffled": 0.01,
+  "rows": [
+    {
+      "image_path": "182.Yellow_Warbler/Yellow_Warbler_0011_176676.jpg",
+      "true_class": "yellow warbler",
+      "lance_pred": "cape may warbler",
+      "lance_correct": false,
+      "vlm_pred": "yellow warbler",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 13,
+      "overlap_real": {
+        "jaccard": 0.10526315789473684,
+        "recall": 0.25,
+        "precision": 0.15384615384615385,
+        "n_intersection": 2
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "035.Purple_Finch/Purple_Finch_0001_27571.jpg",
+      "true_class": "purple finch",
+      "lance_pred": "purple finch",
+      "lance_correct": true,
+      "vlm_pred": "purple finch",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 1,
+      "n_vlm_concepts": 9,
+      "overlap_real": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "009.Brewer_Blackbird/Brewer_Blackbird_0010_2269.jpg",
+      "true_class": "brewer blackbird",
+      "lance_pred": "brewer blackbird",
+      "lance_correct": true,
+      "vlm_pred": "brewer blackbird",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 15,
+      "overlap_real": {
+        "jaccard": 0.15,
+        "recall": 0.375,
+        "precision": 0.2,
+        "n_intersection": 3
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "080.Green_Kingfisher/Green_Kingfisher_0013_71293.jpg",
+      "true_class": "green kingfisher",
+      "lance_pred": "ringed kingfisher",
+      "lance_correct": false,
+      "vlm_pred": "green kingfisher",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 8,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "072.Pomarine_Jaeger/Pomarine_Jaeger_0008_61231.jpg",
+      "true_class": "pomarine jaeger",
+      "lance_pred": "northern fulmar",
+      "lance_correct": false,
+      "vlm_pred": "pomarine jaeger",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.125,
+        "recall": 0.25,
+        "precision": 0.2,
+        "n_intersection": 2
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "066.Western_Gull/Western_Gull_0110_53861.jpg",
+      "true_class": "western gull",
+      "lance_pred": "california gull",
+      "lance_correct": false,
+      "vlm_pred": "western gull",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 1,
+      "n_vlm_concepts": 9,
+      "overlap_real": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      }
+    },
+    {
+      "image_path": "042.Vermilion_Flycatcher/Vermilion_Flycatcher_0043_42182.jpg",
+      "true_class": "vermilion flycatcher",
+      "lance_pred": "vermilion flycatcher",
+      "lance_correct": true,
+      "vlm_pred": "vermilion flycatcher",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 1,
+      "n_vlm_concepts": 9,
+      "overlap_real": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "032.Mangrove_Cuckoo/Mangrove_Cuckoo_0009_26354.jpg",
+      "true_class": "mangrove cuckoo",
+      "lance_pred": "mangrove cuckoo",
+      "lance_correct": true,
+      "vlm_pred": "mangrove cuckoo",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "192.Downy_Woodpecker/Downy_Woodpecker_0028_184131.jpg",
+      "true_class": "downy woodpecker",
+      "lance_pred": "downy woodpecker",
+      "lance_correct": true,
+      "vlm_pred": "downy woodpecker",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.058823529411764705,
+        "recall": 0.125,
+        "precision": 0.1,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "156.White_eyed_Vireo/White_Eyed_Vireo_0046_158849.jpg",
+      "true_class": "white eyed vireo",
+      "lance_pred": "white eyed vireo",
+      "lance_correct": true,
+      "vlm_pred": "white eyed vireo",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.058823529411764705,
+        "recall": 0.125,
+        "precision": 0.1,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "028.Brown_Creeper/Brown_Creeper_0123_24589.jpg",
+      "true_class": "brown creeper",
+      "lance_pred": "brown creeper",
+      "lance_correct": true,
+      "vlm_pred": "brown creeper",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 7,
+      "overlap_real": {
+        "jaccard": 0.07142857142857142,
+        "recall": 0.125,
+        "precision": 0.14285714285714285,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "168.Kentucky_Warbler/Kentucky_Warbler_0015_795867.jpg",
+      "true_class": "kentucky warbler",
+      "lance_pred": "kentucky warbler",
+      "lance_correct": true,
+      "vlm_pred": "yellow breasted chat",
+      "vlm_correct": false,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 8,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "122.Harris_Sparrow/Harris_Sparrow_0007_116484.jpg",
+      "true_class": "harris sparrow",
+      "lance_pred": "harris sparrow",
+      "lance_correct": true,
+      "vlm_pred": "harris sparrow",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0105_6937.jpg",
+      "true_class": "rusty blackbird",
+      "lance_pred": "brewer blackbird",
+      "lance_correct": false,
+      "vlm_pred": "brewer blackbird",
+      "vlm_correct": false,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 14,
+      "overlap_real": {
+        "jaccard": 0.15789473684210525,
+        "recall": 0.375,
+        "precision": 0.21428571428571427,
+        "n_intersection": 3
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "011.Rusty_Blackbird/Rusty_Blackbird_0104_6685.jpg",
+      "true_class": "rusty blackbird",
+      "lance_pred": "rusty blackbird",
+      "lance_correct": true,
+      "vlm_pred": "rusty blackbird",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.125,
+        "recall": 0.25,
+        "precision": 0.2,
+        "n_intersection": 2
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      }
+    },
+    {
+      "image_path": "029.American_Crow/American_Crow_0001_25053.jpg",
+      "true_class": "american crow",
+      "lance_pred": "common raven",
+      "lance_correct": false,
+      "vlm_pred": "american crow",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "064.Ring_billed_Gull/Ring_Billed_Gull_0007_51430.jpg",
+      "true_class": "ring billed gull",
+      "lance_pred": "glaucous winged gull",
+      "lance_correct": false,
+      "vlm_pred": "ring billed gull",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 9,
+      "overlap_real": {
+        "jaccard": 0.0625,
+        "recall": 0.125,
+        "precision": 0.1111111111111111,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "068.Ruby_throated_Hummingbird/Ruby_Throated_Hummingbird_0032_58168.jpg",
+      "true_class": "ruby throated hummingbird",
+      "lance_pred": "green kingfisher",
+      "lance_correct": false,
+      "vlm_pred": "ruby throated hummingbird",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 8,
+      "overlap_real": {
+        "jaccard": 0.06666666666666667,
+        "recall": 0.125,
+        "precision": 0.125,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "144.Common_Tern/Common_Tern_0014_149194.jpg",
+      "true_class": "common tern",
+      "lance_pred": "artic tern",
+      "lance_correct": false,
+      "vlm_pred": "common tern",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.058823529411764705,
+        "recall": 0.125,
+        "precision": 0.1,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "171.Myrtle_Warbler/Myrtle_Warbler_0044_166852.jpg",
+      "true_class": "myrtle warbler",
+      "lance_pred": "magnolia warbler",
+      "lance_correct": false,
+      "vlm_pred": "myrtle warbler",
+      "vlm_correct": true,
+      "lance_vlm_agree": false,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "010.Red_winged_Blackbird/Red_Winged_Blackbird_0064_4936.jpg",
+      "true_class": "red winged blackbird",
+      "lance_pred": "red winged blackbird",
+      "lance_correct": true,
+      "vlm_pred": "red winged blackbird",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.058823529411764705,
+        "recall": 0.125,
+        "precision": 0.1,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "160.Black_throated_Blue_Warbler/Black_Throated_Blue_Warbler_0048_161665.jpg",
+      "true_class": "black throated blue warbler",
+      "lance_pred": "black throated blue warbler",
+      "lance_correct": true,
+      "vlm_pred": "black throated blue warbler",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "059.California_Gull/California_Gull_0102_40986.jpg",
+      "true_class": "california gull",
+      "lance_pred": "ring billed gull",
+      "lance_correct": false,
+      "vlm_pred": "ring billed gull",
+      "vlm_correct": false,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.058823529411764705,
+        "recall": 0.125,
+        "precision": 0.1,
+        "n_intersection": 1
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "185.Bohemian_Waxwing/Bohemian_Waxwing_0062_796683.jpg",
+      "true_class": "bohemian waxwing",
+      "lance_pred": "bohemian waxwing",
+      "lance_correct": true,
+      "vlm_pred": "bohemian waxwing",
+      "vlm_correct": true,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    },
+    {
+      "image_path": "199.Winter_Wren/Winter_Wren_0127_190091.jpg",
+      "true_class": "winter wren",
+      "lance_pred": "carolina wren",
+      "lance_correct": false,
+      "vlm_pred": "carolina wren",
+      "vlm_correct": false,
+      "lance_vlm_agree": true,
+      "vlm_n_invalid_concepts": 0,
+      "n_vlm_concepts": 10,
+      "overlap_real": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      },
+      "overlap_shuffled": {
+        "jaccard": 0.0,
+        "recall": 0.0,
+        "precision": 0.0,
+        "n_intersection": 0
+      }
+    }
+  ]
+}
